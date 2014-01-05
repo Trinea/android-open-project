@@ -226,13 +226,14 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 Demo地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP示例：photup  
    
-2. ImageViewEx 支持Gif显示的ImageView  
-项目地址：https://github.com/frapontillo/ImageViewEx，  
-依赖于https://github.com/foxykeep/DataDroid,https://github.com/square/okhttp,https://github.com/JakeWharton/DiskLruCache  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.apk?raw=true  
-   
-3. android-gif-drawable 支持fig显示的view  
+2. android-gif-drawable 支持gif显示的view  
 项目地址：https://github.com/koral–/android-gif-drawable  
+用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多  
+  
+3. ImageViewEx 支持Gif显示的ImageView  
+项目地址：https://github.com/frapontillo/ImageViewEx  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.apk?raw=true  
+依赖很多，编译过程很繁琐!|_|!
    
 4. RoundedImageView 带圆角的ImageView  
 项目地址：https://github.com/vinc3m1/RoundedImageView  
