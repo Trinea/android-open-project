@@ -3,7 +3,7 @@ Android Open Source Projects
 *经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
 于是分类汇总了那些不错的Android开源项目，供大家一起学习*
 
-欢迎大家推荐好的Android开源项目，请`Fork`、`Star`或在 [收集&提交页] 中告诉我 :) 
+欢迎大家推荐好的Android开源项目，请[Star](https://github.com/Trinea/android-open-project/star)、[Fork](https://github.com/Trinea/android-open-project/fork)或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我 :) 
 
 ## 目前包括：  
 [Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/)  
@@ -14,7 +14,7 @@ Android Open Source Projects
   
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
-#####一、ListView  
+#### 一、ListView  
 1. android-pulltorefresh 一个强大的拉动刷新开源项目，支持各种控件下拉刷新  
 ListView、ViewPager、WevView、ExpandableListView、GridView、(Horizontal  
 )ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
@@ -96,7 +96,7 @@ APP示例：Google plus、Google Now卡片式进入、小米系统中应用商�
 项目地址：https://github.com/dinocore1/DevsmartLib-Android  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
-#####二、ActionBar  
+#### 二、ActionBar  
 1. ActionBarSherlock 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
 项目地址：https://github.com/JakeWharton/ActionBarSherlock  
 Demo地址：https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
@@ -127,7 +127,7 @@ APP示例：The New York Times，DevAppsDirect.
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 APP示例：google music  
    
-#####三、Menu   
+#### 三、Menu   
 1. MenuDrawer 滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘、ListView边缘、ViewPager变化划出菜单等。  
 项目地址：https://github.com/SimonVT/android-menudrawer  
 Demo地址：http://simonvt.github.io/android-menudrawer/  
@@ -164,7 +164,7 @@ APP示例：Path
 使用介绍：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
 效果图：![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
    
-#####四、ViewPager 、Gallery  
+#### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator 配合ViewPager使用的Indicator，支持各种位置和样式  
 项目地址：https://github.com/JakeWharton/Android-ViewPagerIndicator  
 Demo地址：https://play.google.com/store/apps/details?id=com.viewpagerindicator.sample  
@@ -198,7 +198,7 @@ APP示例：类似微信中查看聊天记录图片时可双击放大，并且�
 7. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
    
-#####五、GridView  
+#### 五、GridView  
 1. StaggeredGridView 允许非对齐行的GridView  
 类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
 项目地址：https://github.com/maurycyw/StaggeredGridView  
@@ -219,7 +219,7 @@ APP示例：Pinterest等
 项目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
    
-#####六、ImageView  
+#### 六、ImageView  
 1. PhotoView 支持双击或双指缩放的ImageView  
 在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
 项目地址：https://github.com/chrisbanes/PhotoView  
@@ -238,7 +238,7 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 项目地址：https://github.com/vinc3m1/RoundedImageView  
 效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
    
-#####七、ProgressBar  
+#### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
 项目地址：https://github.com/castorflex/SmoothProgressBar  
 Demo地址：https://play.google.com/store/apps/details?id=fr.castorflex.android.smoothprogressbar.sample  
@@ -258,7 +258,7 @@ APP示例：square
 APP示例：Android4.1时钟App  
 效果图：https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png  
    
-#####八、其他  
+#### 八、其他  
 1. achartengine 强大的图标绘制工具  
 支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
 项目地址：https://code.google.com/p/achartengine/  
@@ -406,7 +406,7 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
   
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
-#####一、依赖注入DI  
+#### 一、依赖注入DI  
 通过依赖注入减少View、服务、资源简化初始化，事件绑定等重复繁琐工作  
 
 1. AndroidAnnotations(Code Diet)android快速开发框架  
@@ -433,7 +433,7 @@ PS：与roboguice的比较：roboguice通过运行时读取annotations进行反�
 项目地址：https://github.com/square/dagger  
 文档介绍：http://square.github.io/dagger/  
    
-#####二、图片缓存  
+#### 二、图片缓存  
 1. Android-Universal-Image-Loader 图片缓存  
 目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader  
@@ -460,7 +460,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
    
-#####三、网络相关  
+#### 三、网络相关  
 1. Asynchronous Http Client for Android Android异步Http请求  
 项目地址：https://github.com/loopj/android-async-http  
 文档介绍：http://loopj.com/android-async-http/  
@@ -512,7 +512,7 @@ Demo代码：https://github.com/Trinea/AndroidDemo/blob/master/src/cn/trinea/and
 项目地址：https://github.com/square/retrofit  
 文档介绍：http://square.github.io/retrofit/  
    
-#####四、数据库 orm工具包  
+#### 四、数据库 orm工具包  
 orm的db工具类，简化建表、查询、更新、插入、事务、索引的操作  
 
 1. greenDAO Android Sqlite orm的db工具类  
@@ -533,7 +533,7 @@ orm的db工具类，简化建表、查询、更新、插入、事务、索引的
 文档介绍：http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/  
 特点：比较显著的特点就是配合https://github.com/square/retrofit能保存从服务器获取的数据  
    
-#####五、Android公共库  
+#### 五、Android公共库  
 1. Guava Google的基于java1.6的类库集合的扩展项目  
 包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 项目地址：https://code.google.com/p/guava-libraries/  
@@ -547,7 +547,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (2) 公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)  
 (3) Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)  
    
-#####六、Android 高版本向低版本兼容  
+#### 六、Android 高版本向低版本兼容  
 1. ActionBarSherlock 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
 项目地址：https://github.com/JakeWharton/ActionBarSherlock  
 Demo地址：https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
@@ -563,7 +563,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.jakewharton.nineo
 Demo地址：https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywhere/demo/2.1.0/demo-2.1.0.apk  
 文档介绍：http://android-developers.blogspot.com/2012/01/holo-everywhere.html  
    
-#####七、多媒体相关  
+#### 七、多媒体相关  
 1. cocos2d-x 跨平台的2d游戏框架，支持Android、IOS、Linux、Windows等众多平台  
 项目地址：https://github.com/cocos2d/cocos2d-x  
 文档介绍：http://www.cocos2d-x.org/wiki  
@@ -585,7 +585,7 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processi
 Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 文档介绍：https://github.com/kikoso/android-stackblur#usage  
    
-#####八、其他  
+#### 八、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
    
@@ -645,7 +645,7 @@ Demo地址：http://demo.cobub.com/razor
 12. Android插件式开发  
 项目地址：https://github.com/umeng/apf  
   
-####第三部分 优秀项目  
+## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
 项目地址：https://github.com/torvalds/linux  
@@ -693,7 +693,7 @@ APK地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.games.cha
 项目地址：https://github.com/chrislacy/TweetLanes  
 APK地址：https://play.google.com/store/apps/details?id=com.tweetlanes.android  
   
-####第四部分 开发工具及测试工具  
+## 第四部分 开发工具及测试工具  
 主要介绍和Android开发工具和测试工具相关的开源项目。  
 
 1. Buck  
@@ -764,9 +764,9 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 用于打印函数信息及执行时间的工具，仅在debug模式生效  
 项目地址：https://github.com/JakeWharton/hugo  
   
-####第五部分  
+## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
-#####一、个人  
+#### 一、个人  
 1. JakeWharton 就职于Square  
 Github地址：https://github.com/JakeWharton  
 代表作：ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager  
@@ -810,7 +810,7 @@ Github地址：https://github.com/jgilfelt
    
 Ps: ViewServer作者的个人摄影作品http://www.flickr.com/photos/romainguy ，感觉超赞  
    
-#####二、组织  
+#### 二、组织  
 1. Square  
 Github地址：https://github.com/square   
 代表作：okhttp、fest-android，android-times-square、picasso、dagger、spoon等等    
