@@ -1,11 +1,9 @@
 Android Open Source Projects
 ====================
-_不重复造轮子_
+*经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
+于是分类汇总了那些不错的Android开源项目，供大家一起学习*
 
-*经常有朋友问某个效果实现过或是否有某个库完成某个功能，
-于是分类汇总了那些不错的Android开源项目，共大家一起学习*
-
-欢迎大家推荐好的开源项目，请`Fork`、`Star`或在 [收集&提交页] 中告诉我 :) 
+欢迎大家推荐好的Android开源项目，请`Fork`、`Star`或在 [收集&提交页] 中告诉我 :) 
 
 ## 目前包括：  
 [Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/)  
@@ -14,7 +12,7 @@ _不重复造轮子_
 [Android开源项目第四篇——开发及测试工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/)  
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/)  
   
-####第一部分 个性化控件(View)  
+## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #####一、ListView  
 1. android-pulltorefresh 一个强大的拉动刷新开源项目，支持各种控件下拉刷新  
@@ -406,7 +404,7 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
   
-####第二部分 工具库  
+## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 #####一、依赖注入DI  
 通过依赖注入减少View、服务、资源简化初始化，事件绑定等重复繁琐工作  
