@@ -227,7 +227,7 @@ Demo地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview
 APP示例：photup  
    
 2. android-gif-drawable 支持gif显示的view  
-项目地址：https://github.com/koral–/android-gif-drawable  
+项目地址：https://github.com/koral--/android-gif-drawable  
 用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多  
   
 3. ImageViewEx 支持Gif显示的ImageView  
