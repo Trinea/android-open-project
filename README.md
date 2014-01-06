@@ -6,11 +6,16 @@ Android Open Source Projects
 欢迎大家推荐好的Android开源项目，请`Star`、`Fork`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我 :) 
 
 ## 目前包括：  
-[Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/)  
+>[Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/)  
+*&nbsp;&nbsp;包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar等等*  
 [Android开源项目第二篇——工具库篇](http://www.trinea.cn/android/android-open-source-projects-dev-lib/)  
+*&nbsp;&nbsp;包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、高版本向低版本兼容库、多媒体等等*  
 [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)  
+*&nbsp;&nbsp;比较有意思的完整的Android项目*  
 [Android开源项目第四篇——开发及测试工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/)  
+*&nbsp;&nbsp;包括开发自测、自动化测试、编译打包相关工具*  
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/)  
+*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的个人和组织，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
@@ -782,7 +787,7 @@ Github地址：https://github.com/chrisbanes
    
 3. Koushik Dutta就职于ClockworkMod  
 Github地址：https://github.com/koush  
-代表作：Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外对https://github.com/CyanogenMod的开源项目有很多贡献  
+代表作：Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外对https://github.com/CyanogenMod 的开源项目有很多贡献  
 博客：http://koush.com/  
    
 4. Simon Vig  
