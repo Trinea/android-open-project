@@ -217,7 +217,7 @@ APP示例：Pinterest等
    
 3. PinterestLikeAdapterView 允许非对齐行的GridView  
 类似Pinterest的瀑布流，允许下拉刷新  
-项目地址：https://github.com/GDG-Korea/PinterestLikeAdapterView
+项目地址：https://github.com/GDG-Korea/PinterestLikeAdapterView  
 APP示例：Pinterest等  
    
 4. DraggableGridView Item可拖动交换位置的GridView，类似桌面的单屏效果  
@@ -539,6 +539,10 @@ orm的db工具类，简化建表、查询、更新、插入、事务、索引的
 文档介绍：http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/  
 特点：比较显著的特点就是配合https://github.com/square/retrofit能保存从服务器获取的数据  
    
+4. ormlite-android  
+项目地址：https://github.com/j256/ormlite-android  
+文档介绍：http://ormlite.com/sqlite_java_android_orm.shtml   
+  
 #### 五、Android公共库  
 1. Guava Google的基于java1.6的类库集合的扩展项目  
 包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
@@ -769,13 +773,17 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 13. Hugo  
 用于打印函数信息及执行时间的工具，仅在debug模式生效  
 项目地址：https://github.com/JakeWharton/hugo  
+   
+14. scalpel  
+在应用下面添加一层用于界面调试，待详细补充 // TODO   
+项目地址：https://github.com/JakeWharton/scalpel  
   
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
 #### 一、个人  
 1. JakeWharton 就职于Square  
 Github地址：https://github.com/JakeWharton  
-代表作：ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager  
+代表作：ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel    
 pidcat另外对square及其他开源项目有很多贡献  
 博客：http://jakewharton.com/  
 绝对牛逼的大神，项目主要集中在Android版本兼容，ViewPager及开发工具上.  
