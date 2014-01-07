@@ -217,7 +217,7 @@ APP示例：Pinterest等
    
 3. PinterestLikeAdapterView 允许非对齐行的GridView  
 类似Pinterest的瀑布流，允许下拉刷新  
-项目地址：https://github.com/huewu/PinterestLikeAdapterView  
+项目地址：https://github.com/GDG-Korea/PinterestLikeAdapterView
 APP示例：Pinterest等  
    
 4. DraggableGridView Item可拖动交换位置的GridView，类似桌面的单屏效果  
