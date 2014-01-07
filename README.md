@@ -17,6 +17,7 @@ Android Open Source Projects
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的个人和组织，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
+*感谢[youxiachai](https://github.com/youxiachai)补充*  
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
