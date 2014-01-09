@@ -778,6 +778,11 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 14. scalpel  
 在应用下面添加一层用于界面调试，待详细补充 // TODO   
 项目地址：https://github.com/JakeWharton/scalpel  
+   
+15. ButterKnifeZelezny  
+用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
+项目地址：https://github.com/inmite/android-butterknife-zelezny  
+示例图片：https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif
   
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
