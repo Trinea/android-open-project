@@ -7,7 +7,7 @@ Android Open Source Projects
 
 ## 目前包括：  
 >[Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/)  
-*&nbsp;&nbsp;包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar等等*  
+*&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar等等*  
 [Android开源项目第二篇——工具库篇](http://www.trinea.cn/android/android-open-source-projects-dev-lib/)  
 *&nbsp;&nbsp;包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、高版本向低版本兼容库、多媒体等等*  
 [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)  
