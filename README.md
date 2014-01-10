@@ -20,7 +20,7 @@ Android Open Source Projects
 *感谢[youxiachai](https://github.com/youxiachai)补充*  
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
-#### 一、ListView  
+#### 一 ListView  
 1. android-pulltorefresh 一个强大的拉动刷新开源项目，支持各种控件下拉刷新  
 ListView、ViewPager、WevView、ExpandableListView、GridView、(Horizontal  
 )ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
@@ -133,7 +133,7 @@ APP示例：The New York Times，DevAppsDirect.
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 APP示例：google music  
    
-#### 三、Menu   
+#### 三Menu   
 1. MenuDrawer 滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘、ListView边缘、ViewPager变化划出菜单等。  
 项目地址：https://github.com/SimonVT/android-menudrawer  
 Demo地址：http://simonvt.github.io/android-menudrawer/  
