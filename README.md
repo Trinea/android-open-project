@@ -225,6 +225,9 @@ APP示例：Pinterest等
 项目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
    
+5. StickyGridHeaders GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的GridView  
+项目地址：https://github.com/TonicArtos/StickyGridHeaders   效果图：![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
+  
 #### 六、ImageView  
 1. PhotoView 支持双击或双指缩放的ImageView  
 在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
