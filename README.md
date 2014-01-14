@@ -249,6 +249,11 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 项目地址：https://github.com/vinc3m1/RoundedImageView  
 效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
    
+5. ColorArt 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
+项目地址：https://github.com/MichaelEvans/ColorArt  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
+效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
+  
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
 项目地址：https://github.com/castorflex/SmoothProgressBar  
@@ -267,7 +272,7 @@ APP示例：square
 4. HoloCircularProgressBar Android4.1 时钟App样式  
 项目地址：https://github.com/passsy/android-HoloCircularProgressBar  
 APP示例：Android4.1时钟App  
-效果图：https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png  
+效果图：![Renderings](https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png)  
    
 #### 八、其他  
 1. achartengine 强大的图标绘制工具  
