@@ -17,7 +17,7 @@ Android Open Source Projects
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
-*感谢[youxiachai](https://github.com/youxiachai)补充*  
+*感谢[youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
@@ -252,7 +252,6 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 5. ColorArt 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
 项目地址：https://github.com/MichaelEvans/ColorArt  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
-效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
   
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
