@@ -690,7 +690,7 @@ APK地址：https://play.google.com/store/apps/details?id=com.github.mobile
 (4) MIUI便签  
 项目地址：https://github.com/MiCode/Notes  
 APK地址：https://github.com/Trinea/TrineaDownload/blob/master/miui-note-demo.apk?raw=true  
-PS：项目分包比较合理，相比较miui的文件管理器https://github.com/MiCode/FileExplorer代码规范较好得多  
+PS：项目分包比较合理，相比较miui的文件管理器https://github.com/MiCode/FileExplorer 代码规范较好得多  
    
 (5) 四次元-新浪微博客户端  
 项目地址：https://github.com/qii/weiciyuan  
