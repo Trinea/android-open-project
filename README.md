@@ -663,6 +663,10 @@ Demo地址：http://demo.cobub.com/razor
    
 12. Android插件式开发  
 项目地址：https://github.com/umeng/apf  
+   
+13. SQLCipher Sqlite加密工具  
+项目地址：https://github.com/sqlcipher/sqlcipher  
+帮助文档：http://sqlcipher.net/sqlcipher-for-android/  
   
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
