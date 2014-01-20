@@ -17,7 +17,7 @@ Android Open Source Projects
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
-*感谢[youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
+*感谢[Alex.Chen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
@@ -272,11 +272,6 @@ APP示例：square
 项目地址：https://github.com/passsy/android-HoloCircularProgressBar  
 APP示例：Android4.1时钟App  
 效果图：![Renderings](https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png)  
-
-5.RangeBar  
-   项目地址：https://github.com/edmodo/range-bar  
-   效果图  
-   ![ScreenShot](http://i.imgur.com/q85GhRjl.png)  
    
 #### 八、其他  
 1. achartengine 强大的图标绘制工具  
@@ -325,7 +320,7 @@ Demo地址：https://play.google.com/store/apps/details?id=it.gmariotti.cardslib
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
    
 9. Crouton 丰富样式的Toast  
-允许alert、comfirm、info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。  
+允许alert、comfirm、info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
 项目地址：https://github.com/keyboardsurfer/Crouton  
 Demo地址：http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
@@ -424,9 +419,15 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
   
- 31.SuperToasts 结合undoBar和Crouton加强版toast  
- 项目地址：https://github.com/JohnPersano/SuperToasts  
- 效果图：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
+31. RangeBar 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
+项目地址：https://github.com/edmodo/range-bar  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
+效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
+  
+32. SuperToasts 更丰富样式的toast，支持Button、Progress、Horizontal Progress样式、支持进入动画、支持撤销及其动画设置    
+项目地址：https://github.com/JohnPersano/SuperToasts  
+Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
+效果图：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
@@ -805,18 +806,19 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 项目地址：https://github.com/inmite/android-butterknife-zelezny  
 效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
   
-16.Android Holo Colors IntelliJ Plugin (Android studio插件，快速生成holo样式9 patch图片)  
- 项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
- 效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
+16.Android Holo Colors IntelliJ Plugin Android studio插件，快速生成holo样式9 patch图片  
+项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
+效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
 
-17.Genymotion(目前最好用最快的android模拟器)  
+17.Genymotion 目前最好用最快的android模拟器  
 项目地址：http://www.genymotion.com/  
 Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
+Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
 
-18.Crashlytics(提供丰富的应用奔溃信息)  
- 轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
- 项目地址：http://www.crashlytics.com/  
- Android studio集成控件： http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button  
+18.Crashlytics 提供丰富的应用崩溃信息收集  
+轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
+项目地址：http://www.crashlytics.com/  
+集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
 
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
@@ -862,23 +864,21 @@ Github地址：https://github.com/jgilfelt
 代表作：android-mapviewballoons，android-viewbadger，android-actionbarstylegenerator，android-sqlite-asset-helper  
 网址：http://jeffgilfelt.com  
 
-9.  Romain Guy  
-博客：http://www.curious-creature.org/   
-Android framework team 核心成员  
+9.  Romain Guy Android team成员(2013.10已离开Android team，仍在Google)  
+Github地址：https://github.com/romainguy  
+代表作：ViewServer
+博客：http://www.curious-creature.org/category/android/   
+个人摄影作品：http://www.flickr.com/photos/romainguy  
 
-10. Chet Haase  
-博客：http://graphics-geek.blogspot.com/  
-Android framework UI team 核心成员  
-
-11. Mark Allison  
-Android 教程合集  
-博客：http://blog.stylingandroid.com/     
-
-12. Cyril Mottier  
-Google开发者专家认证，发布一些技巧及深度文章  
+10. Cyril Mottier    
+Google开发者专家认证，发布一些Android技巧及文章  
 博客：http://cyrilmottier.com/  
 
-Ps: ViewServer作者的个人摄影作品http://www.flickr.com/photos/romainguy ，感觉超赞  
+其他一些博客：  
+1. Chet Haase  
+博客：http://graphics-geek.blogspot.com/  
+Android framework UI team 成员  
+  
 #### 二、组织  
 1. Square  
 Github地址：https://github.com/square   
