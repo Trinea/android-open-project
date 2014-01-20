@@ -806,16 +806,16 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 项目地址：https://github.com/inmite/android-butterknife-zelezny  
 效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
   
-16.Android Holo Colors IntelliJ Plugin Android studio插件，快速生成holo样式9 patch图片  
+16. Android Holo Colors IntelliJ Plugin Android studio插件，快速生成holo样式9 patch图片  
 项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
 效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
 
-17.Genymotion 目前最好用最快的android模拟器  
+17. Genymotion 目前最好用最快的android模拟器  
 项目地址：http://www.genymotion.com/  
 Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
 Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
 
-18.Crashlytics 提供丰富的应用崩溃信息收集  
+18. Crashlytics 提供丰富的应用崩溃信息收集  
 轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
 项目地址：http://www.crashlytics.com/  
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
@@ -866,18 +866,15 @@ Github地址：https://github.com/jgilfelt
 
 9.  Romain Guy Android team成员(2013.10已离开Android team，仍在Google)  
 Github地址：https://github.com/romainguy  
-代表作：ViewServer
+代表作：ViewServer  
 博客：http://www.curious-creature.org/category/android/   
 个人摄影作品：http://www.flickr.com/photos/romainguy  
 
 10. Cyril Mottier    
 Google开发者专家认证，发布一些Android技巧及文章  
+Github地址：https://github.com/cyrilmottier  
+代表作：GreenDroid，Polaris  
 博客：http://cyrilmottier.com/  
-
-其他一些博客：  
-1. Chet Haase  
-博客：http://graphics-geek.blogspot.com/  
-Android framework UI team 成员  
   
 #### 二、组织  
 1. Square  
@@ -891,4 +888,9 @@ Github地址：https://github.com/inmite
 代表作：android-styled-dialogs，android-grid-wichterle，android-selector-chapek  
 网址：http://www.inmite.eu/  
   
+#### 三、博客  
+1. Chet Haase  
+博客：http://graphics-geek.blogspot.com/  
+Android framework UI team 成员  
+
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a900f4d3b4aa67d4f98e3a143b8dea9e "githalytics.com")](http://githalytics.com/Trinea/android-open-project)
