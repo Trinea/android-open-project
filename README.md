@@ -203,7 +203,11 @@ APP示例：类似微信中查看聊天记录图片时可双击放大，并且�
    
 7. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
-   
+  
+8. Android PagerSlidingTabStrip 配合ViewPager使用的Indicator，支持ViewPager Scroll时Indicator联动  
+项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
+Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
+  
 #### 五、GridView  
 1. StaggeredGridView 允许非对齐行的GridView  
 类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
