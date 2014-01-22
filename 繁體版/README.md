@@ -1,4 +1,4 @@
-Android Open Source Projects
+Android開源項目分類彙總
 ====================
 *經常有朋友問某個效果怎麽實現或是否有某個庫完成某個功能，  
 于是分類彙總了那些不錯的Android開源項目，供大家一起學習*
@@ -17,7 +17,7 @@ Android Open Source Projects
 [Android開源項目第五篇——優秀個人和團體篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;樂于分享並且有一些很不錯的開源項目的[個人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[組織](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
-*感謝[Alex.Chen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)補充*  
+*感謝[xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)補充*  
 ## 第一部分 個性化控件(View)  
 主要介紹那些不錯個性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
