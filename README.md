@@ -532,7 +532,7 @@ Demo代码：https://github.com/Trinea/AndroidDemo/blob/master/src/cn/trinea/and
 7. okhttp square开源的http工具类  
 项目地址：https://github.com/square/okhttp  
 文档介绍：http://square.github.io/okhttp/  
-特点：(1) 支持SPDY(http://zh.wikipedia.org/wiki/SPDY)协议。SPDY协议是Google开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个TCP链接传送网页和图片等资源)和优先级来缩短加载时间。  
+特点：(1) 支持SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY协议是Google开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个TCP链接传送网页和图片等资源)和优先级来缩短加载时间。  
 (2) 如果SPDY不可用，利用连接池减少请求延迟  
 (3) Gzip压缩  
 (4) Response缓存减少不必要的请求  
