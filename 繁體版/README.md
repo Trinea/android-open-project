@@ -3,7 +3,7 @@ Android開源項目分類彙總
 *經常有朋友問某個效果怎麽實現或是否有某個庫完成某個功能，  
 于是分類彙總了那些不錯的Android開源項目，供大家一起學習*
 
-歡迎大家推薦好的Android開源項目，請`Star`、`Fork`或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我 :) 
+歡迎大家推薦好的Android開源項目，可`Star`、`Fork`或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我 :) 
 
 ## 目前包括：  
 >[Android開源項目第一篇——個性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
