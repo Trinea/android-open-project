@@ -3,7 +3,7 @@ Android Open Source Projects
 *经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
 于是分类汇总了那些不错的Android开源项目，供大家一起学习*
 
-欢迎大家推荐好的Android开源项目，请`Star`、`Fork`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我 :) 
+欢迎大家推荐好的Android开源项目，可`Star`、`Fork`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我 :) 
 
 ## 目前包括：  
 >[Android开源项目第一篇——个性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
@@ -17,7 +17,7 @@ Android Open Source Projects
 [Android开源项目第五篇——优秀个人和团体篇](http://www.trinea.cn/android/android-open-source-projects-excellent-personal-group/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
-*感谢[Alex.Chen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
+*感谢[xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
