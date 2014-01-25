@@ -869,7 +869,11 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
 Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
 
-18. Crashlytics 提供丰富的应用崩溃信息收集  
+18. ACRA 应用崩溃信息上报到GoogleDoc工具  
+项目地址：https://github.com/ACRA/acra  
+文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
+
+19. Crashlytics 提供丰富的应用崩溃信息收集  
 轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
 项目地址：http://www.crashlytics.com/  
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
