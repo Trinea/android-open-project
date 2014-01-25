@@ -256,7 +256,11 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 5. ColorArt 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
 项目地址：https://github.com/MichaelEvans/ColorArt  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
-  
+   
+6. CircleImageView 圆形的ImageView  
+项目地址：https://github.com/hdodenhof/CircleImageView  
+效果图：![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
+
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
 项目地址：https://github.com/castorflex/SmoothProgressBar  
