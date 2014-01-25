@@ -448,6 +448,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 项目地址：https://github.com/rockerhieu/emojicon  
 文档地址：http://rockerhieu.com/emojicon/  
 
+34. Chips EditText Library 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
+项目地址：https://github.com/kpbird/chips-edittext-library  
+Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
+
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 #### 一、依赖注入DI  
