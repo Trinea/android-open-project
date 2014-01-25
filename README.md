@@ -636,7 +636,13 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processi
 项目地址：https://github.com/kikoso/android-stackblur  
 Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 文档介绍：https://github.com/kikoso/android-stackblur#usage  
-   
+
+5. Bitmap Smart Clipping using OpenCV 图片智能裁剪保留重要部分显示   
+项目地址：https://github.com/beartung/tclip-android  
+利用淘宝的 http://code.taobao.org/p/tclip/ 库完成  一淘玩客正在使用的图片裁剪，自动识别图片中的重要区域，并且在图片裁剪时保留重要区域  
+特点：(1). 能进行人脸识别。图片中有人脸，将自动视为人脸区域为重要区域，将不会被裁剪掉  
+(2).自动其它重要区域。如果图片中未识别出人脸，则会根据特征分布计算出重区域  
+
 #### 八、事件总线(订阅者模式)  
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments及后台线程)之间的通信  
 
