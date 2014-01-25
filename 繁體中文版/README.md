@@ -1,4 +1,4 @@
-Android Open Source Projects
+Android開源項目分類彙總
 ====================
 *經常有朋友問某個效果怎麽實現或是否有某個庫完成某個功能，  
 于是分類彙總了那些不錯的Android開源項目，供大家一起學習*
@@ -926,6 +926,7 @@ Github地址：https://github.com/jgilfelt
 Github地址：https://github.com/romainguy  
 代表作：ViewServer  
 博客：http://www.curious-creature.org/category/android/   
+個人攝影作品：http://www.flickr.com/photos/romainguy  
 
 10. sephiroth74 就職于Aviary.com  
 Github地址：https://github.com/sephiroth74  
