@@ -629,7 +629,28 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processi
 Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 文档介绍：https://github.com/kikoso/android-stackblur#usage  
    
-#### 八、其他  
+#### 八、事件总线(订阅者模式)  
+通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments及后台线程)之间的通信  
+
+1. EventBus greenrobot的开源项目  
+项目地址：https://github.com/greenrobot/EventBus  
+文档介绍：https://github.com/greenrobot/EventBus#general-usage-and-api  
+特点：(1) 支持在不同类型的线程中处理订阅，包括发布所在线程，UI线程、单一后台线程、异步线程  
+(2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像啊  
+(3) 不是基于annotations  
+(4) 性能更优  
+(5) 体积小  
+(6) 支持单例创建或创建多个对象  
+(7) 支持根据事件类型订阅  
+
+2. Otto Square的开源项目，基于Guava的Android优化 
+项目地址：https://github.com/square/otto  
+文档介绍：http://square.github.io/otto/  
+
+EventBus与Otto的功能及性能对比文档地址：https://github.com/greenrobot/EventBus#comparison-with-squares-otto  
+EventBus与Otto性能对比Demo地址：https://play.google.com/store/apps/details?id=de.greenrobot.eventperf  
+
+#### 九、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
    
