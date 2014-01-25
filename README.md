@@ -444,6 +444,10 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo
 Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
 效果图：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
+33. Emojicon 支持emojis的TextView和EditText    
+项目地址：https://github.com/rockerhieu/emojicon  
+文档地址：http://rockerhieu.com/emojicon/  
+
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 #### 一、依赖注入DI  
