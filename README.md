@@ -102,6 +102,10 @@ APP示例：Google plus、Google Now卡片式进入、小米系统中应用商�
 项目地址：https://github.com/dinocore1/DevsmartLib-Android  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
+18. HorizontalVariableListView 支持Item宽度不一致的ListView  
+项目地址：https://github.com/sephiroth74/HorizontalVariableListView  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
+  
 #### 二、ActionBar  
 1. ActionBarSherlock 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
 项目地址：https://github.com/JakeWharton/ActionBarSherlock  
@@ -260,6 +264,10 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo
 6. CircleImageView 圆形的ImageView  
 项目地址：https://github.com/hdodenhof/CircleImageView  
 效果图：![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
+  
+7. ImageViewZoom 支持放大和平移的ImageView   
+项目地址：https://github.com/sephiroth74/ImageViewZoom  
+APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.feather
 
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
@@ -685,6 +693,9 @@ Demo地址：http://demo.cobub.com/razor
 13. SQLCipher Sqlite加密工具  
 项目地址：https://github.com/sqlcipher/sqlcipher  
 帮助文档：http://sqlcipher.net/sqlcipher-for-android/  
+ 
+14. purePDF 允许从任何运行的SWF文件读取和创建PDF文档  
+项目地址：https://github.com/sephiroth74/purePDF  
   
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
