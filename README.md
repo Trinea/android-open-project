@@ -926,6 +926,7 @@ Github地址：https://github.com/jgilfelt
 Github地址：https://github.com/romainguy  
 代表作：ViewServer  
 博客：http://www.curious-creature.org/category/android/   
+個人攝影作品：http://www.flickr.com/photos/romainguy  
 
 10. sephiroth74 就职于Aviary.com  
 Github地址：https://github.com/sephiroth74  
