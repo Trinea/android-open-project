@@ -103,8 +103,7 @@ APP示例：Google plus、Google Now卡片式进入、小米系统中应用商�
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
 18. HorizontalVariableListView 支持Item宽度不一致的ListView  
-项目地址：https://github.com/sephiroth74/HorizontalVariableListView  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
+项目地址：https://github.com/sephiroth74/HorizontalVariableListView   
   
 #### 二、ActionBar  
 1. ActionBarSherlock 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
@@ -854,7 +853,7 @@ Github地址：https://github.com/chrisbanes
 代表作：ActionBar-PullToRefresh，PhotoView，Android-BitmapCache，Android-PullToRefresh  
 博客：http://chris.banes.me/  
    
-3. Koushik Dutta就职于ClockworkMod  
+3. Koushik Dutta 就职于ClockworkMod  
 Github地址：https://github.com/koush  
 代表作：Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外对https://github.com/CyanogenMod 的开源项目有很多贡献  
 博客：http://koush.com/  
@@ -887,9 +886,13 @@ Github地址：https://github.com/jgilfelt
 Github地址：https://github.com/romainguy  
 代表作：ViewServer  
 博客：http://www.curious-creature.org/category/android/   
-个人摄影作品：http://www.flickr.com/photos/romainguy  
 
-10. Cyril Mottier    
+10. sephiroth74 就职于Aviary.com  
+Github地址：https://github.com/sephiroth74  
+代表作：ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF  
+博客：http://www.sephiroth.it/   
+
+11. Cyril Mottier    
 Google开发者专家认证，发布一些Android技巧及文章  
 Github地址：https://github.com/cyrilmottier  
 代表作：GreenDroid，Polaris  
