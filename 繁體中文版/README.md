@@ -1,4 +1,4 @@
-Android開源項目分類彙總
+Android Open Source Projects
 ====================
 *經常有朋友問某個效果怎麽實現或是否有某個庫完成某個功能，  
 于是分類彙總了那些不錯的Android開源項目，供大家一起學習*
@@ -9,7 +9,7 @@ Android開源項目分類彙總
 >[Android開源項目第一篇——個性化控件(View)篇](http://www.trinea.cn/android/android-open-source-projects-view/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
 *&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[其他](https://github.com/Trinea/android-open-project#%E5%85%AB%E5%85%B6%E4%BB%96)等等*  
 [Android開源項目第二篇——工具庫篇](http://www.trinea.cn/android/android-open-source-projects-dev-lib/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
-*&nbsp;&nbsp;包括[依賴注入框架](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[圖片緩存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[網絡相關](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[數據庫ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共庫](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容庫](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒體](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[其他](https://github.com/Trinea/android-open-project#%E5%85%AB%E5%85%B6%E4%BB%96-1)等等*  
+*&nbsp;&nbsp;包括[依賴注入框架](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[圖片緩存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[網絡相關](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[數據庫ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共庫](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容庫](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒體](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件總線(訂閱者模式)](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[其他](https://github.com/Trinea/android-open-project#%E4%B9%9D%E5%85%B6%E4%BB%96)等等*  
 [Android開源項目第三篇——優秀項目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
 *&nbsp;&nbsp;比較有意思的完整的Android項目*  
 [Android開源項目第四篇——開發及測試工具篇](http://www.trinea.cn/android/android-open-source-projects-dev-tool/) →[本文中地址](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
@@ -102,6 +102,9 @@ APP示例：Google plus、Google Now卡片式進入、小米系統中應用商�
 項目地址：https://github.com/dinocore1/DevsmartLib-Android  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
+18. HorizontalVariableListView 支持Item寬度不一致的ListView  
+項目地址：https://github.com/sephiroth74/HorizontalVariableListView   
+  
 #### 二、ActionBar  
 1. ActionBarSherlock 爲Android所有版本提供統一的ActionBar，解決4.0以下ActionBar的適配問題  
 項目地址：https://github.com/JakeWharton/ActionBarSherlock  
@@ -256,7 +259,15 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 5. ColorArt 根據圖片的均色設置背景色顯示文字和圖片，類似itune11中效果  
 項目地址：https://github.com/MichaelEvans/ColorArt  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
+   
+6. CircleImageView 圓形的ImageView  
+項目地址：https://github.com/hdodenhof/CircleImageView  
+效果圖：![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
   
+7. ImageViewZoom 支持放大和平移的ImageView   
+項目地址：https://github.com/sephiroth74/ImageViewZoom  
+APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.feather
+
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平進度條  
 項目地址：https://github.com/castorflex/SmoothProgressBar  
@@ -432,6 +443,14 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo
 項目地址：https://github.com/JohnPersano/SuperToasts  
 Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
 效果圖：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
+
+33. Emojicon 支持emojis的TextView和EditText    
+項目地址：https://github.com/rockerhieu/emojicon  
+文檔地址：http://rockerhieu.com/emojicon/  
+
+34. Chips EditText Library 支持國家名字聯想從而選擇顯示該國國旗的EditText，實際就是通過SpannableStringBuilder實現  
+項目地址：https://github.com/kpbird/chips-edittext-library  
+Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
 
 ## 第二部分 工具庫  
 主要包括那些不錯的開發庫，包括依賴注入框架、圖片緩存、網絡相關、數據庫ORM建模、Android公共庫、Android 高版本向低版本兼容、多媒體相關及其他。  
@@ -617,8 +636,36 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processi
 項目地址：https://github.com/kikoso/android-stackblur  
 Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 文檔介紹：https://github.com/kikoso/android-stackblur#usage  
-   
-#### 八、其他  
+
+5. Bitmap Smart Clipping using OpenCV 圖片智能裁剪保留重要部分顯示   
+項目地址：https://github.com/beartung/tclip-android  
+利用淘寶的 http://code.taobao.org/p/tclip/ 庫完成  
+一淘玩客正在使用的圖片裁剪，自動識別圖片中的重要區域，並且在圖片裁剪時保留重要區域  
+特點：(1). 能進行人臉識別。圖片中有人臉，將自動視爲人臉區域爲重要區域，將不會被裁剪掉  
+(2).自動其它重要區域。如果圖片中未識別出人臉，則會根據特征分布計算出重區域  
+
+#### 八、事件總線(訂閱者模式)  
+通過發布/訂閱事件解耦事件發送和接受，從而簡化應用程序組件(Activities, Fragments及後台線程)之間的通信  
+
+1. EventBus greenrobot的開源項目  
+項目地址：https://github.com/greenrobot/EventBus  
+文檔介紹：https://github.com/greenrobot/EventBus#general-usage-and-api  
+特點：(1) 支持在不同類型的線程中處理訂閱，包括發布所在線程，UI線程、單一後台線程、異步線程  
+(2) 支持事件優先級定義，支持優先級高的訂閱者取消事件繼續傳遞，支持粘性事件，是不是跟系統的有序廣播、粘性廣播很像啊  
+(3) 不是基于annotations  
+(4) 性能更優  
+(5) 體積小  
+(6) 支持單例創建或創建多個對象  
+(7) 支持根據事件類型訂閱  
+
+2. Otto Square的開源項目，基于Guava的Android優化  
+項目地址：https://github.com/square/otto  
+文檔介紹：http://square.github.io/otto/  
+
+[EventBus與Otto的功能及性能對比文檔](https://github.com/greenrobot/EventBus#comparison-with-squares-otto)  
+[EventBus與Otto性能對比Demo Apk](https://play.google.com/store/apps/details?id=de.greenrobot.eventperf)  
+
+#### 九、其他  
 1. Salvage view 帶View緩存的Viewpager PagerAdapter，很方便使用  
 項目地址：https://github.com/JakeWharton/salvage  
    
@@ -681,6 +728,9 @@ Demo地址：http://demo.cobub.com/razor
 13. SQLCipher Sqlite加密工具  
 項目地址：https://github.com/sqlcipher/sqlcipher  
 幫助文檔：http://sqlcipher.net/sqlcipher-for-android/  
+ 
+14. purePDF 允許從任何運行的SWF文件讀取和創建PDF文檔  
+項目地址：https://github.com/sephiroth74/purePDF  
   
 ## 第三部分 優秀項目  
 主要介紹那些Android還不錯的完整項目，目前包含的項目主要依據是項目有意思或項目分層規範比較好。  
@@ -819,7 +869,11 @@ PS：比起hierarchyviewer相差甚遠，不過偶爾可用來作爲布局查看
 Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
 Cyril Mottier推薦：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
 
-18. Crashlytics 提供豐富的應用崩潰信息收集  
+18. ACRA 應用崩潰信息上報到GoogleDoc工具  
+項目地址：https://github.com/ACRA/acra  
+文檔地址：https://github.com/ACRA/acra/wiki/BasicSetup  
+
+19. Crashlytics 提供豐富的應用崩潰信息收集  
 輕量級，豐富，可自定義應用崩潰信息收集器，附有郵件通知  
 項目地址：http://www.crashlytics.com/  
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
@@ -839,7 +893,7 @@ Github地址：https://github.com/chrisbanes
 代表作：ActionBar-PullToRefresh，PhotoView，Android-BitmapCache，Android-PullToRefresh  
 博客：http://chris.banes.me/  
    
-3. Koushik Dutta就職于ClockworkMod  
+3. Koushik Dutta 就職于ClockworkMod  
 Github地址：https://github.com/koush  
 代表作：Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外對https://github.com/CyanogenMod 的開源項目有很多貢獻  
 博客：http://koush.com/  
@@ -872,9 +926,13 @@ Github地址：https://github.com/jgilfelt
 Github地址：https://github.com/romainguy  
 代表作：ViewServer  
 博客：http://www.curious-creature.org/category/android/   
-個人攝影作品：http://www.flickr.com/photos/romainguy  
 
-10. Cyril Mottier    
+10. sephiroth74 就職于Aviary.com  
+Github地址：https://github.com/sephiroth74  
+代表作：ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF  
+博客：http://www.sephiroth.it/   
+
+11. Cyril Mottier    
 Google開發者專家認證，發布一些Android技巧及文章  
 Github地址：https://github.com/cyrilmottier  
 代表作：GreenDroid，Polaris  
