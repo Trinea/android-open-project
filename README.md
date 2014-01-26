@@ -228,13 +228,19 @@ APP示例：Pinterest等
 项目地址：https://github.com/GDG-Korea/PinterestLikeAdapterView  
 APP示例：Pinterest等  
    
-4. DraggableGridView Item可拖动交换位置的GridView，类似桌面的单屏效果  
+4. DraggableGridView Item可拖动交换位置的GridView  
+实际是自己继承ViewGroup实现，类似桌面的单屏效果，可屏幕自动上下滚动进行Item移动交换，多屏效果见下面6. Android-DraggableGridViewPager  
 项目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
    
 5. StickyGridHeaders GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的GridView  
 项目地址：https://github.com/TonicArtos/StickyGridHeaders     
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
+   
+6. Android-DraggableGridViewPager Item可拖动交换位置的GridView  
+实际是自己继承ViewGroup实现，类似桌面的多屏效果，可屏幕自动左右滚动进行Item移动交换，多屏效果见上面4. DraggableGridView  
+项目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
+Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
   
 #### 六、ImageView  
 1. PhotoView 支持双击或双指缩放的ImageView  
