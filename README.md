@@ -682,10 +682,10 @@ Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDe
 2. Otto Square的开源项目，基于Guava的Android优化  
 项目地址：https://github.com/square/otto  
 文档介绍：http://square.github.io/otto/  
-
 [EventBus与Otto的功能及性能对比文档](https://github.com/greenrobot/EventBus#comparison-with-squares-otto)  
 [EventBus与Otto性能对比Demo Apk](https://play.google.com/store/apps/details?id=de.greenrobot.eventperf)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 #### 九、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
