@@ -992,17 +992,7 @@ Github地址：https://github.com/inmite
 博客：http://graphics-geek.blogspot.com/  
 Android framework UI team 成员  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-<div style="font-weight:bold;">Mark或分享下吧^_^</div>
-<!-- Baidu Button BEGIN -->
-<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
-<a class="bds_tsina"></a><a class="bds_qzone"></a><a class="bds_tqq"></a><a class="bds_diandian"></a><a class="bds_xg"></a><a class="bds_renren"></a><a class="bds_bdhome"></a><a class="bds_hi"></a><a class="bds_douban"></a><a class="bds_qingbiji"></a><a class="bds_mshare"></a><a class="bds_twi"></a><span class="bds_more"></span><a class="shareCount"></a>???<span style="height:37px;text-align:center;"><g:plusone></g:plusone></span>
-<script type="text/javascript" id="bdshare_js" data="type=tools&uid=6756860" ></script>
-<script type="text/javascript" id="bdshell_js"></script>
-<script type="text/javascript">
-var bds_config={"snsKey":{'tsina':'1657413438','tqq':'801404464','t163':'','tsohu':''}}
-document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
-</script>
-<!-- Baidu Button END -->
+
 ## License
 
     Copyright 2014 trinea.cn
