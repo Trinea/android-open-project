@@ -906,7 +906,7 @@ Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-de
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
    
 20. Json2Java  
-根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成  
+根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
 项目地址：https://github.com/jonfhancock/JsonToJava  
 在线演示：http://jsontojava.appspot.com/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
