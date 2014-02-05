@@ -633,6 +633,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.jakewharton.nineo
 项目地址：https://github.com/Prototik/HoloEverywhere  
 Demo地址：https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywhere/demo/2.1.0/demo-2.1.0.apk  
 文档介绍：http://android-developers.blogspot.com/2012/01/holo-everywhere.html  
+   
+4. SherlockNavigationDrawer 将Android NavigationDrawer和ActionbarSherlock结合，解决4.0以下NavigationDrawer的适配问题  
+项目地址：https://github.com/tobykurien/SherlockNavigationDrawer  
+NavigationDrawer文档地址：http://developer.android.com/training/implementing-navigation/nav-drawer.html  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 七、多媒体相关  
