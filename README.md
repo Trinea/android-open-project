@@ -904,9 +904,15 @@ Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-de
 轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
 项目地址：http://www.crashlytics.com/  
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
-
+   
+20. Json2Java  
+根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成  
+项目地址：https://github.com/jonfhancock/JsonToJava  
+在线演示：http://jsontojava.appspot.com/  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+  
 ## 第五部分  
-主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
 
 #### 一、个人  
 1. JakeWharton 就职于Square  
