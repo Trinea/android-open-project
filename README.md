@@ -941,7 +941,7 @@ Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-de
 在线演示：http://jsontojava.appspot.com/  
   
 21. android-test-kit Google的Android测试工具  
-GoogleInstrumentationTestRunner——增强版的InstrumentationTestRunner和Espresso用于快速写出可靠测试用例的API  
+包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
 项目地址：https://code.google.com/p/android-test-kit/  
 文档介绍：https://code.google.com/p/android-test-kit/w/list  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
