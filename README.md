@@ -756,6 +756,11 @@ Demo地址：http://demo.cobub.com/razor
  
 14. purePDF 允许从任何运行的SWF文件读取和创建PDF文档  
 项目地址：https://github.com/sephiroth74/purePDF  
+
+15. Bolts Android的异步编程模式  
+项目地址：https://github.com/BoltsFramework/Bolts-Android/  
+与AsyncTask比较：(1) 使用的是无大小限制的线程池  
+(2) 任务可组合可级联，防止了代码耦合  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
