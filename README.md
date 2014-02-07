@@ -371,7 +371,7 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewba
 Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
 APP示例：Google Music精简播放栏  
    
-13. android-times-square Android日历部件  
+13. android-times-square Android日历时间部件  
 支持选取单个日期，多个日期，及日期区间段和对话框形式显示  
 项目地址：https://github.com/square/android-times-square  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/times-square-demo.apk?raw=true  
@@ -469,6 +469,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 34. Chips EditText Library 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
 项目地址：https://github.com/kpbird/chips-edittext-library  
 Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
+
+35. GoogleDateTimePickers 时间选择部件  
+项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
+文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
