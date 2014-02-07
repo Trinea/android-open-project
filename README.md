@@ -786,6 +786,10 @@ http://www.cnblogs.com/zealotrouge/p/3159772.html
 19. Conceal 快速高效的进行文件加密解密  
 项目地址：https://github.com/facebook/conceal  
 文档介绍：https://github.com/facebook/conceal#usage  
+
+20. xCombine Android App插件式插件开发  
+项目地址：https://github.com/wyouflf/xCombine  
+文档介绍：http://my.oschina.net/u/1171837/blog/155377  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
