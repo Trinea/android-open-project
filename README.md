@@ -944,6 +944,13 @@ Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-de
 包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
 项目地址：https://code.google.com/p/android-test-kit/  
 文档介绍：https://code.google.com/p/android-test-kit/w/list  
+  
+22. robolectric 测试用例编写框架  
+项目地址：https://github.com/robolectric/robolectric  
+Demo地址：https://github.com/robolectric/robolectricsample  
+文档介绍：http://robolectric.org/  
+特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
+(2). 能完成在真机上的大部分测试包括感应器  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
