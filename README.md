@@ -4,8 +4,9 @@ Android Open Source Projects
 于是分类汇总了那些不错的Android开源项目，供大家一起学习*
 
 欢迎大家推荐好的Android开源项目，可`Star`、`Fork`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我 :)  
-<a name="name"/>
-<a href="#menu" title="返回目录" style="position: fixed; bottom:5em;right:5em;"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" style="border: none;"/></a>  
+<a name="menu"/>
+<a href="#menu" title="返回目录"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" style="position: fixed; bottom:5em;right:5em;"/></a>  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 ## 目前包括：  
 >[Android开源项目第一篇——个性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
 *&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[其他](https://github.com/Trinea/android-open-project#%E5%85%AB%E5%85%B6%E4%BB%96)等等*  
