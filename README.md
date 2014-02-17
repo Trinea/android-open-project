@@ -969,6 +969,11 @@ Demo地址：https://github.com/robolectric/robolectricsample
 特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
 (2). 能完成在真机上的大部分测试包括感应器  
 其他的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
+  
+23. IntelliJ Plugin for Android Parcelable boilerplate code generation Android studio插件，快速生成Parcelable代码  
+项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
+效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
