@@ -12,7 +12,7 @@ Android Open Source Projects
 [Android开源项目第三篇——优秀项目篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
 *&nbsp;&nbsp;比较有意思的完整的Android项目*  
 [Android开源项目第四篇——开发及测试工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
-*&nbsp;&nbsp;包括开发自测、自动化测试、编译打包相关工具*  
+*&nbsp;&nbsp;包括[开发效率工具]()、[开发自测相关]()、[测试工具]()、[开发及编译环境]()、[其他]()*  
 [Android开源项目第五篇——优秀个人和团体篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
@@ -884,7 +884,70 @@ APK地址：https://play.google.com/store/apps/details?id=com.tweetlanes.android
 
 ## 第四部分 开发工具及测试工具  
 主要介绍和Android开发工具和测试工具相关的开源项目。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+#### 一、开发效率工具  
+1. Json2Java  
+根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
+项目地址：https://github.com/jonfhancock/JsonToJava  
+在线演示：http://jsontojava.appspot.com/  
 
+2. IntelliJ Plugin for Android Parcelable boilerplate code generation Android studio插件，生成Parcelable代码  
+项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
+效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
+  
+3. Android Holo Colors IntelliJ Plugin Android studio插件，生成holo样式9 patch图片  
+项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
+效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
+
+4. Android Drawable Factory 用于生成各个分辨率的图片  
+项目地址：https://github.com/tizionario/AndroidDrawableFactory  
+效果图：![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
+
+5. SelectorChapek for Android  
+Android Studio插件，可根据固定文件名格式资源自动生成drawable selectors xml文件。  
+项目地址：https://github.com/inmite/android-selector-chapek  
+   
+6. Android Action Bar Style Generator  
+Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所需要的图片资源及xml文件  
+项目地址：https://github.com/jgilfelt/android-actionbarstylegenerator  
+在线演示：http://jgilfelt.github.io/android-actionbarstylegenerator/  
+
+7. ButterKnifeZelezny  
+用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
+项目地址：https://github.com/inmite/android-butterknife-zelezny  
+效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
+
+#### 二、开发自测相关  
+1. android-test-kit Google的Android测试工具  
+包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
+项目地址：https://code.google.com/p/android-test-kit/  
+文档介绍：https://code.google.com/p/android-test-kit/w/list  
+  
+2. robolectric 测试用例编写框架  
+项目地址：https://github.com/robolectric/robolectric  
+Demo地址：https://github.com/robolectric/robolectricsample  
+文档介绍：http://robolectric.org/  
+特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
+(2). 能完成在真机上的大部分测试包括感应器  
+其他的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
+
+3. Android FEST  
+提供一些列方便的断言，可用于提高编写Android自测代码效率  
+项目地址：https://github.com/square/fest-android  
+   
+4. Hugo  
+用于打印函数信息及执行时间的工具，仅在debug模式生效  
+项目地址：https://github.com/JakeWharton/hugo  
+  
+5. scalpel  
+在应用下面添加一层用于界面调试，待详细补充 // TODO   
+项目地址：https://github.com/JakeWharton/scalpel  
+
+#### 三、测试工具  
+1. Spoon  
+可用于android不同机型设备自动化测试，能将应用apk和测试apk运行在不同机器上并生成相应测试报告。  
+项目地址：https://github.com/square/spoon  
+
+#### 四、开发及编译环境  
 1. Buck  
 facebook开源的Android编译工具，效率是ant的两倍。主要优点在于：  
 (1) 加快编译速度，通过并行利用多核cpu和跟踪不变资源减少增量编译时间实现  
@@ -897,20 +960,51 @@ facebook开源的Android编译工具，效率是ant的两倍。主要优点在�
 2. Android Maven Plugin  
 Android Maven插件，可用于对android三方依赖进行管理。在J2EE开发中，maven是非常成熟的依赖库管理工具，可统一管理依赖库。  
 项目地址：https://github.com/jayway/maven-android-plugin  
+
+3. 渠道打包工具  
+允许app运行在任何手机上都可以用HierarchyViewer查看  
+项目地址：https://github.com/umeng/umeng-muti-channel-build-tool  
+另可参见Google的构建系统Gradle：http://tools.android.com/tech-docs/new-build-system/user-guide  
    
-3. Spoon  
-可用于android不同机型设备自动化测试，能将应用apk和测试apk运行在不同机器上并生成相应测试报告。  
-项目地址：https://github.com/square/spoon  
+4. Genymotion 目前最好用最快的android模拟器  
+项目地址：http://www.genymotion.com/  
+Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
+Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
+  
+5. gradle-mvn-push 方便的将Gradle的Artifacts上传到Maven仓库  
+项目地址：https://github.com/chrisbanes/gradle-mvn-push  
+文档介绍：https://github.com/chrisbanes/gradle-mvn-push#usage  
+
+#### 五、其他  
+1. ViewServer  
+允许app运行在任何手机上都可以用HierarchyViewer查看  
+项目地址：https://github.com/romainguy/ViewServer  
    
-4. Android FEST  
-提供一些列方便的断言，可用于提高编写Android自测代码效率  
-项目地址：https://github.com/square/fest-android  
+2. GridWichterle for Android  
+在整个系统上显示一个grid，用来帮助查看应用布局及使得布局更美观，可设置grid网格大小和颜色，android推荐48dp和8dp，可见 Android Design Guidelines – Metrics and Grids  
+项目地址：https://github.com/inmite/android-grid-wichterle  
+APK地址：https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle  
+PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看工具。  
+
+3. Catlog  
+手机端log查看工具，支持不同颜色显示、关键字过滤、级别过滤、进程id过滤、录制功能等  
+项目地址：https://github.com/nolanlawson/Catlog  
+在线演示：https://play.google.com/store/apps/details?id=com.nolanlawson.logcat  
    
-5. SelectorChapek for Android  
-Android Studio插件，可根据固定文件名格式资源自动生成drawable selectors xml文件。  
-项目地址：https://github.com/inmite/android-selector-chapek  
-   
-6. Android Resource Navigator  
+4. PID Cat  
+根据package查看logcat日志  
+项目地址：https://github.com/JakeWharton/pidcat  
+
+5. ACRA 应用崩溃信息上报到GoogleDoc工具  
+项目地址：https://github.com/ACRA/acra  
+文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
+
+6. Crashlytics 提供丰富的应用崩溃信息收集  
+轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
+项目地址：http://www.crashlytics.com/  
+集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
+
+7. Android Resource Navigator  
 chrome插件，可以方便的查看github上android源码工程的styles.xml和themes.xml。主要功能：  
 (1) 快速打开android styles.xml themes.xml  
 (2) 方便在资源间跳转。styles.xml themes.xml文件中资源链接跳转，可以方便跳转到某个资源  
@@ -919,97 +1013,6 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 (5) 通过映射查找那些不是按照固定命名规则命名的style和theme  
 项目地址：https://github.com/jgilfelt/android-resource-navigator  
 示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
-   
-7. Android Action Bar Style Generator  
-Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所需要的图片资源及xml文件  
-项目地址：https://github.com/jgilfelt/android-actionbarstylegenerator  
-在线演示：http://jgilfelt.github.io/android-actionbarstylegenerator/  
-   
-8. ViewServer  
-允许app运行在任何手机上都可以用HierarchyViewer查看  
-项目地址：https://github.com/romainguy/ViewServer  
-   
-9. GridWichterle for Android  
-在整个系统上显示一个grid，用来帮助查看应用布局及使得布局更美观，可设置grid网格大小和颜色，android推荐48dp和8dp，可见 Android Design Guidelines – Metrics and Grids  
-项目地址：https://github.com/inmite/android-grid-wichterle  
-APK地址：https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle  
-PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看工具。  
-   
-10. 渠道打包工具  
-允许app运行在任何手机上都可以用HierarchyViewer查看  
-项目地址：https://github.com/umeng/umeng-muti-channel-build-tool  
-另可参见Google的构建系统Gradle：http://tools.android.com/tech-docs/new-build-system/user-guide  
-   
-11. Catlog  
-手机端log查看工具，支持不同颜色显示、关键字过滤、级别过滤、进程id过滤、录制功能等  
-项目地址：https://github.com/nolanlawson/Catlog  
-在线演示：https://play.google.com/store/apps/details?id=com.nolanlawson.logcat  
-   
-12. PID Cat  
-根据package查看logcat日志  
-项目地址：https://github.com/JakeWharton/pidcat  
-   
-13. Hugo  
-用于打印函数信息及执行时间的工具，仅在debug模式生效  
-项目地址：https://github.com/JakeWharton/hugo  
-   
-14. scalpel  
-在应用下面添加一层用于界面调试，待详细补充 // TODO   
-项目地址：https://github.com/JakeWharton/scalpel  
-   
-15. ButterKnifeZelezny  
-用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
-项目地址：https://github.com/inmite/android-butterknife-zelezny  
-效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)
-  
-16. Android Holo Colors IntelliJ Plugin Android studio插件，快速生成holo样式9 patch图片  
-项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
-效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
-
-17. Genymotion 目前最好用最快的android模拟器  
-项目地址：http://www.genymotion.com/  
-Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
-Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
-
-18. ACRA 应用崩溃信息上报到GoogleDoc工具  
-项目地址：https://github.com/ACRA/acra  
-文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
-
-19. Crashlytics 提供丰富的应用崩溃信息收集  
-轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
-项目地址：http://www.crashlytics.com/  
-集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
-   
-20. Json2Java  
-根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
-项目地址：https://github.com/jonfhancock/JsonToJava  
-在线演示：http://jsontojava.appspot.com/  
-  
-21. android-test-kit Google的Android测试工具  
-包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
-项目地址：https://code.google.com/p/android-test-kit/  
-文档介绍：https://code.google.com/p/android-test-kit/w/list  
-  
-22. robolectric 测试用例编写框架  
-项目地址：https://github.com/robolectric/robolectric  
-Demo地址：https://github.com/robolectric/robolectricsample  
-文档介绍：http://robolectric.org/  
-特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
-(2). 能完成在真机上的大部分测试包括感应器  
-其他的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
-  
-23. IntelliJ Plugin for Android Parcelable boilerplate code generation Android studio插件，快速生成Parcelable代码  
-项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
-效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
-   
-24. Android Drawable Factory 用于快速生成各个分辨率的图片  
-项目地址：https://github.com/tizionario/AndroidDrawableFactory  
-效果图：![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
-  
-25. gradle-mvn-push 方便的将Gradle的Artifacts上传到Maven仓库  
-项目地址：https://github.com/chrisbanes/gradle-mvn-push  
-文档介绍：https://github.com/chrisbanes/gradle-mvn-push#usage  
-
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
