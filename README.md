@@ -981,9 +981,13 @@ Demo地址：https://github.com/robolectric/robolectricsample
 项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
 效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
    
-25. Android Drawable Factory 用于快速生成各个分辨率的图片  
+24. Android Drawable Factory 用于快速生成各个分辨率的图片  
 项目地址：https://github.com/tizionario/AndroidDrawableFactory  
 效果图：![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
+  
+25. gradle-mvn-push 方便的将Gradle的Artifacts上传到Maven仓库  
+项目地址：https://github.com/chrisbanes/gradle-mvn-push  
+文档介绍：https://github.com/chrisbanes/gradle-mvn-push#usage  
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
