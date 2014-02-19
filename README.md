@@ -725,6 +725,11 @@ Demo地址：https://play.google.com/store/apps/details?id=root.gast.playground
 项目地址：https://github.com/nlathia/SensorManager  
 文档介绍：https://docs.google.com/document/d/1TqThJULb-4e6TGb1gdkAaPCfyuXStjJpbnt7a0OZ9OE/edit  
 
+3. GPSLogger 记录GPS信息  
+项目地址：https://github.com/mendhak/gpslogger  
+Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger  
+文档介绍：http://code.mendhak.com/gpslogger/  
+
 #### 十、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
