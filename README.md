@@ -730,6 +730,9 @@ Demo地址：https://play.google.com/store/apps/details?id=root.gast.playground
 Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger  
 文档介绍：http://code.mendhak.com/gpslogger/  
 
+4. Pedometer 计步器，使用硬件计步感应器  
+项目地址：https://github.com/j4velin/Pedometer  
+
 #### 十、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
