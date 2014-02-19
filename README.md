@@ -8,7 +8,7 @@ Android Open Source Projects
 >[Android开源项目第一篇——个性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
 *&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[其他](https://github.com/Trinea/android-open-project#%E5%85%AB%E5%85%B6%E4%BB%96)等等*  
 [Android开源项目第二篇——工具库篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
-*&nbsp;&nbsp;包括[依赖注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[图片缓存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[网络相关](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[数据库ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共库](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容库](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒体](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件总线](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[感应器]()、[其他](https://github.com/Trinea/android-open-project#%E4%B9%9D%E5%85%B6%E4%BB%96)等等*  
+*&nbsp;&nbsp;包括[依赖注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[图片缓存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[网络相关](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[数据库ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共库](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容库](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒体](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件总线](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[传感器](https://github.com/Trinea/android-open-project#%e4%b9%9d%e4%bc%a0%e6%84%9f%e5%99%a8)、[其他](https://github.com/Trinea/android-open-project#%e5%8d%81%e5%85%b6%e4%bb%96)等等*  
 [Android开源项目第三篇——优秀项目篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
 *&nbsp;&nbsp;比较有意思的完整的Android项目*  
 [Android开源项目第四篇——开发及测试工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
@@ -713,8 +713,7 @@ Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDe
 [EventBus与Otto的功能及性能对比文档](https://github.com/greenrobot/EventBus#comparison-with-squares-otto)  
 [EventBus与Otto性能对比Demo Apk](https://play.google.com/store/apps/details?id=de.greenrobot.eventperf)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
-
+  
 #### 九、传感器  
 1. Great Android Sensing Toolkit Android感应器工具包，包含示例及使用过程中可能需要的算法  
 项目地址：https://github.com/gast-lib/gast-lib  
@@ -732,7 +731,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger
 
 4. Pedometer 计步器，使用硬件计步感应器  
 项目地址：https://github.com/j4velin/Pedometer  
-
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 十、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
