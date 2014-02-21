@@ -1116,9 +1116,9 @@ Android framework UI team 成员
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/android-open-project/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
     
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a900f4d3b4aa67d4f98e3a143b8dea9e "githalytics.com")](http://githalytics.com/Trinea/android-open-project)
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/android-open-project/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
