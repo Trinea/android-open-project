@@ -3,7 +3,7 @@ Android Open Source Projects
 *经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
 于是分类汇总了那些不错的Android开源项目，供大家一起学习，持续更新*
 
-欢迎大家推荐好的Android开源项目，可修改后直接`Commit`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
+欢迎大家推荐好的Android开源项目，可后直接`Commit`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
 微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;主页：[trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;邮箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
 
 ## 目前包括：  
