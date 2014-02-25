@@ -662,6 +662,9 @@ NavigationDrawer文档地址：http://developer.android.com/training/implementin
 项目地址：https://github.com/BoD/android-switch-backport  
 Demo地址：https://play.google.com/store/apps/details?id=org.jraf.android.backport.switchwidget.sample  
 文档介绍：https://github.com/BoD/android-switch-backport#using-the-switch  
+
+7. android-datepicker 将Android 4.0的datepicker兼容到Android2.2++  
+项目地址：https://github.com/SimonVT/android-datepicker  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 七、多媒体相关  
