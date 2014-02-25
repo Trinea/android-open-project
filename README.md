@@ -4,6 +4,8 @@ Android Open Source Projects
 于是分类汇总了那些不错的Android开源项目，供大家一起学习，持续更新*
 
 欢迎大家推荐好的Android开源项目，可修改后直接`Commit`或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
+微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;主页：[trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;邮箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
+
 ## 目前包括：  
 >[Android开源项目第一篇——个性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
 *&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[其他](https://github.com/Trinea/android-open-project#%E5%85%AB%E5%85%B6%E4%BB%96)*  
