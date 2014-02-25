@@ -35,7 +35,7 @@ PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的
 3. DropDownListView 下拉刷新及滑动到底部加载更多ListView  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/?p=523  
+文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
    
 4. DragSortListView 拖动排序的ListView  
 同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
@@ -206,10 +206,15 @@ Demo地址：https://play.google.com/store/apps/details?id=at.technikum.mti.fanc
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-demo.apk?raw=true  
 APP示例：类似微信中查看聊天记录图片时可双击放大，并且放大情况下能正常左右滑动到前后图片  
    
-7. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
+7. Android Auto Scroll ViewPager Android自动滚动 轮播循环的ViewPager  
+项目地址：https://github.com/Trinea/android-auto-scroll-view-pager  
+Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
+文档介绍：http://www.trinea.cn/android/auto-scroll-view-pager/  
+
+8. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
   
-8. Android PagerSlidingTabStrip 配合ViewPager使用的Indicator，支持ViewPager Scroll时Indicator联动  
+9. Android PagerSlidingTabStrip 配合ViewPager使用的Indicator，支持ViewPager Scroll时Indicator联动  
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -532,7 +537,7 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/universal-imag
 3. ImageCache 图片缓存，包含内存和Sdcard缓存  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/?p=704  
+文档介绍：http://www.trinea.cn/android/android-imagecache/  
 特点：(1)支持预取新图片，支持等待队列  
 (2)包含二级缓存，可自定义文件名保存规则  
 (3)可选择多种缓存算法(FIFO、LIFO、LRU、MRU、LFU、MFU等13种)或自定义缓存算法  
@@ -570,7 +575,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.androidquery
 5. HttpCache Http缓存  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Demo代码：https://github.com/Trinea/AndroidDemo/blob/master/src/cn/trinea/android/demo/HttpCacheDemo.java  
+文档介绍：http://www.trinea.cn/android/android-http-cache  
 特点是：(1) 根据cache-control、expires缓存http请求  
 (2) 支持同步、异步Http请求  
 (3) 在匿名回调中处理请求结果  
@@ -629,7 +634,7 @@ orm的db工具类，简化建表、查询、更新、插入、事务、索引的
 2. AndroidCommon Android公共库  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/?p=778  
+文档介绍：http://www.trinea.cn/android/android-common-lib/  
 包括：(1)缓存(图片缓存、预取缓存、网络缓存)  
 (2) 公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)  
 (3) Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)  
