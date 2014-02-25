@@ -311,7 +311,7 @@ APP示例：Android4.1时钟App
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、其他  
-1. achartengine 强大的图标绘制工具  
+1. achartengine 强大的图表绘制工具  
 支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
 项目地址：https://code.google.com/p/achartengine/  
 官方网站：http://www.achartengine.org/  
@@ -445,7 +445,6 @@ Demo地址：https://play.google.com/store/apps/details?id=com.nakardo.atablevie
 项目地址：https://github.com/rock3r/GlowPadBackport  
 Demo地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
 效果图：![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
-
 29. GlowPadView Android4锁屏界面解锁  
 项目地址：https://github.com/nadavfima/GlowPadView  
 效果图：https://raw.github.com/nadavfima/GlowPadView/master/example.png  
@@ -485,6 +484,10 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 37. ColorPickerPreference 颜色选择器  
 项目地址：https://github.com/attenzione/android-ColorPickerPreference  
 效果图：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
+
+38. HoloGraphLibrary 绘制现状图、柱状图、饼状图    
+项目地址：https://bitbucket.org/danielnadeau/holographlibrary/src  
+文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
