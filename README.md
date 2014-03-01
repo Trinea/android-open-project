@@ -993,6 +993,9 @@ Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-de
 5. gradle-mvn-push 方便的将Gradle的Artifacts上传到Maven仓库  
 项目地址：https://github.com/chrisbanes/gradle-mvn-push  
 文档介绍：https://github.com/chrisbanes/gradle-mvn-push#usage    
+
+6. Android Emulator Plugin for Jenkins Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测试  
+项目地址：https://github.com/jenkinsci/android-emulator-plugin  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 五、其他  
