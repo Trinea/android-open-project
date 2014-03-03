@@ -570,7 +570,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (7) 可将Cookies持久化到SharedPreferences  
    
 2. android-query 异步加载，更少代码完成Android加载  
-项目地址：https://github.com/androidquery/androidquery或https://code.google.com/p/android-query/  
+项目地址：https://github.com/androidquery/androidquery 或 https://code.google.com/p/android-query/  
 文档介绍：https://code.google.com/p/android-query/#Why_AQuery?  
 Demo地址：https://play.google.com/store/apps/details?id=com.androidquery  
 特点：https://code.google.com/p/android-query/#Why_AQuery?  
@@ -857,11 +857,11 @@ http://www.cnblogs.com/zealotrouge/p/3159772.html
 Linux  
 项目地址：https://github.com/torvalds/linux  
 Android  
-项目地址：https://android.googlesource.com/或https://github.com/android  
+项目地址：https://android.googlesource.com/ 或 https://github.com/android  
 以上两个项目，不解释  
    
 (1) ZXing 二维码扫描工具  
-项目地址：https://github.com/zxing/zxing或https://code.google.com/p/zxing/  
+项目地址：https://github.com/zxing/zxing 或 https://code.google.com/p/zxing/  
 APK地址：https://play.google.com/store/apps/details?id=com.google.zxing.client.android  
 PS：现在市面上很多应用的二维码扫描功能都是从这个修改而来  
    
