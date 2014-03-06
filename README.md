@@ -497,6 +497,9 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 
 39. ChromeView 利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
 项目地址：https://github.com/pwnall/chromeview  
+
+40. AutoFitTextView 可固定边界内容字体大小自适应的TextView    
+项目地址：https://github.com/grantland/android-autofittextview  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
