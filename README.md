@@ -754,6 +754,9 @@ Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger
 
 4. Pedometer 计步器，使用硬件计步感应器  
 项目地址：https://github.com/j4velin/Pedometer  
+
+5. Arduino-Communicator 与Arduino通信的App  
+项目地址：https://github.com/jeppsson/Arduino-Communicator  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
