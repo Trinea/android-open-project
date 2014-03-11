@@ -863,11 +863,14 @@ http://www.cnblogs.com/zealotrouge/p/3159772.html
 14. xCombine Android App插件式插件开发  
 项目地址：https://github.com/wyouflf/xCombine  
 文档介绍：http://my.oschina.net/u/1171837/blog/155377  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 15. Memento 保证在系统配置改变时，Activity中的某些数据可以简单安全的保持不变  
 项目地址：https://github.com/mttkay/memento  
 文档介绍：https://github.com/mttkay/memento#usage  
+
+16 svg-android Android Svg矢量图形支持  
+项目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
