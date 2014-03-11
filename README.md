@@ -107,8 +107,12 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-lis
 18. HorizontalVariableListView 支持Item宽度不一致的ListView  
 项目地址：https://github.com/sephiroth74/HorizontalVariableListView   
    
-19. HorizontalVariableListView 用LinearLayout实现的ListView，可解决多个ListView并且等问题。目前自己也有需要，等亲自尝试过后会再具体介绍  
+19. LinearListView 用LinearLayout实现的ListView，可解决多个ListView并且等问题。目前自己也有需要，等亲自尝试过后会再具体介绍  
 项目地址：https://github.com/frankiesardo/LinearListView   
+   
+20. MultiChoiceAdapter 支持多选的ListView Adapter  
+项目地址：https://github.com/ManuelPeinado/MultiChoiceAdapter   
+Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.multichoiceadapter.demo  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>    
 
 #### 二、ActionBar  
