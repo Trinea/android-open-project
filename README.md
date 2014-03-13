@@ -995,7 +995,7 @@ Demo地址：https://github.com/robolectric/robolectricsample
 项目地址：https://github.com/JakeWharton/hugo  
   
 5. scalpel  
-效率在应用下面添加一层用于界面调试，待详细补充 // TODO   
+在应用下面添加一层用于界面调试，待详细补充 // TODO   
 项目地址：https://github.com/JakeWharton/scalpel  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
