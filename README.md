@@ -778,6 +778,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger
 
 6. Arduino-Communicator 与Arduino通信的App  
 项目地址：https://github.com/jeppsson/Arduino-Communicator  
+
+7. android-pedometer Android计步器  
+项目地址：https://github.com/bagilevi/android-pedometer  
+Demo地址：http://pedometer.googlecode.com/files/Pedometer-1.4.apk  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
