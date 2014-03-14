@@ -880,6 +880,18 @@ APK地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.games.cha
 (9) Tweet Lanes 功能完整的Twitter客戶端  
 項目地址：https://github.com/chrislacy/TweetLanes  
 APK地址：https://play.google.com/store/apps/details?id=com.tweetlanes.android  
+
+(10) Financius 簡單易用的記賬程序  
+項目地址：https://github.com/mvarnagiris/Financius  
+APK地址：https://play.google.com/store/apps/details?id=com.code44.finance  
+
+(11) todo.txt-android todo.txt的官方Android應用  
+項目地址：https://github.com/ginatrapani/todo.txt-android  
+APK地址：https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch  
+
+(12) simpletask 基於todo.txt官方應用的另一個客戶端  
+項目地址：https://github.com/mpcjanssen/simpletask-android  
+APK地址：https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxtholo  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第四部分 開發工具及測試工具  
