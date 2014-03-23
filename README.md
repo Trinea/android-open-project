@@ -896,6 +896,10 @@ http://www.cnblogs.com/zealotrouge/p/3159772.html
 17. Office 365 SDK Android office支持
 可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
 项目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
+
+18. OpenSpritz-Android  
+Epub阅读器
+项目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
