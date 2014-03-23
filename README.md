@@ -651,7 +651,6 @@ orm的db工具类，简化建表、查询、更新、插入、事务、索引的
 包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 项目地址：https://code.google.com/p/guava-libraries/  
 文档介绍：https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
-
    
 2. Volley Google提供的网络通信库，使得网络请求更简单、更快速  
 项目地址：https://android.googlesource.com/platform/frameworks/volley  
@@ -665,6 +664,15 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 包括：(1)缓存(图片缓存、预取缓存、网络缓存)  
 (2) 公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)  
 (3) Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)  
+   
+4. shipfaster  
+整合了Dagger Otto Retrofit Robolectric Picasso OkHttp，方便快速开发  
+项目地址：https://github.com/pyricau/shipfaster  
+   
+5. CleanAndroidCode  
+整合了Dagger Otto AndroidAnnotations，方便快速开发  
+项目地址：https://github.com/pyricau/CleanAndroidCode  
+我目前也在做框架选型方面的工作，不出意外后面也会出个跟4、5类似的项目  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、Android 高版本向低版本兼容  
