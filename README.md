@@ -446,70 +446,65 @@ Demo地址：https://play.google.com/store/apps/details?id=com.nakardo.atablevie
 使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果图：类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
    
-27. Cropper 图片局部剪切工具，可触摸控制选择区域或旋转  
-项目地址：https://github.com/edmodo/cropper  
-使用介绍：https://github.com/edmodo/cropper/wiki  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
-   
-28. GlowPadBackport将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
+27. GlowPadBackport将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
 项目地址：https://github.com/rock3r/GlowPadBackport  
 Demo地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
 效果图：![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
-29. GlowPadView Android4锁屏界面解锁  
+28. GlowPadView Android4锁屏界面解锁  
 项目地址：https://github.com/nadavfima/GlowPadView  
 效果图：https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
-30. android-lockpattern Android的图案密码解锁  
+29. android-lockpattern Android的图案密码解锁  
 项目地址：https://code.google.com/p/android-lockpattern/  
 Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
   
-31. RangeBar 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
+30. RangeBar 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
 项目地址：https://github.com/edmodo/range-bar  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
 效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
   
-32. SuperToasts 更丰富样式的toast，支持Button、Progress、Horizontal Progress样式、支持进入动画、支持撤销及其动画设置    
+31. SuperToasts 更丰富样式的toast，支持Button、Progress、Horizontal Progress样式、支持进入动画、支持撤销及其动画设置    
 项目地址：https://github.com/JohnPersano/SuperToasts  
 Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
 效果图：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
-33. Emojicon 支持emojis的TextView和EditText    
+32. Emojicon 支持emojis的TextView和EditText    
 项目地址：https://github.com/rockerhieu/emojicon  
 文档地址：http://rockerhieu.com/emojicon/  
 
-34. Chips EditText Library 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
+33. Chips EditText Library 支持国家名字联想从而选择显示该国国旗的EditText，实际就是通过SpannableStringBuilder实现  
 项目地址：https://github.com/kpbird/chips-edittext-library  
 Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
 
-35. GoogleDateTimePickers 时间选择部件  
+34. GoogleDateTimePickers 时间选择部件  
 项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
 文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
    
-36. UndoBar 屏幕底部显示取消或是确认某操作  
+35. UndoBar 屏幕底部显示取消或是确认某操作  
 项目地址：https://github.com/jenzz/Android-UndoBar  
 效果图：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
    
-37. ColorPickerPreference 颜色选择器  
+36. ColorPickerPreference 颜色选择器  
 项目地址：https://github.com/attenzione/android-ColorPickerPreference  
 效果图：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
 
-38. HoloGraphLibrary 绘制现状图、柱状图、饼状图    
+37. HoloGraphLibrary 绘制现状图、柱状图、饼状图    
 项目地址：https://bitbucket.org/danielnadeau/holographlibrary/src  
 文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
-39. ChromeView 利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
+38. ChromeView 利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
 项目地址：https://github.com/pwnall/chromeview  
 
-40. AutoFitTextView 可固定边界内容字体大小自适应的TextView    
+39. AutoFitTextView 可固定边界内容字体大小自适应的TextView    
 项目地址：https://github.com/grantland/android-autofittextview  
    
-41. Discrollview 支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
+40. Discrollview 支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
 项目地址：https://github.com/flavienlaurent/discrollview   
 Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
 
-42. android-circlebutton Android圆形按钮  
+41. android-circlebutton Android圆形按钮  
 项目地址：https://github.com/markushi/android-circlebutton   
 Demo地址：https://github.com/markushi/android-circlebutton/blob/master/example/example.apk    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -717,7 +712,7 @@ Demo地址：https://play.google.com/store/apps/details?id=org.jraf.android.back
 (2) 能够流畅播放720P甚至1080P高清MKV，FLV，MP4，MOV，TS，RMVB等常见格式的视频  
 (3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。  
    
-3. PhotoProcessing 利用ndk处理图片库，支持Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate、Flip  
+3. PhotoProcessing 利用ndk处理图片库，支持Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
 项目地址：https://github.com/lightbox/PhotoProcessing  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processing.apk?raw=true  
    
@@ -732,6 +727,16 @@ Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDe
 一淘玩客正在使用的图片裁剪，自动识别图片中的重要区域，并且在图片裁剪时保留重要区域  
 特点：(1). 能进行人脸识别。图片中有人脸，将自动视为人脸区域为重要区域，将不会被裁剪掉  
 (2).自动其它重要区域。如果图片中未识别出人脸，则会根据特征分布计算出重区域  
+   
+6. Cropper 图片局部剪切工具，可触摸控制选择区域或旋转  
+项目地址：https://github.com/edmodo/cropper  
+使用介绍：https://github.com/edmodo/cropper/wiki  
+效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
+
+7. android-crop  
+图片裁剪Activity
+项目地址：https://github.com/jdamcd/android-crop  
+效果图：![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
