@@ -995,6 +995,10 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 7. ButterKnifeZelezny  
 用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
 项目地址：https://github.com/inmite/android-butterknife-zelezny  
+
+8. RoboCoP  
+利用Gradle task根据固定格式的json文件生成ContentProvider  
+项目地址：https://github.com/mediarain/RoboCoP  
 效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
