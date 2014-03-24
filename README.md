@@ -1026,35 +1026,38 @@ APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei
 项目地址：https://github.com/jonfhancock/JsonToJava  
 在线演示：http://jsontojava.appspot.com/  
 
-2. IntelliJ Plugin for Android Parcelable boilerplate code generation Android studio插件，生成Parcelable代码  
+1. IntelliJ Plugin for Android Parcelable boilerplate code generation Android studio插件，生成Parcelable代码  
 项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
 效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
   
-3. Android Holo Colors IntelliJ Plugin Android studio插件，生成holo样式9 patch图片  
+2. Android Holo Colors IntelliJ Plugin Android studio插件，生成holo样式9 patch图片  
 项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
 效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
 
-4. Android Drawable Factory 用于生成各个分辨率的图片  
+1. Android Drawable Factory 用于生成各个分辨率的图片  
 项目地址：https://github.com/tizionario/AndroidDrawableFactory  
 效果图：![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
 
-5. SelectorChapek for Android  
+1. SelectorChapek for Android  
 Android Studio插件，可根据固定文件名格式资源自动生成drawable selectors xml文件。  
 项目地址：https://github.com/inmite/android-selector-chapek  
    
-6. Android Action Bar Style Generator  
+1. Android Action Bar Style Generator  
 Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所需要的图片资源及xml文件  
 项目地址：https://github.com/jgilfelt/android-actionbarstylegenerator  
 在线演示：http://jgilfelt.github.io/android-actionbarstylegenerator/  
 
-7. ButterKnifeZelezny  
+1. ButterKnifeZelezny  
 用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
 项目地址：https://github.com/inmite/android-butterknife-zelezny  
 
-8. RoboCoP  
+1. RoboCoP  
 利用Gradle task根据固定格式的json文件生成ContentProvider  
 项目地址：https://github.com/mediarain/RoboCoP  
-效果图：![Renderings](https://github.com/inmite/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif)  
+
+1. appiconsizes  
+用于生成各个分辨率的图片  
+项目地址：http://www.appiconsizes.com/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
