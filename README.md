@@ -1096,6 +1096,10 @@ Demo地址：https://github.com/robolectric/robolectricsample
 1. Android Screenshot library  
 Android截图工具类，用于在持续集成时截图   
 项目地址：https://github.com/rtyley/android-screenshot-lib  
+  
+1. sonar-android-lint-plugin  
+将android lint的错误在sonar中展现   
+项目地址：https://github.com/SonarCommunity/sonar-android  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、测试工具  
