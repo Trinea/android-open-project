@@ -765,6 +765,11 @@ Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDe
 可分块显示大图，支持2D拖动、双击、双指放大、双指捏合  
 项目地址：https://github.com/moagrius/TileView  
 Demo地址：http://moagrius.github.io/TileView/TileViewDemo.apk  
+
+9. BlurEffectForAndroidDesign  
+图片模糊效果  
+项目地址：https://github.com/PomepuyN/BlurEffectForAndroidDesign  
+Demo地址：https://play.google.com/store/apps/details?id=com.npi.blureffect  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
