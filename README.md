@@ -757,9 +757,14 @@ Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDe
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
 7. android-crop  
-图片裁剪Activity
+图片裁剪Activity  
 项目地址：https://github.com/jdamcd/android-crop  
 效果图：![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
+
+8. TileView  
+可分块显示大图，支持2D拖动、双击、双指放大、双指捏合  
+项目地址：https://github.com/moagrius/TileView  
+Demo地址：http://moagrius.github.io/TileView/TileViewDemo.apk  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
