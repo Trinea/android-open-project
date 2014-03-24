@@ -583,7 +583,8 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、网络相关  
-1. Asynchronous Http Client for Android Android异步Http请求  
+1. Asynchronous Http Client for Android  
+Android异步Http请求  
 项目地址：https://github.com/loopj/android-async-http  
 文档介绍：http://loopj.com/android-async-http/  
 特点：(1) 在匿名回调中处理请求结果  
@@ -594,21 +595,25 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (6) 支持解析成Json格式  
 (7) 可将Cookies持久化到SharedPreferences  
    
-2. android-query 异步加载，更少代码完成Android加载  
+1. android-query  
+异步加载，更少代码完成Android加载  
 项目地址：https://github.com/androidquery/androidquery 或 https://code.google.com/p/android-query/  
 文档介绍：https://code.google.com/p/android-query/#Why_AQuery?  
 Demo地址：https://play.google.com/store/apps/details?id=com.androidquery  
 特点：https://code.google.com/p/android-query/#Why_AQuery?  
    
-3. Async Http Client Java异步Http请求  
+1. Async Http Client  
+Java异步Http请求  
 项目地址：https://github.com/AsyncHttpClient/async-http-client  
 文档介绍：http://sonatype.github.io/async-http-client/  
    
-4. Ion 支持图片、json、http post等异步请求  
+1. Ion  
+支持图片、json、http post等异步请求  
 项目地址：https://github.com/koush/ion  
 文档介绍：https://github.com/koush/ion#more-examples  
    
-5. HttpCache Http缓存  
+1. HttpCache  
+Http缓存  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 文档介绍：http://www.trinea.cn/android/android-http-cache  
@@ -618,11 +623,12 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (4) 在UI线程外进行http请求  
 (5) 默认gzip压缩  
    
-6. Http Request  
+1. Http Request  
 项目地址：https://github.com/kevinsawicki/http-request  
 文档介绍：https://github.com/kevinsawicki/http-request#examples  
    
-7. okhttp square开源的http工具类  
+1. okhttp  
+square开源的http工具类  
 项目地址：https://github.com/square/okhttp  
 文档介绍：http://square.github.io/okhttp/  
 特点：(1) 支持SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY协议是Google开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个TCP链接传送网页和图片等资源)和优先级来缩短加载时间。  
@@ -630,9 +636,15 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (3) Gzip压缩  
 (4) Response缓存减少不必要的请求  
    
-8. Retrofit RESTFUL API设计  
+1. Retrofit  
+RESTFUL API设计  
 项目地址：https://github.com/square/retrofit  
 文档介绍：http://square.github.io/retrofit/  
+   
+1. RoboSpice  
+Android异步网络请求工具，支持缓存、REST等等  
+项目地址：https://github.com/stephanenicolas/robospice  
+Demo地址：https://github.com/stephanenicolas/RoboDemo/downloads  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 四、数据库 orm工具包  
@@ -853,6 +865,7 @@ Demo地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.s
 Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、其他  
 1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
