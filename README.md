@@ -1058,12 +1058,18 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
-1. android-test-kit Google的Android测试工具  
+1. Quality Tools for Android  
+Android测试及自测工具集合和示例  
+项目地址：https://github.com/stephanenicolas/Quality-Tools-for-Android  
+
+1. android-test-kit  
+Google的Android测试工具  
 包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
 项目地址：https://code.google.com/p/android-test-kit/  
 文档介绍：https://code.google.com/p/android-test-kit/w/list  
   
-2. robolectric 测试用例编写框架  
+1. robolectric  
+测试用例编写框架  
 项目地址：https://github.com/robolectric/robolectric  
 Demo地址：https://github.com/robolectric/robolectricsample  
 文档介绍：http://robolectric.org/  
@@ -1071,17 +1077,25 @@ Demo地址：https://github.com/robolectric/robolectricsample
 (2). 能完成在真机上的大部分测试包括感应器  
 其他的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
 
-3. Android FEST  
+1. Android FEST  
 提供一些列方便的断言，可用于提高编写Android自测代码效率  
 项目地址：https://github.com/square/fest-android  
-   
-4. Hugo  
+
+1. BoundBox  
+可用于测试类各种访问权限的属性、方法。实际是通过BoundBox这个annotation生成一个属性和方法都是public权限的中间类并对此类进行测试完成的  
+项目地址：https://github.com/stephanenicolas/boundbox  
+
+1. Hugo  
 用于打印函数信息及执行时间的工具，仅在debug模式生效  
 项目地址：https://github.com/JakeWharton/hugo  
   
-5. scalpel  
+1. scalpel  
 在应用下面添加一层用于界面调试，待详细补充 // TODO   
 项目地址：https://github.com/JakeWharton/scalpel  
+  
+1. Android Screenshot library  
+Android截图工具类，用于在持续集成时截图   
+项目地址：https://github.com/rtyley/android-screenshot-lib  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、测试工具  
