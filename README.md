@@ -549,6 +549,10 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 1. Android Slider Preference Library  
 可添加到设置中的基于对话框的RankBar小部件  
 项目地址：https://github.com/jayschwa/AndroidSliderPreference   
+
+1. ShowcaseView library  
+用于高亮显示应用程序的特定部分，从而突出突出重点  
+项目地址：https://github.com/amlcurran/ShowcaseView   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
