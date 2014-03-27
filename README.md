@@ -536,7 +536,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
    
 1. Android Slider Preference Library  
-可添加到设置中的基于对话框的RankBar小部件
+可添加到设置中的基于对话框的RankBar小部件  
 项目地址：https://github.com/jayschwa/AndroidSliderPreference   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
@@ -1086,6 +1086,10 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 
 1. appiconsizes  
 用于生成各个分辨率的图片  
+项目地址：http://www.appiconsizes.com/  
+
+1. Gradle Retrolambda Plugin  
+[Retrolambda](https://github.com/orfjackal/retrolambda)是将Java8的Lambdas应用于Java7的工具，本项目是Gradle插件，通过Retrolambda从而使Java或Android项目用Java8的Lambdas编写，将编译后的字节码转换为Java6和7的字节码从而正常运行  
 项目地址：http://www.appiconsizes.com/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
