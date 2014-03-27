@@ -274,36 +274,47 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
-1. PhotoView 支持双击或双指缩放的ImageView  
+1. PhotoView  
+支持双击或双指缩放的ImageView  
 在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
 项目地址：https://github.com/chrisbanes/PhotoView  
 Demo地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP示例：photup  
    
-2. android-gif-drawable 支持gif显示的view  
+1. android-gif-drawable  
+支持gif显示的view  
 项目地址：https://github.com/koral--/android-gif-drawable  
 用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多  
   
-3. ImageViewEx 支持Gif显示的ImageView  
+1. ImageViewEx  
+支持Gif显示的ImageView  
 项目地址：https://github.com/frapontillo/ImageViewEx  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.apk?raw=true  
 依赖很多，编译过程很繁琐!|_|!
    
-4. RoundedImageView 带圆角的ImageView  
+1. RoundedImageView  
+带圆角的ImageView  
 项目地址：https://github.com/vinc3m1/RoundedImageView  
 效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
    
-5. ColorArt 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
+1. ColorArt  
+根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
 项目地址：https://github.com/MichaelEvans/ColorArt  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
    
-6. CircleImageView 圆形的ImageView  
+1. CircleImageView  
+圆形的ImageView  
 项目地址：https://github.com/hdodenhof/CircleImageView  
 效果图：![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
   
-7. ImageViewZoom 支持放大和平移的ImageView   
+1. ImageViewZoom  
+支持放大和平移的ImageView   
 项目地址：https://github.com/sephiroth74/ImageViewZoom  
-APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.feather
+APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.feather  
+  
+1. KenBurnsView  
+实现Ken Burns effect效果，达到身临其境效果的ImageView   
+项目地址：https://github.com/flavioarfaria/KenBurnsView  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 七、ProgressBar  
