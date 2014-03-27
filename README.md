@@ -534,6 +534,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 34. Discrollview 支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
 项目地址：https://github.com/flavienlaurent/discrollview   
 Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
+   
+1. Android Slider Preference Library  
+可添加到设置中的基于对话框的RankBar小部件
+项目地址：https://github.com/jayschwa/AndroidSliderPreference   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
