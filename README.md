@@ -918,14 +918,17 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、其他  
-1. Salvage view 带View缓存的Viewpager PagerAdapter，很方便使用  
+1. Salvage view  
+带View缓存的Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
    
-2. Android Priority Job Queue Android后台任务队列  
+1. Android Priority Job Queue  
+Android后台任务队列  
 项目地址：https://github.com/path/android-priority-jobqueue  
 文档介绍：https://github.com/path/android-priority-jobqueue#getting-started  
    
-3. jsoup 一个解析html的java库，可方便的提取和操作数据  
+1. jsoup  
+一个解析html的java库，可方便的提取和操作数据  
 项目地址：https://github.com/jhy/jsoup  
 官方网站：http://jsoup.org/  
 作用：(1) 从一个url、文件或string获得html并解析  
@@ -934,7 +937,8 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 (4) 根据白名单去除用于提交的非法数据防止xss攻击  
 (5) 输出整齐的html  
    
-4. ZIP java压缩和解压库  
+1. ZIP  
+java压缩和解压库  
 项目地址：https://github.com/zeroturnaround/zt-zip  
 文档介绍：https://github.com/zeroturnaround/zt-zip#examples  
 作用：(1) 解压和压缩，并支持文件夹内递归操作  
@@ -943,64 +947,80 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 (4) 支持遍历zip包内容  
 (5) 比较两个zip包等功能  
    
-5. Cobub Razor 开源的mobile行为分析系统，包括web端、android端，支持ios和window phone  
+1. Cobub Razor  
+开源的mobile行为分析系统，包括web端、android端，支持ios和window phone  
 项目地址：https://github.com/cobub/razor  
 Demo地址：http://demo.cobub.com/razor  
 网站介绍：http://dev.cobub.com/  
    
-6. aFileChooser 文件选择器，可内嵌到程序中，而无需使用系统或三方文件选择器。  
+1. aFileChooser  
+文件选择器，可内嵌到程序中，而无需使用系统或三方文件选择器。  
 项目地址：https://github.com/iPaulPro/aFileChooser  
    
-7. androidpn 基于xmpp协议的消息推送解决方案，包括服务器端和android端。  
+1. androidpn  
+基于xmpp协议的消息推送解决方案，包括服务器端和android端。  
 项目地址：https://github.com/dannytiehui/androidpn  
    
-8. Android插件式开发  
+1. Android Plugin Framework  
+Android插件式开发  
 项目地址：https://github.com/umeng/apf  
  
-9. purePDF 允许从任何运行的SWF文件读取和创建PDF文档  
+1. purePDF  
+允许从任何运行的SWF文件读取和创建PDF文档  
 项目地址：https://github.com/sephiroth74/purePDF  
 
-10. Bolts Android的异步编程模式  
+1. Bolts  
+Android的异步编程模式  
 项目地址：https://github.com/BoltsFramework/Bolts-Android/  
 与AsyncTask比较：(1) 使用的是无大小限制的线程池  
 (2) 任务可组合可级联，防止了代码耦合  
 
-11. CastCompanionLibrary-android 使Android程序中更快的接入Google Cast  
+1. CastCompanionLibrary-android  
+使Android程序中更快的接入Google Cast  
 项目地址：https://github.com/googlecast/CastCompanionLibrary-android  
 文档介绍：https://developers.google.com/cast/  
   
-12. CastVideos-android 从Android设备分享Video通过Google Cast  
+1. CastVideos-android  
+从Android设备分享Video通过Google Cast  
 项目地址：https://github.com/googlecast/CastVideos-android  
 文档介绍：https://developers.google.com/cast/  
   
-13. Uninstall_Statics Android应用自身被卸载监听及打开浏览器等反馈功能实现  
+1. Uninstall_Statics  
+Android应用自身被卸载监听及打开浏览器等反馈功能实现  
 项目地址：https://github.com/sevenler/Uninstall_Statics  
 文档介绍：http://www.cnblogs.com/zealotrouge/p/3157126.html  
 http://www.cnblogs.com/zealotrouge/p/3159772.html  
 
-14. xCombine Android App插件式插件开发  
+1. xCombine  
+Android App插件式插件开发  
 项目地址：https://github.com/wyouflf/xCombine  
 文档介绍：http://my.oschina.net/u/1171837/blog/155377  
 
-15. Memento 保证在系统配置改变时，Activity中的某些数据可以简单安全的保持不变  
+1. Memento  
+保证在系统配置改变时，Activity中的某些数据可以简单安全的保持不变  
 项目地址：https://github.com/mttkay/memento  
 文档介绍：https://github.com/mttkay/memento#usage  
 
-16. svg-android Android Svg矢量图形支持  
+1. svg-android  
+Android Svg矢量图形支持  
 项目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
 
-17. Office 365 SDK Android office支持
+1. Office 365 SDK for Android Preview  
 可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
 项目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
 
-18. OpenSpritz-Android  
+1. OpenSpritz-Android  
 Epub阅读器
 项目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
    
-19. FreeFlow  
+1. FreeFlow  
 布局引擎，更简单的创建自定义布局，并且当数据和布局改变时更美观的过渡动画  
 项目地址：https://github.com/Comcast/FreeFlow  
 Demo地址：https://github.com/Comcast/FreeFlow/releases  
+
+1. Android Gesture Detectors Framework  
+Android手势框架，支持双指旋转、移动、平移、缩放等  
+项目地址：https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
