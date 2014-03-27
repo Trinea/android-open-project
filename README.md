@@ -751,53 +751,63 @@ Demo地址：https://play.google.com/store/apps/details?id=org.jraf.android.back
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 七、多媒体相关  
-1. cocos2d-x 跨平台的2d游戏框架，支持Android、IOS、Linux、Windows等众多平台  
+1. cocos2d-x  
+跨平台的2d游戏框架，支持Android、IOS、Linux、Windows等众多平台  
 项目地址：https://github.com/cocos2d/cocos2d-x  
 文档介绍：http://www.cocos2d-x.org/wiki  
 官方网站：http://www.cocos2d-x.org/  
    
-2. Vitamio 是一款Android与iOS平台上的全能多媒体开发框架  
+1. Vitamio  
+是一款Android与iOS平台上的全能多媒体开发框架  
 项目地址：https://github.com/yixia/VitamioBundle  
 网站介绍：http://www.vitamio.org/docs/  
 特点：(1) 全面支持硬件解码与GPU渲染  
 (2) 能够流畅播放720P甚至1080P高清MKV，FLV，MP4，MOV，TS，RMVB等常见格式的视频  
 (3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。  
    
-3. PhotoProcessing 利用ndk处理图片库，支持Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
+1. PhotoProcessing  
+利用ndk处理图片库，支持Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
 项目地址：https://github.com/lightbox/PhotoProcessing  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/photo-processing.apk?raw=true  
    
-4. Android StackBlur 图片模糊效果工具类  
+1. Android StackBlur  
+图片模糊效果工具类  
 项目地址：https://github.com/kikoso/android-stackblur  
 Demo地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 文档介绍：https://github.com/kikoso/android-stackblur#usage  
 
-5. Bitmap Smart Clipping using OpenCV 图片智能裁剪保留重要部分显示   
+1. Bitmap Smart Clipping using OpenCV  
+图片智能裁剪保留重要部分显示   
 项目地址：https://github.com/beartung/tclip-android  
 利用淘宝的 http://code.taobao.org/p/tclip/ 库完成  
 一淘玩客正在使用的图片裁剪，自动识别图片中的重要区域，并且在图片裁剪时保留重要区域  
 特点：(1). 能进行人脸识别。图片中有人脸，将自动视为人脸区域为重要区域，将不会被裁剪掉  
 (2).自动其它重要区域。如果图片中未识别出人脸，则会根据特征分布计算出重区域  
    
-6. Cropper 图片局部剪切工具，可触摸控制选择区域或旋转  
+1. Cropper  
+图片局部剪切工具，可触摸控制选择区域或旋转  
 项目地址：https://github.com/edmodo/cropper  
 使用介绍：https://github.com/edmodo/cropper/wiki  
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
-7. android-crop  
+1. android-crop  
 图片裁剪Activity  
 项目地址：https://github.com/jdamcd/android-crop  
 效果图：![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 
-8. TileView  
+1. TileView  
 可分块显示大图，支持2D拖动、双击、双指放大、双指捏合  
 项目地址：https://github.com/moagrius/TileView  
 Demo地址：http://moagrius.github.io/TileView/TileViewDemo.apk  
 
-9. BlurEffectForAndroidDesign  
+1. BlurEffectForAndroidDesign  
 图片模糊效果  
 项目地址：https://github.com/PomepuyN/BlurEffectForAndroidDesign  
-Demo地址：https://play.google.com/store/apps/details?id=com.npi.blureffect  
+
+1. android-eye  
+PC端网页查看同一局域网内的手机摄像头内容，可以用来监控哦  
+项目地址：https://github.com/Teaonly/android-eye  
+Demo地址：https://play.google.com/store/apps/details?id=teaonly.droideye  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
@@ -1090,7 +1100,7 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 
 1. Gradle Retrolambda Plugin  
 [Retrolambda](https://github.com/orfjackal/retrolambda)是将Java8的Lambdas应用于Java7的工具，本项目是Gradle插件，通过Retrolambda从而使Java或Android项目用Java8的Lambdas编写，将编译后的字节码转换为Java6和7的字节码从而正常运行  
-项目地址：http://www.appiconsizes.com/  
+项目地址：https://github.com/evant/gradle-retrolambda  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
