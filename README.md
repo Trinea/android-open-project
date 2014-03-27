@@ -806,35 +806,48 @@ Demo地址：https://play.google.com/store/apps/details?id=com.npi.blureffect
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 九、传感器  
-1. Great Android Sensing Toolkit Android感应器工具包，包含示例及使用过程中可能需要的算法  
+1. Great Android Sensing Toolkit  
+Android感应器工具包，包含示例及使用过程中可能需要的算法  
 项目地址：https://github.com/gast-lib/gast-lib  
 Demo地址：https://play.google.com/store/apps/details?id=root.gast.playground  
 文档介绍：https://github.com/gast-lib/gast-lib#documentation  
 
-2. SensorManager Android传感器管理  
+1. SensorManager  
+Android传感器管理  
 项目地址：https://github.com/nlathia/SensorManager  
 文档介绍：https://docs.google.com/document/d/1TqThJULb-4e6TGb1gdkAaPCfyuXStjJpbnt7a0OZ9OE/edit  
 
-3. GPSLogger 记录GPS信息  
+1. GPSLogger  
+记录GPS信息  
 项目地址：https://github.com/mendhak/gpslogger  
 Demo地址：https://play.google.com/store/apps/details?id=com.mendhak.gpslogger  
 文档介绍：http://code.mendhak.com/gpslogger/  
 
-4. Pedometer 计步器，使用硬件计步感应器  
+1. Pedometer  
+计步器，使用硬件计步感应器  
 项目地址：https://github.com/j4velin/Pedometer  
 
-5. leapcast ChromeCast模拟器的App  
+1. leapcast  
+ChromeCast模拟器的App  
 项目地址：https://github.com/dz0ny/leapcast  
 
-6. Arduino-Communicator 与Arduino通信的App  
+1. Arduino-Communicator  
+与Arduino通信的App  
 项目地址：https://github.com/jeppsson/Arduino-Communicator  
 
-7. android-pedometer Android计步器  
+1. android-pedometer  
+Android计步器  
 项目地址：https://github.com/bagilevi/android-pedometer  
 Demo地址：http://pedometer.googlecode.com/files/Pedometer-1.4.apk  
 
-8. OwnTracks for Android 自己的轨迹记录  
+1. OwnTracks for Android  
+自己的轨迹记录  
 项目地址：https://github.com/owntracks/android  
+
+1. Shake Detector library for Android   
+Android手机震动摇晃检测库，提供供UI线程调用的回调接口  
+项目地址：https://github.com/tbouron/ShakeDetector  
+Demo地址：https://play.google.com/store/apps/details?id=com.github.tbouron.shakedetector.example  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
