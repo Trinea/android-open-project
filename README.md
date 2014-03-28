@@ -889,6 +889,10 @@ Demo地址：http://pedometer.googlecode.com/files/Pedometer-1.4.apk
 Android手机震动摇晃检测库，提供供UI线程调用的回调接口  
 项目地址：https://github.com/tbouron/ShakeDetector  
 Demo地址：https://play.google.com/store/apps/details?id=com.github.tbouron.shakedetector.example  
+
+1. Android heart rate monitor   
+Android心跳检测  
+项目地址：https://github.com/phishman3579/android-heart-rate-monitor  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
