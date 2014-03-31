@@ -893,6 +893,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.github.tbouron.sh
 1. Android heart rate monitor   
 Android心跳检测  
 项目地址：https://github.com/phishman3579/android-heart-rate-monitor  
+
+1. Bluetooth LE Library for Android   
+蓝牙源信息，包括宝库Mac、更新时间、RSSI、UUID、信号源距离、影响范围等信息  
+项目地址：https://github.com/alt236/Bluetooth-LE-Library---Android  
+Demo地址：https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
