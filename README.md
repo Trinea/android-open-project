@@ -823,6 +823,11 @@ Demo地址：http://moagrius.github.io/TileView/TileViewDemo.apk
 PC端网页查看同一局域网内的手机摄像头内容，可以用来监控哦  
 项目地址：https://github.com/Teaonly/android-eye  
 Demo地址：https://play.google.com/store/apps/details?id=teaonly.droideye  
+
+1. libpng for Android  
+PNG图片的jni库，支持几乎png的所有特性  
+项目地址：https://github.com/julienr/libpng-android  
+文档地址：http://www.libpng.org/pub/png/libpng.html  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
