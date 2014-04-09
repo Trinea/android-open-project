@@ -19,16 +19,7 @@ Android Open Source Projects
 [Android开源项目第五篇——优秀个人和团体篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
-*感谢[vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
-*log:2014-04-08 由 [likebamoo](https://github.com/likebamboo)增加以下项目：*   
-*个性化控件(View) ListView -- EnhancedListView*   
-*个性化控件(View) ListView -- ListBuddies*   
-*个性化控件(View) Menu -- AndroidResideMenu*   
-*个性化控件(View) ImageView -- CustomShapeImageView*   
-*个性化控件(View) ProgressBar -- GoogleProgressBar*   
-*个性化控件(View) ProgressBar -- TH-ProgressButton*  
-*个性化控件(View) TextView -- Titanic*   
-*个性化控件(View) 其他 -- PullScrollView*   
+*感谢[likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
 
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
@@ -132,7 +123,6 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 项目地址：https://github.com/jpardogo/ListBuddies   
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
-   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 #### 二、ActionBar  
@@ -207,9 +197,7 @@ APP示例：Path
 1. AndroidResideMenu 仿 Dribbble 的边栏菜单   
 项目地址：https://github.com/SpecialCyCi/AndroidResideMenu    
 效果图：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
-
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator 配合ViewPager使用的Indicator，支持各种位置和样式  
@@ -341,14 +329,13 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 1. KenBurnsView  
 实现Ken Burns effect效果，达到身临其境效果的ImageView   
 项目地址：https://github.com/flavioarfaria/KenBurnsView  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. CustomShapeImageView    
 各种形状的ImageView, 相比上面的圆形ImageView，多了更多形状    
 项目地址：https://github.com/MostafaGazar/CustomShapeImageView     
 效果图：![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
-  
-  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
 项目地址：https://github.com/castorflex/SmoothProgressBar  
@@ -384,7 +371,6 @@ APP示例：Android4.1时钟App
 	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)
 	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)
 	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)
-
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、TextView  
@@ -434,7 +420,6 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 可以显示水位上升下降(不知道该怎么描述 囧)的TextView    
 项目地址：https://github.com/RomainPiel/Titanic    
 效果图：![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
-
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、其他  
@@ -612,7 +597,6 @@ Android上的Segmented Controls，相当于RadioButton组
 仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
 项目地址：https://github.com/MarkMjw/PullScrollView    
 效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
- 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
