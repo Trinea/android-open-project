@@ -20,6 +20,16 @@ Android Open Source Projects
 *&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
   
 *感谢[vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
+*log:2014-04-08 由 [likebamoo](https://github.com/likebamboo)增加以下项目：*   
+*个性化控件(View) ListView -- EnhancedListView*   
+*个性化控件(View) ListView -- ListBuddies*   
+*个性化控件(View) Menu -- AndroidResideMenu*   
+*个性化控件(View) ImageView -- CustomShapeImageView*   
+*个性化控件(View) ProgressBar -- GoogleProgressBar*   
+*个性化控件(View) ProgressBar -- TH-ProgressButton*  
+*个性化控件(View) TextView -- Titanic*   
+*个性化控件(View) 其他 -- PullScrollView*   
+
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
@@ -109,10 +119,20 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-lis
    
 19. LinearListView 用LinearLayout实现的ListView，可解决多个ListView并且等问题。目前自己也有需要，等亲自尝试过后会再具体介绍  
 项目地址：https://github.com/frankiesardo/LinearListView   
-   
+   1. CustomShapeImageView    
 20. MultiChoiceAdapter 支持多选的ListView Adapter  
 项目地址：https://github.com/ManuelPeinado/MultiChoiceAdapter   
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.multichoiceadapter.demo  
+
+1. EnhancedListView  支持横向滑动滑动删除列表项以及撤销删除的ListView，该项目的前身是[SwipeToDismissUndoList](https://github.com/timroes/SwipeToDismissUndoList)   
+项目地址：https://github.com/timroes/EnhancedListView   
+Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.listviewdemo&rdid=de.timroes.android.listviewdemo   
+   
+1. ListBuddies 自动滚动的双列ListView ，两个ListView滚动速度不一致，有视差效果   
+项目地址：https://github.com/jpardogo/ListBuddies   
+Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
+效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
+   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 #### 二、ActionBar  
@@ -183,7 +203,13 @@ APP示例：Path
 项目地址：https://github.com/tibi1712/FoldingNavigationDrawer-Android  
 使用介绍：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
 效果图：![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
+
+1. AndroidResideMenu 仿 Dribbble 的边栏菜单   
+项目地址：https://github.com/SpecialCyCi/AndroidResideMenu    
+效果图：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator 配合ViewPager使用的Indicator，支持各种位置和样式  
@@ -317,6 +343,12 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 项目地址：https://github.com/flavioarfaria/KenBurnsView  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. CustomShapeImageView    
+各种形状的ImageView, 相比上面的圆形ImageView，多了更多形状    
+项目地址：https://github.com/MostafaGazar/CustomShapeImageView     
+效果图：![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
+  
+  
 #### 七、ProgressBar  
 1. SmoothProgressBar 水平进度条  
 项目地址：https://github.com/castorflex/SmoothProgressBar  
@@ -337,10 +369,22 @@ APP示例：square
 APP示例：Android4.1时钟App  
 效果图：![Renderings](https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png)  
   
-5. ProgressButton 通过图钉的不同状态显示进度  
-项目地址：https://github.com/f2prateek/progressbutton  
-文档介绍：http://f2prateek.com/progressbutton/  
+5. ProgressButton 通过图钉的不同状态显示进度     
+项目地址：https://github.com/f2prateek/progressbutton   
+文档介绍：http://f2prateek.com/progressbutton/   
 效果图：![Renderings](http://f2prateek.com/progressbutton/static/states.png)  
+
+1. GoogleProgressBar 类似google 多个圆形卡片翻转的progressBar   
+项目地址：https://github.com/jpardogo/GoogleProgressBar   
+效果图：![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif)  
+
+1. TH-ProgressButton 带圆形进度显示的按钮   
+项目地址；https://github.com/torryharris/TH-ProgressButton    
+效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)
+	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)
+	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)
+	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、TextView  
@@ -385,6 +429,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 8. Shimmer for Android  
 文字发淡光的TextView  
 项目地址：https://github.com/RomainPiel/Shimmer-android  
+
+1. Titanic   
+可以显示水位上升下降(不知道该怎么描述 囧)的TextView    
+项目地址：https://github.com/RomainPiel/Titanic    
+效果图：![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、其他  
@@ -557,6 +607,12 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 1. android-segmented-control  
 Android上的Segmented Controls，相当于RadioButton组  
 项目地址：https://github.com/hoang8f/android-segmented-control   
+
+1. PullScrollView   
+仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
+项目地址：https://github.com/MarkMjw/PullScrollView    
+效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
+ 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第二部分 工具库  
