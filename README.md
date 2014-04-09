@@ -25,8 +25,7 @@ Android Open Source Projects
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
 #### 一、ListView  
 1. android-pulltorefresh  
-一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WevView、ExpandableListView、GridView、(Horizontal  
-)ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
+一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WevView、ExpandableListView、GridView、ScrollView、Horizontal  ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
 项目地址：https://github.com/chrisbanes/Android-PullToRefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
 APP示例：新浪微博各个页面  
@@ -44,8 +43,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
    
 4. DragSortListView  
-拖动排序的ListView  
-同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
+拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
 Demo地址：https://play.google.com/store/apps/details?id=com.mobeta.android.demodslv  
 APP示例：Wordpress Android  
@@ -287,27 +285,23 @@ Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager
 
 #### 五、GridView  
 1. StaggeredGridView  
-允许非对齐行的GridView  
-类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
+允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
 项目地址：https://github.com/maurycyw/StaggeredGridView  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/staggered-gridview-demo.apk?raw=true  
 APP示例：Pinterest等  
    
 1. AndroidStaggeredGrid  
-允许非对齐行的GridView  
-类似Pinterest的瀑布流，继承自AbsListView  
+允许非对齐行的GridView，类似Pinterest的瀑布流，继承自AbsListView  
 项目地址：https://github.com/etsy/AndroidStaggeredGrid  
 APP示例：Pinterest等  
    
 1. PinterestLikeAdapterView  
-允许非对齐行的GridView  
-类似Pinterest的瀑布流，允许下拉刷新  
+允许非对齐行的GridView，类似Pinterest的瀑布流，允许下拉刷新  
 项目地址：https://github.com/GDG-Korea/PinterestLikeAdapterView  
 APP示例：Pinterest等  
    
 1. DraggableGridView  
-Item可拖动交换位置的GridView  
-实际是自己继承ViewGroup实现，类似桌面的单屏效果，可屏幕自动上下滚动进行Item移动交换，多屏效果见下面PagedDragDropGrid  
+Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，类似桌面的单屏效果，可屏幕自动上下滚动进行Item移动交换，多屏效果见下面PagedDragDropGrid  
 项目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
    
@@ -317,30 +311,26 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
 
 1. PagedDragDropGrid  
-Item可拖动交换位置、拖动删除的自定义控件  
-实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
+Item可拖动交换位置、拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
 项目地址：https://github.com/mrKlar/PagedDragDropGrid  
 Demo视频：http://youtu.be/FYTSRfthSuQ  
 
 1. Android-DraggableGridViewPager  
-Item可拖动交换位置的GridView  
-实际是自己继承ViewGroup实现，类似桌面的多屏效果，可屏幕自动左右滚动进行Item移动交换，单屏效果见上面DraggableGridView  
+Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可屏幕自动左右滚动进行Item移动交换，单屏效果见上面DraggableGridView  
 项目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
 1. PhotoView  
-支持双击或双指缩放的ImageView  
-在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
+支持双击或双指缩放的ImageView，在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
 项目地址：https://github.com/chrisbanes/PhotoView  
 Demo地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP示例：photup  
    
 1. android-gif-drawable  
-支持gif显示的view  
+支持gif显示的view，用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多   
 项目地址：https://github.com/koral--/android-gif-drawable  
-用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多  
   
 1. ImageViewEx  
 支持Gif显示的ImageView  
@@ -470,8 +460,7 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 
 #### 九、其他  
 1. achartengine  
-强大的图表绘制工具  
-支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
+强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
 项目地址：https://code.google.com/p/achartengine/  
 官方网站：http://www.achartengine.org/  
 效果图：![Renderings](http://www.achartengine.org/dimages/average_temperature.png)  
@@ -482,8 +471,7 @@ http://www.achartengine.org/dimages/budget_chart.png
 APP示例：Wordpress Android，Google Analytics  
    
 2. GraphView  
-绘制图表和曲线图的View  
-可用于Android上的曲形图、柱状图、波浪图展示  
+绘制图表和曲线图的View，可用于Android上的曲形图、柱状图、波浪图展示  
 项目地址：https://github.com/jjoe64/GraphView  
 Demo工程：https://github.com/jjoe64/GraphView-Demos  
 Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
@@ -517,14 +505,12 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/cards-ui-demo.
 Demo地址：https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo  
    
 8. android-styled-dialogs  
-可自定义样式的dialog  
-默认与Holo主题样式一致，在Android2.2以上同一样式  
+可自定义样式的dialog，默认与Holo主题样式一致，在Android2.2以上同一样式  
 项目地址：https://github.com/inmite/android-styled-dialogs  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
    
 9. Crouton  
-丰富样式的Toast  
-允许alert、comfirm、info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
+丰富样式的Toast，允许alert、comfirm、info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
 项目地址：https://github.com/keyboardsurfer/Crouton  
 Demo地址：http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
@@ -546,8 +532,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano
 APP示例：Google Music精简播放栏  
    
 13. android-times-square  
-Android日历时间部件  
-支持选取单个日期，多个日期，及日期区间段和对话框形式显示  
+Android日历时间部件，支持选取单个日期，多个日期，及日期区间段和对话框形式显示  
 项目地址：https://github.com/square/android-times-square  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/times-square-demo.apk?raw=true  
    
@@ -578,8 +563,7 @@ Android Wheel支持城市、多种日期时间、密码、图片
 Demo地址：http://bit.ly/13buAIq  
    
 19. UITableView  
-ios风格控件  
-包括Button、ListView、TableView  
+ios风格控件，包括Button、ListView、TableView  
 项目地址：https://github.com/thiagolocatelli/android-uitableview  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/ui-tableview-demo.apk?raw=true  
    
@@ -608,7 +592,9 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 项目地址：https://github.com/rock3r/GlowPadBackport  
 Demo地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
 效果图：![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
-25. GlowPadView Android4锁屏界面解锁  
+
+25. GlowPadView  
+Android4锁屏界面解锁  
 项目地址：https://github.com/nadavfima/GlowPadView  
 效果图：https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
@@ -714,8 +700,7 @@ PS：与roboguice的比较：roboguice通过运行时读取annotations进行反�
 
 #### 二、图片缓存  
 1. Android-Universal-Image-Loader  
-图片缓存  
-目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
+图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
 文档介绍：http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
@@ -839,8 +824,7 @@ Android Sqlite orm的db工具类
 
 #### 五、Android公共库  
 1. Guava  
-Google的基于java1.6的类库集合的扩展项目  
-包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
+Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 项目地址：https://code.google.com/p/guava-libraries/  
 文档介绍：https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
    
@@ -1179,7 +1163,7 @@ Android Svg矢量图形支持
 项目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
 
 1. OpenSpritz-Android  
-Epub阅读器
+Epub阅读器  
 项目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
    
 1. FreeFlow  
