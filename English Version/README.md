@@ -7,20 +7,20 @@ Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;Home
 Share：<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
 ## Include：  
 >[Personalized Views](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-part-personalized-views)  
-*&nbsp;&nbsp;include[ListView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-listview)&nbsp;&nbsp;[ActionBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-actionbar)&nbsp;&nbsp;[Menu](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-menu)&nbsp;&nbsp;[ViewPager](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-viewpager-gallery)&nbsp;&nbsp;[Gallery](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-gridview)&nbsp;&nbsp;[ImageView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-imageview)&nbsp;&nbsp;[ProgressBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-progressbar)&nbsp;&nbsp;[TextView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-textview)&nbsp;&nbsp;[Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-others)*  
+*&nbsp;&nbsp;include[ListView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-listview), [ActionBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-actionbar), [Menu](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-menu), [ViewPager](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-viewpager-gallery), [Gallery](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-gridview), [ImageView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-imageview), [ProgressBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-progressbar), [TextView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-textview), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-others)*  
 [Common Util Libs](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-part-common-util-libs)  
-*&nbsp;&nbsp;include[Dependency Injection](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-dependency-injection)&nbsp;&nbsp;[ImageCache](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-image-cache)&nbsp;&nbsp;[Network](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-network)&nbsp;&nbsp;[Database ORM](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-database-orm)&nbsp;&nbsp;[Android common lib](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-android-common-lib)&nbsp;&nbsp;[Compatible low version](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-android-compatible-low-version)&nbsp;&nbsp;[Multimedia](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-multimedia)&nbsp;&nbsp;[Event Bus](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-event-bus)&nbsp;&nbsp;[Sensor](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-sensor)&nbsp;&nbsp;[Security](https://github.com/Trinea/android-open-project/tree/master/English%20Version#tenth-security)&nbsp;&nbsp;[Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eleventh-others)*  
+*&nbsp;&nbsp;include[Dependency Injection](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-dependency-injection), [ImageCache](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-image-cache), [Network](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-network), [Database ORM](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-database-orm), [Android common lib](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-android-common-lib), [Compatible low version](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-android-compatible-low-version), [Multimedia](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-multimedia), [Event Bus](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-event-bus), [Sensor](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-sensor), [Security](https://github.com/Trinea/android-open-project/tree/master/English%20Version#tenth-security), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eleventh-others)*  
 [Excellent projects](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-part-excellent-projects)  
-*&nbsp;&nbsp;More interesting android project*  
+*&nbsp;&nbsp;more interesting android project*  
 [Development and testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#forth-part-development-and-testing-tools)  
-*&nbsp;&nbsp;include[Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools)&nbsp;&nbsp;[Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related)&nbsp;&nbsp;[Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools)&nbsp;&nbsp;[Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment)&nbsp;&nbsp;[Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
+*&nbsp;&nbsp;include[Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools), [Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related), [Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools), [Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
 [Outstanding individuals and groups](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-part-outstanding-individuals-and-groups)  
-*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton&nbsp;&nbsp;Chris Banes&nbsp;&nbsp;Koushik Dutta and so on*
+*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
   
 *Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
 
 ## First part. Personalized Views  
-主要介绍那些不错个性化的View，include ListView&nbsp;&nbsp;ActionBar&nbsp;&nbsp;Menu&nbsp;&nbsp;ViewPager&nbsp;&nbsp;Gallery&nbsp;&nbsp;GridView&nbsp;&nbsp;ImageView&nbsp;&nbsp;ProgressBar及Others如Dialog&nbsp;&nbsp;Toast&nbsp;&nbsp;EditText&nbsp;&nbsp;TableView&nbsp;&nbsp;Activity Animation等等。  
+主要介绍那些不错个性化的View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar及Others如Dialog, Toast, EditText, TableView, Activity Animation等等。  
 #### First. ListView  
 1. android-pulltorefresh  
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
@@ -41,7 +41,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo
 Document: http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
    
 1. DragSortListView  
-拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一&nbsp;&nbsp;单选&nbsp;&nbsp;复选&nbsp;&nbsp;CursorAdapter做为适配器&nbsp;&nbsp;拖动背景变化等  
+拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一, 单选, 复选, CursorAdapter做为适配器, 拖动背景变化等  
 Project Address: https://github.com/bauerca/drag-sort-listview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.mobeta.android.demodslv  
 Similar App: Wordpress Android  
@@ -83,7 +83,7 @@ Similar App: google plus
 ListView右侧会显示item首字母快捷索引，点击可快速滑动到某个item  
 Project Address: https://github.com/woozzu/IndexableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/indexable-listview.apk?raw=true  
-Similar App: 微信通讯录&nbsp;&nbsp;小米联系人  
+Similar App: 微信通讯录, 小米联系人  
    
 1. CustomFastScrollView  
 ListView快速滑动，同时屏幕中间PopupWindows显示滑动到的item内容或首字母  
@@ -101,16 +101,16 @@ Project Address: https://github.com/tjerkw/Android-SlideExpandableListView
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
    
 1. JazzyListView  
-ListView及GridView item以特殊动画效果进入屏幕，效果include grow&nbsp;&nbsp;cards&nbsp;&nbsp;curl&nbsp;&nbsp;wave&nbsp;&nbsp;flip&nbsp;&nbsp;fly等等  
+ListView及GridView item以特殊动画效果进入屏幕，效果include grow, cards, curl, wave, flip, fly等等  
 Project Address: https://github.com/twotoasters/JazzyListView  
 Demo Apk: https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample  
 效果展示：http://lab.hakim.se/scroll-effects/  
    
 1. ListViewAnimations  
-带Item显示动画的ListView，动画include底部飞入&nbsp;&nbsp;Others方向斜飞入&nbsp;&nbsp;下层飞入&nbsp;&nbsp;渐变消失&nbsp;&nbsp;滑动删除等  
+带Item显示动画的ListView，动画include底部飞入, Others方向斜飞入, 下层飞入, 渐变消失, 滑动删除等  
 Project Address: https://github.com/nhaarman/ListViewAnimations  
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations  
-Similar App: Google plus&nbsp;&nbsp;Google Now卡片式进入&nbsp;&nbsp;小米系统中应用商店&nbsp;&nbsp;联系人&nbsp;&nbsp;游戏中心&nbsp;&nbsp;音乐&nbsp;&nbsp;文件管理器的ListView&nbsp;&nbsp;Ultimate&nbsp;&nbsp;Light Flow Lite&nbsp;&nbsp;TreinVerkeer&nbsp;&nbsp;Running Coach&nbsp;&nbsp;Pearl Jam Lyrics&nbsp;&nbsp;Calorie Chart&nbsp;&nbsp;Car Hire&nbsp;&nbsp;Super BART&nbsp;&nbsp;DK FlashCards&nbsp;&nbsp;Counter Plus&nbsp;&nbsp;Voorlees Verhaaltjes 2.0  
+Similar App: Google plus, Google Now卡片式进入, 小米系统中应用商店, 联系人, 游戏中心, 音乐, 文件管理器的ListView, Ultimate, Light Flow Lite, TreinVerkeer, Running Coach, Pearl Jam Lyrics, Calorie Chart, Car Hire, Super BART, DK FlashCards, Counter Plus, Voorlees Verhaaltjes 2.0  
    
 1. DevsmartLib-Android  
 横向ListView  
@@ -182,20 +182,20 @@ Similar App: google music
 
 #### Third. Menu   
 1. MenuDrawer   
-滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘&nbsp;&nbsp;ListView边缘&nbsp;&nbsp;ViewPager变化划出菜单等。  
+滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘, ListView边缘, ViewPager变化划出菜单等。  
 Project Address: https://github.com/SimonVT/android-menudrawer  
 Demo Apk: http://simonvt.github.io/android-menudrawer/  
-Similar App: Gmail&nbsp;&nbsp;Google Music等大部分google app  
+Similar App: Gmail, Google Music等大部分google app  
    
 1. SlidingMenu  
-滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕左右划出，支持菜单zoom&nbsp;&nbsp;scale&nbsp;&nbsp;slide up三种动画样式出现。  
+滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕左右划出，支持菜单zoom, scale, slide up三种动画样式出现。  
 Project Address: https://github.com/jfeinstein10/SlidingMenu  
 Demo Apk: https://play.google.com/store/apps/details?id=com.slidingmenu.example  
 Similar App: Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for Android, ESPN ScoreCenter, MLS MatchDay, 9GAG, Wunderlist 2, The Verge, MTG Familiar, Mantano Reader, Falcon Pro (BETA), MW3 Barracks  
 MenuDrawer和SlidingMenu比较：SlidingMenu支持菜单动画样式出现，MenuDrawer支持菜单view处于内容的上下层  
    
 1. ArcMenu  
-支持类似Path的左下角动画旋转菜单及横向划出菜单&nbsp;&nbsp;圆心弹出菜单  
+支持类似Path的左下角动画旋转菜单及横向划出菜单, 圆心弹出菜单  
 Project Address: https://github.com/daCapricorn/ArcMenu  
 Similar App: Path  
 Renderings: ![Renderings](https://dl.dropboxusercontent.com/u/11369687/preview0.png)  
@@ -238,7 +238,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.viewpagerindicator.s
 Similar App: 太多了。。  
    
 1. JazzyViewPager  
-支持Fragment切换动画的ViewPager，动画include转盘&nbsp;&nbsp;淡入淡出&nbsp;&nbsp;翻页&nbsp;&nbsp;层叠&nbsp;&nbsp;旋转&nbsp;&nbsp;方块&nbsp;&nbsp;翻转&nbsp;&nbsp;放大缩小等  
+支持Fragment切换动画的ViewPager，动画include转盘, 淡入淡出, 翻页, 层叠, 旋转, 方块, 翻转, 放大缩小等  
 Project Address: https://github.com/jfeinstein10/JazzyViewPager  
 Demo Apk: https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
@@ -310,7 +310,7 @@ Project Address: https://github.com/TonicArtos/StickyGridHeaders
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
 
 1. PagedDragDropGrid  
-Item可拖动交换位置&nbsp;&nbsp;拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
+Item可拖动交换位置, 拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
 Project Address: https://github.com/mrKlar/PagedDragDropGrid  
 Demo视频：http://youtu.be/FYTSRfthSuQ  
 
@@ -409,7 +409,7 @@ Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/mas
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Eighth. TextView  
-includeTextView及所有继承自TextView控件，如EditText&nbsp;&nbsp;Button&nbsp;&nbsp;RadioButton  
+includeTextView及所有继承自TextView控件，如EditText, Button, RadioButton  
 
 1. android-flowtextview  
 文字自动环绕Others View的Layout  
@@ -417,7 +417,7 @@ Project Address: https://code.google.com/p/android-flowtextview/
 Renderings: http://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
   
 1. Android Form EditText  
-验证输入合法性的编辑框，支持输入&nbsp;&nbsp;英文&nbsp;&nbsp;ip&nbsp;&nbsp;url等多种正则验证  
+验证输入合法性的编辑框，支持输入, 英文, ip, url等多种正则验证  
 Project Address: https://github.com/vekexasia/android-edittext-validator  
 Demo Apk: https://play.google.com/store/apps/details?id=com.andreabaccega.edittextformexample  
 
@@ -458,7 +458,7 @@ Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titan
 
 #### Ninth. Others  
 1. achartengine  
-强大的图表绘制工具，支持折线图&nbsp;&nbsp;面积图&nbsp;&nbsp;散点图&nbsp;&nbsp;时间图&nbsp;&nbsp;柱状图&nbsp;&nbsp;条图&nbsp;&nbsp;饼图&nbsp;&nbsp;气泡图&nbsp;&nbsp;圆环图&nbsp;&nbsp;范围（高至低）条形图&nbsp;&nbsp;拨号图/表&nbsp;&nbsp;立方线图及各种图的结合  
+强大的图表绘制工具，支持折线图, 面积图, 散点图, 时间图, 柱状图, 条图, 饼图, 气泡图, 圆环图, 范围（高至低）条形图, 拨号图/表, 立方线图及各种图的结合  
 Project Address: https://code.google.com/p/achartengine/  
 官方网站：http://www.achartengine.org/  
 Renderings: ![Renderings](http://www.achartengine.org/dimages/average_temperature.png)  
@@ -469,7 +469,7 @@ http://www.achartengine.org/dimages/budget_chart.png
 Similar App: Wordpress Android，Google Analytics  
    
 1. GraphView  
-绘制图表和曲线图的View，可用于Android上的曲形图&nbsp;&nbsp;柱状图&nbsp;&nbsp;波浪图展示  
+绘制图表和曲线图的View，可用于Android上的曲形图, 柱状图, 波浪图展示  
 Project Address: https://github.com/jjoe64/GraphView  
 Demo工程：https://github.com/jjoe64/GraphView-Demos  
 Demo Apk: https://play.google.com/store/apps/details?id=com.sothree.umano  
@@ -482,7 +482,7 @@ Demo Apk: https://github.com/openaphid/android-flip/blob/master/FlipView/Demo/AP
 Similar App: flipboard  
    
 1. FlipImageView  
-支持x&nbsp;&nbsp;y&nbsp;&nbsp;z及动画选择的翻转动画的实现  
+支持x, y, z及动画选择的翻转动画的实现  
 Project Address: https://github.com/castorflex/FlipImageView  
 Demo Apk: https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
    
@@ -508,7 +508,7 @@ Project Address: https://github.com/inmite/android-styled-dialogs
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
    
 1. Crouton  
-丰富样式的Toast，允许alert&nbsp;&nbsp;comfirm&nbsp;&nbsp;info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
+丰富样式的Toast，允许alert, comfirm, info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
 Project Address: https://github.com/keyboardsurfer/Crouton  
 Demo Apk: http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
@@ -551,7 +551,7 @@ Project Address: https://github.com/LarsWerkman/HoloColorPicker
 Demo Apk: https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit  
    
 1. AndroidWheel  
-Android Wheel支持城市&nbsp;&nbsp;多种日期时间&nbsp;&nbsp;密码&nbsp;&nbsp;图片  
+Android Wheel支持城市, 多种日期时间, 密码, 图片  
 Project Address: https://github.com/sephiroth74/AndroidWheel  
 Renderings: ![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
    
@@ -561,7 +561,7 @@ Project Address: https://github.com/InQBarna/TableFixHeaders
 Demo Apk: http://bit.ly/13buAIq  
    
 1. UITableView  
-ios风格控件，include Button&nbsp;&nbsp;ListView&nbsp;&nbsp;TableView  
+ios风格控件，include Button, ListView, TableView  
 Project Address: https://github.com/thiagolocatelli/android-uitableview  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/ui-tableview-demo.apk?raw=true  
    
@@ -580,7 +580,7 @@ Renderings: ![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo
 Project Address: https://github.com/MartinvanZ/Inscription  
    
 1. ActivityTransition  
-Activity切换动画，include渐变&nbsp;&nbsp;flip&nbsp;&nbsp;某个位置进入等等  
+Activity切换动画，include渐变, flip, 某个位置进入等等  
 Project Address: https://github.com/ophilbert/ActivityTransition  
 使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 Renderings: 类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
@@ -610,7 +610,7 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.ap
 效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
   
 1. SuperToasts  
-更丰富样式的toast，支持Button&nbsp;&nbsp;Progress&nbsp;&nbsp;Horizontal Progress样式&nbsp;&nbsp;支持进入动画&nbsp;&nbsp;支持撤销及其动画设置    
+更丰富样式的toast，支持Button, Progress, Horizontal Progress样式, 支持进入动画, 支持撤销及其动画设置    
 Project Address: https://github.com/JohnPersano/SuperToasts  
 Demo Apk: https://play.google.com/store/apps/details?id=com.supertoastsdemo  
 Renderings: ![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
@@ -631,7 +631,7 @@ Project Address: https://github.com/attenzione/android-ColorPickerPreference
 Renderings: ![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
 
 1. HoloGraphLibrary  
-绘制现状图&nbsp;&nbsp;柱状图&nbsp;&nbsp;饼状图    
+绘制现状图, 柱状图, 饼状图    
 Project Address: https://bitbucket.org/danielnadeau/holographlibrary/src  
 Document: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
@@ -663,9 +663,9 @@ Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/S
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## Second part. Common Util Libs  
-主要include那些不错的开发库，include Dependency Injection框架&nbsp;&nbsp;Image Cache&nbsp;&nbsp;网络相关&nbsp;&nbsp;Database ORM&nbsp;&nbsp;Android公共库&nbsp;&nbsp;Android Compatible low version&nbsp;&nbsp;Multimedia相关及Others。  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+主要include那些不错的开发库，include Dependency Injection框架, Image Cache, 网络相关, Database ORM, Android公共库, Android Compatible low version, Multimedia相关及Others。  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### First. Dependency Injection  
-通过Dependency Injection减少View&nbsp;&nbsp;服务&nbsp;&nbsp;资源简化初始化，事件绑定等重复繁琐工作  
+通过Dependency Injection减少View, 服务, 资源简化初始化，事件绑定等重复繁琐工作  
 
 1. AndroidAnnotations(Code Diet)  
 android快速开发框架  
@@ -720,7 +720,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo
 Document: http://www.trinea.cn/android/android-imagecache/  
 特点：(1)支持预取新图片，支持等待队列  
 (2)包含二级缓存，可自定义文件名保存规则  
-(3)可选择多种缓存算法(FIFO&nbsp;&nbsp;LIFO&nbsp;&nbsp;LRU&nbsp;&nbsp;MRU&nbsp;&nbsp;LFU&nbsp;&nbsp;MFU等13种)或自定义缓存算法  
+(3)可选择多种缓存算法(FIFO, LIFO, LRU, MRU, LFU, MFU等13种)或自定义缓存算法  
 (4)可方便的保存及初始化恢复数据  
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
@@ -752,7 +752,7 @@ Project Address: https://github.com/AsyncHttpClient/async-http-client
 Document: http://sonatype.github.io/async-http-client/  
    
 1. Ion  
-支持图片&nbsp;&nbsp;json&nbsp;&nbsp;http post等异步请求  
+支持图片, json, http post等异步请求  
 Project Address: https://github.com/koush/ion  
 Document: https://github.com/koush/ion#more-examples  
    
@@ -761,8 +761,8 @@ Http缓存
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-http-cache  
-特点是：(1) 根据cache-control&nbsp;&nbsp;expires缓存http请求  
-(2) 支持同步&nbsp;&nbsp;异步Http请求  
+特点是：(1) 根据cache-control, expires缓存http请求  
+(2) 支持同步, 异步Http请求  
 (3) 在匿名回调中处理请求结果  
 (4) 在UI线程外进行http请求  
 (5) 默认gzip压缩  
@@ -786,13 +786,13 @@ Project Address: https://github.com/square/retrofit
 Document: http://square.github.io/retrofit/  
    
 1. RoboSpice  
-Android异步网络请求工具，支持缓存&nbsp;&nbsp;REST等等  
+Android异步网络请求工具，支持缓存, REST等等  
 Project Address: https://github.com/stephanenicolas/robospice  
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Fourth. Database ORM  
-orm的db工具类，简化建表&nbsp;&nbsp;查询&nbsp;&nbsp;更新&nbsp;&nbsp;插入&nbsp;&nbsp;事务&nbsp;&nbsp;索引的操作  
+orm的db工具类，简化建表, 查询, 更新, 插入, 事务, 索引的操作  
 
 1. greenDAO  
 Android Sqlite orm的db工具类  
@@ -827,7 +827,7 @@ Project Address: https://code.google.com/p/guava-libraries/
 Document: https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
    
 1. Volley  
-Google提供的网络通信库，使得网络请求更简单&nbsp;&nbsp;更快速  
+Google提供的网络通信库，使得网络请求更简单, 更快速  
 Project Address: https://android.googlesource.com/platform/frameworks/volley  
 Github Address: https://github.com/mcxiaoke/android-volley    
 文档地址：http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
@@ -837,9 +837,9 @@ Android公共库
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-common-lib/  
-include：(1)缓存(Image Cache&nbsp;&nbsp;预取缓存&nbsp;&nbsp;网络缓存)  
-(2) 公共View(下拉及底部加载更多ListView&nbsp;&nbsp;底部加载更多ScrollView&nbsp;&nbsp;滑动一页Gallery)  
-(3) Android常用工具类(网络&nbsp;&nbsp;下载&nbsp;&nbsp;Android资源操作&nbsp;&nbsp;shell&nbsp;&nbsp;文件&nbsp;&nbsp;Json&nbsp;&nbsp;随机数&nbsp;&nbsp;Collection等等)  
+include：(1)缓存(Image Cache, 预取缓存, 网络缓存)  
+(2) 公共View(下拉及底部加载更多ListView, 底部加载更多ScrollView, 滑动一页Gallery)  
+(3) Android常用工具类(网络, 下载, Android资源操作, shell, 文件, Json, 随机数, Collection等等)  
    
 1. shipfaster  
 整合了Dagger Otto Retrofit Robolectric Picasso OkHttp，方便快速开发  
@@ -848,7 +848,7 @@ Project Address: https://github.com/pyricau/shipfaster
 1. CleanAndroidCode  
 整合了Dagger Otto AndroidAnnotations，方便快速开发  
 Project Address: https://github.com/pyricau/CleanAndroidCode  
-我目前也在做框架选型方面的工作，不出意外后面也会出个跟4&nbsp;&nbsp;5类似的项目  
+我目前也在做框架选型方面的工作，不出意外后面也会出个跟4, 5类似的项目  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Sixth. Android Compatible low version  
@@ -892,7 +892,7 @@ Project Address: https://github.com/SimonVT/android-datepicker
 
 #### Seventh. Multimedia  
 1. cocos2d-x  
-跨平台的2d游戏框架，支持Android&nbsp;&nbsp;IOS&nbsp;&nbsp;Linux&nbsp;&nbsp;Windows等众多平台  
+跨平台的2d游戏框架，支持Android, IOS, Linux, Windows等众多平台  
 Project Address: https://github.com/cocos2d/cocos2d-x  
 Document: http://www.cocos2d-x.org/wiki  
 官方网站：http://www.cocos2d-x.org/  
@@ -906,7 +906,7 @@ Project Address: https://github.com/yixia/VitamioBundle
 (3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，include点播与直播。  
    
 1. PhotoProcessing  
-利用ndk处理图片库，支持Instafix&nbsp;&nbsp;Ansel&nbsp;&nbsp;Testino&nbsp;&nbsp;XPro&nbsp;&nbsp;Retro&nbsp;&nbsp;BW&nbsp;&nbsp;Sepia&nbsp;&nbsp;Cyano&nbsp;&nbsp;Georgia&nbsp;&nbsp;Sahara&nbsp;&nbsp;HDR&nbsp;&nbsp;Rotate(旋转)&nbsp;&nbsp;Flip(翻转)等各种特效  
+利用ndk处理图片库，支持Instafix, Ansel, Testino, XPro, Retro, BW, Sepia, Cyano, Georgia, Sahara, HDR, Rotate(旋转), Flip(翻转)等各种特效  
 Project Address: https://github.com/lightbox/PhotoProcessing  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/photo-processing.apk?raw=true  
    
@@ -936,7 +936,7 @@ Project Address: https://github.com/jdamcd/android-crop
 Renderings: ![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 
 1. TileView  
-可分块显示大图，支持2D拖动&nbsp;&nbsp;双击&nbsp;&nbsp;双指放大&nbsp;&nbsp;双指捏合  
+可分块显示大图，支持2D拖动, 双击, 双指放大, 双指捏合  
 Project Address: https://github.com/moagrius/TileView  
 Demo Apk: http://moagrius.github.io/TileView/TileViewDemo.apk  
 
@@ -962,8 +962,8 @@ Project Address: https://github.com/julienr/libpng-android
 greenrobot的开源项目  
 Project Address: https://github.com/greenrobot/EventBus  
 Document: https://github.com/greenrobot/EventBus#general-usage-and-api  
-特点：(1) 支持在不同类型的线程中处理订阅，include发布所在线程，UI线程&nbsp;&nbsp;单一后台线程&nbsp;&nbsp;异步线程  
-(2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播&nbsp;&nbsp;粘性广播很像啊  
+特点：(1) 支持在不同类型的线程中处理订阅，include发布所在线程，UI线程, 单一后台线程, 异步线程  
+(2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播, 粘性广播很像啊  
 (3) 不是基于annotations  
 (4) 性能更优  
 (5) 体积小  
@@ -1027,7 +1027,7 @@ Android心跳检测
 Project Address: https://github.com/phishman3579/android-heart-rate-monitor  
 
 1. Bluetooth LE Library for Android   
-蓝牙源信息，include宝库Mac&nbsp;&nbsp;更新时间&nbsp;&nbsp;RSSI&nbsp;&nbsp;UUID&nbsp;&nbsp;信号源距离&nbsp;&nbsp;影响范围等信息  
+蓝牙源信息，include宝库Mac, 更新时间, RSSI, UUID, 信号源距离, 影响范围等信息  
 Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -1082,8 +1082,8 @@ Document: https://github.com/path/android-priority-jobqueue#getting-started
 一个解析html的java库，可方便的提取和操作数据  
 Project Address: https://github.com/jhy/jsoup  
 官方网站：http://jsoup.org/  
-作用：(1) 从一个url&nbsp;&nbsp;文件或string获得html并解析  
-(2) 利用dom遍历或css选择器查找&nbsp;&nbsp;提取数据  
+作用：(1) 从一个url, 文件或string获得html并解析  
+(2) 利用dom遍历或css选择器查找, 提取数据  
 (3) 操作html元素  
 (4) 根据白名单去除用于提交的非法数据防止xss攻击  
 (5) 输出整齐的html  
@@ -1099,7 +1099,7 @@ Document: https://github.com/zeroturnaround/zt-zip#examples
 (5) 比较两个zip包等功能  
    
 1. Cobub Razor  
-开源的mobile行为分析系统，include web端&nbsp;&nbsp;android端，支持ios和window phone  
+开源的mobile行为分析系统，include web端, android端，支持ios和window phone  
 Project Address: https://github.com/cobub/razor  
 Demo Apk: http://demo.cobub.com/razor  
 网站介绍：http://dev.cobub.com/  
@@ -1170,7 +1170,7 @@ Project Address: https://github.com/Comcast/FreeFlow
 Demo Apk: https://github.com/Comcast/FreeFlow/releases  
 
 1. Android Gesture Detectors Framework  
-Android手势框架，支持双指旋转&nbsp;&nbsp;移动&nbsp;&nbsp;平移&nbsp;&nbsp;缩放等  
+Android手势框架，支持双指旋转, 移动, 平移, 缩放等  
 Project Address: https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
@@ -1216,7 +1216,7 @@ Project Address: https://github.com/codinguser/gnucash-android
 APK地址：http://play.google.com/store/apps/details?id=org.gnucash.android  
    
 (7) AntennaPod  
-支持rss订阅&nbsp;&nbsp;音乐订阅  
+支持rss订阅, 音乐订阅  
 Project Address: https://github.com/danieloeh/AntennaPod  
 APK地址：https://play.google.com/store/apps/details?id=de.danoeh.antennapod  
    
@@ -1255,7 +1255,7 @@ APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei
 主要介绍和Android开发工具和Testing tools相关的开源项目。  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### First. Development productivity tools  
 1. Json2Java  
-根据JSon数据自动生成对应的Java实体类，还支持Parcel&nbsp;&nbsp;Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
+根据JSon数据自动生成对应的Java实体类，还支持Parcel, Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
 Project Address: https://github.com/jonfhancock/JsonToJava  
 Online Demo: http://jsontojava.appspot.com/  
 
@@ -1325,7 +1325,7 @@ Others的测试用例及相关模块Mock可见：[android-mock](https://code.goo
 Project Address: https://github.com/square/fest-android  
 
 1. BoundBox  
-可用于测试类各种访问权限的属性&nbsp;&nbsp;方法。实际是通过BoundBox这个annotation生成一个属性和方法都是public权限的中间类并对此类进行测试完成的  
+可用于测试类各种访问权限的属性, 方法。实际是通过BoundBox这个annotation生成一个属性和方法都是public权限的中间类并对此类进行测试完成的  
 Project Address: https://github.com/stephanenicolas/boundbox  
 
 1. Hugo  
@@ -1386,7 +1386,7 @@ Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测�
 Project Address: https://github.com/jenkinsci/android-emulator-plugin  
 
 1. Android Maven Plugin  
-管理应用所需要的依赖库。include的构建工具有Maven&nbsp;&nbsp;Gradle&nbsp;&nbsp;ant&nbsp;&nbsp;sbt  
+管理应用所需要的依赖库。include的构建工具有Maven, Gradle, ant, sbt  
 Project Address: https://github.com/mosabua/maven-android-sdk-deployer  
 
 1. SDK Manager Plugin  
@@ -1406,7 +1406,7 @@ APK地址：https://play.google.com/store/apps/details?id=eu.inmite.android.grid
 Other：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看工具。  
 
 1. Catlog  
-手机端log查看工具，支持不同颜色显示&nbsp;&nbsp;关键字过滤&nbsp;&nbsp;级别过滤&nbsp;&nbsp;进程id过滤&nbsp;&nbsp;录制功能等  
+手机端log查看工具，支持不同颜色显示, 关键字过滤, 级别过滤, 进程id过滤, 录制功能等  
 Project Address: https://github.com/nolanlawson/Catlog  
 Online Demo: https://play.google.com/store/apps/details?id=com.nolanlawson.logcat  
    
@@ -1506,7 +1506,7 @@ HomePage: http://cyrilmottier.com/
 1. Square  
 有态度有良心的企业，很多不错的分享  
 Github Address: https://github.com/square   
-Masterpiece: okhttp&nbsp;&nbsp;fest-android，android-times-square&nbsp;&nbsp;picasso&nbsp;&nbsp;dagger&nbsp;&nbsp;spoon等等    
+Masterpiece: okhttp, fest-android，android-times-square, picasso, dagger, spoon等等    
 HomePage: http://square.github.io/  
    
 1. Inmite s.r.o.  
