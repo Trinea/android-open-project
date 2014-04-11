@@ -1,29 +1,27 @@
 Android Open Source Projects
 ====================
-*经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
-于是分类汇总了那些不错的Android开源项目，供大家一起学习，持续更新*
 
-欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
+Welcome to recommend a good Android open source project, you can [Commit](https://github.com/Trinea/android-open-project/wiki/Specification-of-adding-and-editing-content) directly or tell me at[Colloct Page](https://github.com/Trinea/android-open-project/issues/1). Welcome `Star`、`Fork` :)  
 
-微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;邮箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
-分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到QQ空间" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到腾讯微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>  
-## 目前包括：  
->[Android开源项目第一篇——个性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
-*&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[TextView](https://github.com/Trinea/android-open-project#%E5%85%ABtextview)、[其他](https://github.com/Trinea/android-open-project#%E4%B9%9D%E5%85%B6%E4%BB%96)*  
-[Android开源项目第二篇——工具库篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
-*&nbsp;&nbsp;包括[依赖注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[图片缓存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[网络相关](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[数据库ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共库](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容库](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒体](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件总线](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[传感器](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[安全](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E5%85%B6%E4%BB%96)*  
-[Android开源项目第三篇——优秀项目篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
-*&nbsp;&nbsp;比较有意思的完整的Android项目*  
-[Android开源项目第四篇——开发及测试工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
-*&nbsp;&nbsp;包括[开发效率工具](https://github.com/Trinea/android-open-project#%E4%B8%80%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)、[开发自测相关](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%BC%80%E5%8F%91%E8%87%AA%E6%B5%8B%E7%9B%B8%E5%85%B3)、[测试工具](https://github.com/Trinea/android-open-project#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)、[开发及编译环境](https://github.com/Trinea/android-open-project#%E5%9B%9B%E5%BC%80%E5%8F%91%E5%8F%8A%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)、[其他](https://github.com/Trinea/android-open-project#%E4%BA%94%E5%85%B6%E4%BB%96)*  
-[Android开源项目第五篇——优秀个人和团体篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
-*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
+Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
+Share：<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
+## Include：  
+>[Personalized Views](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
+*&nbsp;&nbsp;include[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[TextView](https://github.com/Trinea/android-open-project#%E5%85%ABtextview)、[Others](https://github.com/Trinea/android-open-project#%E4%B9%9D%E5%85%B6%E4%BB%96)*  
+[Common Util Libs](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
+*&nbsp;&nbsp;include[Dependency Injection](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[ImageCache](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[Network](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[Database ORM](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android common lib](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[Compatible low version](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[Multimedia](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[Event Bus](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[Sensor](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[Security](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[Others](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E5%85%B6%E4%BB%96)*  
+[Excellent projects](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
+*&nbsp;&nbsp;More interesting android project*  
+[Development and testing tools](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
+*&nbsp;&nbsp;include[Development productivity tools](https://github.com/Trinea/android-open-project#%E4%B8%80%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)、[Develop self-test related](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%BC%80%E5%8F%91%E8%87%AA%E6%B5%8B%E7%9B%B8%E5%85%B3)、[Testing tools](https://github.com/Trinea/android-open-project#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)、[Development and build environment](https://github.com/Trinea/android-open-project#%E5%9B%9B%E5%BC%80%E5%8F%91%E5%8F%8A%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)、[Others](https://github.com/Trinea/android-open-project#%E4%BA%94%E5%85%B6%E4%BB%96)*  
+[Outstanding individuals and groups](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
+*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[Group](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，include JakeWharton、Chris Banes、Koushik Dutta and so on*
   
-*感谢 [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
+*Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
 
-## 第一部分 个性化控件(View)  
-主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
-#### 一、ListView  
+## The First part Personalized Views  
+主要介绍那些不错个性化的View，include ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及Others如Dialog、Toast、EditText、TableView、Activity Animation等等。  
+#### First. ListView  
 1. android-pulltorefresh  
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
 Project Address: https://github.com/chrisbanes/Android-PullToRefresh  
@@ -98,18 +96,18 @@ Project Address: https://github.com/rno/Android-ScrollBarPanel
 效果展示：https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png  
    
 1. SlideExpandableListView  
-用户点击listView item滑出固定区域，其他item的区域收缩  
+用户点击listView item滑出固定区域，Others item的区域收缩  
 Project Address: https://github.com/tjerkw/Android-SlideExpandableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
    
 1. JazzyListView  
-ListView及GridView item以特殊动画效果进入屏幕，效果包括grow、cards、curl、wave、flip、fly等等  
+ListView及GridView item以特殊动画效果进入屏幕，效果include grow、cards、curl、wave、flip、fly等等  
 Project Address: https://github.com/twotoasters/JazzyListView  
 Demo Apk: https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample  
 效果展示：http://lab.hakim.se/scroll-effects/  
    
 1. ListViewAnimations  
-带Item显示动画的ListView，动画包括底部飞入、其他方向斜飞入、下层飞入、渐变消失、滑动删除等  
+带Item显示动画的ListView，动画include底部飞入、Others方向斜飞入、下层飞入、渐变消失、滑动删除等  
 Project Address: https://github.com/nhaarman/ListViewAnimations  
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations  
 Similar App: Google plus、Google Now卡片式进入、小米系统中应用商店、联系人、游戏中心、音乐、文件管理器的ListView、Ultimate、Light Flow Lite、TreinVerkeer、Running Coach、Pearl Jam Lyrics、Calorie Chart、Car Hire、Super BART、DK FlashCards、Counter Plus、Voorlees Verhaaltjes 2.0  
@@ -144,7 +142,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.jpardogo.android.lis
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
-#### 二、ActionBar  
+#### Second. ActionBar  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
@@ -182,7 +180,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.glassa
 Similar App: google music  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 三、Menu   
+#### Third. Menu   
 1. MenuDrawer   
 滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘、ListView边缘、ViewPager变化划出菜单等。  
 Project Address: https://github.com/SimonVT/android-menudrawer  
@@ -232,7 +230,7 @@ Project Address: https://github.com/SpecialCyCi/AndroidResideMenu
 Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 四、ViewPager 、Gallery  
+#### Fourth. ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
 配合ViewPager使用的Indicator，支持各种位置和样式  
 Project Address: https://github.com/JakeWharton/Android-ViewPagerIndicator  
@@ -240,7 +238,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.viewpagerindicator.s
 Similar App: 太多了。。  
    
 1. JazzyViewPager  
-支持Fragment切换动画的ViewPager，动画包括转盘、淡入淡出、翻页、层叠、旋转、方块、翻转、放大缩小等  
+支持Fragment切换动画的ViewPager，动画include转盘、淡入淡出、翻页、层叠、旋转、方块、翻转、放大缩小等  
 Project Address: https://github.com/jfeinstein10/JazzyViewPager  
 Demo Apk: https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
@@ -284,7 +282,7 @@ Project Address: https://github.com/astuetz/PagerSlidingTabStrip
 Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 五、GridView  
+#### Fifth. GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
 Project Address: https://github.com/maurycyw/StaggeredGridView  
@@ -322,7 +320,7 @@ Project Address: https://github.com/zzhouj/Android-DraggableGridViewPager
 Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 六、ImageView  
+#### Sixth. ImageView  
 1. PhotoView  
 支持双击或双指缩放的ImageView，在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
 Project Address: https://github.com/chrisbanes/PhotoView  
@@ -330,7 +328,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sa
 Similar App: photup  
    
 1. android-gif-drawable  
-支持gif显示的view，用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于其他开源项目所以相对下面的ImageViewEx简单的多   
+支持gif显示的view，用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于Others开源项目所以相对下面的ImageViewEx简单的多   
 Project Address: https://github.com/koral--/android-gif-drawable  
   
 1. ImageViewEx  
@@ -369,7 +367,7 @@ Project Address: https://github.com/MostafaGazar/CustomShapeImageView
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 七、ProgressBar  
+#### Seventh. ProgressBar  
 1. SmoothProgressBar  
 水平进度条  
 Project Address: https://github.com/castorflex/SmoothProgressBar  
@@ -410,11 +408,11 @@ Renderings: ![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgr
 Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 八、TextView  
-包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
+#### Eighth. TextView  
+includeTextView及所有继承自TextView控件，如EditText、Button、RadioButton  
 
 1. android-flowtextview  
-文字自动环绕其他View的Layout  
+文字自动环绕Others View的Layout  
 Project Address: https://code.google.com/p/android-flowtextview/  
 Renderings: http://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
   
@@ -458,7 +456,7 @@ Project Address: https://github.com/RomainPiel/Titanic
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 九、其他  
+#### Ninth. Others  
 1. achartengine  
 强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
 Project Address: https://code.google.com/p/achartengine/  
@@ -520,7 +518,7 @@ Project Address: https://github.com/nhaarman/supertooltips
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
    
 1. Android ViewBadger  
-为其他View添加角标等  
+为Others View添加角标等  
 Project Address: https://github.com/jgilfelt/android-viewbadger  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
 Renderings: https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67  
@@ -563,7 +561,7 @@ Project Address: https://github.com/InQBarna/TableFixHeaders
 Demo Apk: http://bit.ly/13buAIq  
    
 1. UITableView  
-ios风格控件，包括Button、ListView、TableView  
+ios风格控件，include Button、ListView、TableView  
 Project Address: https://github.com/thiagolocatelli/android-uitableview  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/ui-tableview-demo.apk?raw=true  
    
@@ -582,7 +580,7 @@ Renderings: ![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo
 Project Address: https://github.com/MartinvanZ/Inscription  
    
 1. ActivityTransition  
-Activity切换动画，包括渐变、flip、某个位置进入等等  
+Activity切换动画，include渐变、flip、某个位置进入等等  
 Project Address: https://github.com/ophilbert/ActivityTransition  
 使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 Renderings: 类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
@@ -664,17 +662,17 @@ Project Address: https://github.com/MarkMjw/PullScrollView
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-## 第二部分 工具库  
-主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-#### 一、依赖注入DI  
-通过依赖注入减少View、服务、资源简化初始化，事件绑定等重复繁琐工作  
+## 第二部分 Common Util Libs  
+主要include那些不错的开发库，include Dependency Injection框架、Image Cache、网络相关、Database ORM、Android公共库、Android Compatible low version、Multimedia相关及Others。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+#### First. Dependency Injection  
+通过Dependency Injection减少View、服务、资源简化初始化，事件绑定等重复繁琐工作  
 
 1. AndroidAnnotations(Code Diet)  
 android快速开发框架  
 Project Address: https://github.com/excilys/androidannotations  
 Document: https://github.com/excilys/androidannotations/wiki  
 官方网站：http://androidannotations.org/  
-特点：(1) 依赖注入：包括view，extras，系统服务，资源等等  
+特点：(1) Dependency Injection：include view，extras，系统服务，资源等等  
 (2) 简单的线程模型，通过annotation表示方法运行在ui线程还是后台线程  
 (3) 事件绑定：通过annotation表示view的响应事件，不用在写内部类  
 (4) REST客户端：定义客户端接口，自动生成REST请求的实现  
@@ -693,20 +691,20 @@ Project Address: https://github.com/JakeWharton/butterknife
 Document: http://jakewharton.github.io/butterknife/  
    
 1. Dagger  
-依赖注入，适用于Android和Java  
+Dependency Injection，适用于Android和Java  
 Project Address: https://github.com/square/dagger  
 Document: http://square.github.io/dagger/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 二、图片缓存  
+#### Second. Image Cache  
 1. Android-Universal-Image-Loader  
-图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
+Image Cache，目前使用最广泛的Image Cache，支持主流Image Cache的绝大多数特性。  
 Project Address: https://github.com/nostra13/Android-Universal-Image-Loader  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
 Document: http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
    
 1. picasso  
-square开源的图片缓存  
+square开源的Image Cache  
 Project Address: https://github.com/square/picasso  
 Document: http://square.github.io/picasso/  
 特点：(1)可以自动检测adapter的重用并取消之前的下载  
@@ -716,7 +714,7 @@ Document: http://square.github.io/picasso/
 (5)支持debug模式  
    
 1. ImageCache  
-图片缓存，包含内存和Sdcard缓存  
+Image Cache，包含内存和Sdcard缓存  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-imagecache/  
@@ -728,7 +726,7 @@ Document: http://www.trinea.cn/android/android-imagecache/
 (6)可根据系统配置初始化缓存等  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 三、网络相关  
+#### Third. Network  
 1. Asynchronous Http Client for Android  
 Android异步Http请求  
 Project Address: https://github.com/loopj/android-async-http  
@@ -793,7 +791,7 @@ Project Address: https://github.com/stephanenicolas/robospice
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 四、数据库 orm工具包  
+#### Fourth. Database ORM  
 orm的db工具类，简化建表、查询、更新、插入、事务、索引的操作  
 
 1. greenDAO  
@@ -822,9 +820,9 @@ Project Address: https://github.com/j256/ormlite-android
 Document: http://ormlite.com/sqlite_java_android_orm.shtml   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 五、Android公共库  
+#### Fifth. Android common lib   
 1. Guava  
-Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
+Google的基于java1.6的类库集合的扩展项目，include collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 Project Address: https://code.google.com/p/guava-libraries/  
 Document: https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
    
@@ -839,7 +837,7 @@ Android公共库
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-common-lib/  
-包括：(1)缓存(图片缓存、预取缓存、网络缓存)  
+include：(1)缓存(Image Cache、预取缓存、网络缓存)  
 (2) 公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)  
 (3) Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)  
    
@@ -853,7 +851,7 @@ Project Address: https://github.com/pyricau/CleanAndroidCode
 我目前也在做框架选型方面的工作，不出意外后面也会出个跟4、5类似的项目  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 六、Android 高版本向低版本兼容  
+#### Sixth. Android Compatible low version  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
@@ -892,7 +890,7 @@ Document: https://github.com/BoD/android-switch-backport#using-the-switch
 Project Address: https://github.com/SimonVT/android-datepicker  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 七、多媒体相关  
+#### Seventh. Multimedia  
 1. cocos2d-x  
 跨平台的2d游戏框架，支持Android、IOS、Linux、Windows等众多平台  
 Project Address: https://github.com/cocos2d/cocos2d-x  
@@ -900,12 +898,12 @@ Document: http://www.cocos2d-x.org/wiki
 官方网站：http://www.cocos2d-x.org/  
    
 1. Vitamio  
-是一款Android与iOS平台上的全能多媒体开发框架  
+是一款Android与iOS平台上的全能Multimedia开发框架  
 Project Address: https://github.com/yixia/VitamioBundle  
 网站介绍：http://www.vitamio.org/docs/  
 特点：(1) 全面支持硬件解码与GPU渲染  
 (2) 能够流畅播放720P甚至1080P高清MKV，FLV，MP4，MOV，TS，RMVB等常见格式的视频  
-(3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。  
+(3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，include点播与直播。  
    
 1. PhotoProcessing  
 利用ndk处理图片库，支持Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
@@ -957,14 +955,14 @@ Project Address: https://github.com/julienr/libpng-android
 文档地址：http://www.libpng.org/pub/png/libpng.html  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 八、事件总线(订阅者模式)  
+#### Eighth. Event Bus  
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments及后台线程)之间的通信  
 
 1. EventBus  
 greenrobot的开源项目  
 Project Address: https://github.com/greenrobot/EventBus  
 Document: https://github.com/greenrobot/EventBus#general-usage-and-api  
-特点：(1) 支持在不同类型的线程中处理订阅，包括发布所在线程，UI线程、单一后台线程、异步线程  
+特点：(1) 支持在不同类型的线程中处理订阅，include发布所在线程，UI线程、单一后台线程、异步线程  
 (2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像啊  
 (3) 不是基于annotations  
 (4) 性能更优  
@@ -980,7 +978,7 @@ Document: http://square.github.io/otto/
 [EventBus与Otto性能对比Demo Apk](https://play.google.com/store/apps/details?id=de.greenrobot.eventperf)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
-#### 九、传感器  
+#### Ninth. Sensor  
 1. Great Android Sensing Toolkit  
 Android感应器工具包，包含示例及使用过程中可能需要的算法  
 Project Address: https://github.com/gast-lib/gast-lib  
@@ -988,7 +986,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=root.gast.playground
 Document: https://github.com/gast-lib/gast-lib#documentation  
 
 1. SensorManager  
-Android传感器管理  
+Android Sensor管理  
 Project Address: https://github.com/nlathia/SensorManager  
 Document: https://docs.google.com/document/d/1TqThJULb-4e6TGb1gdkAaPCfyuXStjJpbnt7a0OZ9OE/edit  
 
@@ -1029,12 +1027,12 @@ Android心跳检测
 Project Address: https://github.com/phishman3579/android-heart-rate-monitor  
 
 1. Bluetooth LE Library for Android   
-蓝牙源信息，包括宝库Mac、更新时间、RSSI、UUID、信号源距离、影响范围等信息  
+蓝牙源信息，include宝库Mac、更新时间、RSSI、UUID、信号源距离、影响范围等信息  
 Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 十、安全  
+#### Tenth. Security  
 1. SQLCipher  
 Sqlite加密工具  
 Project Address: https://github.com/sqlcipher/sqlcipher  
@@ -1070,7 +1068,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.u
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 十一、其他  
+#### Eleventh. Others  
 1. Salvage view  
 带View缓存的Viewpager PagerAdapter，很方便使用  
 Project Address: https://github.com/JakeWharton/salvage  
@@ -1101,7 +1099,7 @@ Document: https://github.com/zeroturnaround/zt-zip#examples
 (5) 比较两个zip包等功能  
    
 1. Cobub Razor  
-开源的mobile行为分析系统，包括web端、android端，支持ios和window phone  
+开源的mobile行为分析系统，include web端、android端，支持ios和window phone  
 Project Address: https://github.com/cobub/razor  
 Demo Apk: http://demo.cobub.com/razor  
 网站介绍：http://dev.cobub.com/  
@@ -1111,7 +1109,7 @@ Demo Apk: http://demo.cobub.com/razor
 Project Address: https://github.com/iPaulPro/aFileChooser  
    
 1. androidpn  
-基于xmpp协议的消息推送解决方案，包括服务器端和android端。  
+基于xmpp协议的消息推送解决方案，include服务器端和android端。  
 Project Address: https://github.com/dannytiehui/androidpn  
    
 1. Android Plugin Framework  
@@ -1150,7 +1148,7 @@ Project Address: https://github.com/wyouflf/xCombine
 Document: http://my.oschina.net/u/1171837/blog/155377  
 
 1. Memento  
-保证在系统配置改变时，Activity中的某些数据可以简单安全的保持不变  
+保证在系统配置改变时，Activity中的某些数据可以简单Security的保持不变  
 Project Address: https://github.com/mttkay/memento  
 Document: https://github.com/mttkay/memento#usage  
 
@@ -1176,7 +1174,7 @@ Android手势框架，支持双指旋转、移动、平移、缩放等
 Project Address: https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-## 第三部分 优秀项目  
+## 第三部分 Excellent projects  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
 Project Address: https://github.com/torvalds/linux  
@@ -1253,9 +1251,9 @@ Project Address: https://github.com/romannurik/muzei
 APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
-## 第四部分 开发工具及测试工具  
-主要介绍和Android开发工具和测试工具相关的开源项目。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-#### 一、开发效率工具  
+## 第四部分 Development and testing tools  
+主要介绍和Android开发工具和Testing tools相关的开源项目。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+#### First. Development productivity tools  
 1. Json2Java  
 根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
 Project Address: https://github.com/jonfhancock/JsonToJava  
@@ -1302,14 +1300,14 @@ Project Address: http://www.appiconsizes.com/
 Project Address: https://github.com/evant/gradle-retrolambda  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 二、开发自测相关  
+#### Second. Develop self-test related  
 1. Quality Tools for Android  
 Android测试及自测工具集合和示例  
 Project Address: https://github.com/stephanenicolas/Quality-Tools-for-Android  
 
 1. android-test-kit  
-Google的Android测试工具  
-包括GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
+Google的Android Testing tools  
+include GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
 Project Address: https://code.google.com/p/android-test-kit/  
 Document: https://code.google.com/p/android-test-kit/w/list  
   
@@ -1319,8 +1317,8 @@ Project Address: https://github.com/robolectric/robolectric
 Demo Apk: https://github.com/robolectric/robolectricsample  
 Document: http://robolectric.org/  
 特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
-(2). 能完成在真机上的大部分测试包括感应器  
-其他的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
+(2). 能完成在真机上的大部分测试include感应器  
+Others的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
 
 1. Android FEST  
 提供一些列方便的断言，可用于提高编写Android自测代码效率  
@@ -1347,13 +1345,13 @@ Project Address: https://github.com/rtyley/android-screenshot-lib
 Project Address: https://github.com/SonarCommunity/sonar-android  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 三、测试工具  
+#### Third. Testing tools  
 1. Spoon  
 可用于android不同机型设备自动化测试，能将应用apk和测试apk运行在不同机器上并生成相应测试报告。  
 Project Address: https://github.com/square/spoon    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 四、开发及编译环境  
+#### Fourth. Development and build environment  
 1. Buck  
 facebook开源的Android编译工具，效率是ant的两倍。主要优点在于：  
 (1) 加快编译速度，通过并行利用多核cpu和跟踪不变资源减少增量编译时间实现  
@@ -1388,7 +1386,7 @@ Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测�
 Project Address: https://github.com/jenkinsci/android-emulator-plugin  
 
 1. Android Maven Plugin  
-管理应用所需要的依赖库。包括的构建工具有Maven、Gradle、ant、sbt  
+管理应用所需要的依赖库。include的构建工具有Maven、Gradle、ant、sbt  
 Project Address: https://github.com/mosabua/maven-android-sdk-deployer  
 
 1. SDK Manager Plugin  
@@ -1396,7 +1394,7 @@ Project Address: https://github.com/mosabua/maven-android-sdk-deployer
 Project Address: https://github.com/JakeWharton/sdk-manager-plugin  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 五、其他  
+#### Fifth. Others  
 1. ViewServer  
 允许app运行在任何手机上都可以用HierarchyViewer查看  
 Project Address: https://github.com/romainguy/ViewServer  
@@ -1438,15 +1436,15 @@ Project Address: https://github.com/jgilfelt/android-resource-navigator
 示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
-## 第五部分  
+## 第五部分 Outstanding individuals and groups  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
 
-#### 一、个人  
+#### First. Individual  
 1. JakeWharton  
 就职于Square，绝对牛逼的大神，项目主要集中在Android版本兼容，ViewPager及开发工具上  
 Github Address: https://github.com/JakeWharton  
 Masterpiece: ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel    
-pidcat另外对square及其他开源项目有很多贡献  
+pidcat另外对square及Others开源项目有很多贡献  
 HomePage: http://jakewharton.com/  
    
 1. Chris Banes  
@@ -1504,7 +1502,7 @@ Masterpiece: GreenDroid，Polaris
 HomePage: http://cyrilmottier.com/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 二、组织  
+#### Second. Group  
 1. Square  
 有态度有良心的企业，很多不错的分享  
 Github Address: https://github.com/square   
@@ -1517,7 +1515,7 @@ Masterpiece: android-styled-dialogs，android-grid-wichterle，android-selector-
 HomePage: http://www.inmite.eu/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 三、博客  
+#### Third. 博客  
 1. Chet Haase  
 Android framework UI team 成员  
 HomePage: http://graphics-geek.blogspot.com/  
