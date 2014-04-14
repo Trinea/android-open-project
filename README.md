@@ -458,6 +458,10 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 效果图：![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. android-iconify  
+提供带Icon的TextView,Menu,Button等  
+项目地址：https://github.com/JoanZapata/android-iconify  
+
 #### 九、其他  
 1. achartengine  
 强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
