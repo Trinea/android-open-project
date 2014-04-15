@@ -1,7 +1,5 @@
-Android Open Source Projects
+Android开源项目分类汇总
 ====================
-*经常有朋友问某个效果怎么实现或是否有某个库完成某个功能，  
-于是分类汇总了那些不错的Android开源项目，供大家一起学习，持续更新*
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
 
@@ -17,9 +15,7 @@ Android Open Source Projects
 [Android开源项目第四篇——开发及测试工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
 *&nbsp;&nbsp;包括[开发效率工具](https://github.com/Trinea/android-open-project#%E4%B8%80%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)、[开发自测相关](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%BC%80%E5%8F%91%E8%87%AA%E6%B5%8B%E7%9B%B8%E5%85%B3)、[测试工具](https://github.com/Trinea/android-open-project#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)、[开发及编译环境](https://github.com/Trinea/android-open-project#%E5%9B%9B%E5%BC%80%E5%8F%91%E5%8F%8A%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)、[其他](https://github.com/Trinea/android-open-project#%E4%BA%94%E5%85%B6%E4%BB%96)*  
 [Android开源项目第五篇——优秀个人和团体篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
-*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
-  
-*感谢 [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)补充*  
+*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*  
 
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
