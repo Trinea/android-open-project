@@ -1,7 +1,5 @@
 Android開源項目分類彙總
 ====================
-*經常有朋友問某個效果怎麽實現或是否有某個庫完成某個功能，  
-于是分類彙總了那些不錯的Android開源項目，供大家一起學習，持續更新*
 
 歡迎大家推薦好的Android開源項目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我，歡迎`Star`、`Fork` :)  
 
@@ -17,9 +15,7 @@ Android開源項目分類彙總
 [Android開源項目第四篇——開發及測試工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
 *&nbsp;&nbsp;包括[開發效率工具](https://github.com/Trinea/android-open-project#%E4%B8%80%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)、[開發自測相關](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%BC%80%E5%8F%91%E8%87%AA%E6%B5%8B%E7%9B%B8%E5%85%B3)、[測試工具](https://github.com/Trinea/android-open-project#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)、[開發及編譯環境](https://github.com/Trinea/android-open-project#%E5%9B%9B%E5%BC%80%E5%8F%91%E5%8F%8A%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)、[其他](https://github.com/Trinea/android-open-project#%E4%BA%94%E5%85%B6%E4%BB%96)*  
 [Android開源項目第五篇——優秀個人和團體篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86)  
-*&nbsp;&nbsp;樂于分享並且有一些很不錯的開源項目的[個人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[組織](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*
-  
-*感謝 [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)補充*  
+*&nbsp;&nbsp;樂于分享並且有一些很不錯的開源項目的[個人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[組織](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*  
 
 ## 第一部分 個性化控件(View)  
 主要介紹那些不錯個性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
@@ -419,8 +415,7 @@ APP示例：Android4.1時鍾App
 效果圖：http://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
   
 1. Android Form EditText  
-驗證輸入合法性的編輯框  
-支持輸入、英文、ip、url等多種正則驗證  
+驗證輸入合法性的編輯框，支持輸入、英文、ip、url等多種正則驗證  
 項目地址：https://github.com/vekexasia/android-edittext-validator  
 Demo地址：https://play.google.com/store/apps/details?id=com.andreabaccega.edittextformexample  
 
@@ -458,6 +453,10 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 項目地址：https://github.com/RomainPiel/Titanic    
 效果圖：![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. android-iconify  
+提供帶Icon的TextView,Menu,Button等  
+項目地址：https://github.com/JoanZapata/android-iconify  
 
 #### 九、其他  
 1. achartengine  
@@ -1543,3 +1542,4 @@ Android framework UI team 成員
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/android-open-project/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
     
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a900f4d3b4aa67d4f98e3a143b8dea9e "githalytics.com")](http://githalytics.com/Trinea/android-open-project)
+
