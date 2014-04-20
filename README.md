@@ -668,16 +668,15 @@ Android上的Segmented Controls，相当于RadioButton组
 项目地址：https://github.com/MarkMjw/PullScrollView    
 效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 
-1. ParallaxScrollView    
+1. ParallaxScrollView  
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度    
 项目地址：https://github.com/chrisjenx/ParallaxScrollView    
-demo:https://github.com/chrisjenx/ParallaxScrollView/downloads     
+示例APK地址：https://github.com/chrisjenx/ParallaxScrollView/downloads     
 
-1. Android-Bootstrap         
+1. Android-Bootstrap  
 Bootstrap 风格的按钮    
-项目地址： https://github.com/Bearded-Hen/Android-Bootstrap
+项目地址： https://github.com/Bearded-Hen/Android-Bootstrap  
 效果图：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)    
-
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
