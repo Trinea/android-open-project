@@ -278,6 +278,10 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 配合ViewPager使用的Indicator，支持ViewPager Scroll时Indicator联动  
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
+
+1. ViewPager3D  
+ViewPager3D效果  
+项目地址：https://github.com/inovex/ViewPager3D  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 五、GridView  
@@ -1212,6 +1216,11 @@ Android手势框架，支持双指旋转、移动、平移、缩放等
 1. Mapbox Android SDK  
 Android Map的替代版  
 项目地址：https://github.com/mapbox/mapbox-android-sdk  
+
+1. Activity animation  
+Activity跳转动画，支持各个方向波浪的效果  
+项目地址：https://github.com/flavienlaurent/activityanimation   
+在线演示：https://www.youtube.com/watch?v=-E0sc6w_Jck  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
