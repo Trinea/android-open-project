@@ -452,7 +452,6 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 可以显示水位上升下降(不知道该怎么描述 囧)的TextView    
 项目地址：https://github.com/RomainPiel/Titanic    
 效果图：![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. android-iconify  
 提供带Icon的TextView,Menu,Button等  
@@ -461,7 +460,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 1. Calligraphy    
 让我们在android开发中使用自定义字体变得更加简单      
 项目地址 ：https://github.com/chrisjenx/Calligraphy    
-效果图：![Renderings](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)
+效果图：![Renderings](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)  
+
+1. CreditsRoll  
+类似星球大战字幕效果的TextView  
+项目地址：https://github.com/frakbot/CreditsRoll  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、其他  
 1. achartengine  
@@ -906,6 +910,10 @@ Demo地址：https://play.google.com/store/apps/details?id=org.jraf.android.back
 1. android-datepicker  
 将Android 4.0的datepicker兼容到Android2.2++  
 项目地址：https://github.com/SimonVT/android-datepicker  
+
+1. GlowPadBackport  
+Android 4.2的GlowPadView向后适配到API4以上  
+项目地址：https://github.com/frakbot/GlowPadBackport 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 七、多媒体相关  
