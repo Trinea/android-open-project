@@ -1402,6 +1402,14 @@ Android截图工具类，用于在持续集成时截图
 1. Spoon  
 可用于android不同机型设备自动化测试，能将应用apk和测试apk运行在不同机器上并生成相应测试报告。  
 项目地址：https://github.com/square/spoon    
+
+1. Tencent APT  
+APT是腾讯开源的一个Android平台高效性能测试组件，提供丰富实用的功能，适用于开发自测、定位性能瓶颈；测试人员完成性能基准测试、竞品对比测试  
+项目地址：https://github.com/stormzhang/APT  
+
+1. Emmagee  
+网易开源的性能测试工具，包括CPU、内存、网络流量、启动时间、电池状态等  
+项目地址：https://github.com/NetEase/Emmagee  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 四、开发及编译环境  
