@@ -458,6 +458,11 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 提供带Icon的TextView,Menu,Button等  
 项目地址：https://github.com/JoanZapata/android-iconify  
 
+1. Calligraphy    
+让我们在android开发中使用自定义字体变得更加简单      
+项目地址 ：https://github.com/chrisjenx/Calligraphy    
+效果图：![Renderings](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)
+
 #### 九、其他  
 1. achartengine  
 强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
@@ -662,7 +667,19 @@ Android上的Segmented Controls，相当于RadioButton组
 仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
 项目地址：https://github.com/MarkMjw/PullScrollView    
 效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. ParallaxScrollView    
+支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度    
+项目地址：https://github.com/chrisjenx/ParallaxScrollView    
+demo:https://github.com/chrisjenx/ParallaxScrollView/downloads     
+
+1. Android-Bootstrap         
+Bootstrap 风格的按钮    
+项目地址： https://github.com/Bearded-Hen/Android-Bootstrap
+效果图：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)    
+
+
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -955,6 +972,11 @@ Demo地址：https://play.google.com/store/apps/details?id=teaonly.droideye
 PNG图片的jni库，支持几乎png的所有特性  
 项目地址：https://github.com/julienr/libpng-android  
 文档地址：http://www.libpng.org/pub/png/libpng.html  
+
+1. android-gpuimage    
+基于GPU的图片滤镜    
+项目地址：https://github.com/CyberAgent/android-gpuimage     
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
@@ -1032,6 +1054,11 @@ Android心跳检测
 蓝牙源信息，包括宝库Mac、更新时间、RSSI、UUID、信号源距离、影响范围等信息  
 项目地址：https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo地址：https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
+
+1. farebot   
+通过NFC 从公交卡中读取数据的一个应用   
+项目地址：https://github.com/codebutler/farebot     
+    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十、安全  
