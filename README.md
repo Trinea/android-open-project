@@ -1208,6 +1208,10 @@ Demo地址：https://github.com/Comcast/FreeFlow/releases
 1. Android Gesture Detectors Framework  
 Android手势框架，支持双指旋转、移动、平移、缩放等  
 项目地址：https://github.com/Almeros/android-gesture-detectors  
+
+1. Mapbox Android SDK  
+Android Map的替代版  
+项目地址：https://github.com/mapbox/mapbox-android-sdk  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
@@ -1334,6 +1338,10 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 1. Gradle Retrolambda Plugin  
 [Retrolambda](https://github.com/orfjackal/retrolambda)是将Java8的Lambdas应用于Java7的工具，本项目是Gradle插件，通过Retrolambda从而使Java或Android项目用Java8的Lambdas编写，将编译后的字节码转换为Java6和7的字节码从而正常运行  
 项目地址：https://github.com/evant/gradle-retrolambda  
+
+1. Dagger IntelliJ Plugin  
+dagger的intellij插件  
+项目地址：https://github.com/square/dagger-intellij-plugin  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
