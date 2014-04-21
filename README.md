@@ -839,7 +839,7 @@ Android Sqlite orm的db工具类
 Android Sqlite orm的db工具类  
 项目地址：https://github.com/emilsjolander/sprinkles  
 文档介绍：http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/  
-特点：比较显著的特点就是配合https://github.com/square/retrofit能保存从服务器获取的数据  
+特点：比较显著的特点就是配合https://github.com/square/retrofit 能保存从服务器获取的数据  
    
 1. ormlite-android  
 项目地址：https://github.com/j256/ormlite-android  
