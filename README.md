@@ -1499,6 +1499,10 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 (5) 通过映射查找那些不是按照固定命名规则命名的style和theme  
 项目地址：https://github.com/jgilfelt/android-resource-navigator  
 示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
+
+1. android-resource-remover  
+根据lint的提示删除项目中无用的资源，减少包的大小  
+项目地址：https://github.com/KeepSafe/android-resource-remover  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
