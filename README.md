@@ -1480,7 +1480,7 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 项目地址：https://github.com/JakeWharton/pidcat  
 
 1. ACRA  
-应用崩溃信息上报到GoogleDoc工具  
+应用崩溃信息上报到GoogleDoc工具，网页版展现结果三方开源地址https://github.com/BenoitDuffez/crashreportsviewer  
 项目地址：https://github.com/ACRA/acra  
 文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
 
