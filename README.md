@@ -991,6 +991,10 @@ PNG图片的jni库，支持几乎png的所有特性
 1. AndroidFaceCropper  
 图片脸部自动识别，将识别后的局部图片返回  
 项目地址：https://github.com/lafosca/AndroidFaceCropper  
+
+1. Android Video Crop  
+利用TextureView播放和剪切视频，类似ImageView.setScaleType  
+项目地址：https://github.com/dmytrodanylyk/android-video-crop  
 Demo地址：https://github.com/lafosca/AndroidFaceCropper/releases/download/1.0/FaceCropper-sample-debug-unaligned.apk  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
