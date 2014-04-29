@@ -1225,6 +1225,11 @@ Android Map的替代版
 Activity跳转动画，支持各个方向波浪的效果  
 项目地址：https://github.com/flavienlaurent/activityanimation   
 在线演示：https://www.youtube.com/watch?v=-E0sc6w_Jck  
+
+1. dynamic-load-apk  
+Android动态加载Apk，热部署  
+项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
+文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
