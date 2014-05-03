@@ -1521,6 +1521,10 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 1. android-resource-remover  
 根据lint的提示删除项目中无用的资源，减少包的大小  
 项目地址：https://github.com/KeepSafe/android-resource-remover  
+
+1. Telescope  
+通过手势截图以特定主题发送到特定邮箱地址报告Bug  
+项目地址：https://github.com/mattprecious/telescope  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
