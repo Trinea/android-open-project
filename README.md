@@ -1373,6 +1373,10 @@ Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所
 1. Dagger IntelliJ Plugin  
 dagger的intellij插件  
 项目地址：https://github.com/square/dagger-intellij-plugin  
+
+1. Android Gen Drawable Maven plugin  
+在编译时根据SVG描述文件生成不同分辨率的jpg、png或点9图片  
+项目地址：https://github.com/avianey/androidgendrawable-maven-plugin  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
