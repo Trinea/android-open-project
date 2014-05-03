@@ -1475,6 +1475,10 @@ Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测�
 1. SDK Manager Plugin  
 下载和管理Android SDK的Gradle插件  
 项目地址：https://github.com/JakeWharton/sdk-manager-plugin  
+
+1. Gradle Protobuf Plugin  
+将.proto文件转换成Java文件的gradle插件  
+项目地址：https://github.com/andrewkroh/gradle-protobuf-plugin  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 五、其他  
