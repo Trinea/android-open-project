@@ -4,12 +4,12 @@ Android開源項目分類彙總
 歡迎大家推薦好的Android開源項目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我，歡迎`Star`、`Fork` :)  
 
 微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;主頁：[www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;郵箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
-分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到QQ空間" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到騰訊微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a> 
+分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到QQ空間" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到騰訊微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>  
 ## 目前包括：  
 >[Android開源項目第一篇——個性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
-*&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[TextView](https://github.com/Trinea/android-open-project#%E5%85%ABtextview)、[其他](https://github.com/Trinea/android-open-project#%E4%B9%9D%E5%85%B6%E4%BB%96)*  
+*&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[TextView](https://github.com/Trinea/android-open-project#%E5%85%ABtextview)、[ScrollView](https://github.com/Trinea/android-open-project#%E4%B9%9Dscrollview)、[TimeView](https://github.com/Trinea/android-open-project#%E5%8D%81timeview)、[TipView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80tipview)、[FlipView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%8Cflipview)、[ColorPickView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%89colorpickview)、[GraphView](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%9B%9Bgraphview)、[UI Style](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%94ui-style)、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%85%AD%E5%85%B6%E4%BB%96)*  
 [Android開源項目第二篇——工具庫篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
-*&nbsp;&nbsp;包括[依賴注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[圖片緩存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[網絡相關](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[數據庫ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共庫](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容庫](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒體](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件總線](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[傳感器](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[安全](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E5%85%B6%E4%BB%96)*  
+*&nbsp;&nbsp;包括[依賴注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[圖片緩存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[網絡相關](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[數據庫ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共庫](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容庫](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒體](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件總線](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[傳感器](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[安全](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[插件化](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E6%8F%92%E4%BB%B6%E5%8C%96)、[文件](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%8C%E6%96%87%E4%BB%B6)、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%89%E5%85%B6%E4%BB%96)*  
 [Android開源項目第三篇——優秀項目篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
 *&nbsp;&nbsp;比較有意思的完整的Android項目*  
 [Android開源項目第四篇——開發及測試工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
@@ -18,7 +18,8 @@ Android開源項目分類彙總
 *&nbsp;&nbsp;樂于分享並且有一些很不錯的開源項目的[個人](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[組織](https://github.com/Trinea/android-open-project#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*  
 
 ## 第一部分 個性化控件(View)  
-主要介紹那些不錯個性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar及其他如Dialog、Toast、EditText、TableView、Activity Animation等等。  
+主要介紹那些不錯個性化的View，包括ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar、TextView、ScrollView、TimeView、TipView、FlipView、ColorPickView、GraphView、UI Style等等。  
+、其他
 #### 一、ListView  
 1. android-pulltorefresh  
 一個強大的拉動刷新開源項目，支持各種控件下拉刷新，ListView、ViewPager、WevView、ExpandableListView、GridView、ScrollView、Horizontal  ScrollView、Fragment上下左右拉動刷新，比下面johannilsson那個只支持ListView的強大的多。並且他實現的下拉刷新ListView在item不足一屏情況下也不會顯示刷新提示，體驗更好。  
@@ -480,7 +481,116 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 項目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 九、其他  
+#### 九、ScrollView  
+1. Discrollview  
+支持滾動時Item淡入淡出，平移，縮放效果的ScrollView  
+項目地址：https://github.com/flavienlaurent/discrollview   
+Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
+
+1. PullScrollView   
+仿照新浪微博Android客戶端個人中心的ScrollView，下拉背景伸縮回彈效果。  
+項目地址：https://github.com/MarkMjw/PullScrollView    
+效果圖：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
+
+1. ParallaxScrollView  
+支持視差滾動的ScrollView ，背景圖片的滾動速度小于ScrollView中子控件的滾動速度    
+項目地址：https://github.com/chrisjenx/ParallaxScrollView    
+示例APK地址：https://github.com/chrisjenx/ParallaxScrollView/downloads     
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+
+#### 十、TimeView  
+包括TimePicker、DatePicker、CalendarView、Clock等時間相關控件  
+
+1. android-times-square  
+Android日曆時間部件，支持選取單個日期，多個日期，及日期區間段和對話框形式顯示  
+項目地址：https://github.com/square/android-times-square  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/times-square-demo.apk?raw=true  
+   
+1. android-calendar-card  
+日曆  
+項目地址：https://github.com/kenumir/android-calendar-card  
+Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsample  
+效果圖：![Renderings](https://raw.github.com/kenumir/android-calendar-card/master/calendar-card-sample/_work/device-2013-10-12-151801.png)  
+   
+1. AndroidWheel  
+Android Wheel支持城市、多種日期時間、密碼、圖片  
+項目地址：https://github.com/sephiroth74/AndroidWheel  
+效果圖：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
+  
+1. GoogleDateTimePickers  
+時間選擇部件  
+項目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
+文檔地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十一、TipView  
+包括Toast、角標、UndoBar等提示性控件  
+
+1. Crouton  
+豐富樣式的Toast，允許alert、comfirm、info樣式及點擊消失樣式，允許設置Toast顯示時間，允許自定義View。 本文32. SuperToasts爲其擴展版  
+項目地址：https://github.com/keyboardsurfer/Crouton  
+Demo地址：http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
+   
+1. supertooltips  
+帶動畫效果的Tips顯示  
+項目地址：https://github.com/nhaarman/supertooltips  
+Demo地址：https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
+   
+1. Android ViewBadger  
+爲其他View添加角標等  
+項目地址：https://github.com/jgilfelt/android-viewbadger  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
+效果圖：![Renderings](https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)  
+ 
+   
+1. SuperToasts  
+更豐富樣式的toast，支持Button、Progress、Horizontal Progress樣式、支持進入動畫、支持撤銷及其動畫設置    
+項目地址：https://github.com/JohnPersano/SuperToasts  
+Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
+效果圖：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
+  
+1. UndoBar  
+屏幕底部顯示取消或是確認的PopupWindows  
+項目地址：https://github.com/soarcn/UndoBar  
+效果圖：![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
+   
+1. UndoBar  
+屏幕底部顯示取消或是確認某操作  
+項目地址：https://github.com/jenzz/Android-UndoBar  
+效果圖：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十二、FlipView  
+1. android-flip  
+類似Flipboard翻轉動畫的實現  
+項目地址：https://github.com/openaphid/android-flip  
+Demo地址：https://github.com/openaphid/android-flip/blob/master/FlipView/Demo/APK/Aphid-FlipView-Demo.apk?raw=true  
+APP示例：flipboard  
+   
+1. FlipImageView  
+支持x、y、z及動畫選擇的翻轉動畫的實現  
+項目地址：https://github.com/castorflex/FlipImageView  
+Demo地址：https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十三、ColorPickView  
+1. ColorPickerView  
+顔色選擇器，支持PopupWindows或新的Activity中打開  
+項目地址：https://code.google.com/p/color-picker-view/  
+效果圖：![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
+   
+1. HoloColorPicker  
+顔色選擇器  
+項目地址：https://github.com/LarsWerkman/HoloColorPicker  
+Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit  
+  
+1. ColorPickerPreference  
+顔色選擇器  
+項目地址：https://github.com/attenzione/android-ColorPickerPreference  
+效果圖：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十四、GraphView  
 1. achartengine  
 強大的圖表繪制工具，支持折線圖、面積圖、散點圖、時間圖、柱狀圖、條圖、餅圖、氣泡圖、圓環圖、範圍（高至低）條形圖、撥號圖/表、立方線圖及各種圖的結合  
 項目地址：https://code.google.com/p/achartengine/  
@@ -498,91 +608,15 @@ APP示例：Wordpress Android，Google Analytics
 Demo工程：https://github.com/jjoe64/GraphView-Demos  
 Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
 APP示例：Wordpress Android，Google Analytics  
-   
-1. android-flip  
-類似Flipboard翻轉動畫的實現  
-項目地址：https://github.com/openaphid/android-flip  
-Demo地址：https://github.com/openaphid/android-flip/blob/master/FlipView/Demo/APK/Aphid-FlipView-Demo.apk?raw=true  
-APP示例：flipboard  
-   
-1. FlipImageView  
-支持x、y、z及動畫選擇的翻轉動畫的實現  
-項目地址：https://github.com/castorflex/FlipImageView  
-Demo地址：https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
-   
-1. SwipeBackLayout  
-左右或向上滑動返回的Activity  
-項目地址：https://github.com/Issacw0ng/SwipeBackLayout  
-Demo地址：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
-APP示例：知乎  
-   
-1. Cards-UI  
-卡片式View，支持單個卡片，item爲卡片的ListView  
-項目地址：https://github.com/afollestad/Cards-UI  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/cards-ui-demo.apk?raw=true  
-   
-1. cardslib  
-卡片式View，支持單個卡片，item爲卡片的ListView和GridView  
-項目地址：https://github.com/gabrielemariotti/cardslib  
-Demo地址：https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo  
-   
-1. android-styled-dialogs  
-可自定義樣式的dialog，默認與Holo主題樣式一致，在Android2.2以上同一樣式  
-項目地址：https://github.com/inmite/android-styled-dialogs  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
-   
-1. Crouton  
-豐富樣式的Toast，允許alert、comfirm、info樣式及點擊消失樣式，允許設置Toast顯示時間，允許自定義View。 本文32. SuperToasts爲其擴展版  
-項目地址：https://github.com/keyboardsurfer/Crouton  
-Demo地址：http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
-   
-1. supertooltips  
-帶動畫效果的Tips顯示  
-項目地址：https://github.com/nhaarman/supertooltips  
-Demo地址：https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
-   
-1. Android ViewBadger  
-爲其他View添加角標等  
-項目地址：https://github.com/jgilfelt/android-viewbadger  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
-效果圖：https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67  
-   
-1. Android Sliding Up Panel  
-可拖動的View，能在當前Activity上扶起一個可拖動的Panel  
-項目地址：https://github.com/umano/AndroidSlidingUpPanel  
-Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
-APP示例：Google Music精簡播放欄  
-   
-1. android-times-square  
-Android日曆時間部件，支持選取單個日期，多個日期，及日期區間段和對話框形式顯示  
-項目地址：https://github.com/square/android-times-square  
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/times-square-demo.apk?raw=true  
-   
-1. android-calendar-card  
-日曆  
-項目地址：https://github.com/kenumir/android-calendar-card  
-Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsample  
-效果圖：![Renderings](https://raw.github.com/kenumir/android-calendar-card/master/calendar-card-sample/_work/device-2013-10-12-151801.png)  
-   
-1. ColorPickerView  
-顔色選擇器，支持PopupWindows或新的Activity中打開  
-項目地址：https://code.google.com/p/color-picker-view/  
-效果圖：![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
-   
-1. HoloColorPicker  
-顔色選擇器  
-項目地址：https://github.com/LarsWerkman/HoloColorPicker  
-Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit  
-   
-1. AndroidWheel  
-Android Wheel支持城市、多種日期時間、密碼、圖片  
-項目地址：https://github.com/sephiroth74/AndroidWheel  
-效果圖：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
-   
-1. TableFixHeaders  
-第一列固定的Table  
-項目地址：https://github.com/InQBarna/TableFixHeaders  
-Demo地址：http://bit.ly/13buAIq  
+  
+1. HoloGraphLibrary  
+繪制現狀圖、柱狀圖、餅狀圖    
+項目地址：https://bitbucket.org/danielnadeau/holographlibrary/src  
+文檔介紹：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十五、UI Style  
+不同樣式的系統UI風格，如IOS、Bootstrap風格
    
 1. UITableView  
 ios風格控件，包括Button、ListView、TableView  
@@ -594,10 +628,49 @@ ios風格控件
 項目地址：https://github.com/dmacosta/ATableView  
 Demo地址：https://play.google.com/store/apps/details?id=com.nakardo.atableview.demo  
    
-1. UndoBar  
-屏幕底部顯示取消或是確認的PopupWindows  
-項目地址：https://github.com/soarcn/UndoBar  
-效果圖：![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
+1. Cards-UI  
+卡片式View，支持單個卡片，item爲卡片的ListView  
+項目地址：https://github.com/afollestad/Cards-UI  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/cards-ui-demo.apk?raw=true  
+   
+1. cardslib  
+卡片式View，支持單個卡片，item爲卡片的ListView和GridView  
+項目地址：https://github.com/gabrielemariotti/cardslib  
+Demo地址：https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo  
+  
+1. Android-Bootstrap  
+Bootstrap 風格的按鈕    
+項目地址： https://github.com/Bearded-Hen/Android-Bootstrap  
+效果圖：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十六、其他     
+1. SwipeBackLayout  
+左右或向上滑動返回的Activity  
+項目地址：https://github.com/Issacw0ng/SwipeBackLayout  
+Demo地址：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
+APP示例：知乎  
+   
+1. android-styled-dialogs  
+可自定義樣式的dialog，默認與Holo主題樣式一致，在Android2.2以上同一樣式  
+項目地址：https://github.com/inmite/android-styled-dialogs  
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
+   
+1. Android Sliding Up Panel  
+可拖動的View，能在當前Activity上扶起一個可拖動的Panel  
+項目地址：https://github.com/umano/AndroidSlidingUpPanel  
+Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
+APP示例：Google Music精簡播放欄  
+   
+1. AndroidWheel  
+Android Wheel支持城市、多種日期時間、密碼、圖片  
+項目地址：https://github.com/sephiroth74/AndroidWheel  
+效果圖：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
+   
+1. TableFixHeaders  
+第一列固定的Table  
+項目地址：https://github.com/InQBarna/TableFixHeaders  
+Demo地址：http://bit.ly/13buAIq  
    
 1. Inscription  
 可用于展示應用change和new feature信息  
@@ -632,41 +705,10 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 項目地址：https://github.com/edmodo/range-bar  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
 效果圖: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
-  
-1. SuperToasts  
-更豐富樣式的toast，支持Button、Progress、Horizontal Progress樣式、支持進入動畫、支持撤銷及其動畫設置    
-項目地址：https://github.com/JohnPersano/SuperToasts  
-Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo  
-效果圖：![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
-
-1. GoogleDateTimePickers  
-時間選擇部件  
-項目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
-文檔地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
-   
-1. UndoBar  
-屏幕底部顯示取消或是確認某操作  
-項目地址：https://github.com/jenzz/Android-UndoBar  
-效果圖：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
-   
-1. ColorPickerPreference  
-顔色選擇器  
-項目地址：https://github.com/attenzione/android-ColorPickerPreference  
-效果圖：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
-
-1. HoloGraphLibrary  
-繪制現狀圖、柱狀圖、餅狀圖    
-項目地址：https://bitbucket.org/danielnadeau/holographlibrary/src  
-文檔介紹：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
 1. ChromeView  
 利用Chromium實現的WebView，解決各個Android版本WebView不同的問題，同時利用最新Chrome代碼    
 項目地址：https://github.com/pwnall/chromeview  
-   
-1. Discrollview  
-支持滾動時Item淡入淡出，平移，縮放效果的ScrollView  
-項目地址：https://github.com/flavienlaurent/discrollview   
-Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
    
 1. Android Slider Preference Library  
 可添加到設置中的基于對話框的RankBar小部件  
@@ -679,22 +721,6 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 1. android-segmented-control  
 Android上的Segmented Controls，相當于RadioButton組  
 項目地址：https://github.com/hoang8f/android-segmented-control   
-
-1. PullScrollView   
-仿照新浪微博Android客戶端個人中心的ScrollView，下拉背景伸縮回彈效果。  
-項目地址：https://github.com/MarkMjw/PullScrollView    
-效果圖：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
-
-1. ParallaxScrollView  
-支持視差滾動的ScrollView ，背景圖片的滾動速度小于ScrollView中子控件的滾動速度    
-項目地址：https://github.com/chrisjenx/ParallaxScrollView    
-示例APK地址：https://github.com/chrisjenx/ParallaxScrollView/downloads     
-
-1. Android-Bootstrap  
-Bootstrap 風格的按鈕    
-項目地址： https://github.com/Bearded-Hen/Android-Bootstrap  
-效果圖：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)    
-
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 ## 第二部分 工具庫  
@@ -1005,6 +1031,10 @@ PNG圖片的jni庫，支持幾乎png的所有特性
 利用TextureView播放和剪切視頻，類似ImageView.setScaleType  
 項目地址：https://github.com/dmytrodanylyk/android-video-crop  
 Demo地址：https://github.com/lafosca/AndroidFaceCropper/releases/download/1.0/FaceCropper-sample-debug-unaligned.apk  
+  
+1. svg-android  
+Android Svg矢量圖形支持  
+項目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件總線(訂閱者模式)  
@@ -1125,16 +1155,37 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 十一、其他  
-1. Salvage view  
-帶View緩存的Viewpager PagerAdapter，很方便使用  
-項目地址：https://github.com/JakeWharton/salvage  
-   
-1. Android Priority Job Queue  
-Android後台任務隊列  
-項目地址：https://github.com/path/android-priority-jobqueue  
-文檔介紹：https://github.com/path/android-priority-jobqueue#getting-started  
-   
+#### 十一、插件化  
+1. Android Plugin Framework  
+Android插件式開發  
+項目地址：https://github.com/umeng/apf  
+
+1. xCombine  
+Android App插件式插件開發  
+項目地址：https://github.com/wyouflf/xCombine  
+文檔介紹：http://my.oschina.net/u/1171837/blog/155377  
+
+1. dynamic-load-apk  
+Android動態加載Apk，熱部署  
+項目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
+文檔介紹：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十二、文件  
+對不同文檔類型的處理，包括PDF、Word、EPub、Html、Zip等
+
+1. purePDF  
+允許從任何運行的SWF文件讀取和創建PDF文檔  
+項目地址：https://github.com/sephiroth74/purePDF  
+  
+1. Office 365 SDK for Android Preview  
+可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
+項目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
+
+1. OpenSpritz-Android  
+EPub閱讀器  
+項目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
+  
 1. jsoup  
 一個解析html的java庫，可方便的提取和操作數據  
 項目地址：https://github.com/jhy/jsoup  
@@ -1154,6 +1205,17 @@ java壓縮和解壓庫
 (3) 支持重命名元素  
 (4) 支持遍曆zip包內容  
 (5) 比較兩個zip包等功能  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十三、其他  
+1. Salvage view  
+帶View緩存的Viewpager PagerAdapter，很方便使用  
+項目地址：https://github.com/JakeWharton/salvage  
+   
+1. Android Priority Job Queue  
+Android後台任務隊列  
+項目地址：https://github.com/path/android-priority-jobqueue  
+文檔介紹：https://github.com/path/android-priority-jobqueue#getting-started  
    
 1. Cobub Razor  
 開源的mobile行爲分析系統，包括web端、android端，支持ios和window phone  
@@ -1168,14 +1230,6 @@ Demo地址：http://demo.cobub.com/razor
 1. androidpn  
 基于xmpp協議的消息推送解決方案，包括服務器端和android端。  
 項目地址：https://github.com/dannytiehui/androidpn  
-   
-1. Android Plugin Framework  
-Android插件式開發  
-項目地址：https://github.com/umeng/apf  
- 
-1. purePDF  
-允許從任何運行的SWF文件讀取和創建PDF文檔  
-項目地址：https://github.com/sephiroth74/purePDF  
 
 1. Bolts  
 Android的異步編程模式  
@@ -1199,27 +1253,10 @@ Android應用自身被卸載監聽及打開浏覽器等反饋功能實現
 文檔介紹：http://www.cnblogs.com/zealotrouge/p/3157126.html  
 http://www.cnblogs.com/zealotrouge/p/3159772.html  
 
-1. xCombine  
-Android App插件式插件開發  
-項目地址：https://github.com/wyouflf/xCombine  
-文檔介紹：http://my.oschina.net/u/1171837/blog/155377  
-
 1. Memento  
 保證在系統配置改變時，Activity中的某些數據可以簡單安全的保持不變  
 項目地址：https://github.com/mttkay/memento  
 文檔介紹：https://github.com/mttkay/memento#usage  
-
-1. svg-android  
-Android Svg矢量圖形支持  
-項目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
-
-1. Office 365 SDK for Android Preview  
-可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
-項目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
-
-1. OpenSpritz-Android  
-Epub閱讀器  
-項目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
    
 1. FreeFlow  
 布局引擎，更簡單的創建自定義布局，並且當數據和布局改變時更美觀的過渡動畫  
@@ -1238,11 +1275,6 @@ Android Map的替代版
 Activity跳轉動畫，支持各個方向波浪的效果  
 項目地址：https://github.com/flavienlaurent/activityanimation   
 在線演示：https://www.youtube.com/watch?v=-E0sc6w_Jck  
-
-1. dynamic-load-apk  
-Android動態加載Apk，熱部署  
-項目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
-文檔介紹：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 
 1. KryoNet  
 通過NIO提供客戶端和服務器端TCP/UDP網絡傳輸的Java庫  
@@ -1639,3 +1671,4 @@ Android framework UI team 成員
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
