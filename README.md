@@ -9,7 +9,7 @@ Android开源项目分类汇总
 >[Android开源项目第一篇——个性化控件(View)篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6view)  
 *&nbsp;&nbsp;包括[ListView](https://github.com/Trinea/android-open-project#%E4%B8%80listview)、[ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、[Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、[ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、[GridView](https://github.com/Trinea/android-open-project#%E4%BA%94gridview)、[ImageView](https://github.com/Trinea/android-open-project#%E5%85%ADimageview)、[ProgressBar](https://github.com/Trinea/android-open-project#%E4%B8%83progressbar)、[TextView](https://github.com/Trinea/android-open-project#%E5%85%ABtextview)、[ScrollView](https://github.com/Trinea/android-open-project#%E4%B9%9Dscrollview)、[TimeView](https://github.com/Trinea/android-open-project#%E5%8D%81timeview)、[TipView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80tipview)、[FlipView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%8Cflipview)、[ColorPickView](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%89colorpickview)、[GraphView](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%9B%9Bgraphview)、[UI Style](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%94ui-style)、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%85%AD%E5%85%B6%E4%BB%96)*  
 [Android开源项目第二篇——工具库篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E5%B7%A5%E5%85%B7%E5%BA%93)  
-*&nbsp;&nbsp;包括[依赖注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[图片缓存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[网络相关](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[数据库ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共库](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容库](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒体](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件总线](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[传感器](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[安全](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[插件化]()、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E5%85%B6%E4%BB%96)*  
+*&nbsp;&nbsp;包括[依赖注入](https://github.com/Trinea/android-open-project#%E4%B8%80%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5di)、[图片缓存](https://github.com/Trinea/android-open-project#%E4%BA%8C%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98)、[网络相关](https://github.com/Trinea/android-open-project#%E4%B8%89%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)、[数据库ORM工具包](https://github.com/Trinea/android-open-project#%E5%9B%9B%E6%95%B0%E6%8D%AE%E5%BA%93-orm%E5%B7%A5%E5%85%B7%E5%8C%85)、[Android公共库](https://github.com/Trinea/android-open-project#%E4%BA%94android%E5%85%AC%E5%85%B1%E5%BA%93)、[高版本向低版本兼容库](https://github.com/Trinea/android-open-project#%E5%85%ADandroid-%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%91%E4%BD%8E%E7%89%88%E6%9C%AC%E5%85%BC%E5%AE%B9)、[多媒体](https://github.com/Trinea/android-open-project#%E4%B8%83%E5%A4%9A%E5%AA%92%E4%BD%93%E7%9B%B8%E5%85%B3)、[事件总线](https://github.com/Trinea/android-open-project#%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F)、[传感器](https://github.com/Trinea/android-open-project#%E4%B9%9D%E4%BC%A0%E6%84%9F%E5%99%A8)、[安全](https://github.com/Trinea/android-open-project#%E5%8D%81%E5%AE%89%E5%85%A8)、[插件化](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E6%8F%92%E4%BB%B6%E5%8C%96)、[文件]()、[其他](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%B8%80%E5%85%B6%E4%BB%96)*  
 [Android开源项目第三篇——优秀项目篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)  
 *&nbsp;&nbsp;比较有意思的完整的Android项目*  
 [Android开源项目第四篇——开发及测试工具篇](https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)  
@@ -1031,6 +1031,10 @@ PNG图片的jni库，支持几乎png的所有特性
 利用TextureView播放和剪切视频，类似ImageView.setScaleType  
 项目地址：https://github.com/dmytrodanylyk/android-video-crop  
 Demo地址：https://github.com/lafosca/AndroidFaceCropper/releases/download/1.0/FaceCropper-sample-debug-unaligned.apk  
+  
+1. svg-android  
+Android Svg矢量图形支持  
+项目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
@@ -1167,16 +1171,21 @@ Android动态加载Apk，热部署
 文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 十二、其他  
-1. Salvage view  
-带View缓存的Viewpager PagerAdapter，很方便使用  
-项目地址：https://github.com/JakeWharton/salvage  
-   
-1. Android Priority Job Queue  
-Android后台任务队列  
-项目地址：https://github.com/path/android-priority-jobqueue  
-文档介绍：https://github.com/path/android-priority-jobqueue#getting-started  
-   
+#### 十二、文件  
+对不同文档类型的处理，包括PDF、Word、EPub、Html、Zip等
+
+1. purePDF  
+允许从任何运行的SWF文件读取和创建PDF文档  
+项目地址：https://github.com/sephiroth74/purePDF  
+  
+1. Office 365 SDK for Android Preview  
+可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
+项目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
+
+1. OpenSpritz-Android  
+EPub阅读器  
+项目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
+  
 1. jsoup  
 一个解析html的java库，可方便的提取和操作数据  
 项目地址：https://github.com/jhy/jsoup  
@@ -1196,6 +1205,17 @@ java压缩和解压库
 (3) 支持重命名元素  
 (4) 支持遍历zip包内容  
 (5) 比较两个zip包等功能  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+#### 十三、其他  
+1. Salvage view  
+带View缓存的Viewpager PagerAdapter，很方便使用  
+项目地址：https://github.com/JakeWharton/salvage  
+   
+1. Android Priority Job Queue  
+Android后台任务队列  
+项目地址：https://github.com/path/android-priority-jobqueue  
+文档介绍：https://github.com/path/android-priority-jobqueue#getting-started  
    
 1. Cobub Razor  
 开源的mobile行为分析系统，包括web端、android端，支持ios和window phone  
@@ -1210,10 +1230,6 @@ Demo地址：http://demo.cobub.com/razor
 1. androidpn  
 基于xmpp协议的消息推送解决方案，包括服务器端和android端。  
 项目地址：https://github.com/dannytiehui/androidpn  
- 
-1. purePDF  
-允许从任何运行的SWF文件读取和创建PDF文档  
-项目地址：https://github.com/sephiroth74/purePDF  
 
 1. Bolts  
 Android的异步编程模式  
@@ -1241,18 +1257,6 @@ http://www.cnblogs.com/zealotrouge/p/3159772.html
 保证在系统配置改变时，Activity中的某些数据可以简单安全的保持不变  
 项目地址：https://github.com/mttkay/memento  
 文档介绍：https://github.com/mttkay/memento#usage  
-
-1. svg-android  
-Android Svg矢量图形支持  
-项目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
-
-1. Office 365 SDK for Android Preview  
-可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
-项目地址：https://github.com/OfficeDev/Office-365-SDK-for-Android  
-
-1. OpenSpritz-Android  
-Epub阅读器  
-项目地址：https://github.com/OnlyInAmerica/OpenSpritz-Android  
    
 1. FreeFlow  
 布局引擎，更简单的创建自定义布局，并且当数据和布局改变时更美观的过渡动画  
