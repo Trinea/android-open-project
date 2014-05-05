@@ -481,7 +481,7 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 项目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 八、TimeView  
+#### 九、TimeView  
 包括TimePicker、DatePicker、CalendarView、Clock等时间相关控件  
 
 1. android-times-square  
@@ -505,7 +505,8 @@ Android Wheel支持城市、多种日期时间、密码、图片
 项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
 文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-#### 九、TipView  
+
+#### 十、TipView  
 包括Toast、角标、UndoBar等提示性控件  
 1. Crouton  
 丰富样式的Toast，允许alert、comfirm、info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
@@ -521,7 +522,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.haarman.supertool
 为其他View添加角标等  
 项目地址：https://github.com/jgilfelt/android-viewbadger  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
-效果图：https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67  
+效果图：![Renderings](https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)  
  
    
 1. SuperToasts  
@@ -540,7 +541,8 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 项目地址：https://github.com/jenzz/Android-UndoBar  
 效果图：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-#### 十、UI Style  
+
+#### 十一、UI Style  
 不同样式的系统UI风格，如IOS、Bootstrap风格
    
 1. UITableView  
@@ -568,7 +570,8 @@ Bootstrap 风格的按钮
 项目地址： https://github.com/Bearded-Hen/Android-Bootstrap  
 效果图：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-#### 十一、其他  
+
+#### 十二、其他  
 1. achartengine  
 强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、拨号图/表、立方线图及各种图的结合  
 项目地址：https://code.google.com/p/achartengine/  
