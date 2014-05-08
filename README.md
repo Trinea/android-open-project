@@ -909,7 +909,15 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 1. CleanAndroidCode  
 整合了Dagger Otto AndroidAnnotations，方便快速开发  
 项目地址：https://github.com/pyricau/CleanAndroidCode  
-我目前也在做框架选型方面的工作，不出意外后面也会出个跟4、5类似的项目  
+   
+1. xUtils  
+基于Afinal，包含DbUtils、ViewUtils、HttpUtils、BitmapUtils四大模块，可用于快速开发  
+项目地址：https://github.com/wyouflf/xUtils    
+   
+1. Afinal  
+Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据  
+项目地址：https://github.com/yangfuhai/afinal  
+官方网站：http://www.afinal.org  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、Android 高版本向低版本兼容  
@@ -934,12 +942,12 @@ Demo地址：https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywh
 1. SherlockNavigationDrawer  
 将Android NavigationDrawer和ActionbarSherlock结合，解决4.0以下NavigationDrawer的适配问题  
 项目地址：https://github.com/tobykurien/SherlockNavigationDrawer  
+文档地址：http://developer.android.com/training/implementing-navigation/nav-drawer.html  
 
 1. Notifications4EveryWhere  
-将Android 4.1的兼容到Android2.2++  
+将Android 4.1的Notification兼容到Android2.2++  
 项目地址：https://github.com/youxiachai/Notifications4EveryWhere  
-NavigationDrawer文档地址：http://developer.android.com/training/implementing-navigation/nav-drawer.html  
-
+  
 1. Android Switch Widget Backport  
 将Android Switch和SwitchPreference的兼容到Android2.1++  
 项目地址：https://github.com/BoD/android-switch-backport  
