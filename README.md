@@ -1474,7 +1474,7 @@ APT是腾讯开源的一个Android平台高效性能测试组件，提供丰富�
 项目地址：https://github.com/NetEase/Emmagee  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 1. Android py-uiautomator
-This module is a Python wrapper of Android uiautomator testing framework
+py-uiautomator 是一个对Android uiautomator用python进行封装的测试框架.
 项目地址：https://github.com/xiaocong/uiautomator
 文档介绍：https://github.com/xiaocong/uiautomator/blob/master/README.md
 
