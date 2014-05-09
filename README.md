@@ -285,10 +285,10 @@ ViewPager3D效果
 项目地址：https://github.com/inovex/ViewPager3D  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-1. AnimaTabsview
+1. AnimaTabsview  
 仿网易云音乐标签切换的动画,带透明小三角
-项目地址: https://github.com/wuyexiong/transparent-over-animtabsview
-效果演示: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+项目地址: https://github.com/wuyexiong/transparent-over-animtabsview  
+在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -320,7 +320,7 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 1. PagedDragDropGrid  
 Item可拖动交换位置、拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
 项目地址：https://github.com/mrKlar/PagedDragDropGrid  
-Demo视频：http://youtu.be/FYTSRfthSuQ  
+在线演示：http://youtu.be/FYTSRfthSuQ  
 
 1. Android-DraggableGridViewPager  
 Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可屏幕自动左右滚动进行Item移动交换，单屏效果见上面DraggableGridView  
@@ -1485,11 +1485,11 @@ APT是腾讯开源的一个Android平台高效性能测试组件，提供丰富�
 1. Emmagee  
 网易开源的性能测试工具，包括CPU、内存、网络流量、启动时间、电池状态等  
 项目地址：https://github.com/NetEase/Emmagee  
+
+1. Android py-uiautomator  
+py-uiautomator是一个对Android uiautomator用python进行封装的测试框架.  
+项目地址：https://github.com/xiaocong/uiautomator  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-1. Android py-uiautomator
-py-uiautomator 是一个对Android uiautomator用python进行封装的测试框架.
-项目地址：https://github.com/xiaocong/uiautomator
-文档介绍：https://github.com/xiaocong/uiautomator/blob/master/README.md
 
 #### 四、开发及编译环境  
 1. Buck  
