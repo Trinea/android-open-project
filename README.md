@@ -286,7 +286,7 @@ ViewPager3D效果
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. AnimaTabsview  
-仿网易云音乐标签切换的动画,带透明小三角
+仿网易云音乐标签切换的动画,带透明小三角  
 项目地址: https://github.com/wuyexiong/transparent-over-animtabsview  
 在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
 
