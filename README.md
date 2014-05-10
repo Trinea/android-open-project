@@ -500,7 +500,7 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 1. ParallaxScrollView  
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度    
 项目地址：https://github.com/chrisjenx/ParallaxScrollView    
-示例APK地址：https://github.com/chrisjenx/ParallaxScrollView/downloads     
+Demo地址：http://cloud.github.com/downloads/chrisjenx/ParallaxScrollView/ParallaxScrollViewDemo-v1.0.5.apk     
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 十、TimeView  
@@ -703,7 +703,7 @@ Android的图案密码解锁
 项目地址：https://code.google.com/p/android-lockpattern/  
 Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
+APP示例：Android开机的图案密码解锁，支付宝的密码解锁  
   
 1. RangeBar  
 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
@@ -1577,7 +1577,7 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 (4) 自动下载不同分辨率下的drawable  
 (5) 通过映射查找那些不是按照固定命名规则命名的style和theme  
 项目地址：https://github.com/jgilfelt/android-resource-navigator  
-示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
+在线演示：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
 
 1. android-resource-remover  
 根据lint的提示删除项目中无用的资源，减少包的大小  
