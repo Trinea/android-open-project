@@ -610,8 +610,8 @@ APP示例：Wordpress Android，Google Analytics
 1. GraphView  
 绘制图表和曲线图的View，可用于Android上的曲形图、柱状图、波浪图展示  
 项目地址：https://github.com/jjoe64/GraphView  
-Demo工程：https://github.com/jjoe64/GraphView-Demos  
 Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
+Demo项目：https://github.com/jjoe64/GraphView-Demos  
 APP示例：Wordpress Android，Google Analytics  
   
 1. HoloGraphLibrary  
