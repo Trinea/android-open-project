@@ -289,6 +289,8 @@ ViewPager3D效果
 仿网易云音乐标签切换的动画,带透明小三角  
 项目地址: https://github.com/wuyexiong/transparent-over-animtabsview  
 在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
+Demo下载: https://play.google.com/store/apps/details?id=tree.love.animtabsview.demo  
+效果图：<img style="-webkit-user-select: none; cursor: -webkit-zoom-out;" src="https://cloud.githubusercontent.com/assets/1940316/2728711/318826ca-c5fa-11e3-8f47-c261d395be14.png" width="240" height="427">   
 
 #### 五、GridView  
 1. StaggeredGridView  
