@@ -581,6 +581,11 @@ APP示例：flipboard
 支持x、y、z及动画选择的翻转动画的实现  
 项目地址：https://github.com/castorflex/FlipImageView  
 Demo地址：https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
+
+1. FoldableLayout  
+Flip翻转效果的ListView，目前还不支持ListView缓存  
+项目地址：https://github.com/alexvasilkov/FoldableLayout  
+Demo地址：http://play.google.com/store/apps/details?id=com.alexvasilkov.foldablelayout.sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十三、ColorPickView  
