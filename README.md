@@ -736,6 +736,10 @@ Android上的Segmented Controls，相当于RadioButton组
 类似Tinder的卡片效果，可以加载图片并动画效果展示，向左滑动表示喜欢，向右表示不喜欢  
 项目地址：https://github.com/kikoso/Swipeable-Cards  
 Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.demo  
+
+1. EdgeEffectOverride  
+改变ScrollView, ListView, ExpandableListView, GridView, ViewPager等滚动控件滚动到边缘的颜色效果  
+项目地址：https://github.com/AndroidAlliance/EdgeEffectOverride  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 ## 第二部分 工具库  
@@ -1245,6 +1249,11 @@ Android后台任务队列
 项目地址：https://github.com/cobub/razor  
 Demo地址：http://demo.cobub.com/razor  
 网站介绍：http://dev.cobub.com/  
+
+1. Countly  
+Android移动端数据采集分析系统  
+项目地址：https://github.com/Countly/countly-sdk-android  
+官网地址：https://count.ly/  
    
 1. aFileChooser  
 文件选择器，可内嵌到程序中，而无需使用系统或三方文件选择器。  
