@@ -1188,19 +1188,19 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、插件化  
-1. Android Plugin Framework  
-Android插件式开发  
-项目地址：https://github.com/umeng/apf  
+1. dynamic-load-apk  
+Android动态加载Apk，热部署。支持一定程度不安装升级  
+项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
+文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 
 1. xCombine  
-Android App插件式插件开发  
+Android App插件式插件开发，插件必须先安装  
 项目地址：https://github.com/wyouflf/xCombine  
 文档介绍：http://my.oschina.net/u/1171837/blog/155377  
 
-1. dynamic-load-apk  
-Android动态加载Apk，热部署  
-项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
-文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
+1. Android Plugin Framework  
+Android插件式开发，开放的源码目前不完整  
+项目地址：https://github.com/umeng/apf  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十二、文件  
@@ -1614,6 +1614,14 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 1. Telescope  
 通过手势截图以特定主题发送到特定邮箱地址报告Bug  
 项目地址：https://github.com/mattprecious/telescope  
+
+1. Telescope  
+通过手势截图以特定主题发送到特定邮箱地址报告Bug  
+项目地址：https://github.com/mattprecious/telescope  
+
+1. Complete Android Fragment & Activity Lifecycle  
+完整的Android Fragment/Activity生命周期图  
+项目地址：https://github.com/xxv/android-lifecycle  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
