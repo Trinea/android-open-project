@@ -1316,6 +1316,10 @@ Activity跳转动画，支持各个方向波浪的效果
 1. KryoNet  
 通过NIO提供客户端和服务器端TCP/UDP网络传输的Java库  
 项目地址：https://github.com/EsotericSoftware/kryonet  
+
+1. Rebound  
+一个模仿弹簧反弹的Java库，可用于创建动画  
+项目地址：https://github.com/facebook/rebound  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
