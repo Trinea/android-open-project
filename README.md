@@ -484,6 +484,11 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 1. android-process-buton  
 带加载或提交进度的Button  
 项目地址：https://github.com/dmytrodanylyk/android-process-buton  
+
+1. FButton  
+扁平化的Button  
+项目地址：https://github.com/hoang8f/android-flat-button  
+Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.demo  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
