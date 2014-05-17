@@ -524,7 +524,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsa
    
 1. AndroidWheel  
 Android Wheel支持城市、多种日期时间、密码、图片  
-项目地址：https://github.com/sephiroth74/AndroidWheel  
+项目地址：https://code.google.com/p/android-wheel/  
 效果图：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
   
 1. GoogleDateTimePickers  
@@ -679,7 +679,7 @@ APP示例：Google Music精简播放栏
    
 1. AndroidWheel  
 Android Wheel支持城市、多种日期时间、密码、图片  
-项目地址：https://github.com/sephiroth74/AndroidWheel  
+项目地址：https://code.google.com/p/android-wheel/  
 效果图：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
    
 1. TableFixHeaders  
