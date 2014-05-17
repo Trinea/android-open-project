@@ -1067,6 +1067,10 @@ Demo地址：https://github.com/lafosca/AndroidFaceCropper/releases/download/1.0
 1. svg-android  
 Android Svg矢量图形支持  
 项目地址：https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
+
+1. Android Visualizer  
+从Android MediaPlayer获得音频，然后像iTunes及WinAmp一样展示音轨  
+项目地址：https://github.com/felixpalmer/android-visualizer  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
@@ -1342,7 +1346,7 @@ PS：现在市面上很多应用的二维码扫描功能都是从这个修改而
 APK地址：https://play.google.com/store/apps/details?id=uk.co.senab.photup  
 PS：代码分包合理，很棒。不过这个项目依赖的开源项目比较多，比较难编译  
      
-(3) github-android 
+(3) github-android  
 Github的Android客户端项目  
 项目地址：https://github.com/github/android  
 APK地址：https://play.google.com/store/apps/details?id=com.github.mobile  
