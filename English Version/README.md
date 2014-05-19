@@ -179,50 +179,47 @@ Similar App: google music
 
 #### Third. Menu   
 1. MenuDrawer   
-滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕上下左右划出，支持当前View处于上下层，支持Windows边缘, ListView边缘, ViewPager变化划出菜单等。  
+A slide-out menu implementation, which allows users to navigate between views in your app. Most commonly the menu is revealed by either dragging the edge of the screen, or clicking the 'up' button in the action bar. It support content below or up to menu when compare to SlidingMenu.  
 Project Address: https://github.com/SimonVT/android-menudrawer  
 Demo Apk: http://simonvt.github.io/android-menudrawer/  
-Similar App: Gmail, Google Music等大部分google app  
+Similar App: Gmail, Google Music  
    
 1. SlidingMenu  
-滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕左右划出，支持菜单zoom, scale, slide up三种动画样式出现。  
+An Android library that allows you to easily create applications with slide-in menus. It support animation when compare to MenuDrawer.  
 Project Address: https://github.com/jfeinstein10/SlidingMenu  
 Demo Apk: https://play.google.com/store/apps/details?id=com.slidingmenu.example  
 Similar App: Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for Android, ESPN ScoreCenter, MLS MatchDay, 9GAG, Wunderlist 2, The Verge, MTG Familiar, Mantano Reader, Falcon Pro (BETA), MW3 Barracks  
-MenuDrawer和SlidingMenu比较：SlidingMenu支持菜单动画样式出现，MenuDrawer支持菜单view处于内容的上下层  
    
 1. ArcMenu  
-支持类似Path的左下角动画旋转菜单及横向划出菜单, 圆心弹出菜单  
+An android custom view which looks like the menu in Path 2.0 for iOS.  
 Project Address: https://github.com/daCapricorn/ArcMenu  
 Similar App: Path  
 Renderings: ![Renderings](https://dl.dropboxusercontent.com/u/11369687/preview0.png)  
-https://dl.dropboxusercontent.com/u/11369687/preview1.png  
-https://dl.dropboxusercontent.com/u/11369687/raymenu.png  
    
 1. android-satellite-menu  
-类似Path的左下角动画旋转菜单  
+Android Satellite Menu  
 Project Address: https://github.com/siyamed/android-satellite-menu  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/satellite-menu-demo.apk?raw=true  
 Similar App: Path  
    
 1. radial-menu-widget  
-圆形菜单，支持二级菜单  
+A radial (pie) menu for Android  
 Project Address: https://code.google.com/p/radial-menu-widget/  
 Renderings: http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg  
    
 1. Android Wheel Menu  
-圆形旋转选取菜单  
+Circular menu widget for Android.  
 Project Address: https://github.com/anupcowkur/Android-Wheel-Menu  
 Renderings: ![Renderings](https://raw.github.com/anupcowkur/Android-Wheel-Menu/master/graphics/wheel.gif)  
    
 1. FoldingNavigationDrawer  
-滑动并以折叠方式打开菜单  
+Folding navigation drawer for android.  
 Project Address: https://github.com/tibi1712/FoldingNavigationDrawer-Android  
-使用介绍：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
+Demo Apk: https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
 Renderings: ![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
 
 1. AndroidResideMenu  
-仿 Dribbble 的边栏菜单   
+The idea of ResideMenu is from Dribbble 1 and 2 likes iOS ResideMenu   
 Project Address: https://github.com/SpecialCyCi/AndroidResideMenu    
 Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  

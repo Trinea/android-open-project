@@ -220,7 +220,7 @@ APP示例：Path
 1. FoldingNavigationDrawer  
 滑动并以折叠方式打开菜单  
 项目地址：https://github.com/tibi1712/FoldingNavigationDrawer-Android  
-使用介绍：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
+Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sample  
 效果图：![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
 
 1. AndroidResideMenu  
