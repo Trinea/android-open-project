@@ -141,37 +141,37 @@ Renderings: ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art
 
 #### Second. ActionBar  
 1. ActionBarSherlock  
-为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
+Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. 
+  
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
 Demo Apk: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
-Similar App: 太多了。。现在连google都在用  
    
 1. ActionBar-PullToRefresh  
-下拉刷新，ActionBar出现加载中提示  
+ActionBar-PullToRefresh provides an easy way to add a modern version of the pull-to-refresh interaction to your application.  
 Project Address: https://github.com/chrisbanes/ActionBar-PullToRefresh  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.senab.actionbarpulltorefresh.samples.stock  
-Similar App: Gmail，Google plus，知乎等  
+Similar App: Gmail，Google plus  
    
 1. FadingActionBar  
-ListView向下滚动逐渐显现的ActionBar  
+Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app  
 Project Address: https://github.com/ManuelPeinado/FadingActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo  
-Similar App: google music，知乎  
+Similar App: google music  
    
 1. NotBoringActionBar  
-google music下拉收缩的ActionBar  
+Auto dismis actionbar when content scroll down  
 Project Address: https://github.com/flavienlaurent/NotBoringActionBar  
 Demo Apk: http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/  
-Similar App: Google音乐  
+Similar App: google music  
    
 1. RefreshActionItem  
-带进度显示和刷新按钮的ActionBar  
+An action bar item which acts both as a refresh button and as a progress indicator  
 Project Address: https://github.com/ManuelPeinado/RefreshActionItem  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.refreshactionitem.demo  
 Similar App: The New York Times，DevAppsDirect.  
    
 1. GlassActionBar  
-类似玻璃的有一定透明度的ActionBar  
+An Android library which implements a glass-like effect for the action bar  
 Project Address: https://github.com/ManuelPeinado/GlassActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 Similar App: google music  
