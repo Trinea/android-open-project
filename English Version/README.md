@@ -26,120 +26,117 @@ Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Proje
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
 Project Address: https://github.com/chrisbanes/Android-PullToRefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
-Similar App: 新浪微博各个页面  
+Similar App: Sina Weibo Pages  
    
 1. android-pulltorefresh-listview  
-下拉刷新ListView  
+Pull to refresh listView for android, There is some bug for this  
 Project Address: https://github.com/johannilsson/android-pulltorefresh  
-Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
-PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的android-pulltorefresh  
+Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true   
    
 1. DropDownListView  
-下拉刷新及滑动到底部加载更多ListView  
+Pull to refresh and load more when on bottom listView for android  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
    
 1. DragSortListView  
-拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一, 单选, 复选, CursorAdapter做为适配器, 拖动背景变化等  
+Android ListView with drag and drop reordering.   
 Project Address: https://github.com/bauerca/drag-sort-listview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.mobeta.android.demodslv  
 Similar App: Wordpress Android  
    
 1. SwipeListView  
-支持定义ListView左右滑动事件，支持左右滑动位移，支持定义动画时间  
+An Android List View implementation with support for drawable cells and many other swipe related features  
 Project Address: https://github.com/47deg/android-swipelistview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 Similar App: 微信  
    
 1. Android-SwipeToDismiss  
-滑动Item消失ListView  
+Android swipe to dismiss listView  
 Project Address: https://github.com/romannurik/Android-SwipeToDismiss  
-支持3.0以下版本见：https://github.com/JakeWharton/SwipeToDismissNOA  
 Demo Apk: https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.apk/qr_code  
    
 1. StickyListHeaders  
-GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView，支持快速滑动，支持Android2.3及以上  
+An android library for section headers of listView that stick to the top  
 Project Address: https://github.com/emilsjolander/StickyListHeaders  
-Similar App: Android 4.0联系人  
+Similar App: Contacts app of Android 4.0 Ice Cream Sandwich  
 Renderings: ![Renderings](https://raw.github.com/emilsjolander/StickyListHeaders/master/demo.gif)  
    
 1. pinned-section-listview  
-GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView  
+Easy to use ListView with pinned sections for Android. Pinned section is a header view which sticks to the top of the list until at least one item of that section is visible.  
 Project Address: https://github.com/beworker/pinned-section-listview  
 Renderings: ![Renderings](https://raw.github.com/beworker/pinned-section-listview/master/screen1.png)  
    
 1. PinnedHeaderListView  
-GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView  
+A ListView with pinned section headers for Android  
 Project Address: https://github.com/JimiSmith/PinnedHeaderListView  
    
 1. QuickReturnHeader  
-ListView/ScrollView的header或footer，当向下滚动时消失，向上滚动时出现  
+A ListView/ScrollView header that hides when scrolling down and reappears immediately when scrolling up, regardless of how far down the list we've gone.  
 Project Address: https://github.com/ManuelPeinado/QuickReturnHeader  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/quick-return-header-demo.apk?raw=true  
 Similar App: google plus  
    
 1. IndexableListView  
-ListView右侧会显示item首字母快捷索引，点击可快速滑动到某个item  
+iPhone like fast scroll ListView on Android with non-alphabetic overlays  
 Project Address: https://github.com/woozzu/IndexableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/indexable-listview.apk?raw=true  
-Similar App: 微信通讯录, 小米联系人  
+Similar App: Weichat contact  
    
 1. CustomFastScrollView  
-ListView快速滑动，同时屏幕中间PopupWindows显示滑动到的item内容或首字母  
+A FastScrollView with non-alphabetic overlays  
 Project Address: https://github.com/nolanlawson/CustomFastScrollViewDemo  
 Renderings: ![Renderings](https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png)  
    
 1. Android-ScrollBarPanel  
-ListView滑动时固定的Panel指示显示在scrollbar旁边  
+Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0  
 Project Address: https://github.com/rno/Android-ScrollBarPanel  
-效果展示：https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png  
+Renderings: ![Renderings](https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png)  
    
 1. SlideExpandableListView  
-用户点击listView item滑出固定区域，Others item的区域收缩  
+A better ExpandableListView, with animated expandable views for each list item  
 Project Address: https://github.com/tjerkw/Android-SlideExpandableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
    
 1. JazzyListView  
-ListView及GridView item以特殊动画效果进入屏幕，效果include grow, cards, curl, wave, flip, fly等等  
+JazzyListView is an extension of ListView designed to animate list item views as they become visible. There are a number of pre-built, bundled effects that can be used by setting the effect in code or an XML layout attribute, like grow, cards, curl, wave, flip, fly. Also, it is possible to use a custom effect by implementing a JazzyEffect.  
 Project Address: https://github.com/twotoasters/JazzyListView  
 Demo Apk: https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample  
-效果展示：http://lab.hakim.se/scroll-effects/  
    
 1. ListViewAnimations  
-带Item显示动画的ListView，动画include底部飞入, Others方向斜飞入, 下层飞入, 渐变消失, 滑动删除等  
+An Android library which allows developers to easily add animations to ListView items  
 Project Address: https://github.com/nhaarman/ListViewAnimations  
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations  
-Similar App: Google plus, Google Now卡片式进入, 小米系统中应用商店, 联系人, 游戏中心, 音乐, 文件管理器的ListView, Ultimate, Light Flow Lite, TreinVerkeer, Running Coach, Pearl Jam Lyrics, Calorie Chart, Car Hire, Super BART, DK FlashCards, Counter Plus, Voorlees Verhaaltjes 2.0  
+Similar App: Google plus, Google Now, Ultimate, Light Flow Lite, TreinVerkeer, Running Coach, Pearl Jam Lyrics, Calorie Chart, Car Hire, Super BART, DK FlashCards, Counter Plus, Voorlees Verhaaltjes 2.0  
    
 1. DevsmartLib-Android  
-横向ListView  
+A Horizontal ListView for Android  
 Project Address: https://github.com/dinocore1/DevsmartLib-Android  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
 1. HorizontalVariableListView  
-支持Item宽度不一致的ListView  
+Horizontal list view for Android which allows variable items widths  
 Project Address: https://github.com/sephiroth74/HorizontalVariableListView   
    
 1. LinearListView  
-用LinearLayout实现的ListView，可解决多个ListView并且等问题。目前自己也有需要，等亲自尝试过后会再具体介绍  
+Android library that allows you to bind a LinearLayout with a ListAdapter.  
 Project Address: https://github.com/frankiesardo/LinearListView   
   
 1. MultiChoiceAdapter  
-支持多选的ListView Adapter  
+A ListView adapter with support for multiple choice modal selection  
 Project Address: https://github.com/ManuelPeinado/MultiChoiceAdapter   
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.multichoiceadapter.demo  
 
 1. EnhancedListView  
-支持横向滑动滑动删除列表项以及撤销删除的ListView，该项目的前身是[SwipeToDismissUndoList](https://github.com/timroes/SwipeToDismissUndoList)   
+An Android ListView with enhanced functionality (e.g. Swipe To Dismiss and Undo)   
 Project Address: https://github.com/timroes/EnhancedListView   
 Demo Apk: https://play.google.com/store/apps/details?id=de.timroes.android.listviewdemo&rdid=de.timroes.android.listviewdemo   
    
 1. ListBuddies  
-自动滚动的双列ListView ，两个ListView滚动速度不一致，有视差效果   
+Android library of a pair of auto-scroll circular parallax ListViews like the ones on the expedia app home page.   
 Project Address: https://github.com/jpardogo/ListBuddies   
 Demo Apk: https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
-效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
+Renderings: ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 #### Second. ActionBar  
