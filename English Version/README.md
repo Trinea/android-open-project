@@ -141,8 +141,7 @@ Renderings: ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art
 
 #### Second. ActionBar  
 1. ActionBarSherlock  
-Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. 
-  
+Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.   
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
 Demo Apk: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
    
