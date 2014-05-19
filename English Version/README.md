@@ -274,38 +274,38 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.ex
 
 #### Fifth. GridView  
 1. StaggeredGridView  
-允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
+A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
 Project Address: https://github.com/maurycyw/StaggeredGridView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/staggered-gridview-demo.apk?raw=true  
-Similar App: Pinterest等  
+Similar App: Pinterest  
    
 1. AndroidStaggeredGrid  
-允许非对齐行的GridView，类似Pinterest的瀑布流，继承自AbsListView  
+An Android staggered grid view which supports multiple columns with rows of varying sizes. extends from AbsListView  
 Project Address: https://github.com/etsy/AndroidStaggeredGrid  
-Similar App: Pinterest等  
+Similar App: Pinterest  
    
 1. PinterestLikeAdapterView  
-允许非对齐行的GridView，类似Pinterest的瀑布流，允许下拉刷新  
+An Android multi column list view like Pinterest. allow pull to refresh.  
 Project Address: https://github.com/GDG-Korea/PinterestLikeAdapterView  
-Similar App: Pinterest等  
+Similar App: Pinterest  
    
 1. DraggableGridView  
-Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，类似桌面的单屏效果，可屏幕自动上下滚动进行Item移动交换，多屏效果见下面PagedDragDropGrid  
+A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can  swich from up to bottom, If you want switch from left screen to right please use PagedDragDropGrid below  
 Project Address: https://github.com/thquinn/DraggableGridView  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
    
 1. StickyGridHeaders  
-GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的GridView  
+StickyGridHeaders is an Android library that provides a GridView that shows items in sections with headers. By default the section headers stick to the top like the People app in Android 4.x but this can be turned off.  
 Project Address: https://github.com/TonicArtos/StickyGridHeaders     
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
 
 1. PagedDragDropGrid  
-Item可拖动交换位置, 拖动删除的自定义控件，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可拖动到屏幕边缘，屏幕自动左右滚动进行Item移动交换，可拖动进行删除，单屏效果见上面DraggableGridView  
+An Android ViewGroup that implements a paged grid with drag'n'drop moveable items. It can  swich from left screen to right, If you want switch from up to bottom please use DraggableGridView above   
 Project Address: https://github.com/mrKlar/PagedDragDropGrid  
 Demo视频：http://youtu.be/FYTSRfthSuQ  
 
 1. Android-DraggableGridViewPager  
-Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，类似桌面的多屏效果，可屏幕自动左右滚动进行Item移动交换，单屏效果见上面DraggableGridView  
+Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen. 
 Project Address: https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
