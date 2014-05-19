@@ -226,52 +226,48 @@ Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/m
 
 #### Fourth. ViewPager Gallery  
 1. Android-ViewPagerIndicator  
-配合ViewPager使用的Indicator，支持各种位置和样式  
+Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.   
 Project Address: https://github.com/JakeWharton/Android-ViewPagerIndicator  
 Demo Apk: https://play.google.com/store/apps/details?id=com.viewpagerindicator.sample  
-Similar App: 太多了。。  
    
 1. JazzyViewPager  
-支持Fragment切换动画的ViewPager，动画include转盘, 淡入淡出, 翻页, 层叠, 旋转, 方块, 翻转, 放大缩小等  
+An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!  
 Project Address: https://github.com/jfeinstein10/JazzyViewPager  
 Demo Apk: https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
-效果类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
-   
+
 1. Android-DirectionalViewPager  
-支持横向和纵向(垂直)的ViewPager  
+ViewPager class that supports paging both vertically and horizontally as well as changing between the two at runtime.  
 Project Address: https://github.com/JakeWharton/Android-DirectionalViewPager  
 Demo Apk: https://market.android.com/details?id=com.directionalviewpager.sample  
    
 1. android-pulltorefresh  
-支持下拉刷新的ViewPager  
+Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.    
 Project Address: https://github.com/chrisbanes/Android-PullToRefresh  
-Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
-Similar App: 新浪微博各个页面  
+Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true   
    
 1. FancyCoverFlow  
-支持Item切换动画效果的类似Gallery View  
+FancyCoverFlow is a flexible Android widget providing out of the box view transformations to give your app a unique look and feel.   
 Project Address: https://github.com/davidschreiber/FancyCoverFlow  
 Demo Apk: https://play.google.com/store/apps/details?id=at.technikum.mti.fancycoverflow.samples  
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/ef5ced52b7b54652b50499521ed797c0188c7a6b/687474703a2f2f64617669647363687265696265722e6769746875622e696f2f46616e6379436f766572466c6f772f73637265656e73686f74322e706e67)  
    
 1. AndroidTouchGallery  
-支持双击或双指缩放的Gallery(用ViewPager实现)，相比下面的PhotoView，在被放大后依然能滑到下一个item，并且支持直接从url和文件中获取图片，  
+Android widget for gallery, using viewpager. Allow pinch zoom and drag for images by url. Widget allows use it in Android > 2.0  
 Project Address: https://github.com/Dreddik/AndroidTouchGallery  
-Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-demo.apk?raw=true  
-Similar App: 类似微信中查看聊天记录图片时可双击放大，并且放大情况下能正常左右滑动到前后图片  
+Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-demo.apk?raw=true    
    
 1. Android Auto Scroll ViewPager  
-Android自动滚动 轮播循环的ViewPager  
+Android Auto scroll ViewPager or ViewPager in ViewPager  
 Project Address: https://github.com/Trinea/android-auto-scroll-view-pager  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/auto-scroll-view-pager/  
 
 1. Salvage view  
-带View缓存的Viewpager PagerAdapter，很方便使用  
+Generic view recycler and ViewPager PagerAdapter implementation.  
 Project Address: https://github.com/JakeWharton/salvage  
   
 1. Android PagerSlidingTabStrip  
-配合ViewPager使用的Indicator，支持ViewPager Scroll时Indicator联动  
+An interactive indicator to navigate between the different pages of a ViewPager  
 Project Address: https://github.com/astuetz/PagerSlidingTabStrip  
 Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
