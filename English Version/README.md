@@ -884,26 +884,18 @@ Document: http://www.libpng.org/pub/png/libpng.html
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Eighth. Event Bus  
-通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments及后台线程)之间的通信  
+A typical use case for Android apps is gluing Activities, Fragments, and background threads together. Conventional wiring of those elements often introduces complex and error-prone dependencies and life cycle issues.   
 
 1. EventBus  
-greenrobot的开源项目  
+Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
 Project Address: https://github.com/greenrobot/EventBus  
 Document: https://github.com/greenrobot/EventBus#general-usage-and-api  
-特点：(1) 支持在不同类型的线程中处理订阅，include发布所在线程，UI线程, 单一后台线程, 异步线程  
-(2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播, 粘性广播很像啊  
-(3) 不是基于annotations  
-(4) 性能更优  
-(5) 体积小  
-(6) 支持单例创建或创建多个对象  
-(7) 支持根据事件类型订阅  
 
 1. Otto  
-Square的开源项目，基于Guava的Android优化  
+An enhanced Guava-based event bus with emphasis on Android support.  
 Project Address: https://github.com/square/otto  
 Document: http://square.github.io/otto/  
-[EventBus与Otto的功能及性能对比文档](https://github.com/greenrobot/EventBus#comparison-with-squares-otto)  
-[EventBus与Otto性能对比Demo Apk](https://play.google.com/store/apps/details?id=de.greenrobot.eventperf)  
+Demo Apk: https://play.google.com/store/apps/details?id=de.greenrobot.eventperf  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### Ninth. Sensor  
