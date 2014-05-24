@@ -1194,47 +1194,44 @@ Project Address: https://github.com/evant/gradle-retrolambda
 
 #### Second. Develop self-test related  
 1. Quality Tools for Android  
-Android测试及自测工具集合和示例  
+This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.  
 Project Address: https://github.com/stephanenicolas/Quality-Tools-for-Android  
 
 1. android-test-kit  
-Google的Android Testing tools  
-include GoogleInstrumentationTestRunner(增强版的InstrumentationTestRunner)和Espresso(用于快速写出可靠测试用例的API)  
+Google's Testing Tools For Android  
 Project Address: https://code.google.com/p/android-test-kit/  
 Document: https://code.google.com/p/android-test-kit/w/list  
   
 1. robolectric  
-测试用例编写框架  
+Robolectric is a unit test framework that de-fangs the Android SDK so you can test-drive the development of your Android app.  
 Project Address: https://github.com/robolectric/robolectric  
 Demo Apk: https://github.com/robolectric/robolectricsample  
 Document: http://robolectric.org/  
-特点：(1). 不需要模拟器在一般JVM就可以运行测试用例  
-(2). 能完成在真机上的大部分测试include感应器  
-Others的测试用例及相关模块Mock可见：[android-mock](https://code.google.com/p/android-mock/), [mockito](https://code.google.com/p/mockito/), [easy-mock](https://github.com/easymock/easymock)  
 
 1. Android FEST  
-提供一些列方便的断言，可用于提高编写Android自测代码效率  
+A set of FEST assertion helpers geared toward testing Android.  
 Project Address: https://github.com/square/fest-android  
 
 1. BoundBox  
-可用于测试类各种访问权限的属性, 方法。实际是通过BoundBox这个annotation生成一个属性和方法都是public权限的中间类并对此类进行测试完成的  
+BoundBox provides an easy way to test an object by accessing all its fields, constructor and methods, public or not. BoundBox breaks encapsulation.  
 Project Address: https://github.com/stephanenicolas/boundbox  
 
 1. Hugo  
-用于打印函数信息及执行时间的工具，仅在debug模式生效  
+Annotation-triggered method call logging for your debug builds.  
 Project Address: https://github.com/JakeWharton/hugo  
   
 1. scalpel  
-在应用下面添加一层用于界面调试，待详细补充 // TODO   
+A surgical debugging tool to uncover the layers under your app.  
 Project Address: https://github.com/JakeWharton/scalpel  
   
 1. Android Screenshot library  
-Android截图工具类，用于在持续集成时截图   
+On-demand screenshots for your Android integration tests  
 Project Address: https://github.com/rtyley/android-screenshot-lib  
   
 1. sonar-android-lint-plugin  
-将android lint的错误在sonar中展现   
+Extension plugin for Android Lint in Sonar  
 Project Address: https://github.com/SonarCommunity/sonar-android  
+Document: http://docs.codehaus.org/display/SONAR/Android+Plugin  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Third. Testing tools  
