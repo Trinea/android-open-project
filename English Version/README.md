@@ -1302,12 +1302,10 @@ Document: https://github.com/ACRA/acra/wiki/BasicSetup
 1. Android Resource Navigator  
 Chrome Extension providing enhanced resource navigation for GitHub hosted Android projects  
 Project Address: https://github.com/jgilfelt/android-resource-navigator  
-示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
+Online Demo: https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## Fifth part. Outstanding individuals and groups  
-主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
-
 #### First. Individual  
 1. JakeWharton  
 就职于Square，绝对牛逼的大神，项目主要集中在Android版本兼容，ViewPager及开发工具上  
