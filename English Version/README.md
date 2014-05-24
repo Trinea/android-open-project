@@ -989,107 +989,90 @@ Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse
 
 #### Eleventh. Others  
 1. Salvage view  
-带View缓存的Viewpager PagerAdapter，很方便使用  
+Generic view recycler and ViewPager PagerAdapter implementation.  
 Project Address: https://github.com/JakeWharton/salvage  
    
 1. Android Priority Job Queue  
-Android后台任务队列  
+A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.  
 Project Address: https://github.com/path/android-priority-jobqueue  
 Document: https://github.com/path/android-priority-jobqueue#getting-started  
    
 1. jsoup  
-一个解析html的java库，可方便的提取和操作数据  
+Java HTML Parser, with best of DOM, CSS, and jquery  
 Project Address: https://github.com/jhy/jsoup  
 Official Website: http://jsoup.org/  
-作用：(1) 从一个url, 文件或string获得html并解析  
-(2) 利用dom遍历或css选择器查找, 提取数据  
-(3) 操作html元素  
-(4) 根据白名单去除用于提交的非法数据防止xss攻击  
-(5) 输出整齐的html  
    
 1. ZIP  
-java压缩和解压库  
+ZeroTurnaround ZIP Library  
 Project Address: https://github.com/zeroturnaround/zt-zip  
 Document: https://github.com/zeroturnaround/zt-zip#examples  
-作用：(1) 解压和压缩，并支持文件夹内递归操作  
-(2) 支持包含和排除某些元素  
-(3) 支持重命名元素  
-(4) 支持遍历zip包内容  
-(5) 比较两个zip包等功能  
    
 1. Cobub Razor  
-开源的mobile行为分析系统，include web端, android端，支持ios和window phone  
+Cobub Razor - Open Source Mobile Analytics Solution, include web, android，ios, window phone  
 Project Address: https://github.com/cobub/razor  
 Demo Apk: http://demo.cobub.com/razor  
 Document: http://dev.cobub.com/  
    
 1. aFileChooser  
-文件选择器，可内嵌到程序中，而无需使用系统或三方文件选择器。  
+Android library that provides a file explorer to let users select files on external storage.  
 Project Address: https://github.com/iPaulPro/aFileChooser  
    
 1. androidpn  
-基于xmpp协议的消息推送解决方案，include服务器端和android端。  
+An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.  
 Project Address: https://github.com/dannytiehui/androidpn  
-   
-1. Android Plugin Framework  
-Android插件式开发  
-Project Address: https://github.com/umeng/apf  
  
 1. purePDF  
-允许从任何运行的SWF文件读取和创建PDF文档  
+A complete actionscript PDF library  
 Project Address: https://github.com/sephiroth74/purePDF  
 
 1. Bolts  
-Android的异步编程模式  
+Bolts is a collection of low-level libraries designed to make developing mobile apps easier.  
 Project Address: https://github.com/BoltsFramework/Bolts-Android/  
-与AsyncTask比较：(1) 使用的是无大小限制的线程池  
-(2) 任务可组合可级联，防止了代码耦合  
 
 1. CastCompanionLibrary-android  
-使Android程序中更快的接入Google Cast  
+CastCompanionLibrary-android is a library project to enable developers integrate Cast capabilities into their applications faster and easier.  
 Project Address: https://github.com/googlecast/CastCompanionLibrary-android  
 Document: https://developers.google.com/cast/  
   
 1. CastVideos-android  
-从Android设备分享Video通过Google Cast  
+CastVideos-android application shows how to cast videos from an android device in a way that is fully compliant with the Design Checklist.  
 Project Address: https://github.com/googlecast/CastVideos-android  
 Document: https://developers.google.com/cast/  
   
 1. Uninstall_Statics  
-Android应用自身被卸载监听及打开浏览器等反馈功能实现  
+Android Statistical application is uninstalled  
 Project Address: https://github.com/sevenler/Uninstall_Statics  
 Document: http://www.cnblogs.com/zealotrouge/p/3157126.html  
-http://www.cnblogs.com/zealotrouge/p/3159772.html  
 
 1. xCombine  
-Android App插件式插件开发  
+Android Plugin Framework  
 Project Address: https://github.com/wyouflf/xCombine  
 Document: http://my.oschina.net/u/1171837/blog/155377  
 
 1. Memento  
-保证在系统配置改变时，Activity中的某些数据可以简单Security的保持不变  
+Memento is an annotation processor for Android that gives your activities a memory. It introduces the @Retain annotation, which allows you to retain arbitrary fields of an activity across configuration changes in a simple and type-safe manner.  
 Project Address: https://github.com/mttkay/memento  
 Document: https://github.com/mttkay/memento#usage  
 
 1. svg-android  
-Android Svg矢量图形支持  
-Project Address: https://github.com/japgolly/svg-android https://github.com/japgolly/svg-android  
+SVG parsing and rendering for Android  
+Project Address: https://code.google.com/p/svg-android/  
 
 1. Office 365 SDK for Android Preview  
-可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
+Office 365 SDK for Android Preview by Microsoft Open Technologies, Inc. support Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
 Project Address: https://github.com/OfficeDev/Office-365-SDK-for-Android  
 
 1. OpenSpritz-Android  
-Epub阅读器  
+OpenSpritz concept for Android, is a Spritz-like .epub and website reader for Android 3.0+   
 Project Address: https://github.com/OnlyInAmerica/OpenSpritz-Android  
    
 1. FreeFlow  
-布局引擎，更简单的创建自定义布局，并且当数据和布局改变时更美观的过渡动画  
+A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change  
 Project Address: https://github.com/Comcast/FreeFlow  
 Demo Apk: https://github.com/Comcast/FreeFlow/releases  
 
 1. Android Gesture Detectors Framework  
-Android手势框架，支持双指旋转, 移动, 平移, 缩放等  
+Gesture detector framework for multitouch handling on Android  
 Project Address: https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
