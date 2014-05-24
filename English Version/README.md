@@ -1144,51 +1144,51 @@ Demo Apk: https://play.google.com/store/apps/details?id=net.nurik.roman.muzei
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## Forth part: Development and testing tools  
-主要介绍和Android开发工具和Testing tools相关的开源项目。  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Android open source projects about development tools and testing tools.  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### First. Development productivity tools  
 1. Json2Java  
-根据JSon数据自动生成对应的Java实体类，还支持Parcel, Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
+Automate processing Java classes to mirror json models.  
 Project Address: https://github.com/jonfhancock/JsonToJava  
 Online Demo: http://jsontojava.appspot.com/  
 
 1. IntelliJ Plugin for Android Parcelable boilerplate code generation  
-Android studio插件，生成Parcelable代码  
+IntelliJ Plugin for Android Parcelable boilerplate code generation.  
 Project Address: https://github.com/mcharmas/android-parcelable-intellij-plugin  
 Renderings: ![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
   
 1. Android Holo Colors IntelliJ Plugin  
-Android studio插件，生成holo样式9 patch图片  
+IntelliJ / Android Studio plugin for Android Holo Colors  
 Project Address: https://github.com/jeromevdl/android-holo-colors-idea-plugin  
 Renderings: ![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
 
 1. Android Drawable Factory  
-用于生成各个分辨率的图片  
+A Java Application to create appropriate Drawable resources for your Android application  
 Project Address: https://github.com/tizionario/AndroidDrawableFactory  
 Renderings: ![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
 
 1. SelectorChapek for Android  
-Android Studio插件，可根据固定文件名格式资源自动生成drawable selectors xml文件。  
+Android Studio plugin which automatically generates drawable selectors from appropriately named resources.  
 Project Address: https://github.com/inmite/android-selector-chapek  
    
 1. Android Action Bar Style Generator  
-Android ActionBar样式生成器，可在线选择ActionBar样式自动生成所需要的图片资源及xml文件  
+Easily create a simple, attractive and seamless custom action bar style for your Android application  
 Project Address: https://github.com/jgilfelt/android-actionbarstylegenerator  
 Online Demo: http://jgilfelt.github.io/android-actionbarstylegenerator/  
 
 1. ButterKnifeZelezny  
-用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View注入代码的Android Studio/IDEA插件  
+Android Studio plug-in for generating [ButterKnife](https://github.com/JakeWharton/butterknife) injections from selected layout XML.  
 Project Address: https://github.com/inmite/android-butterknife-zelezny  
 
 1. RoboCoP  
-利用Gradle task根据固定格式的json文件生成ContentProvider  
+Pure Java code generation tool for generating a fully functional ContentProvider for Android.  
 Project Address: https://github.com/mediarain/RoboCoP  
 
 1. appiconsizes  
-用于生成各个分辨率的图片  
+IOS and Android App Icon size generator  
 Project Address: http://www.appiconsizes.com/  
 
 1. Gradle Retrolambda Plugin  
-[Retrolambda](https://github.com/orfjackal/retrolambda)是将Java8的Lambdas应用于Java7的工具，本项目是Gradle插件，通过Retrolambda从而使Java或Android项目用Java8的Lambdas编写，将编译后的字节码转换为Java6和7的字节码从而正常运行  
+This plugin will automatically build your java or android project with [Retrolambda](https://github.com/orfjackal/retrolambda), giving you lambda goodness on java 6 or 7. It relies on the wonderful retrolambda by Esko Luontola.  
 Project Address: https://github.com/evant/gradle-retrolambda  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
