@@ -446,9 +446,9 @@ Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titan
 
 #### Ninth. Others  
 1. achartengine  
-强大的图表绘制工具，支持折线图, 面积图, 散点图, 时间图, 柱状图, 条图, 饼图, 气泡图, 圆环图, 范围（高至低）条形图, 拨号图/表, 立方线图及各种图的结合  
+AChartEngine is a charting library for Android applications. It currently supports the following chart types: line chart, area chart, scatter chart, time chart, bar chart, pie chart, bubble chart, doughnut chart, range (high-low) bar chart, dial chart / gauge, combined (any combination of line, cubic line, scatter, bar, range bar, bubble) chart, cubic line chart and so on.  
 Project Address: https://code.google.com/p/achartengine/  
-官方网站：http://www.achartengine.org/  
+Official Website: http://www.achartengine.org/  
 Renderings: ![Renderings](http://www.achartengine.org/dimages/average_temperature.png)  
 http://www.achartengine.org/dimages/sales_line_and_area_chart.png  
 http://www.achartengine.org/dimages/temperature_range_chart.png  
@@ -457,195 +457,193 @@ http://www.achartengine.org/dimages/budget_chart.png
 Similar App: Wordpress Android，Google Analytics  
    
 1. GraphView  
-绘制图表和曲线图的View，可用于Android上的曲形图, 柱状图, 波浪图展示  
+Android Graph Library for creating zoomable and scrollable line and bar graphs.  
 Project Address: https://github.com/jjoe64/GraphView  
-Demo工程：https://github.com/jjoe64/GraphView-Demos  
+Demo Project: https://github.com/jjoe64/GraphView-Demos  
 Demo Apk: https://play.google.com/store/apps/details?id=com.sothree.umano  
 Similar App: Wordpress Android，Google Analytics  
    
 1. android-flip  
-类似Flipboard翻转动画的实现  
+A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android  
 Project Address: https://github.com/openaphid/android-flip  
 Demo Apk: https://github.com/openaphid/android-flip/blob/master/FlipView/Demo/APK/Aphid-FlipView-Demo.apk?raw=true  
 Similar App: flipboard  
    
 1. FlipImageView  
-支持x, y, z及动画选择的翻转动画的实现  
+Small android lib allowing you to make a flip imageview easily, by extending FlipImageView.  
 Project Address: https://github.com/castorflex/FlipImageView  
 Demo Apk: https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
    
 1. SwipeBackLayout  
-左右或向上滑动返回的Activity  
+An Android library that help you to build app with swipe back gesture.  
 Project Address: https://github.com/Issacw0ng/SwipeBackLayout  
 Demo Apk: https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
-Similar App: 知乎  
+Similar App: Zhihu  
    
 1. Cards-UI  
-卡片式View，支持单个卡片，item为卡片的ListView  
+A library that allows you to easily mimic Google Play's card layout on Android.  
 Project Address: https://github.com/afollestad/Cards-UI  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/cards-ui-demo.apk?raw=true  
    
 1. cardslib  
-卡片式View，支持单个卡片，item为卡片的ListView和GridView  
+Card Library provides an easy way to display a UI Card in your Android app. You can display single cards, list of cards and grid or staggered grid of Cards.  
 Project Address: https://github.com/gabrielemariotti/cardslib  
 Demo Apk: https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo  
    
 1. android-styled-dialogs  
-可自定义样式的dialog，默认与Holo主题样式一致，在Android2.2以上同一样式  
+A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.  
 Project Address: https://github.com/inmite/android-styled-dialogs  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
    
 1. Crouton  
-丰富样式的Toast，允许alert, comfirm, info样式及点击消失样式，允许设置Toast显示时间，允许自定义View。 本文32. SuperToasts为其扩展版  
+Context sensitive notifications for Android, like toast. include style like alert, comfirm, info  and click to dismiss, allow to set time of diaplay and customed view  
 Project Address: https://github.com/keyboardsurfer/Crouton  
 Demo Apk: http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
 1. supertooltips  
-带动画效果的Tips显示  
+SuperToolTips is an Open Source Android library that allows developers to easily create Tool Tips for views.   
 Project Address: https://github.com/nhaarman/supertooltips  
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
    
 1. Android ViewBadger  
-为Others View添加角标等  
+A simple way to "badge" any given Android view at runtime without having to cater for it in layout  
 Project Address: https://github.com/jgilfelt/android-viewbadger  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
 Renderings: https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67  
    
 1. Android Sliding Up Panel  
-可拖动的View，能在当前Activity上扶起一个可拖动的Panel  
+This library provides a simple way to add a draggable sliding up panel (popularized by Google Music, Google Maps and Rdio) to your Android application. Umano Team <3 Open Source.  
 Project Address: https://github.com/umano/AndroidSlidingUpPanel  
 Demo Apk: https://play.google.com/store/apps/details?id=com.sothree.umano  
-Similar App: Google Music精简播放栏  
+Similar App: Google Music  
    
 1. android-times-square  
-Android日历时间部件，支持选取单个日期，多个日期，及日期区间段和对话框形式显示  
+Standalone Android widget for picking a single date from a calendar view.  
 Project Address: https://github.com/square/android-times-square  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/times-square-demo.apk?raw=true  
    
 1. android-calendar-card  
-日历  
+Android calendar view (like card)  
 Project Address: https://github.com/kenumir/android-calendar-card  
 Demo Apk: https://play.google.com/store/apps/details?id=com.wt.calendarcardsample  
 Renderings: ![Renderings](https://raw.github.com/kenumir/android-calendar-card/master/calendar-card-sample/_work/device-2013-10-12-151801.png)  
    
 1. ColorPickerView  
-颜色选择器，支持PopupWindows或新的Activity中打开  
+A simple yet beautiful color picker component for Android.  
 Project Address: https://code.google.com/p/color-picker-view/  
 Renderings: ![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
    
 1. HoloColorPicker  
-颜色选择器  
+An Android Holo themed colorpicker  
 Project Address: https://github.com/LarsWerkman/HoloColorPicker  
 Demo Apk: https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit  
    
 1. AndroidWheel  
-Android Wheel支持城市, 多种日期时间, 密码, 图片  
+Custom wheel widget for android  
 Project Address: https://github.com/sephiroth74/AndroidWheel  
 Renderings: ![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
    
 1. TableFixHeaders  
-第一列固定的Table  
+Android library that implements a table with fixed headers.  
 Project Address: https://github.com/InQBarna/TableFixHeaders  
 Demo Apk: http://bit.ly/13buAIq  
    
 1. UITableView  
-ios风格控件，include Button, ListView, TableView  
+Library and example project on how to use the UITableView component  
 Project Address: https://github.com/thiagolocatelli/android-uitableview  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/ui-tableview-demo.apk?raw=true  
    
 1. ATableView  
-ios风格控件  
+Create iOS-like tables (UITableView) for Android, using UIKit object model  
 Project Address: https://github.com/dmacosta/ATableView  
 Demo Apk: https://play.google.com/store/apps/details?id=com.nakardo.atableview.demo  
    
 1. UndoBar  
-屏幕底部显示取消或是确认的PopupWindows  
+The UI component for Android advanced UI pattern undo-bar, used in Gmail app  
 Project Address: https://github.com/soarcn/UndoBar  
 Renderings: ![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
    
 1. Inscription  
-可用于展示应用change和new feature信息  
+Inscription is an open source library to display information about your Android app, like info of change or new feature  
 Project Address: https://github.com/MartinvanZ/Inscription  
    
 1. ActivityTransition  
-Activity切换动画，include渐变, flip, 某个位置进入等等  
+An android project presenting some transitions you can use between activities, like fade, flip, fly into and so on  
 Project Address: https://github.com/ophilbert/ActivityTransition  
-使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
-Renderings: 类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
+Demo Apk： https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true    
    
 1. GlowPadBackport  
-将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
+A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+  
 Project Address: https://github.com/rock3r/GlowPadBackport  
 Demo Apk: https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
 Renderings: ![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
 
 1. GlowPadView  
-Android4锁屏界面解锁  
+GlowPadView for Android is a great library to implement Google's lockscreen and new alarmclock style.  
 Project Address: https://github.com/nadavfima/GlowPadView  
 Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
 1. android-lockpattern  
-Android的图案密码解锁  
+Lockpattern activity for Android  
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
-使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
+Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
   
 1. RangeBar  
-类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
+Android widget for selecting a range of values. It provides for the selection of a range of values rather than a single value.  
 Project Address: https://github.com/edmodo/range-bar  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
-效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
+Renderings: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
   
 1. SuperToasts  
-更丰富样式的toast，支持Button, Progress, Horizontal Progress样式, 支持进入动画, 支持撤销及其动画设置    
+The SuperToasts library enhances and builds upon the Android Toast class. Some of the features of this library include context sensitive toasts (SuperActivityToasts), toasts with buttons and icons, non context sensitive toasts (SuperToasts), and a new style of toasts (SuperCardToasts) with many customization options for each.  
 Project Address: https://github.com/JohnPersano/SuperToasts  
 Demo Apk: https://play.google.com/store/apps/details?id=com.supertoastsdemo  
 Renderings: ![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
 1. GoogleDateTimePickers  
-时间选择部件  
+New Google Date and time pickers  
 Project Address: https://github.com/Mirkoddd/GoogleDateTimePickers  
-文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
+Document: https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
    
 1. UndoBar  
-屏幕底部显示取消或是确认某操作  
+An implementation of Android's Undo Bar as seen in Google's Gmail app.  
 Project Address: https://github.com/jenzz/Android-UndoBar  
 Renderings: ![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
    
 1. ColorPickerPreference  
-颜色选择器  
+ColorPickerPreference for android to create color picker in preferences.  
 Project Address: https://github.com/attenzione/android-ColorPickerPreference  
 Renderings: ![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
 
 1. HoloGraphLibrary  
-绘制现状图, 柱状图, 饼状图    
+This is a library written to allow beautiful graphs and charts to be easily incorporated into your Android application.  
 Project Address: https://bitbucket.org/danielnadeau/holographlibrary/src  
 Document: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
 1. ChromeView  
-利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
+Android WebView implementation that uses the latest Chromium code  
 Project Address: https://github.com/pwnall/chromeview  
    
 1. Discrollview  
-支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
+DiscrollView support Item fading in or out, translate or scale  
 Project Address: https://github.com/flavienlaurent/discrollview   
 Demo Apk: https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
    
 1. Android Slider Preference Library  
-可添加到设置中的基于对话框的RankBar小部件  
+Android library that allows applications to add dialog-based slider widgets to their settings  
 Project Address: https://github.com/jayschwa/AndroidSliderPreference   
 
 1. ShowcaseView library  
-用于高亮显示应用程序的特定部分，从而突出突出重点  
+Highlight the best bits of your app to users quickly  
 Project Address: https://github.com/amlcurran/ShowcaseView   
 
 1. android-segmented-control  
-Android上的Segmented Controls，相当于RadioButton组  
+ios7 UISegmentedControl for android  
 Project Address: https://github.com/hoang8f/android-segmented-control   
 
 1. PullScrollView   
-仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
+Pull and background rebound effect  
 Project Address: https://github.com/MarkMjw/PullScrollView    
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -659,7 +657,7 @@ Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/S
 android快速开发框架  
 Project Address: https://github.com/excilys/androidannotations  
 Document: https://github.com/excilys/androidannotations/wiki  
-官方网站：http://androidannotations.org/  
+Official Website: http://androidannotations.org/  
 特点：(1) Dependency Injection：include view，extras，系统服务，资源等等  
 (2) 简单的线程模型，通过annotation表示方法运行在ui线程还是后台线程  
 (3) 事件绑定：通过annotation表示view的响应事件，不用在写内部类  
@@ -786,7 +784,7 @@ orm的db工具类，简化建表, 查询, 更新, 插入, 事务, 索引的操�
 Android Sqlite orm的db工具类  
 Project Address: https://github.com/greenrobot/greenDAO  
 Document: http://greendao-orm.com/documentation/  
-官方网站：http://greendao-orm.com/  
+Official Website: http://greendao-orm.com/  
 特点：(1) 性能佳  
 (2) 简单易用的API  
 (3) 内存小好小  
@@ -818,7 +816,7 @@ Document: https://code.google.com/p/guava-libraries/wiki/GuavaExplained
 Google提供的网络通信库，使得网络请求更简单, 更快速  
 Project Address: https://android.googlesource.com/platform/frameworks/volley  
 Github Address: https://github.com/mcxiaoke/android-volley    
-文档地址：http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
+Document: http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
 
 1. AndroidCommon  
 Android公共库  
@@ -865,7 +863,7 @@ Project Address: https://github.com/tobykurien/SherlockNavigationDrawer
 1. Notifications4EveryWhere  
 将Android 4.1的兼容到Android2.2++  
 Project Address: https://github.com/youxiachai/Notifications4EveryWhere  
-NavigationDrawer文档地址：http://developer.android.com/training/implementing-navigation/nav-drawer.html  
+NavigationDrawerDocument: http://developer.android.com/training/implementing-navigation/nav-drawer.html  
 
 1. Android Switch Widget Backport  
 将Android Switch和SwitchPreference的兼容到Android2.1++  
@@ -883,7 +881,7 @@ Project Address: https://github.com/SimonVT/android-datepicker
 跨平台的2d游戏框架，支持Android, IOS, Linux, Windows等众多平台  
 Project Address: https://github.com/cocos2d/cocos2d-x  
 Document: http://www.cocos2d-x.org/wiki  
-官方网站：http://www.cocos2d-x.org/  
+Official Website: http://www.cocos2d-x.org/  
    
 1. Vitamio  
 是一款Android与iOS平台上的全能Multimedia开发框架  
@@ -915,7 +913,7 @@ Project Address: https://github.com/beartung/tclip-android
 1. Cropper  
 图片局部剪切工具，可触摸控制选择区域或旋转  
 Project Address: https://github.com/edmodo/cropper  
-使用介绍：https://github.com/edmodo/cropper/wiki  
+Document: https://github.com/edmodo/cropper/wiki  
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
 1. android-crop  
@@ -940,7 +938,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=teaonly.droideye
 1. libpng for Android  
 PNG图片的jni库，支持几乎png的所有特性  
 Project Address: https://github.com/julienr/libpng-android  
-文档地址：http://www.libpng.org/pub/png/libpng.html  
+Document: http://www.libpng.org/pub/png/libpng.html  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Eighth. Event Bus  
@@ -1052,7 +1050,7 @@ Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png
 Android的图案密码解锁  
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
-使用介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
+Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
@@ -1069,7 +1067,7 @@ Document: https://github.com/path/android-priority-jobqueue#getting-started
 1. jsoup  
 一个解析html的java库，可方便的提取和操作数据  
 Project Address: https://github.com/jhy/jsoup  
-官方网站：http://jsoup.org/  
+Official Website: http://jsoup.org/  
 作用：(1) 从一个url, 文件或string获得html并解析  
 (2) 利用dom遍历或css选择器查找, 提取数据  
 (3) 操作html元素  
@@ -1405,7 +1403,7 @@ Project Address: https://github.com/JakeWharton/pidcat
 1. ACRA  
 应用崩溃信息上报到GoogleDoc工具  
 Project Address: https://github.com/ACRA/acra  
-文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
+Document: https://github.com/ACRA/acra/wiki/BasicSetup  
 
 1. Crashlytics  
 提供丰富的应用崩溃信息收集  
