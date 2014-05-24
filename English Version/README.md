@@ -695,66 +695,44 @@ Document: http://www.trinea.cn/android/android-imagecache/
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Third. Network  
+1. Retrofit  
+Type-safe REST client for Android and Java by Square  
+Project Address: https://github.com/square/retrofit  
+Document: http://square.github.io/retrofit/  
+
+1. okhttp  
+An HTTP+SPDY client for Android and Java applications.  
+Project Address: https://github.com/square/okhttp  
+Document: http://square.github.io/okhttp/  
+
 1. Asynchronous Http Client for Android  
-Android异步Http请求  
+An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.  
 Project Address: https://github.com/loopj/android-async-http  
 Document: http://loopj.com/android-async-http/  
-特点：(1) 在匿名回调中处理请求结果  
-(2) 在UI线程外进行http请求  
-(3) 文件断点上传  
-(4) 智能重试  
-(5) 默认gzip压缩  
-(6) 支持解析成Json格式  
-(7) 可将Cookies持久化到SharedPreferences  
    
 1. android-query  
-异步加载，更少代码完成Android加载  
-Project Address: https://github.com/androidquery/androidquery 或 https://code.google.com/p/android-query/  
+Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.   
+Project Address: https://code.google.com/p/android-query/  
 Document: https://code.google.com/p/android-query/#Why_AQuery?  
-Demo Apk: https://play.google.com/store/apps/details?id=com.androidquery  
-特点：https://code.google.com/p/android-query/#Why_AQuery?  
+Demo Apk: https://play.google.com/store/apps/details?id=com.androidquery   
    
 1. Async Http Client  
-Java异步Http请求  
+Asynchronous Http and WebSocket Client library for Java  
 Project Address: https://github.com/AsyncHttpClient/async-http-client  
 Document: http://sonatype.github.io/async-http-client/  
    
 1. Ion  
-支持图片, json, http post等异步请求  
+Android Asynchronous Networking and Image Loading  
 Project Address: https://github.com/koush/ion  
 Document: https://github.com/koush/ion#more-examples  
    
-1. HttpCache  
-Http缓存  
-Project Address: https://github.com/Trinea/AndroidCommon  
-Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/android-http-cache  
-特点是：(1) 根据cache-control, expires缓存http请求  
-(2) 支持同步, 异步Http请求  
-(3) 在匿名回调中处理请求结果  
-(4) 在UI线程外进行http请求  
-(5) 默认gzip压缩  
-   
 1. Http Request  
+A simple convenience library for using a HttpURLConnection to make requests and access the response.  
 Project Address: https://github.com/kevinsawicki/http-request  
 Document: https://github.com/kevinsawicki/http-request#examples  
    
-1. okhttp  
-square开源的http工具类  
-Project Address: https://github.com/square/okhttp  
-Document: http://square.github.io/okhttp/  
-特点：(1) 支持SPDY( http://zh.wikipedia.org/wiki/SPDY )协议。SPDY协议是Google开发的基于传输控制协议的应用层协议，通过压缩，多路复用(一个TCP链接传送网页和图片等资源)和优先级来缩短加载时间。  
-(2) 如果SPDY不可用，利用连接池减少请求延迟  
-(3) Gzip压缩  
-(4) Response缓存减少不必要的请求  
-   
-1. Retrofit  
-RESTFUL API设计  
-Project Address: https://github.com/square/retrofit  
-Document: http://square.github.io/retrofit/  
-   
 1. RoboSpice  
-Android异步网络请求工具，支持缓存, REST等等  
+RoboSpice is a modular android library that makes writing asynchronous network requests easy  
 Project Address: https://github.com/stephanenicolas/robospice  
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
