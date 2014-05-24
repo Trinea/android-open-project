@@ -954,38 +954,37 @@ Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan
 
 #### Tenth. Security  
 1. SQLCipher  
-Sqlite加密工具  
+SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  
 Project Address: https://github.com/sqlcipher/sqlcipher  
-帮助文档：http://sqlcipher.net/sqlcipher-for-android/  
+Document: http://sqlcipher.net/sqlcipher-for-android/  
 
 1. Conceal  
-快速高效的进行文件加密解密  
+Conceal provides easy Android APIs for performing fast encryption and authentication of data, such as that stored on SD cards  
 Project Address: https://github.com/facebook/conceal  
 Document: https://github.com/facebook/conceal#usage  
 
 1. Android-PasscodeLock  
-应用锁，每次启动或从任何Activity启动应用都需要输入四位数字的密码方可进入  
+Android Library that provides passcode lock to your app  
 Project Address: https://github.com/wordpress-mobile/Android-PasscodeLock  
 Demo Apk: https://play.google.com/store/apps/details?id=com.sothree.umano  
-Similar App: Wordpress Android，支付宝，挖财  
+Similar App: Wordpress Android, Alipay  
 
 1. GlowPadBackport  
-将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
+A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+  
 Project Address: https://github.com/rock3r/GlowPadBackport  
 Demo Apk: https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
 Renderings: ![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
 
 1. GlowPadView  
-Android 4锁屏界面解锁  
+GlowPadView for Android is a great library to implement Google's lockscreen and new alarmclock style. (Taken from Android's Source Code)  
 Project Address: https://github.com/nadavfima/GlowPadView  
 Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
 1. android-lockpattern  
-Android的图案密码解锁  
+lockpattern activity for Android  
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-示例APP：Android开机的图案密码解锁，支付宝的密码解锁  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Eleventh. Others  
