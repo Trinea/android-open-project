@@ -677,32 +677,21 @@ Document: http://square.github.io/dagger/
 
 #### Second. Image Cache  
 1. Android-Universal-Image-Loader  
-Image Cache，目前使用最广泛的Image Cache，支持主流Image Cache的绝大多数特性。  
+Powerful and flexible library for loading, caching and displaying images on Android.  
 Project Address: https://github.com/nostra13/Android-Universal-Image-Loader  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
 Document: http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
    
 1. picasso  
-square开源的Image Cache  
+A powerful image downloading and caching library for Android  
 Project Address: https://github.com/square/picasso  
 Document: http://square.github.io/picasso/  
-特点：(1)可以自动检测adapter的重用并取消之前的下载  
-(2)图片变换  
-(3)可以加载本地资源  
-(4)可以设置占位资源  
-(5)支持debug模式  
    
 1. ImageCache  
-Image Cache，包含内存和Sdcard缓存  
+Image Cache, support multi caching algorithms  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/android-imagecache/  
-特点：(1)支持预取新图片，支持等待队列  
-(2)包含二级缓存，可自定义文件名保存规则  
-(3)可选择多种缓存算法(FIFO, LIFO, LRU, MRU, LFU, MFU等13种)或自定义缓存算法  
-(4)可方便的保存及初始化恢复数据  
-(5)支持不同类型网络处理  
-(6)可根据系统配置初始化缓存等  
+Document: http://www.trinea.cn/android/android-imagecache/ 
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Third. Network  
