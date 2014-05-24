@@ -311,47 +311,46 @@ Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-v
 
 #### Sixth. ImageView  
 1. PhotoView  
-支持双击或双指缩放的ImageView，在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView  
+Implementation of ImageView for Android that supports zooming, by various touch gestures, like multi-touch and double-tap. Works perfectly when using used in a scrolling parent (such as ViewPager). Allows the application to be notified when the displayed Matrix has changed. Useful for when you need to update your UI based on the current zoom/scroll position.  
 Project Address: https://github.com/chrisbanes/PhotoView  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 Similar App: photup  
    
 1. android-gif-drawable  
-支持gif显示的view，用jni实现的，编译生成so库后直接xml定义view即可，而且本身不依赖于Others开源项目所以相对下面的ImageViewEx简单的多   
+Views and Drawable for displaying animated GIFs on Android. Bundled GIFLib via JNI is used to render frames. This way should be more efficient than WebView or Movie classes. Animation starts automatically and run only if View with attached GifDrawable is visible.  
 Project Address: https://github.com/koral--/android-gif-drawable  
   
 1. ImageViewEx  
-支持Gif显示的ImageView  
+Extension of Android's ImageView that supports animated GIFs and includes a better density management.  
 Project Address: https://github.com/frapontillo/ImageViewEx  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.apk?raw=true  
-依赖很多，编译过程很繁琐!|_|!
    
 1. RoundedImageView  
-带圆角的ImageView  
+A fast ImageView that supports rounded corners and ovals or circles  
 Project Address: https://github.com/vinc3m1/RoundedImageView  
 Renderings: ![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
    
 1. ColorArt  
-根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
+iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display  
 Project Address: https://github.com/MichaelEvans/ColorArt  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
    
 1. CircleImageView  
-圆形的ImageView  
+A circular ImageView for Android  
 Project Address: https://github.com/hdodenhof/CircleImageView  
 Renderings: ![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
   
 1. ImageViewZoom  
-支持放大和平移的ImageView   
+Android ImageView widget with zoom and pan capabilities   
 Project Address: https://github.com/sephiroth74/ImageViewZoom  
 Similar App: https://play.google.com/store/apps/details?id=com.aviary.android.feather  
   
 1. KenBurnsView  
-实现Ken Burns effect效果，达到身临其境效果的ImageView   
+Android library that provides an extension to ImageView that creates an immersive experience by animating its drawable using the Ken Burns Effect.   
 Project Address: https://github.com/flavioarfaria/KenBurnsView  
 
 1. CustomShapeImageView    
-各种形状的ImageView, 相比上面的圆形ImageView，多了更多形状    
+Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.    
 Project Address: https://github.com/MostafaGazar/CustomShapeImageView     
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
