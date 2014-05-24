@@ -789,40 +789,39 @@ Project Address: https://github.com/pyricau/CleanAndroidCode
 
 #### Sixth. Android Compatible low version  
 1. ActionBarSherlock  
-为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
+Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.  
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
 Demo Apk: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
-Similar App: 太多了。。现在连google都在用  
    
 1. Nine Old Androids  
-将Android 3.0(Honeycomb)所有动画API(ObjectAnimator ValueAnimator等)兼容到Android1.0  
+Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!  
 Project Address: https://github.com/JakeWharton/NineOldAndroids  
 Demo Apk: https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample  
 Document: http://nineoldandroids.com/  
    
 1. HoloEverywhere  
-将Android 3.0的Holo主题兼容到Android2.1++  
+Bringing Holo Theme from Android 4.1 to 2.1 and above.  
 Project Address: https://github.com/Prototik/HoloEverywhere  
 Demo Apk: https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywhere/demo/2.1.0/demo-2.1.0.apk  
 Document: http://android-developers.blogspot.com/2012/01/holo-everywhere.html  
    
 1. SherlockNavigationDrawer  
-将Android NavigationDrawer和ActionbarSherlock结合，解决4.0以下NavigationDrawer的适配问题  
+Modification of the Android NavigationDrawer sample to use ActionbarSherlock so that we can use the NavigationDrawer on older devices  
 Project Address: https://github.com/tobykurien/SherlockNavigationDrawer  
 
 1. Notifications4EveryWhere  
-将Android 4.1的兼容到Android2.2++  
+Bringing Notifications from Android 4.1 to 2.2 and above.  
 Project Address: https://github.com/youxiachai/Notifications4EveryWhere  
 NavigationDrawerDocument: http://developer.android.com/training/implementing-navigation/nav-drawer.html  
 
 1. Android Switch Widget Backport  
-将Android Switch和SwitchPreference的兼容到Android2.1++  
+A backport of the Switch widget that was introduced on Android 4.X to Android2.1++  
 Project Address: https://github.com/BoD/android-switch-backport  
 Demo Apk: https://play.google.com/store/apps/details?id=org.jraf.android.backport.switchwidget.sample  
 Document: https://github.com/BoD/android-switch-backport#using-the-switch  
 
 1. android-datepicker  
-将Android 4.0的datepicker兼容到Android2.2++  
+Android 4.0 DatePicker backported to 2.2  
 Project Address: https://github.com/SimonVT/android-datepicker  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
