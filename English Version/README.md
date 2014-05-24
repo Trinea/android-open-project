@@ -827,65 +827,58 @@ Project Address: https://github.com/SimonVT/android-datepicker
 
 #### Seventh. Multimedia  
 1. cocos2d-x  
-跨平台的2d游戏框架，支持Android, IOS, Linux, Windows等众多平台  
+cocos2d-x is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, OS X, Windows and Linux.  
 Project Address: https://github.com/cocos2d/cocos2d-x  
 Document: http://www.cocos2d-x.org/wiki  
 Official Website: http://www.cocos2d-x.org/  
    
 1. Vitamio  
-是一款Android与iOS平台上的全能Multimedia开发框架  
+Vitamio is an open multimedia framework for Android and iOS, with full and real hardware accelerated decoder and renderer.  
 Project Address: https://github.com/yixia/VitamioBundle  
-网站介绍：http://www.vitamio.org/docs/  
-特点：(1) 全面支持硬件解码与GPU渲染  
-(2) 能够流畅播放720P甚至1080P高清MKV，FLV，MP4，MOV，TS，RMVB等常见格式的视频  
-(3) 在Android与iOS上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，include点播与直播。  
+Document: http://www.vitamio.org/docs/    
    
 1. PhotoProcessing  
-利用ndk处理图片库，支持Instafix, Ansel, Testino, XPro, Retro, BW, Sepia, Cyano, Georgia, Sahara, HDR, Rotate(旋转), Flip(翻转)等各种特效  
+A demo of how you can process photos leveraging the ndk, support Instafix, Ansel, Testino, XPro, Retro, BW, Sepia, Cyano, Georgia, Sahara, HDR, Rotate, Flip and so on  
 Project Address: https://github.com/lightbox/PhotoProcessing  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/photo-processing.apk?raw=true  
    
 1. Android StackBlur  
-图片模糊效果工具类  
+Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result.  
 Project Address: https://github.com/kikoso/android-stackblur  
 Demo Apk: https://github.com/kikoso/android-stackblur/blob/master/StackBlurDemo/bin/StackBlurDemo.apk?raw=true  
 Document: https://github.com/kikoso/android-stackblur#usage  
 
 1. Bitmap Smart Clipping using OpenCV  
-图片智能裁剪保留重要部分显示   
+Bitmap Smart Clipping using OpenCV  
 Project Address: https://github.com/beartung/tclip-android  
-利用淘宝的 http://code.taobao.org/p/tclip/ 库完成  
-一淘玩客正在使用的图片裁剪，自动识别图片中的重要区域，并且在图片裁剪时保留重要区域  
-特点：(1). 能进行人脸识别。图片中有人脸，将自动视为人脸区域为重要区域，将不会被裁剪掉  
-(2).自动其它重要区域。如果图片中未识别出人脸，则会根据特征分布计算出重区域  
    
 1. Cropper  
-图片局部剪切工具，可触摸控制选择区域或旋转  
+Android widget for cropping and rotating an image.  
 Project Address: https://github.com/edmodo/cropper  
 Document: https://github.com/edmodo/cropper/wiki  
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
 1. android-crop  
-图片裁剪Activity  
+Android library project for cropping images  
 Project Address: https://github.com/jdamcd/android-crop  
 Renderings: ![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 
 1. TileView  
-可分块显示大图，支持2D拖动, 双击, 双指放大, 双指捏合  
+The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.  
 Project Address: https://github.com/moagrius/TileView  
 Demo Apk: http://moagrius.github.io/TileView/TileViewDemo.apk  
 
 1. BlurEffectForAndroidDesign  
-图片模糊效果  
+Sample to show how to implement blur graphical tricks  
 Project Address: https://github.com/PomepuyN/BlurEffectForAndroidDesign  
 
 1. android-eye  
-PC端网页查看同一局域网内的手机摄像头内容，可以用来监控哦  
+Change your android phone to surveillance camera  
 Project Address: https://github.com/Teaonly/android-eye  
 Demo Apk: https://play.google.com/store/apps/details?id=teaonly.droideye  
 
 1. libpng for Android  
-PNG图片的jni库，支持几乎png的所有特性  
+libpng for Android NDK  
 Project Address: https://github.com/julienr/libpng-android  
 Document: http://www.libpng.org/pub/png/libpng.html  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -1037,7 +1030,7 @@ Document: https://github.com/zeroturnaround/zt-zip#examples
 开源的mobile行为分析系统，include web端, android端，支持ios和window phone  
 Project Address: https://github.com/cobub/razor  
 Demo Apk: http://demo.cobub.com/razor  
-网站介绍：http://dev.cobub.com/  
+Document: http://dev.cobub.com/  
    
 1. aFileChooser  
 文件选择器，可内嵌到程序中，而无需使用系统或三方文件选择器。  
