@@ -1277,42 +1277,30 @@ Project Address: https://github.com/JakeWharton/sdk-manager-plugin
 
 #### Fifth. Others  
 1. ViewServer  
-允许app运行在任何手机上都可以用HierarchyViewer查看  
+Local server for Android's HierarchyViewer  
 Project Address: https://github.com/romainguy/ViewServer  
    
 1. GridWichterle for Android  
-在整个系统上显示一个grid，用来帮助查看应用布局及使得布局更美观，可设置grid网格大小和颜色，android推荐48dp和8dp，可见 Android Design Guidelines – Metrics and Grids  
+This app will show grid overlay over whole system which helps you to verify your excellent app design.  
 Project Address: https://github.com/inmite/android-grid-wichterle  
 Demo Apk: https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle  
-Other：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看工具。  
 
 1. Catlog  
-手机端log查看工具，支持不同颜色显示, 关键字过滤, 级别过滤, 进程id过滤, 录制功能等  
+Logcat-reading app for Android  
 Project Address: https://github.com/nolanlawson/Catlog  
 Online Demo: https://play.google.com/store/apps/details?id=com.nolanlawson.logcat  
    
 1. PID Cat  
-根据package查看logcat日志  
+Colored logcat script which only shows log entries for a specific application package.  
 Project Address: https://github.com/JakeWharton/pidcat  
 
 1. ACRA  
-应用崩溃信息上报到GoogleDoc工具  
+ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form. It is targetted to android applications developers to help them get data from their applications when they crash or behave erroneously.  
 Project Address: https://github.com/ACRA/acra  
 Document: https://github.com/ACRA/acra/wiki/BasicSetup  
 
-1. Crashlytics  
-提供丰富的应用崩溃信息收集  
-轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
-Project Address: http://www.crashlytics.com/  
-Other：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
-
 1. Android Resource Navigator  
-chrome插件，可以方便的查看github上android源码工程的styles.xml和themes.xml。主要功能：  
-(1) 快速打开android styles.xml themes.xml  
-(2) 方便在资源间跳转。styles.xml themes.xml文件中资源链接跳转，可以方便跳转到某个资源  
-(3) 方便查找某个style和theme。chrome地址栏输入arn+tab+搜索内容回车即可  
-(4) 自动下载不同分辨率下的drawable  
-(5) 通过映射查找那些不是按照固定命名规则命名的style和theme  
+Chrome Extension providing enhanced resource navigation for GitHub hosted Android projects  
 Project Address: https://github.com/jgilfelt/android-resource-navigator  
 示例：https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
