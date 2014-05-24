@@ -900,54 +900,54 @@ Demo Apk: https://play.google.com/store/apps/details?id=de.greenrobot.eventperf
   
 #### Ninth. Sensor  
 1. Great Android Sensing Toolkit  
-Android感应器工具包，包含示例及使用过程中可能需要的算法  
+GAST is a toolkit for using Android's Sensing capabilities. It contains the examples, boiler plate code, and algorithms you need to properly use Android sensors.  
 Project Address: https://github.com/gast-lib/gast-lib  
 Demo Apk: https://play.google.com/store/apps/details?id=root.gast.playground  
 Document: https://github.com/gast-lib/gast-lib#documentation  
 
 1. SensorManager  
-Android Sensor管理  
+Android Sensor Manager Library  
 Project Address: https://github.com/nlathia/SensorManager  
 Document: https://docs.google.com/document/d/1TqThJULb-4e6TGb1gdkAaPCfyuXStjJpbnt7a0OZ9OE/edit  
 
 1. GPSLogger  
-记录GPS信息  
+GPSLogger is an Android app that logs GPS information to GPX, KML or text files and has options for annotating and sharing.  
 Project Address: https://github.com/mendhak/gpslogger  
 Demo Apk: https://play.google.com/store/apps/details?id=com.mendhak.gpslogger  
 Document: http://code.mendhak.com/gpslogger/  
 
 1. Pedometer  
-计步器，使用硬件计步感应器  
+Lightweight pedometer app for Android using the hardware step sensor  
 Project Address: https://github.com/j4velin/Pedometer  
 
 1. leapcast  
-ChromeCast模拟器的App  
+ChromeCast emulation app for any device  
 Project Address: https://github.com/dz0ny/leapcast  
 
 1. Arduino-Communicator  
-与Arduino通信的App  
+Very simple Android application for communicating with Arduino  
 Project Address: https://github.com/jeppsson/Arduino-Communicator  
 
 1. android-pedometer  
-Android计步器  
+App for Android phones that counts your steps.  
 Project Address: https://github.com/bagilevi/android-pedometer  
 Demo Apk: http://pedometer.googlecode.com/files/Pedometer-1.4.apk  
 
 1. OwnTracks for Android  
-自己的轨迹记录  
+OwnTracks Android App  
 Project Address: https://github.com/owntracks/android  
 
 1. Shake Detector library for Android   
-Android手机震动摇晃检测库，提供供UI线程调用的回调接口  
+This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens.  
 Project Address: https://github.com/tbouron/ShakeDetector  
 Demo Apk: https://play.google.com/store/apps/details?id=com.github.tbouron.shakedetector.example  
 
 1. Android heart rate monitor   
-Android心跳检测  
+Android heart rate monitor  
 Project Address: https://github.com/phishman3579/android-heart-rate-monitor  
 
 1. Bluetooth LE Library for Android   
-蓝牙源信息，include宝库Mac, 更新时间, RSSI, UUID, 信号源距离, 影响范围等信息  
+This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons.  
 Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
