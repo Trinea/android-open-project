@@ -20,7 +20,7 @@ Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Proje
 *Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
 
 ## First part. Personalized Views  
-主要介绍那些不错个性化的View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar及Others如Dialog, Toast, EditText, TableView, Activity Animation等等。  
+Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
 #### First. ListView  
 1. android-pulltorefresh  
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
@@ -392,7 +392,7 @@ Renderings: ![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgr
 
 1. TH-ProgressButton  
 Circular progress View button inspired by FFCircularProgressView   
-项目地址；https://github.com/torryharris/TH-ProgressButton    
+Project Address: https://github.com/torryharris/TH-ProgressButton    
 Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
@@ -1308,10 +1308,8 @@ Online Demo: https://chrome.google.com/webstore/detail/android-resource-navigato
 ## Fifth part. Outstanding individuals and groups  
 #### First. Individual  
 1. JakeWharton  
-就职于Square，绝对牛逼的大神，项目主要集中在Android版本兼容，ViewPager及开发工具上  
 Github Address: https://github.com/JakeWharton  
-Masterpiece: ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel    
-pidcat另外对square及Others开源项目有很多贡献  
+Masterpiece: ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel  
 HomePage: http://jakewharton.com/  
    
 1. Chris Banes  
@@ -1320,9 +1318,8 @@ Masterpiece: ActionBar-PullToRefresh，PhotoView，Android-BitmapCache，Android
 HomePage: http://chris.banes.me/  
    
 1. Koushik Dutta  
-就职于ClockworkMod  
 Github Address: https://github.com/koush  
-Masterpiece: Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外对https://github.com/CyanogenMod 的开源项目有很多贡献  
+Masterpiece: Superuser，AndroidAsync，UrlImageViewHelper，ion  
 HomePage: http://koush.com/  
    
 1. Simon Vig  
@@ -1350,20 +1347,17 @@ Masterpiece: android-mapviewballoons，android-viewbadger，android-actionbarsty
 HomePage: http://jeffgilfelt.com  
 
 1.  Romain Guy  
-Android team成员(2013.10已离开Android team，仍在Google)  
 Github Address: https://github.com/romainguy  
 Masterpiece: ViewServer  
 HomePage: http://www.curious-creature.org/category/android/   
 Other：http://www.flickr.com/photos/romainguy  
 
 1. sephiroth74  
-就职于Aviary.com  
 Github Address: https://github.com/sephiroth74  
 Masterpiece: ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF  
 HomePage: http://www.sephiroth.it/   
 
-1. Cyril Mottier    
-Google开发者专家认证，发布一些Android技巧及文章  
+1. Cyril Mottier  
 Github Address: https://github.com/cyrilmottier  
 Masterpiece: GreenDroid，Polaris  
 HomePage: http://cyrilmottier.com/  
@@ -1371,21 +1365,14 @@ HomePage: http://cyrilmottier.com/
 
 #### Second. Group  
 1. Square  
-有态度有良心的企业，很多不错的分享  
 Github Address: https://github.com/square   
-Masterpiece: okhttp, fest-android，android-times-square, picasso, dagger, spoon等等    
+Masterpiece: okhttp, fest-android，android-times-square, picasso, dagger, spoon and so on
 HomePage: http://square.github.io/  
    
 1. Inmite s.r.o.  
 Github Address: https://github.com/inmite  
 Masterpiece: android-styled-dialogs，android-grid-wichterle，android-selector-chapek  
 HomePage: http://www.inmite.eu/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
-#### Third. 博客  
-1. Chet Haase  
-Android framework UI team 成员  
-HomePage: http://graphics-geek.blogspot.com/  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## License
@@ -1403,8 +1390,4 @@ HomePage: http://graphics-geek.blogspot.com/
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Trinea/android-open-project/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-    
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a900f4d3b4aa67d4f98e3a143b8dea9e "githalytics.com")](http://githalytics.com/Trinea/android-open-project)
 
