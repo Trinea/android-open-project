@@ -762,33 +762,29 @@ Document: http://ormlite.com/sqlite_java_android_orm.shtml
 
 #### Fifth. Android common lib   
 1. Guava  
-Google的基于java1.6的类库集合的扩展项目，include collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
+The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.  
 Project Address: https://code.google.com/p/guava-libraries/  
 Document: https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
    
 1. Volley  
-Google提供的网络通信库，使得网络请求更简单, 更快速  
+Easy, Fast Networking for Android  
 Project Address: https://android.googlesource.com/platform/frameworks/volley  
 Github Address: https://github.com/mcxiaoke/android-volley    
 Document: http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
 
 1. AndroidCommon  
-Android公共库  
+Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-common-lib/  
-include：(1)缓存(Image Cache, 预取缓存, 网络缓存)  
-(2) 公共View(下拉及底部加载更多ListView, 底部加载更多ScrollView, 滑动一页Gallery)  
-(3) Android常用工具类(网络, 下载, Android资源操作, shell, 文件, Json, 随机数, Collection等等)  
    
 1. shipfaster  
-整合了Dagger Otto Retrofit Robolectric Picasso OkHttp，方便快速开发  
+Sample project demonstrating usage of Dagger + Otto + Robolectric + Retrofit + Picasso + OkHttp  
 Project Address: https://github.com/pyricau/shipfaster  
    
 1. CleanAndroidCode  
-整合了Dagger Otto AndroidAnnotations，方便快速开发  
+This project is a proof of concept to show how to integrate Dagger, Otto and AndroidAnnotations.  
 Project Address: https://github.com/pyricau/CleanAndroidCode  
-我目前也在做框架选型方面的工作，不出意外后面也会出个跟4, 5类似的项目  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### Sixth. Android Compatible low version  
