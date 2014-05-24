@@ -737,31 +737,25 @@ Project Address: https://github.com/stephanenicolas/robospice
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### Fourth. Database ORM  
-orm的db工具类，简化建表, 查询, 更新, 插入, 事务, 索引的操作  
-
+#### Fourth. Database  
 1. greenDAO  
-Android Sqlite orm的db工具类  
+GreenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. Being highly optimized for Android, greenDAO offers great performance and consumes minimal memory.  
 Project Address: https://github.com/greenrobot/greenDAO  
 Document: http://greendao-orm.com/documentation/  
 Official Website: http://greendao-orm.com/  
-特点：(1) 性能佳  
-(2) 简单易用的API  
-(3) 内存小好小  
-(4) 库大小小  
    
 1. ActiveAndroid  
-Android Sqlite orm的db工具类  
+Active record style SQLite persistence for Android  
 Project Address: https://github.com/pardom/ActiveAndroid  
 Document: https://github.com/pardom/ActiveAndroid/wiki/_pages  
    
 1. Sprinkles  
-Android Sqlite orm的db工具类  
+Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications  
 Project Address: https://github.com/emilsjolander/sprinkles  
-Document: http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/  
-特点：比较显著的特点就是配合https://github.com/square/retrofit能保存从服务器获取的数据  
+Document: http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/   
    
 1. ormlite-android  
+ORMLite Android functionality used in conjunction with ormlite-core  
 Project Address: https://github.com/j256/ormlite-android  
 Document: http://ormlite.com/sqlite_java_android_orm.shtml   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
