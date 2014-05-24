@@ -357,41 +357,41 @@ Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageVi
 
 #### Seventh. ProgressBar  
 1. SmoothProgressBar  
-水平进度条  
+A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar  
 Project Address: https://github.com/castorflex/SmoothProgressBar  
 Demo Apk: https://play.google.com/store/apps/details?id=fr.castorflex.android.smoothprogressbar.sample  
    
 1. ProgressWheel  
-支持进度显示的圆形ProgressBar  
+A progress wheel for android, intended for use instead of the standard progress bar.  
 Project Address: https://github.com/Todd-Davies/ProgressWheel  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/progress-wheel-demo.apk?raw=true  
    
 1. android-square-progressbar  
-在图片周围显示进度  
+A progressbar which go's around an image.  
 Project Address: https://github.com/mrwonderman/android-square-progressbar  
 Demo Apk: https://play.google.com/store/apps/details?id=net.yscs.android.square_progressbar_example  
 Similar App: square  
 Renderings: ![Renderings](https://googledrive.com/host/0BwESwPCuXtw7eExwSFVLQkR2TTg/newscreen1.png)  
    
 1. HoloCircularProgressBar  
-Android4.1 时钟App样式  
+HoloCircularProgressBar is a Custom View implementation for Android you might know from the Android Clock App from Android 4.1  
 Project Address: https://github.com/passsy/android-HoloCircularProgressBar  
-Similar App: Android4.1时钟App  
+Similar App: Android4.1 Clock App  
 Renderings: ![Renderings](https://raw.github.com/passsy/android-HoloCircularProgressBar/master/raw/screenshot1.png)  
   
 1. ProgressButton  
-通过图钉的不同状态显示进度     
+A custom progress indicator with a tiny footprint.  
 Project Address: https://github.com/f2prateek/progressbutton   
 Document: http://f2prateek.com/progressbutton/   
 Renderings: ![Renderings](http://f2prateek.com/progressbutton/static/states.png)  
 
 1. GoogleProgressBar  
-类似google 多个圆形卡片翻转的progressBar   
+Android library to display different kind of google related animations for the progressBar.   
 Project Address: https://github.com/jpardogo/GoogleProgressBar   
 Renderings: ![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif)  
 
 1. TH-ProgressButton  
-带圆形进度显示的按钮   
+Circular progress View button inspired by FFCircularProgressView   
 项目地址；https://github.com/torryharris/TH-ProgressButton    
 Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
