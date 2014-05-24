@@ -1077,80 +1077,70 @@ Project Address: https://github.com/Almeros/android-gesture-detectors
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## Third part. Excellent projects  
-主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
 Project Address: https://github.com/torvalds/linux  
 Android  
-Project Address: https://android.googlesource.com/ 或 https://github.com/android  
-以上两个项目，不解释  
+Project Address: https://android.googlesource.com/  
    
 (1) ZXing  
-二维码扫描工具  
-Project Address: https://github.com/zxing/zxing 或 https://code.google.com/p/zxing/  
-APK地址：https://play.google.com/store/apps/details?id=com.google.zxing.client.android  
-PS：现在市面上很多应用的二维码扫描功能都是从这个修改而来  
+ZXing ("zebra crossing") is an open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages.  
+Project Address: https://github.com/zxing/zxing  
+Demo Apk: https://play.google.com/store/apps/details?id=com.google.zxing.client.android   
    
 (2) photup  
-编辑机批量上传照片到facebook上  
+With photup you can share your photos to your Facebook profile, quicker than ever before.  
 Project Address: https://github.com/chrisbanes/photup  
-APK地址：https://play.google.com/store/apps/details?id=uk.co.senab.photup  
-PS：代码分包合理，很棒。不过这个项目依赖的开源项目比较多，比较难编译  
+Demo Apk: https://play.google.com/store/apps/details?id=uk.co.senab.photup  
      
 (3) github-android 
-Github的Android客户端项目  
+GitHub Android App  
 Project Address: https://github.com/github/android  
-APK地址：https://play.google.com/store/apps/details?id=com.github.mobile  
+Demo Apk: https://play.google.com/store/apps/details?id=com.github.mobile  
    
 (4) Notes  
-MIUI便签  
+MIUI Notes
 Project Address: https://github.com/MiCode/Notes  
-APK地址：https://github.com/Trinea/TrineaDownload/blob/master/miui-note-demo.apk?raw=true  
-PS：项目分包比较合理，相比较miui的文件管理器https://github.com/MiCode/FileExplorer 代码规范较好得多  
+Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/miui-note-demo.apk?raw=true  
    
 (5) weicuiyuan  
-四次元-新浪微博客户端  
+Sina Weibo Android Client  
 Project Address: https://github.com/qii/weiciyuan  
-APK地址：https://play.google.com/store/apps/details?id=org.qii.weiciyuan  
+Demo Apk: https://play.google.com/store/apps/details?id=org.qii.weiciyuan  
    
 (6) gnucash-android  
-一个记账理财软件  
+Gnucash for Android mobile companion application.  
 Project Address: https://github.com/codinguser/gnucash-android  
-APK地址：http://play.google.com/store/apps/details?id=org.gnucash.android  
+Demo Apk: http://play.google.com/store/apps/details?id=org.gnucash.android  
    
 (7) AntennaPod  
-支持rss订阅, 音乐订阅  
+A podcast manager for Android  
 Project Address: https://github.com/danieloeh/AntennaPod  
-APK地址：https://play.google.com/store/apps/details?id=de.danoeh.antennapod  
+Demo Apk: https://play.google.com/store/apps/details?id=de.danoeh.antennapod  
    
 (8) ChaseWhisplyProject  
-打鬼游戏  
+An augmented reality attempt  
 Project Address: https://github.com/tvbarthel/ChaseWhisplyProject  
-APK地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply  
+Demo Apk: https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply  
    
 (9) Tweet Lanes  
-功能完整的Twitter客户端  
+Tweet Lanes for Android  
 Project Address: https://github.com/chrislacy/TweetLanes  
-APK地址：https://play.google.com/store/apps/details?id=com.tweetlanes.android  
+Demo Apk: https://play.google.com/store/apps/details?id=com.tweetlanes.android  
 
 (10) Financius  
-简单易用的记账程序  
+Android Expense Manager  
 Project Address: https://github.com/mvarnagiris/Financius  
-APK地址：https://play.google.com/store/apps/details?id=com.code44.finance  
+Demo Apk: https://play.google.com/store/apps/details?id=com.code44.finance  
 
 (11) todo.txt-android  
-todo.txt的官方Android应用  
+Official Todo.txt Android app for managing your todo.txt file stored in Dropbox.  
 Project Address: https://github.com/ginatrapani/todo.txt-android  
-APK地址：https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch  
-
-(12) simpletask  
-基于todo.txt官方应用的另一个客户端  
-Project Address: https://github.com/mpcjanssen/simpletask-android  
-APK地址：https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxtholo  
+Demo Apk: https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch  
 
 (13) Muzei Live Wallpaper  
-定时更换桌面精美壁纸  
+Muzei Live Wallpaper for Android  
 Project Address: https://github.com/romannurik/muzei  
-APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei  
+Demo Apk: https://play.google.com/store/apps/details?id=net.nurik.roman.muzei  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## Forth part: Development and testing tools  
@@ -1304,7 +1294,7 @@ Project Address: https://github.com/romainguy/ViewServer
 1. GridWichterle for Android  
 在整个系统上显示一个grid，用来帮助查看应用布局及使得布局更美观，可设置grid网格大小和颜色，android推荐48dp和8dp，可见 Android Design Guidelines – Metrics and Grids  
 Project Address: https://github.com/inmite/android-grid-wichterle  
-APK地址：https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle  
+Demo Apk: https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle  
 Other：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看工具。  
 
 1. Catlog  
