@@ -1236,7 +1236,7 @@ Document: http://docs.codehaus.org/display/SONAR/Android+Plugin
 
 #### Third. Testing tools  
 1. Spoon  
-可用于android不同机型设备自动化测试，能将应用apk和测试apk运行在不同机器上并生成相应测试报告。  
+Distributing instrumentation tests to all your Androids.  
 Project Address: https://github.com/square/spoon    
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
