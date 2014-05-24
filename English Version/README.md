@@ -1242,44 +1242,36 @@ Project Address: https://github.com/square/spoon
 
 #### Fourth. Development and build environment  
 1. Buck  
-facebook开源的Android编译工具，效率是ant的两倍。主要优点在于：  
-(1) 加快编译速度，通过并行利用多核cpu和跟踪不变资源减少增量编译时间实现  
-(2) 可以在编译系统中生成编译规则而无须另外的系统生成编译规则文件  
-(3) 编译同时可生成单元测试结果  
-(4) 既可用于IDE编译也可用于持续集成编译  
-(5) facebook持续优化中  
+Buck is an Android build tool, is more powerful than ant.  
 Project Address: https://github.com/facebook/buck  
    
 1. Android Maven Plugin  
-Android Maven插件，可用于对android三方依赖进行管理。在J2EE开发中，maven是非常成熟的依赖库管理工具，可统一管理依赖库。  
+A plugin for Android application development with Apache Maven 3.1.1+ and the Android SDK.  
 Project Address: https://github.com/jayway/maven-android-plugin  
 
 1. umeng-muti-channel-build-tool  
-渠道打包工具  
+Umeng packaing tools  
 Project Address: https://github.com/umeng/umeng-muti-channel-build-tool  
-另可参见Google的构建系统Gradle：http://tools.android.com/tech-docs/new-build-system/user-guide  
    
 1. Genymotion  
-目前最好用最快的android模拟器  
+THE FASTER ANDROID EMULATOR  
 Project Address: http://www.genymotion.com/  
-Android studio集成控件： http://plugins.jetbrains.com/plugin/7269?pr=idea  
-Cyril Mottier推荐：http://cyrilmottier.com/2013/06/27/a-productive-android-development-environment/  
   
 1. gradle-mvn-push  
-方便的将Gradle的Artifacts上传到Maven仓库  
+Helper to upload Gradle Android Artifacts to Maven repositories  
 Project Address: https://github.com/chrisbanes/gradle-mvn-push  
 Document: https://github.com/chrisbanes/gradle-mvn-push#usage    
 
 1. Android Emulator Plugin for Jenkins  
-Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测试  
+Android Emulator plugin for Jenkins  
 Project Address: https://github.com/jenkinsci/android-emulator-plugin  
 
 1. Android Maven Plugin  
-管理应用所需要的依赖库。include的构建工具有Maven, Gradle, ant, sbt  
+A tool to install components of the Android SDK to use with the Maven Android Plugin.  
 Project Address: https://github.com/mosabua/maven-android-sdk-deployer  
 
 1. SDK Manager Plugin  
-下载和管理Android SDK的Gradle插件  
+Gradle plugin which downloads and manages your Android SDK.  
 Project Address: https://github.com/JakeWharton/sdk-manager-plugin  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
