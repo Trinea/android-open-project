@@ -1633,10 +1633,6 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 通过手势截图以特定主题发送到特定邮箱地址报告Bug  
 项目地址：https://github.com/mattprecious/telescope  
 
-1. Telescope  
-通过手势截图以特定主题发送到特定邮箱地址报告Bug  
-项目地址：https://github.com/mattprecious/telescope  
-
 1. Complete Android Fragment & Activity Lifecycle  
 完整的Android Fragment/Activity生命周期图  
 项目地址：https://github.com/xxv/android-lifecycle  
