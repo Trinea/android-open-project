@@ -757,7 +757,7 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 
 1. FragmentTransaction<br/>
 项目地址:https://github.com/DesarrolloAntonio/FragmentTransactionExtended<br/>
-效果图:![Renderings](https://github.com/DesarrolloAntonio/FragmentTransactionExtended/blob/master/FragmentTransactionExample/cap1.gif)
+效果图:![Renderings](https://raw.githubusercontent.com/DesarrolloAntonio/FragmentTransactionExtended/master/FragmentTransactionExample/cap1.gif)
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
