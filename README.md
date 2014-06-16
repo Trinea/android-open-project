@@ -419,16 +419,18 @@ APP示例：Android4.1时钟App
 带数字进度的进度条     
 项目地址：https://github.com/daimajia/NumberProgressBar   
 效果图：![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)  
+
+1. CircularProgressDrawable  
+带圆形进度显示的进度条  
+项目地址: https://github.com/Sefford/CircularProgressDrawable  
+效果图:![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)  
+  
+1. circular-progress-button   
+带进度显示的Button  
+项目地址:https://github.com/dmytrodanylyk/circular-progress-button  
+效果图:![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
-
-1. 中心动画的进度条<br/>
-项目地址:https://github.com/Sefford/CircularProgressDrawable<br/>
-效果图:![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)
-
-1. 圆圈进度条Button<br/>
-项目地址:https://github.com/dmytrodanylyk/circular-progress-button<br/>
-效果图:![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)
-
+  
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
 
@@ -754,10 +756,6 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 改变ScrollView, ListView, ExpandableListView, GridView, ViewPager等滚动控件滚动到边缘的颜色效果  
 项目地址：https://github.com/AndroidAlliance/EdgeEffectOverride  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
-
-1. FragmentTransaction<br/>
-项目地址:https://github.com/DesarrolloAntonio/FragmentTransactionExtended<br/>
-效果图:![Renderings](https://raw.githubusercontent.com/DesarrolloAntonio/FragmentTransactionExtended/master/FragmentTransactionExample/cap1.gif)
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
