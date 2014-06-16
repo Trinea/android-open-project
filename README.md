@@ -423,11 +423,11 @@ APP示例：Android4.1时钟App
 
 1. 中心动画的进度条<br/>
 项目地址:https://github.com/Sefford/CircularProgressDrawable<br/>
-效果图:![Renderings](https://github.com/Sefford/CircularProgressDrawable/blob/master/overshoot.gif)
+效果图:![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)
 
 1. 圆圈进度条Button<br/>
 项目地址:https://github.com/dmytrodanylyk/circular-progress-button<br/>
-效果图:https://github.com/dmytrodanylyk/circular-progress-button/blob/master/screenshots/intro.gif
+效果图:![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)
 
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
