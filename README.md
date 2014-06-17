@@ -116,6 +116,10 @@ APP示例：Google plus、Google Now卡片式进入、小米系统中应用商�
 项目地址：https://github.com/dinocore1/DevsmartLib-Android  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
+1. TwoWayView  
+横向ListView的效果，继承自AdapterView  
+项目地址：https://github.com/lucasr/twoway-view  
+   
 1. HorizontalVariableListView  
 支持Item宽度不一致的ListView  
 项目地址：https://github.com/sephiroth74/HorizontalVariableListView   
@@ -327,6 +331,10 @@ Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，�
 项目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. TwoWayGridView  
+可横向滚动的GridView  
+项目地址：https://github.com/jess-anders/two-way-gridview  
 
 #### 六、ImageView  
 1. PhotoView  
