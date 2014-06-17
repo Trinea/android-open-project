@@ -544,12 +544,21 @@ Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsa
 Android Wheel支持城市、多种日期时间、密码、图片  
 项目地址：https://code.google.com/p/android-wheel/  
 效果图：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
-  
+   
 1. GoogleDateTimePickers  
 时间选择部件  
 项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
 文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. DateTimePicker  
+日期选择部件(Google Agenda的样式风格)  
+项目地址：https://github.com/flavienlaurent/datetimepicker  
+效果图：![Renderings](https://camo.githubusercontent.com/493edeea3eb553ad0d0b121dbead0d7ec6a858f2/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67)    
+1. android-betterpickers  
+提供日期、数字、时间（数字方式和钟表方式）、重复周期（闹钟的周期重复）、HMS（时、分、秒）的选择，支持以DialogFragment的弹窗选择  
+项目地址：https://github.com/derekbrameyer/android-betterpickers  
+效果图：![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
 
 #### 十一、TipView  
 包括Toast、角标、UndoBar等提示性控件  
@@ -622,6 +631,11 @@ Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit
 项目地址：https://github.com/attenzione/android-ColorPickerPreference  
 效果图：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. ColorPicker  
+颜色选择器（Google Agenda中的样式风格）  
+项目地址：https://github.com/flavienlaurent/colorpicker  
+效果图：![Renderings](https://camo.githubusercontent.com/a42581e637ca379004855d69e262d85ea966fa35/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f636f6c6f727069636b65722f6d61737465722f67726170686963732f696d67312e706e67)  
 
 #### 十四、GraphView  
 1. achartengine  
