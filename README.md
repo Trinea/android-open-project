@@ -145,6 +145,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
+1. PullToZoomInListView  
+滑动ListView时使其HeaderView跟随滑动缩放  
+项目地址：https://github.com/matrixxun/PullToZoomInListView    
+效果展示：![Renderings](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif)  
+
 #### 二、ActionBar  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
