@@ -554,10 +554,12 @@ Android Wheel支持城市、多种日期时间、密码、图片
 1. DateTimePicker  
 日期选择部件(Google Agenda的样式风格)  
 项目地址：https://github.com/flavienlaurent/datetimepicker  
+Demo地址：https://raw.github.com/biboune/datetimepicker/master/datetimepicker-sample.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/493edeea3eb553ad0d0b121dbead0d7ec6a858f2/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67)    
 1. android-betterpickers  
 提供日期、数字、时间（数字方式和钟表方式）、重复周期（闹钟的周期重复）、HMS（时、分、秒）的选择，支持以DialogFragment的弹窗选择  
 项目地址：https://github.com/derekbrameyer/android-betterpickers  
+Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.betterpickers.sample
 效果图：![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
 
 #### 十一、TipView  
@@ -635,6 +637,7 @@ Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit
 1. ColorPicker  
 颜色选择器（Google Agenda中的样式风格）  
 项目地址：https://github.com/flavienlaurent/colorpicker  
+Demo地址：https://raw.github.com/biboune/colorpicker/master/colorpicker-sample.apk
 效果图：![Renderings](https://camo.githubusercontent.com/a42581e637ca379004855d69e262d85ea966fa35/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f636f6c6f727069636b65722f6d61737465722f67726170686963732f696d67312e706e67)  
 
 #### 十四、GraphView  
