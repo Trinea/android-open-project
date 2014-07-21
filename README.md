@@ -24,7 +24,7 @@ Android开源项目分类汇总
 、其他
 #### 一、ListView  
 1. android-pulltorefresh  
-一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WevView、ExpandableListView、GridView、ScrollView、Horizontal  ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
+一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal  ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且他实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。  
 项目地址：https://github.com/chrisbanes/Android-PullToRefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
 APP示例：新浪微博各个页面  
@@ -1093,6 +1093,10 @@ Android Svg矢量图形支持
 1. Android Visualizer  
 从Android MediaPlayer获得音频，然后像iTunes及WinAmp一样展示音轨  
 项目地址：https://github.com/felixpalmer/android-visualizer  
+
+1. ExoPlayer  
+包括仪表板和SmoothStreaming自适应回放，缓存持久化和自定义渲染器，方便自定义和扩展，并且可以通过应用商店更新   
+项目地址：https://github.com/google/ExoPlayer  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 八、事件总线(订阅者模式)  
