@@ -237,6 +237,13 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sampl
 效果图：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+   
+1. CircularFloatingActionMenu  
+一个可定制的圆形的浮动菜单控件，类似于Path的圆形菜单。这个控件的可定制性更强，可以很容易的定制菜单出现消失时的动画，起始角度和半径。  
+项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
+Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
+效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif) 
+
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
 配合ViewPager使用的Indicator，支持各种位置和样式  
