@@ -1370,6 +1370,10 @@ Activity跳转动画，支持各个方向波浪的效果
 Demo地址：https://play.google.com/store/apps/details?id=com.github.androidsocialnetworks.apidemos  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Android Saripaar 
+Android表单验证
+项目地址：https://github.com/ragunathjawahar/android-saripaar/
+
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
