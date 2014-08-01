@@ -124,6 +124,10 @@ APP示例：Google plus、Google Now卡片式进入、小米系统中应用商�
 项目地址：https://github.com/dinocore1/DevsmartLib-Android  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
+1. TwoWayView  
+横向ListView的效果，继承自AdapterView  
+项目地址：https://github.com/lucasr/twoway-view  
+   
 1. HorizontalVariableListView  
 支持Item宽度不一致的ListView  
 项目地址：https://github.com/sephiroth74/HorizontalVariableListView   
@@ -148,6 +152,11 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
+
+1. PullToZoomInListView  
+滑动ListView时使其HeaderView跟随滑动缩放  
+项目地址：https://github.com/matrixxun/PullToZoomInListView    
+效果展示：![Renderings](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif)  
 
 #### 二、ActionBar  
 1. ActionBarSherlock  
@@ -342,6 +351,10 @@ Item可拖动交换位置的GridView，实际是自己继承ViewGroup实现，�
 项目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. TwoWayGridView  
+可横向滚动的GridView  
+项目地址：https://github.com/jess-anders/two-way-gridview  
 
 #### 六、ImageView  
 1. PhotoView  
@@ -557,12 +570,23 @@ Demo地址：https://play.google.com/store/apps/details?id=com.wt.calendarcardsa
 Android Wheel支持城市、多种日期时间、密码、图片  
 项目地址：https://code.google.com/p/android-wheel/  
 效果图：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
-  
+   
 1. GoogleDateTimePickers  
 时间选择部件  
 项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers  
 文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. DateTimePicker  
+日期选择部件(Google Agenda的样式风格)  
+项目地址：https://github.com/flavienlaurent/datetimepicker  
+Demo地址：https://raw.github.com/biboune/datetimepicker/master/datetimepicker-sample.apk  
+效果图：![Renderings](https://camo.githubusercontent.com/493edeea3eb553ad0d0b121dbead0d7ec6a858f2/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f6461746574696d657069636b65722f6d61737465722f67726170686963732f696d67312e706e67)    
+1. android-betterpickers  
+提供日期、数字、时间（数字方式和钟表方式）、重复周期（闹钟的周期重复）、HMS（时、分、秒）的选择，支持以DialogFragment的弹窗选择  
+项目地址：https://github.com/derekbrameyer/android-betterpickers  
+Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.betterpickers.sample
+效果图：![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
 
 #### 十一、TipView  
 包括Toast、角标、UndoBar等提示性控件  
@@ -635,6 +659,12 @@ Demo地址：https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit
 项目地址：https://github.com/attenzione/android-ColorPickerPreference  
 效果图：![Renderings](https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+   
+1. ColorPicker  
+颜色选择器（Google Agenda中的样式风格）  
+项目地址：https://github.com/flavienlaurent/colorpicker  
+Demo地址：https://raw.github.com/biboune/colorpicker/master/colorpicker-sample.apk
+效果图：![Renderings](https://camo.githubusercontent.com/a42581e637ca379004855d69e262d85ea966fa35/68747470733a2f2f7261772e6769746875622e636f6d2f6269626f756e652f636f6c6f727069636b65722f6d61737465722f67726170686963732f696d67312e706e67)  
 
 #### 十四、GraphView  
 1. achartengine  
@@ -777,6 +807,10 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 改变ScrollView, ListView, ExpandableListView, GridView, ViewPager等滚动控件滚动到边缘的颜色效果  
 项目地址：https://github.com/AndroidAlliance/EdgeEffectOverride  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+   
+1. android-pinned-header-listviews  
+使ExpandListView的Group滑动到顶端时会固定不动直到另外一个Group到达顶端  
+项目地址：https://github.com/rtyley/android-pinned-header-listviews  
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
