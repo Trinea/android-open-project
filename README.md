@@ -1411,6 +1411,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.github.androidsoc
 1. Magnet  
 创建类似 Facebook 聊天桌面悬浮窗的效果  
 项目地址：https://github.com/premnirmal/Magnet  
+
+1. Parceler  
+通过注解及工具类自动完成实体类 Parcelable及值传递
+项目地址：https://github.com/johncarl81/parceler 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
@@ -1493,6 +1497,10 @@ APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei
 ## 第四部分 开发工具及测试工具  
 主要介绍和Android开发工具和测试工具相关的开源项目。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 一、开发效率工具  
+1. Parceler  
+通过注解及工具类自动完成实体类 Parcelable及值传递
+项目地址：https://github.com/johncarl81/parceler   
+
 1. Json2Java  
 根据JSon数据自动生成对应的Java实体类，还支持Parcel、Gson Annotations对应代码自动生成。期待后续的提取父类以及多url构建整个工程的功能  
 项目地址：https://github.com/jonfhancock/JsonToJava  
