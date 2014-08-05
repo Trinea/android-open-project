@@ -79,7 +79,12 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 1. PinnedHeaderListView  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView  
 项目地址：https://github.com/JimiSmith/PinnedHeaderListView  
-   
+  
+1. QuickReturn  
+ListView/ScrollView的header或footer，当向下滚动时消失，向上滚动时出现  
+项目地址：https://github.com/lawloretienne/QuickReturn  
+Demo地址：https://play.google.com/store/apps/details?id=com.etiennelawlor.quickreturn  
+ 
 1. QuickReturnHeader  
 ListView/ScrollView的header或footer，当向下滚动时消失，向上滚动时出现  
 项目地址：https://github.com/ManuelPeinado/QuickReturnHeader  
