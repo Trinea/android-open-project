@@ -541,6 +541,12 @@ Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/
 1. Android Saripaar  
 Android表单验证  
 项目地址：https://github.com/ragunathjawahar/android-saripaar/  
+
+1. JumpingBeans  
+一个类似Android版Google+浮动功能按钮的控件，可以响应ListView的滚动事件。当列表向上滚动的时候会自动显示，向下滚动的时候自动隐藏。    
+项目地址：https://github.com/makovkastar/FloatingActionButton    
+Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/    
+效果图：![Renderings](https://raw.githubusercontent.com/makovkastar/FloatingActionButton/master/art/demo.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
@@ -699,6 +705,11 @@ APP示例：Wordpress Android，Google Analytics
 绘制现状图、柱状图、饼状图    
 项目地址：https://bitbucket.org/danielnadeau/holographlibrary/src  
 文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
+   
+1. XCL-Charts  
+XCL-Charts基于原生的Canvas来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持3D/非3D柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆积图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。  
+项目地址：https://github.com/xcltapestry/XCL-Charts  
+Demo地址：https://github.com/xcltapestry/XCL-Charts/blob/master/XCL-Charts-demo/bin/XCL-Charts-demo.apk?raw=true  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十五、UI Style  
