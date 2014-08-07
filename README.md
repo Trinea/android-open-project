@@ -1434,8 +1434,13 @@ Demo地址：https://play.google.com/store/apps/details?id=com.github.androidsoc
 项目地址：https://github.com/premnirmal/Magnet  
 
 1. Parceler  
-通过注解及工具类自动完成实体类 Parcelable及值传递
-项目地址：https://github.com/johncarl81/parceler 
+通过注解及工具类自动完成实体类 Parcelable及值传递  
+项目地址：https://github.com/johncarl81/parceler  
+
+1. AcDisplay  
+将 Android 的通知都集中到锁屏显示  
+项目地址：https://github.com/AChep/AcDisplay  
+Demo地址：https://play.google.com/store/apps/details?id=com.achep.acdisplay  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
