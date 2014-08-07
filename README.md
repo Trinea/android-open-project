@@ -543,10 +543,10 @@ Android表单验证
 项目地址：https://github.com/ragunathjawahar/android-saripaar/  
 
 1. JumpingBeans  
-一个类似Android版Google+浮动功能按钮的控件，可以响应ListView的滚动事件。当列表向上滚动的时候会自动显示，向下滚动的时候自动隐藏。    
-项目地址：https://github.com/makovkastar/FloatingActionButton    
-Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/    
-效果图：![Renderings](https://raw.githubusercontent.com/makovkastar/FloatingActionButton/master/art/demo.gif)  
+文字像 Mexican beans 一样跳动   
+项目地址：https://github.com/frakbot/JumpingBeans    
+Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbeans.demo    
+效果图：![Renderings](https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
