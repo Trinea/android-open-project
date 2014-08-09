@@ -227,11 +227,13 @@ APP示例：Path
 仿 Dribbble 的邊欄菜單   
 項目地址：https://github.com/SpecialCyCi/AndroidResideMenu    
 效果圖：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. SlidingMenu
 一個原創組件，不依賴任何第三方庫實現劃出式菜單。
 項目地址：https://github.com/yueyueniao2012/SlidingMenu
+
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
