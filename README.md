@@ -255,7 +255,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sampl
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
 Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
 效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
+
+1. SlidingMenu  
+一个原创组件，不依赖任何第三方库实现的滑动菜单。  
+项目地址：https://github.com/yueyueniao2012/SlidingMenu  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
@@ -745,6 +750,13 @@ Bootstrap 风格的按钮
 项目地址： https://github.com/Bearded-Hen/Android-Bootstrap  
 效果图：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+6. SettingView
+
+iOS7风格的设置界面控件
+项目地址：https://github.com/SkillCollege/SettingView
+效果图：![SettingView](https://github.com/SkillCollege/SettingView/blob/master/ScreenShots/Screenshot_04.png)
+
 
 #### 十六、其他     
 1. SwipeBackLayout  
@@ -1254,7 +1266,13 @@ Demo地址：https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan
     
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 十、安全  
+#### 十、二维码扫描  
+1. QrCodeScan  
+ZXing和ZBar结合的二维码扫描项目，提高了扫描效率  
+项目地址：https://github.com/SkillCollege/QrCodeScan
+项目截图：![QrCodeScan](http://www.eoeandroid.com/data/attachment/forum/201405/09/124538vteuz4leptgg1te6.png)
+
+#### 十一、安全  
 1. SQLCipher  
 Sqlite加密工具  
 项目地址：https://github.com/sqlcipher/sqlcipher  

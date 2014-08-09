@@ -221,7 +221,12 @@ Renderings: ![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-B
 The idea of ResideMenu is from Dribbble 1 and 2 likes iOS ResideMenu   
 Project Address: https://github.com/SpecialCyCi/AndroidResideMenu    
 Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
+
+1. SlidingMenu  
+This an original component demo, does not rely on any third-party lib library.  
+Project Address: https://github.com/yueyueniao2012/SlidingMenu  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 4. ViewPager Gallery  
 1. Android-ViewPagerIndicator  
