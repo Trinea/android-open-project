@@ -707,6 +707,12 @@ APP示例：Wordpress Android，Google Analytics
 文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. MPAndroidChart  
+一个简单的绘制图表和曲线图View的库，可绘制线性图、2D柱状图、饼图、散点图等。 
+项目地址：https://github.com/PhilJay/MPAndroidChart   
+Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
+效果图：![Renderings](https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67)
+
 #### 十五、UI Style  
 不同样式的系统UI风格，如IOS、Bootstrap风格
    
