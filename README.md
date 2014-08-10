@@ -255,7 +255,7 @@ Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/mas
 1. NavigationDrawerSI  
 Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单  
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
-Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
+APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
 
 #### 四、ViewPager 、Gallery  
