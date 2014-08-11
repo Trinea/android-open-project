@@ -205,7 +205,11 @@ APP示例：The New York Times，DevAppsDirect.
 项目地址：https://github.com/ManuelPeinado/GlassActionBar  
 Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 APP示例：google music  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. KitKat transparent system & navigation bar  
+全透明系统和浏览栏  
+项目地址：http://mindofaandroiddev.wordpress.com/2013/12/28/making-the-status-bar-and-navigation-bar-transparent-with-a-listview-on-android-4-4-kitkat/
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 三、Menu   
 1. MenuDrawer   
