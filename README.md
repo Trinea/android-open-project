@@ -255,14 +255,14 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sampl
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
 Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
 效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. NavigationDrawerSI  
 Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单  
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
-APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
+Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
-
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+  
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
 配合ViewPager使用的Indicator，支持各种位置和样式  
@@ -553,7 +553,6 @@ Android表单验证
 项目地址：https://github.com/frakbot/JumpingBeans    
 Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbeans.demo    
 效果图：![Renderings](https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. FancyButtons  
 一个不用图片就可以帮助我们创建出漂亮按钮的库。    
@@ -561,6 +560,7 @@ Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbea
 Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples    
 效果图：![Renderings](https://camo.githubusercontent.com/8c5800ef180f69d302237132906737bf71a52caf/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f66616e6379627574746f6e732f6d61737465722f73637265656e73686f74732f66616e63792e706e67)
 ![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
 1. Discrollview  
@@ -651,12 +651,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 屏幕底部显示取消或是确认某操作  
 项目地址：https://github.com/jenzz/Android-UndoBar  
 效果图：![Renderings](https://raw.github.com/jenzz/Android-UndoBar/master/assets/Screenshot2.png)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
+  
 1. Android-ActionItemBadge  
 可以在ActionBar的MenuItem上显示一个小角标  
 项目地址：https://github.com/mikepenz/Android-ActionItemBadge  
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/master/DEV/screenshot/screenshot1_small.png) 
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十二、FlipView  
 1. android-flip  
@@ -733,14 +733,14 @@ Demo地址：https://github.com/xcltapestry/XCL-Charts/blob/master/XCL-Charts-de
 Android 图表库，支持柱状图、分层柱状图、饼状图、线性图  
 项目地址：https://github.com/blackfizz/EazeGraph  
 Demo地址：https://play.google.com/store/apps/details?id=org.eazegraph.app  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. MPAndroidChart  
 一个简单的绘制图表和曲线图View的库，可绘制线性图、2D/3D柱状图、饼图、散点图等。 
 项目地址：https://github.com/PhilJay/MPAndroidChart   
 Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
 效果图：<img height="300px" src="https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/78b4bc4e50e151970961daf56e81c4c0db72d27c/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6261726368617274332e706e67" /><br/><img  src="https://camo.githubusercontent.com/65f51783ec05038730b481ed614b57a94e867d86/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727432642e706e67" /><br/><img src="https://camo.githubusercontent.com/f66a35bf430b12480d3e2ed8e3bc8d7a17db950f/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727433642e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/60bd0d71462ad577df775b956944b191e939728a/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f70696563686172745f686f6c657261646975735f73706163652e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/6b254aa699df7f9464967009129c3017de721b77/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f7363617474657263686172742e706e67" />
-
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+  
 #### 十五、UI Style  
 不同样式的系统UI风格，如IOS、Bootstrap风格
    
