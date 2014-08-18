@@ -548,14 +548,13 @@ Demo地址：https://github.com/makovkastar/FloatingActionButton/tree/master/
 1. Android Saripaar  
 Android表单验证  
 项目地址：https://github.com/ragunathjawahar/android-saripaar/  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
+  
 1. FancyButtons  
 一个不用图片就可以帮助我们创建出漂亮按钮的库。    
 项目地址：https://github.com/medyo/fancybuttons    
 Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples    
-效果图：![Renderings](https://camo.githubusercontent.com/8c5800ef180f69d302237132906737bf71a52caf/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f66616e6379627574746f6e732f6d61737465722f73637265656e73686f74732f66616e63792e706e67)
-![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)
+效果图：![Renderings](https://camo.githubusercontent.com/8c5800ef180f69d302237132906737bf71a52caf/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f66616e6379627574746f6e732f6d61737465722f73637265656e73686f74732f66616e63792e706e67)![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 九、ScrollView  
 1. Discrollview  
