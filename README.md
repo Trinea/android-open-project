@@ -249,14 +249,14 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ptr.folding.sampl
 一个可定制的圆形的浮动菜单控件，类似于Path的圆形菜单。这个控件的可定制性更强，可以很容易的定制菜单出现消失时的动画，起始角度和半径。  
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
 Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
-效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)
 
 1. NavigationDrawerSI  
 Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单  
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
-效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
+效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" />   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
