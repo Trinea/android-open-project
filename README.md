@@ -359,7 +359,13 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 1. TwoWayGridView  
 可横向滚动的GridView  
 项目地址：https://github.com/jess-anders/two-way-gridview  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. AsymmetricGridView
+一个支持跨行和跨列可变Item大小的GridView  
+项目地址：https://github.com/felipecsl/AsymmetricGridView   
+Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
+效果图：![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 六、ImageView  
 1. PhotoView  
