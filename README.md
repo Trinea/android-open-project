@@ -1,7 +1,7 @@
 Android开源项目分类汇总
 ====================
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
-> 欢迎加入 QQ 交流群：383537512(入群理由需要填写群介绍问题答案)  377723625(一群已满)
+> 欢迎加入 QQ 交流群：63224677(入群理由必须填写群介绍问题答案) 377723625(一群已满) 383537512(二群已满)  
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 
