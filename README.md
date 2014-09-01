@@ -1536,6 +1536,10 @@ Google的基于java1.6的类库集合的扩展项目，包括collections, cachin
 项目地址：https://code.google.com/p/guava-libraries/  
 文档介绍：https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
 
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
+
 1. AndroidCommon  
 Android公共库  
 项目地址：https://github.com/Trinea/AndroidCommon  
