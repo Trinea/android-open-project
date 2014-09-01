@@ -1037,6 +1037,10 @@ Google提供的网络通信库，使得网络请求更简单、更快速
 Github地址：https://github.com/mcxiaoke/android-volley    
 文档地址：http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%20Volley-%20Easy,%20Fast%20Networking%20for%20Android.pdf  
 
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
+
 1. AndroidCommon  
 Android公共库  
 项目地址：https://github.com/Trinea/AndroidCommon  
