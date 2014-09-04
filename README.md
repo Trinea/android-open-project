@@ -260,6 +260,7 @@ Demo地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/mas
 1. NavigationDrawerSI  
 Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单  
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
+APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -365,6 +366,12 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 1. TwoWayGridView  
 可横向滚动的GridView  
 项目地址：https://github.com/jess-anders/two-way-gridview  
+
+1. AsymmetricGridView
+一个支持跨行和跨列可变Item大小的GridView  
+项目地址：https://github.com/felipecsl/AsymmetricGridView   
+Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
+效果图：![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -560,7 +567,14 @@ Demo地址：http://play.google.com/store/apps/details?id=net.frakbot.jumpingbea
 项目地址：https://github.com/medyo/fancybuttons    
 Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples    
 效果图：![Renderings](https://camo.githubusercontent.com/8c5800ef180f69d302237132906737bf71a52caf/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f66616e6379627574746f6e732f6d61737465722f73637265656e73686f74732f66616e63792e706e67)
-![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)
+![Renderings](https://raw.githubusercontent.com/medyo/fancybuttons/master/screenshots/fancy2.png)  
+
+1. Android-RobotoTextView
+一个实现了所有Roboto字体的TextView，包括新出的Roboto Slab字体。    
+项目地址：https://github.com/johnkil/Android-RobotoTextView    
+Demo地址：http://play.google.com/store/apps/details?id=com.devspark.robototextview    
+Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robototextview-sample    
+效果图：<img height="400px" src="https://camo.githubusercontent.com/f058c810055e1ff12fa995346059ad399d9c0f95/687474703a2f2f6934362e74696e797069632e636f6d2f6239646736392e706e67" /><br/>
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
