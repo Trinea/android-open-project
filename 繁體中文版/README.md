@@ -1413,6 +1413,11 @@ dagger的intellij插件
 1. Android Gen Drawable Maven plugin  
 在編譯時根據SVG描述文件生成不同分辨率的jpg、png或點9圖片  
 項目地址：https://github.com/avianey/androidgendrawable-maven-plugin  
+
+1. jsonschema2pojo  
+根據Json內容生成java對象，支持jackjson和gson。  
+項目地址：https://github.com/joelittlejohn/jsonschema2pojo  
+在線演示：http://www.jsonschema2pojo.org/   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、開發自測相關  

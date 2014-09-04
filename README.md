@@ -1622,6 +1622,11 @@ dagger的intellij插件
 各种Android资源自动生成器，包括启动图标、ActionBar图标、通知栏图标、点9等  
 项目地址：https://github.com/romannurik/AndroidAssetStudio  
 在线演示：http://romannurik.github.io/AndroidAssetStudio/  
+
+1. jsonschema2pojo  
+根据Json内容生成java对象，支持jackjson和gson。  
+项目地址：https://github.com/joelittlejohn/jsonschema2pojo  
+在线演示：http://www.jsonschema2pojo.org/   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
