@@ -883,8 +883,8 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 使ExpandListView的Group滑动到顶端时会固定不动直到另外一个Group到达顶端  
 项目地址：https://github.com/rtyley/android-pinned-header-listviews  
 
-1. AndroidSwipeLayout
-最强大的Swipe Layout，支持单个View,ListView,GridView。    
+1. AndroidSwipeLayout  
+滑动Layout，支持单个View，ListView，GridView      
 项目地址：https://github.com/daimajia/AndroidSwipeLayout    
 Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)    
 效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif)    
