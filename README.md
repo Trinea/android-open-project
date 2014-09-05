@@ -955,6 +955,12 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (6)可根据系统配置初始化缓存等  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Cube ImageLoader
+阿里巴巴一淘使用的图片加载，综合了Android-Universal-Image-Loader 和 square 等组件有点，简单易用，良好的中文文档支持。
+项目地址：https://github.com/etao-open-source/cube-sdk
+Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk
+文档介绍：http://cube-sdk.liaohuqiu.net/
+
 #### 三、网络相关  
 1. Asynchronous Http Client for Android  
 Android异步Http请求  
