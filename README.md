@@ -785,13 +785,6 @@ Bootstrap 风格的按钮
 效果图：![Renderings](https://raw.github.com/Bearded-Hen/Android-Bootstrap/master/images/device_image.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-6. SettingView
-
-iOS7风格的设置界面控件
-项目地址：https://github.com/SkillCollege/SettingView
-效果图：![SettingView](https://github.com/SkillCollege/SettingView/blob/master/ScreenShots/Screenshot_04.png)
-
-
 #### 十六、其他     
 1. SwipeBackLayout  
 左右或向上滑动返回的Activity  
@@ -953,13 +946,13 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (4)可方便的保存及初始化恢复数据  
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-1. Cube ImageLoader
-阿里巴巴一淘使用的图片加载，综合了Android-Universal-Image-Loader 和 square 等组件有点，简单易用，良好的中文文档支持。
-项目地址：https://github.com/etao-open-source/cube-sdk
-Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk
-文档介绍：http://cube-sdk.liaohuqiu.net/
+1. Cube ImageLoader  
+阿里巴巴一淘使用的图片加载，综合了Android-Universal-Image-Loader 和 square 等组件有点，简单易用，良好的中文文档支持  
+项目地址：https://github.com/etao-open-source/cube-sdk  
+Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+文档介绍：http://cube-sdk.liaohuqiu.net/  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、网络相关  
 1. Asynchronous Http Client for Android  
