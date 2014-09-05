@@ -575,6 +575,14 @@ Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples
 Demo地址：http://play.google.com/store/apps/details?id=com.devspark.robototextview    
 Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robototextview-sample    
 效果图：<img height="400px" src="https://camo.githubusercontent.com/f058c810055e1ff12fa995346059ad399d9c0f95/687474703a2f2f6934362e74696e797069632e636f6d2f6239646736392e706e67" /><br/>
+
+
+1. Android-WizardPager
+一个表单向导库
+项目地址：https://github.com/romannurik/android-wizardpager
+Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield
+效果图：<img height="400px" src="https://camo.githubusercontent.com/685a1eee3b9b7eb6a0409061031654ea7d6b0b17/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d664944555a3074514373632f554a4e4c6a6e504c5447492f41414141414141416f4f382f784b63654f61746c6a50302f773431332d683638392d6e6f2f322e706e67" /><br/>
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
