@@ -1303,14 +1303,7 @@ Demo地址：https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan
 1. farebot   
 通过NFC 从公交卡中读取数据的一个应用   
 项目地址：https://github.com/codebutler/farebot     
-    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
-#### 十、二维码扫描  
-1. QrCodeScan  
-ZXing和ZBar结合的二维码扫描项目，提高了扫描效率  
-项目地址：https://github.com/SkillCollege/QrCodeScan
-项目截图：![QrCodeScan](http://www.eoeandroid.com/data/attachment/forum/201405/09/124538vteuz4leptgg1te6.png)
 
 #### 十一、安全  
 1. SQLCipher  
@@ -1498,7 +1491,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.github.androidsoc
 1. AcDisplay  
 将 Android 的通知都集中到锁屏显示  
 项目地址：https://github.com/AChep/AcDisplay  
-Demo地址：https://play.google.com/store/apps/details?id=com.achep.acdisplay  
+Demo地址：https://play.google.com/store/apps/details?id=com.achep.acdisplay 
+ 
+1. QrCodeScan  
+ZXing和ZBar结合的二维码扫描项目，提高了扫描效率  
+项目地址：https://github.com/SkillCollege/QrCodeScan  
+项目截图：![QrCodeScan](http://www.eoeandroid.com/data/attachment/forum/201405/09/124538vteuz4leptgg1te6.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
