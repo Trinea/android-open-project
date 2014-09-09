@@ -1499,6 +1499,11 @@ ZXing和ZBar结合的二维码扫描项目，提高了扫描效率
 项目截图：![QrCodeScan](http://www.eoeandroid.com/data/attachment/forum/201405/09/124538vteuz4leptgg1te6.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Android-ScreenShot 
+实现android系统截屏功能 
+项目地址：https://github.com/Android-ScreenShot/AndroidScreenShotService 
+教程地址：http://blog.csdn.net/buptgshengod/article/details/39155979 
+
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
