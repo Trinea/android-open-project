@@ -574,7 +574,14 @@ Demo地址：https://github.com/medyo/fancybuttons/tree/master/samples
 项目地址：https://github.com/johnkil/Android-RobotoTextView    
 Demo地址：http://play.google.com/store/apps/details?id=com.devspark.robototextview    
 Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robototextview-sample    
-效果图：<img height="400px" src="https://camo.githubusercontent.com/f058c810055e1ff12fa995346059ad399d9c0f95/687474703a2f2f6934362e74696e797069632e636f6d2f6239646736392e706e67" /><br/>
+效果图：<img height="400px" src="https://camo.githubusercontent.com/f058c810055e1ff12fa995346059ad399d9c0f95/687474703a2f2f6934362e74696e797069632e636f6d2f6239646736392e706e67" />
+
+1. RippleView
+一个实现了Android L上才引入的点击按钮后出现水波纹效果的按钮。    
+项目地址：https://github.com/siriscac/RippleView       
+Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExample    
+效果图：![Renderings](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)
+<br/>
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
