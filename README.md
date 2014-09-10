@@ -159,10 +159,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)   
 
 1. SwipeMenuListView  
-针对ListView item的侧滑菜单
-项目地址：https://github.com/baoyongzhang/SwipeMenuListView
-效果展示：![Renderings](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)   
-APP示例：手机QQV5.0
+针对ListView item的侧滑菜单  
+项目地址：https://github.com/baoyongzhang/SwipeMenuListView  
+效果展示：![Renderings](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)    
+APP示例：手机QQV5.0  
 
 1. PullToZoomInListView  
 滑动ListView时使其HeaderView跟随滑动缩放  
@@ -283,6 +283,11 @@ APP示例：太多了。。
 项目地址：https://github.com/jfeinstein10/JazzyViewPager  
 Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
+   
+1. JellyViewPager   
+特殊切换动画的ViewPager   
+项目地址：https://github.com/chiemy/JellyViewPager   
+效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)   
    
 1. Android-DirectionalViewPager  
 支持横向和纵向(垂直)的ViewPager  
