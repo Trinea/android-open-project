@@ -272,7 +272,12 @@ Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 APP示例：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
-效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
+效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" />  
+
+1. DragLayout  
+使用support.v4包下的ViewDragHelper实现QQ5.0侧滑  
+项目地址：https://github.com/BlueMor/DragLayout    
+效果图：![Renderings](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 四、ViewPager 、Gallery  
@@ -600,6 +605,12 @@ Demo项目：https://github.com/johnkil/Android-RobotoTextView/tree/master/robot
 项目地址：https://github.com/romannurik/android-wizardpager  
 Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield  
 效果图：<img height="400px" src="https://camo.githubusercontent.com/685a1eee3b9b7eb6a0409061031654ea7d6b0b17/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d664944555a3074514373632f554a4e4c6a6e504c5447492f41414141414141416f4f382f784b63654f61746c6a50302f773431332d683638392d6e6f2f322e706e67" />  
+ 
+1. RippleView  
+一个实现了 Android L上才引入的点击按钮后出现水波纹效果的按钮  
+项目地址：https://github.com/siriscac/RippleView  
+Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExample  
+效果图：![Renderings](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
