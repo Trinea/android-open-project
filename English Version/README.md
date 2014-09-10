@@ -1190,6 +1190,12 @@ Project Address: http://www.appiconsizes.com/
 1. Gradle Retrolambda Plugin  
 This plugin will automatically build your java or android project with [Retrolambda](https://github.com/orfjackal/retrolambda), giving you lambda goodness on java 6 or 7. It relies on the wonderful retrolambda by Esko Luontola.  
 Project Address: https://github.com/evant/gradle-retrolambda  
+
+1. jsonschema2pojo  
+Generates Java types from JSON Schema (or example JSON) and annotates those types for data-binding with Jackson 1.x or 2.x, Gson.  
+Project Address: https://github.com/joelittlejohn/jsonschema2pojo  
+Online Demo: http://www.jsonschema2pojo.org/  
+
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Develop self-test related  
