@@ -157,13 +157,17 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 项目地址：https://github.com/jpardogo/ListBuddies   
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)   
-
+   
 1. SwipeMenuListView  
 针对ListView item的侧滑菜单  
 项目地址：https://github.com/baoyongzhang/SwipeMenuListView  
 效果展示：![Renderings](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)    
 APP示例：手机QQV5.0  
-
+   
+1. PagingListView   
+分页加载的ListView。当滑动到ListView底部最后一个元素时，显示一个进度行，然后加载下一页数据，并显示。  
+项目地址：https://github.com/nicolasjafelle/PagingListView  
+   
 1. PullToZoomInListView  
 滑动ListView时使其HeaderView跟随滑动缩放  
 项目地址：https://github.com/matrixxun/PullToZoomInListView    
@@ -378,7 +382,11 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 可横向滚动的GridView  
 项目地址：https://github.com/jess-anders/two-way-gridview  
 
-1. AsymmetricGridView
+1. PagingGridView   
+分页加载的GridView。当滑动到GridView底部最后一个行时，显示一个进度行，然后加载下一页数据，并显示。  
+项目地址：https://github.com/nicolasjafelle/PagingGridView     
+   
+1. AsymmetricGridView   
 一个支持跨行和跨列可变Item大小的GridView  
 项目地址：https://github.com/felipecsl/AsymmetricGridView   
 Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
