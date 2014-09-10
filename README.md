@@ -158,6 +158,12 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)   
 
+1. SwipeMenuListView  
+针对ListView item的侧滑菜单
+项目地址：https://github.com/baoyongzhang/SwipeMenuListView
+效果展示：![Renderings](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)   
+APP示例：手机QQV5.0
+
 1. PullToZoomInListView  
 滑动ListView时使其HeaderView跟随滑动缩放  
 项目地址：https://github.com/matrixxun/PullToZoomInListView    
