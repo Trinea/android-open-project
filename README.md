@@ -445,7 +445,7 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 项目地址：https://github.com/MostafaGazar/CustomShapeImageView     
 效果图：![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
 
-1. android-shape-imageview    
+1. Shape Image View   
 可以自定义各种形状的ImageView, 并且支持边框    
 项目地址：https://github.com/siyamed/android-shape-imageview     
 效果图：<img height="500px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/shader-buble.png" /><img height="500px" src="https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png"/>   
@@ -1808,6 +1808,10 @@ Android模拟器 jenkins插件，用于Jenkins做持续集成时跑模拟器测�
 1. Gradle Protobuf Plugin  
 将.proto文件转换成Java文件的gradle插件  
 项目地址：https://github.com/andrewkroh/gradle-protobuf-plugin  
+
+1. ChromeADB  
+Chrome 的 Adb 插件，当登录后，能看到所有连接的设备并操作，可以看应用、进程、内存及磁盘使用情况等  
+项目地址：https://github.com/importre/chromeadb   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 五、其他  
