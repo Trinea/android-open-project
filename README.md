@@ -612,6 +612,12 @@ Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield
 项目地址：https://github.com/siriscac/RippleView  
 Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExample  
 效果图：![Renderings](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)   
+ 
+1. Android Floating Label Widgets  
+包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
+项目地址：https://github.com/marvinlabs/android-floatinglabel-widgets  
+Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget.floatinglabel.demo  
+在线演示：http://www.youtube.com/watch?v=hpZD9gJcRg0&feature=youtu.be   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
