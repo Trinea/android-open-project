@@ -308,6 +308,12 @@ Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVie
 无限循环的ViewPager   
 项目地址：https://github.com/imbryk/LoopingViewPager   
    
+1. android_page_curl   
+翻书卷曲效果   
+项目地址：https://github.com/harism/android_page_curl   
+在线演示：https://www.youtube.com/watch?v=iwu7P5PCpsw   
+APP示例：iReader
+  
 1. Android-DirectionalViewPager  
 支持横向和纵向(垂直)的ViewPager  
 项目地址：https://github.com/JakeWharton/Android-DirectionalViewPager  
@@ -1429,6 +1435,10 @@ Android插件式开发，开放的源码目前不完整
 1. purePDF  
 允许从任何运行的SWF文件读取和创建PDF文档  
 项目地址：https://github.com/sephiroth74/purePDF  
+  
+1. android-pdfview  
+快速解析pdf的view，默认支持手势缩放和相关动画  
+项目地址：https://github.com/JoanZapata/android-pdfview  
   
 1. Office 365 SDK for Android Preview  
 可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
