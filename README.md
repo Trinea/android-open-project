@@ -299,6 +299,10 @@ Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVie
 项目地址：https://github.com/chiemy/JellyViewPager   
 效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)   
    
+1. LoopingViewPager   
+无限循环的ViewPager   
+项目地址：https://github.com/imbryk/LoopingViewPager   
+   
 1. Android-DirectionalViewPager  
 支持横向和纵向(垂直)的ViewPager  
 项目地址：https://github.com/JakeWharton/Android-DirectionalViewPager  
@@ -870,6 +874,10 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 项目地址：https://github.com/ophilbert/ActivityTransition  
 使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果图：类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
+   
+1. EasyAndroidAnimations  
+针对View的各种动画   
+项目地址：https://github.com/2359media/EasyAndroidAnimations   
    
 1. GlowPadBackport  
 将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
