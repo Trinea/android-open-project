@@ -169,6 +169,11 @@ APP示例：手机QQV5.0
 分页加载的ListView。当滑动到ListView底部最后一个元素时，显示一个进度行，然后加载下一页数据，并显示。  
 项目地址：https://github.com/nicolasjafelle/PagingListView  
    
+1. PullZoomView  
+支持下拉时HeaderView缩放的ListView、ScrollView   
+项目地址：https://github.com/Frank-Zhu/PullZoomView    
+效果展示：![Renderings](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)  
+   
 1. PullToZoomInListView  
 滑动ListView时使其HeaderView跟随滑动缩放  
 项目地址：https://github.com/matrixxun/PullToZoomInListView    
@@ -902,10 +907,15 @@ APP示例：Android开机的图案密码解锁，支付宝的密码解锁
 项目地址：https://github.com/edmodo/range-bar  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
 效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
-
+  
 1. ChromeView  
 利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
 项目地址：https://github.com/pwnall/chromeview  
+  
+1. android-phased-seek-bar  
+支持预先定义状态的SeekBar    
+项目地址：https://github.com/ademar111190/android-phased-seek-bar  
+效果图: ![Renderings](https://raw.githubusercontent.com/ademar111190/android-phased-seek-bar/master/images/sample.gif)  
    
 1. Android Slider Preference Library  
 可添加到设置中的基于对话框的RankBar小部件  
