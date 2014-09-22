@@ -1403,7 +1403,8 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、插件化  
-更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/)  
+更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/) 
+  
 1. dynamic-load-apk  
 Android动态加载Apk，热部署。支持一定程度不安装升级  
 项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
