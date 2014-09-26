@@ -172,6 +172,11 @@ APP示例：手机QQV5.0
 分页加载的ListView。当滑动到ListView底部最后一个元素时，显示一个进度行，然后加载下一页数据，并显示。  
 项目地址：https://github.com/nicolasjafelle/PagingListView  
    
+1. PullZoomView  
+支持下拉时HeaderView缩放的ListView、ScrollView   
+项目地址：https://github.com/Frank-Zhu/PullZoomView    
+效果展示：![Renderings](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)  
+   
 1. PullToZoomInListView  
 滑动ListView时使其HeaderView跟随滑动缩放  
 项目地址：https://github.com/matrixxun/PullToZoomInListView    
@@ -308,6 +313,16 @@ Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVie
 项目地址：https://github.com/chiemy/JellyViewPager   
 效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)   
    
+1. LoopingViewPager   
+无限循环的ViewPager   
+项目地址：https://github.com/imbryk/LoopingViewPager   
+   
+1. android_page_curl   
+翻书卷曲效果   
+项目地址：https://github.com/harism/android_page_curl   
+在线演示：https://www.youtube.com/watch?v=iwu7P5PCpsw   
+APP示例：iReader
+  
 1. Android-DirectionalViewPager  
 支持横向和纵向(垂直)的ViewPager  
 项目地址：https://github.com/JakeWharton/Android-DirectionalViewPager  
@@ -880,6 +895,10 @@ Activity切换动画，包括渐变、flip、某个位置进入等等
 使用介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 效果图：类似桌面左右切换的各种效果，不过桌面并非用ViewPager实现而已  
    
+1. EasyAndroidAnimations  
+针对View的各种动画   
+项目地址：https://github.com/2359media/EasyAndroidAnimations   
+   
 1. GlowPadBackport  
 将Android4.2的锁屏界面解锁扩展到Android1.6及1.6+  
 项目地址：https://github.com/rock3r/GlowPadBackport  
@@ -903,10 +922,15 @@ APP示例：Android开机的图案密码解锁，支付宝的密码解锁
 项目地址：https://github.com/edmodo/range-bar  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
 效果图: ![Renderings](http://i.imgur.com/q85GhRjl.png)  
-
+  
 1. ChromeView  
 利用Chromium实现的WebView，解决各个Android版本WebView不同的问题，同时利用最新Chrome代码    
 项目地址：https://github.com/pwnall/chromeview  
+  
+1. android-phased-seek-bar  
+支持预先定义状态的SeekBar    
+项目地址：https://github.com/ademar111190/android-phased-seek-bar  
+效果图: ![Renderings](https://raw.githubusercontent.com/ademar111190/android-phased-seek-bar/master/images/sample.gif)  
    
 1. Android Slider Preference Library  
 可添加到设置中的基于对话框的RankBar小部件  
@@ -1426,6 +1450,10 @@ Android插件式开发，开放的源码目前不完整
 1. purePDF  
 允许从任何运行的SWF文件读取和创建PDF文档  
 项目地址：https://github.com/sephiroth74/purePDF  
+  
+1. android-pdfview  
+快速解析pdf的view，默认支持手势缩放和相关动画  
+项目地址：https://github.com/JoanZapata/android-pdfview  
   
 1. Office 365 SDK for Android Preview  
 可支持Microsoft SharePoint Lists, Microsoft SharePoint Files, Microsoft Exchange Calendar, Microsoft Exchange Contacts, Microsoft Exchange Mail  
