@@ -311,17 +311,7 @@ Demo地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVie
 1. JellyViewPager   
 特殊切换动画的ViewPager   
 项目地址：https://github.com/chiemy/JellyViewPager   
-效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)   
-   
-1. LoopingViewPager   
-无限循环的ViewPager   
-项目地址：https://github.com/imbryk/LoopingViewPager   
-   
-1. android_page_curl   
-翻书卷曲效果   
-项目地址：https://github.com/harism/android_page_curl   
-在线演示：https://www.youtube.com/watch?v=iwu7P5PCpsw   
-APP示例：iReader
+效果图：![Renderings](https://github.com/chiemy/JellyViewPager/raw/master/capture.gif)  
   
 1. Android-DirectionalViewPager  
 支持横向和纵向(垂直)的ViewPager  
@@ -369,6 +359,16 @@ ViewPager3D效果
 仿网易云音乐标签切换的动画,带透明小三角  
 项目地址: https://github.com/wuyexiong/transparent-over-animtabsview  
 在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
+
+1. LoopingViewPager   
+无限循环的ViewPager   
+项目地址：https://github.com/imbryk/LoopingViewPager   
+   
+1. android_page_curl   
+翻书卷曲效果   
+项目地址：https://github.com/harism/android_page_curl   
+在线演示：https://www.youtube.com/watch?v=iwu7P5PCpsw   
+APP示例：iReader  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 五、GridView  
@@ -1570,6 +1570,10 @@ Activity跳转动画，支持各个方向波浪的效果
 社交网络接入统一管理器，可方便的从Twitter, LinkedIn, Facebook, Google Plus登陆、获得个人信息、发送消息、发送专篇、添加或删除好友  
 项目地址：https://github.com/antonkrasov/AndroidSocialNetworks  
 Demo地址：https://play.google.com/store/apps/details?id=com.github.androidsocialnetworks.apidemos  
+
+1. SmartAppUpdates  
+Android App 增量升级，包含前后端方案、Demo、以及 so 库，可用于商店或大体积 App 差分升级  
+项目地址：https://github.com/cundong/SmartAppUpdates  
 
 1. Magnet  
 创建类似 Facebook 聊天桌面悬浮窗的效果  
