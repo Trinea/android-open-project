@@ -9,4 +9,8 @@ https://github.com/imbryk/LoopingViewPager 无线循环的 ViewPager，支持 In
 https://github.com/siyamed/android-shape-imageview 不同形状的 ImageView  
 https://github.com/2359media/EasyAndroidAnimations Android 动画库  
 https://github.com/Mariuxtheone/Teleport Android Wear 数据传输库  
-https://github.com/JoanZapata/android-pdfview Android pdf 阅读插件，支持动画、手势、缩放  
+https://github.com/JoanZapata/android-pdfview Android pdf 阅读插件，支持动画、手势、缩放 
+https://github.com/casidiablo/multidex  
+https://github.com/SalomonBrys/ANR-WatchDog  
+https://github.com/gcacace/android-signaturepad  
+https://github.com/cundong/SmartAppUpdates  
