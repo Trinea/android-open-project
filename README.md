@@ -1430,12 +1430,17 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/) 
   
 1. dynamic-load-apk  
-Android动态加载Apk，热部署。支持一定程度不安装升级  
+Android 动态加载Apk，热部署，利用 ClassLoader 以及 Activity 代理的方式解决  
 项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
 文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
+  
+1. Android Dynamic Loader  
+点评的实现方式，和上面不同的是：他不是用代理 Activity 的方式实现而是用 Fragment 以及 Schema 的方式实现  
+项目地址：https://github.com/mmin18/AndroidDynamicLoader  
+Demo地址：https://github.com/mmin18/AndroidDynamicLoader/raw/master/host.apk  
 
 1. xCombine  
-Android App插件式插件开发，插件必须先安装  
+Android App插件式插件开发，插件必须先安装，更推荐看上面两个开源项目  
 项目地址：https://github.com/wyouflf/xCombine  
 文档介绍：http://my.oschina.net/u/1171837/blog/155377  
 
