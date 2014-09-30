@@ -973,6 +973,11 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 项目地址：https://github.com/chiragjain/Emoticons-Keyboard    
 效果图: ![Renderings](https://github.com/chiragjain/Emoticons-Keyboard/raw/master/s2.png)
 
+1. Android Typeface Helper  
+可以帮你轻松实现自定义字体的库      
+项目地址：https://github.com/norbsoft/android-typeface-helper    
+效果图: ![Renderings](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
