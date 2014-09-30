@@ -534,7 +534,7 @@ Android Wheel支持城市、多种日期时间、密码、图片
 
 1. android-week-view<br/>
 周，天日历<br/>
-项目地址: https://github.com/alamkanak/Android-Week-View?utm_source=Android+Weekly&utm_campaign=e3d026ef37-Android_Weekly_121&utm_medium=email&utm_term=0_4eb677ad19-e3d026ef37-337846769
+项目地址: https://github.com/alamkanak/Android-Week-View
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、TipView  
