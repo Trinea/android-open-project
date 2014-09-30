@@ -664,6 +664,11 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度    
 项目地址：https://github.com/chrisjenx/ParallaxScrollView    
 Demo地址：http://cloud.github.com/downloads/chrisjenx/ParallaxScrollView/ParallaxScrollViewDemo-v1.0.5.apk     
+
+1. AKParallax-Android  
+支持视差滚动的ScrollView    
+项目地址：https://github.com/ideaismobile/AKParallax-Android    
+Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax_sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 十、TimeView  
