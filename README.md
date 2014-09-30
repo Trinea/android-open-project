@@ -961,7 +961,12 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 滑动Layout，支持单个View，ListView，GridView      
 项目地址：https://github.com/daimajia/AndroidSwipeLayout    
 Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)    
-效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif)    
+效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif)   
+
+1. DynamicCardLayout  
+在Android中实现的类似Windows8的瓷片布局      
+项目地址：https://github.com/dodola/DynamicCardLayout
+效果图: ![Renderings](https://github.com/dodola/DynamicCardLayout/blob/master/pic1.png?raw=true)  
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
