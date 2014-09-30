@@ -963,10 +963,10 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)    
 效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif) 
 
-1. Android-Anim-Playground
+1. Android-Anim-Playground  
 几个动画效果，其中第二个基于android-svg的绘制效果非常好
-项目地址：https://github.com/Tibolte/Android-Anim-Playground
-效果图：![](http://raw.githubusercontent.com/Tibolte/Android-Anim-Playground/master/androiddemosvg.gif）
+项目地址：https://github.com/Tibolte/Android-Anim-Playground    
+效果图: ![](http://raw.githubusercontent.com/Tibolte/Android-Anim-Playground/master/androiddemosvg.gif) 
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
