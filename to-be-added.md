@@ -9,3 +9,5 @@ https://github.com/Mariuxtheone/Teleport Android Wear 数据传输库
 https://github.com/casidiablo/multidex  
 https://github.com/SalomonBrys/ANR-WatchDog  
 https://github.com/gcacace/android-signaturepad  
+https://github.com/castorflex/SmoothProgressBar  
+https://github.com/chiragjain/Emoticons-Keyboard  
