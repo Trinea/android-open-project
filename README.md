@@ -139,6 +139,10 @@ Demo地址：https://play.google.com/store/apps/details?id=de.timroes.android.li
 项目地址：https://github.com/jpardogo/ListBuddies   
 Demo地址：https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 效果展示：![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
+
+1. sticky-headers-recyclerview
+GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现
+项目地址: https://github.com/timehop/sticky-headers-recyclerview
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 #### 二、ActionBar  
