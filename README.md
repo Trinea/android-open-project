@@ -189,7 +189,7 @@ APP示例：手机QQV5.0
 
 1. sticky-headers-recyclerview  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现  
-项目地址: https://github.com/timehop/sticky-headers-recyclerview  
+项目地址： https://github.com/timehop/sticky-headers-recyclerview  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
@@ -360,7 +360,7 @@ ViewPager3D效果
 
 1. AnimaTabsview  
 仿网易云音乐标签切换的动画,带透明小三角  
-项目地址: https://github.com/wuyexiong/transparent-over-animtabsview  
+项目地址： https://github.com/wuyexiong/transparent-over-animtabsview  
 在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
 
 1. LoopingViewPager   
@@ -516,7 +516,7 @@ APP示例：Android4.1时钟App
 1. TH-ProgressButton  
 带圆形进度显示的按钮   
 项目地址；https://github.com/torryharris/TH-ProgressButton    
-效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
+效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)  ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  
   
 1. NumberProgressBar  
 带数字进度的进度条     
@@ -709,16 +709,10 @@ Demo地址：https://raw.github.com/biboune/datetimepicker/master/datetimepicker
 项目地址：https://github.com/derekbrameyer/android-betterpickers  
 Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.betterpickers.sample
 效果图：![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
-
   
-1. GoogleDateTimePickers  
-时间选择部件   
-项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers   
-文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
-
-1. android-week-view  
-周，天日历  
-项目地址: https://github.com/alamkanak/Android-Week-View  
+1. Android Week View  
+日期控件，支持周，天视图，支持自定义样式  
+项目地址：https://github.com/alamkanak/Android-Week-View  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、TipView  
@@ -994,9 +988,7 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 1. Android Typeface Helper  
 可以帮你轻松实现自定义字体的库      
 项目地址：https://github.com/norbsoft/android-typeface-helper    
-效果图: ![Renderings](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)
-=======
-效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif) 
+效果图: ![Renderings](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)  
 
 1. Android-Anim-Playground  
 几个动画效果，其中第二个基于android-svg的绘制效果非常好    
