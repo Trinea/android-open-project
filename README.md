@@ -187,6 +187,9 @@ APP示例：手机QQV5.0
 项目地址：https://github.com/traex/CalendarListview    
 效果展示：![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)
 
+1. sticky-headers-recyclerview  
+GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现  
+项目地址: https://github.com/timehop/sticky-headers-recyclerview  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
@@ -513,7 +516,7 @@ APP示例：Android4.1时钟App
 1. TH-ProgressButton  
 带圆形进度显示的按钮   
 项目地址；https://github.com/torryharris/TH-ProgressButton    
-效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
+效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
   
 1. NumberProgressBar  
 带数字进度的进度条     
@@ -706,6 +709,16 @@ Demo地址：https://raw.github.com/biboune/datetimepicker/master/datetimepicker
 项目地址：https://github.com/derekbrameyer/android-betterpickers  
 Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.betterpickers.sample
 效果图：![Renderings](https://camo.githubusercontent.com/897ae3c71b49c4366565f3480719647687b1804a/68747470733a2f2f7261772e6769746875622e636f6d2f646572656b6272616d657965722f616e64726f69642d6265747465727069636b6572732f6d61737465722f73616d706c652f696d61676572792f7765625f666561747572655f677261706869632e706e67)  
+
+  
+1. GoogleDateTimePickers  
+时间选择部件   
+项目地址：https://github.com/Mirkoddd/GoogleDateTimePickers   
+文档地址：https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
+
+1. android-week-view  
+周，天日历  
+项目地址: https://github.com/alamkanak/Android-Week-View  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、TipView  
