@@ -994,6 +994,12 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 几个动画效果，其中第二个基于android-svg的绘制效果非常好    
 项目地址：https://github.com/Tibolte/Android-Anim-Playground    
 效果图: ![](https://raw.githubusercontent.com/Tibolte/Android-Anim-Playground/master/androiddemosvg.gif)  
+
+1. NiftyDialogEffects  
+支持自定义飞入动画样式的 Dialog  
+项目地址：https://github.com/sd6352051/NiftyDialogEffects  
+效果图: ![Renderings](https://camo.githubusercontent.com/456687ac516bb07f1076928d635bfddf6b90d5ec/687474703a2f2f696d67302e70682e3132362e6e65742f69433436653162586b55316631724966555a6f3939773d3d2f363539373632303632313938343031393430382e676966)  
+在线演示：http://tympanus.net/Development/ModalWindowEffects/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
