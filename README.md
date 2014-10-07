@@ -664,6 +664,11 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度    
 项目地址：https://github.com/chrisjenx/ParallaxScrollView    
 Demo地址：http://cloud.github.com/downloads/chrisjenx/ParallaxScrollView/ParallaxScrollViewDemo-v1.0.5.apk     
+
+1. AKParallax-Android  
+支持视差滚动的ScrollView    
+项目地址：https://github.com/ideaismobile/AKParallax-Android    
+Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax_sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 十、TimeView  
@@ -961,7 +966,22 @@ Demo地址：https://play.google.com/store/apps/details?id=info.hoang8f.fbutton.
 滑动Layout，支持单个View，ListView，GridView      
 项目地址：https://github.com/daimajia/AndroidSwipeLayout    
 Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/releases/download/v1.0.0/AndroidSwipeLayout-Demo-1.0.1-snapshot.apk)    
-效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif)    
+效果图: ![](http://ww2.sinaimg.cn/mw690/610dc034jw1ejoplapwtqg208n0e74dx.gif)   
+
+1. DynamicCardLayout  
+在Android中实现的类似Windows8的瓷片布局      
+项目地址：https://github.com/dodola/DynamicCardLayout    
+效果图: ![Renderings](https://github.com/dodola/DynamicCardLayout/blob/master/pic1.png?raw=true) 
+
+1. Emoticons-Keyboard  
+带表情情符号的自定义键盘      
+项目地址：https://github.com/chiragjain/Emoticons-Keyboard    
+效果图: ![Renderings](https://github.com/chiragjain/Emoticons-Keyboard/raw/master/s2.png)
+
+1. Android Typeface Helper  
+可以帮你轻松实现自定义字体的库      
+项目地址：https://github.com/norbsoft/android-typeface-helper    
+效果图: ![Renderings](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
