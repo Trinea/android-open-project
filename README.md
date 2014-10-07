@@ -814,7 +814,6 @@ APP示例：Wordpress Android，Google Analytics
 1. GraphView  
 绘制图表和曲线图的View，可用于Android上的曲形图、柱状图、波浪图展示  
 项目地址：https://github.com/jjoe64/GraphView  
-Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
 Demo项目：https://github.com/jjoe64/GraphView-Demos  
 APP示例：Wordpress Android，Google Analytics  
   
@@ -835,8 +834,9 @@ Demo地址：https://play.google.com/store/apps/details?id=org.eazegraph.app
 
 1. MPAndroidChart  
 一个简单的绘制图表和曲线图View的库，可绘制线性图、2D/3D柱状图、饼图、散点图等   
-项目地址：https://github.com/PhilJay/MPAndroidChart   
-Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample   
+项目地址：https://github.com/PhilJay/MPAndroidChart  
+Demo地址：https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample  
+Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
 效果图：<img height="300px" src="https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/78b4bc4e50e151970961daf56e81c4c0db72d27c/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6261726368617274332e706e67" /><br/><img  src="https://camo.githubusercontent.com/65f51783ec05038730b481ed614b57a94e867d86/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727432642e706e67" /><br/><img src="https://camo.githubusercontent.com/f66a35bf430b12480d3e2ed8e3bc8d7a17db950f/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f626172636861727433642e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/60bd0d71462ad577df775b956944b191e939728a/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f70696563686172745f686f6c657261646975735f73706163652e706e67" /><br/><img height="300px" src="https://camo.githubusercontent.com/6b254aa699df7f9464967009129c3017de721b77/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d50416e64726f696443686172742f6d61737465722f73637265656e73686f74732f7363617474657263686172742e706e67" />
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
@@ -1451,7 +1451,7 @@ Sqlite加密工具
 1. Android-PasscodeLock  
 应用锁，每次启动或从任何Activity启动应用都需要输入四位数字的密码方可进入  
 项目地址：https://github.com/wordpress-mobile/Android-PasscodeLock  
-Demo地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
+Demo地址：https://play.google.com/store/apps/details?id=org.wordpress.android  
 APP示例：Wordpress Android，支付宝，挖财  
 
 1. GlowPadBackport  
