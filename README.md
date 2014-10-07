@@ -1941,12 +1941,12 @@ PS：比起hierarchyviewer相差甚远，不过偶尔可用来作为布局查看
 项目地址：https://github.com/JakeWharton/pidcat  
 
 1. ACRA  
-应用崩溃信息上报到GoogleDoc工具，网页版展现结果三方开源地址https://github.com/BenoitDuffez/crashreportsviewer  
+应用崩溃信息日志上报到GoogleDoc工具，网页版展现结果三方开源地址https://github.com/BenoitDuffez/crashreportsviewer  
 项目地址：https://github.com/ACRA/acra  
 文档地址：https://github.com/ACRA/acra/wiki/BasicSetup  
 
 1. Crashlytics  
-提供丰富的应用崩溃信息收集  
+提供丰富的应用崩溃信息日志收集  
 轻量级，丰富，可自定义应用崩溃信息收集器，附有邮件通知  
 项目地址：http://www.crashlytics.com/  
 集成插件：[Android Studio, Eclipse and IntelliJ](http://try.crashlytics.com/sdk-android/?utm_source=blog&utm_medium=blog&utm_campaign=Announcing_android_studio_wp&utm_content=CTA_button)  
@@ -1972,6 +1972,11 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 1. Complete Android Fragment & Activity Lifecycle  
 完整的Android Fragment/Activity生命周期图  
 项目地址：https://github.com/xxv/android-lifecycle  
+
+1. Bugsnag Notifier for Android  
+通过`Thread.UncaughtExceptionHandler`捕获应用未处理的异常崩溃 Bug 并用 Notification 展示同时上传到后台服务器  
+项目地址：https://github.com/bugsnag/bugsnag-android  
+文档地址：https://github.com/bugsnag/bugsnag-android#installation--setup  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
