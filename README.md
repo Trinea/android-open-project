@@ -838,6 +838,13 @@ Demo地址：https://github.com/xcltapestry/XCL-Charts/blob/master/XCL-Charts-de
 Android 图表库，支持柱状图、分层柱状图、饼状图、线性图  
 项目地址：https://github.com/blackfizz/EazeGraph  
 Demo地址：https://play.google.com/store/apps/details?id=org.eazegraph.app  
+
+1. WilliamChart  
+绘制图表的库，支持LineChartView、BarChartView和StackBarChartView三中图表类型，并且支持 Android 2.2及以上的系统。    
+项目地址：https://github.com/diogobernardino/WilliamChart  
+Demo项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample  
+Demo地址：https://play.google.com/store/apps/details?id=com.db.williamchartdemo  
+效果图：![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/barchart.gif)![Renderings](https://github.com/diogobernardino/WilliamChart/raw/master/art/stackbarchart.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 十五、UI Style  
