@@ -1663,6 +1663,11 @@ ZXing和ZBar结合的二维码扫描项目，提高了扫描效率
 实现android系统截屏功能   
 项目地址：https://github.com/Android-ScreenShot/AndroidScreenShotService  
 文档介绍：http://blog.csdn.net/buptgshengod/article/details/39155979  
+ 
+1. card.io SDK for Android  
+信用卡扫描 Android SDK  
+项目地址：https://github.com/card-io/card.io-Android-SDK  
+Demo项目：https://github.com/card-io/card.io-Android-SDK/tree/master/SampleApp  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
