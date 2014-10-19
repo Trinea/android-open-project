@@ -270,6 +270,13 @@ Navigation Drawer的一个简单实现，滑动并以折叠方式打开菜单
 项目地址：https://github.com/mmBs/NavigationDrawerSI  
 Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigationdrawersi  
 效果图：<img height="500px" src="https://raw.githubusercontent.com/mmBs/NavigationDrawerSI/master/images/screens.png" /> 
+
+1. NavigationDrawerSI  
+Material Design形式的展开折叠Icon
+项目地址：https://github.com/ikimuhendis/LDrawer 
+效果图：<img height="500px" src="https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif" /> 
+
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 四、ViewPager 、Gallery  
