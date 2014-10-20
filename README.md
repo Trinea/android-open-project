@@ -190,6 +190,12 @@ APP示例：手机QQV5.0
 1. sticky-headers-recyclerview  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现  
 项目地址： https://github.com/timehop/sticky-headers-recyclerview  
+
+1. PullSeparateListView  
+到达顶部或底部继续拉动时，实现Item间的相互分离，两种模式：(1) 全部分离的模式，即屏幕内所有Item都会分离 (2)部分分离模式，以点击位置为分界点，部分item分离  
+项目地址： https://github.com/chiemy/PullSeparateListView  
+效果展示：
+![Renderings](https://github.com/chiemy/PullSeparateListView/raw/master/capture.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
@@ -296,6 +302,11 @@ Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigatio
 使用support.v4包下的ViewDragHelper实现QQ5.0侧滑  
 项目地址：https://github.com/BlueMor/DragLayout    
 效果图：![Renderings](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)   
+
+1. NavigationDrawerSI  
+Material Design形式的展开折叠Icon  
+项目地址：https://github.com/ikimuhendis/LDrawer  
+效果图：![Renderings](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 四、ViewPager 、Gallery  
