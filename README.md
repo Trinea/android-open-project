@@ -2024,6 +2024,10 @@ chrome插件，可以方便的查看github上android源码工程的styles.xml和
 通过`Thread.UncaughtExceptionHandler`捕获应用未处理的异常崩溃 Bug 并用 Notification 展示同时上传到后台服务器  
 项目地址：https://github.com/bugsnag/bugsnag-android  
 文档地址：https://github.com/bugsnag/bugsnag-android#installation--setup  
+
+1. Material Design Icons   
+Google Material Design 规范中的 Icon  
+项目地址：https://github.com/google/material-design-icons  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 第五部分  
