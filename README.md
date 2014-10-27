@@ -303,10 +303,15 @@ Demo地址：https://play.google.com/store/apps/details?id=mmbialas.pl.navigatio
 项目地址：https://github.com/BlueMor/DragLayout    
 效果图：![Renderings](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)   
 
-1. LDrawer 
+1. LDrawer  
 Material Design 形式的展开折叠Icon  
 项目地址：https://github.com/ikimuhendis/LDrawer  
 效果图：![Renderings](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif)  
+
+1. Floating Action Button  
+悬浮的圆形菜单栏，支持组建滚动时自动隐藏及其他设置  
+项目地址：https://github.com/shamanland/floating-action-button  
+效果图：![Renderings](https://camo.githubusercontent.com/c679cb23cf62830b0d4037e17cf2d8d4090bc3c8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3042776830534e4c506d6a5142526b466f5a4530345646393051324d)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 四、ViewPager 、Gallery  
