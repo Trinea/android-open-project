@@ -1039,6 +1039,11 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 1. Swipecards  
 类似Tinder的卡片效果，可以加载图片并动画效果展示，向左滑动表示喜欢，向右表示不喜欢，根据 Kikoso's Swipeable-Cards 改造而来  
 项目地址：https://github.com/Diolor/Swipecards  
+   
+1. SeekArc  
+圆形的 SeekBar  
+项目地址：https://github.com/TriggerTrap/SeekArc  
+效果图: ![Renderings](https://camo.githubusercontent.com/6a5091cb39a50d4c49b8d2f08684cb260db55aa7/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f6172635f7377656570732e706e67)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
