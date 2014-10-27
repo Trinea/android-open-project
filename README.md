@@ -1709,6 +1709,11 @@ Demo项目：https://github.com/card-io/card.io-Android-SDK/tree/master/SampleAp
 Twitter, Facebook, Google Plus, LinkedIn, Instagram, Vkontakte, Odnoklassniki 的集成库，包括他们的大多数功能  
 项目地址：https://github.com/gorbin/ASNE  
 Demo地址：https://play.google.com/store/apps/details?id=com.gorbin.androidsocialnetworksextended.asne  
+
+1. Android Signature Pad  
+Android 自定义的签名 View，可自定义笔颜色和大小  
+项目地址：https://github.com/gcacace/android-signaturepad  
+Demo项目：https://github.com/gcacace/android-signaturepad/tree/master/SignaturePad-Example  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
