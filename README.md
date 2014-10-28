@@ -2151,9 +2151,7 @@ Github地址：https://github.com/inmite
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、博客  
-1. Chet Haase  
-Android framework UI team 成员  
-主页：http://graphics-geek.blogspot.com/  
+[部分国外著名 Android 开发者信息](https://github.com/android-cn/android-dev-com)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## License
