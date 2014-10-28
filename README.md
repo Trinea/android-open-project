@@ -1557,6 +1557,10 @@ Android插件式开发，开放的源码目前不完整
 1. multidex  
 安装多 dex 的 classloader  
 项目地址：https://github.com/casidiablo/multidex  
+
+1. ANR-WatchDog  
+Android ANR 监听，通过监听自己的 UI Thread 是否被执行确定是否发生了 ANR，并可以设置相关事件  
+项目地址：https://github.com/SalomonBrys/ANR-WatchDog  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十二、文件  
