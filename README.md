@@ -1217,7 +1217,12 @@ Android Sqlite orm的db工具类
 项目地址：https://github.com/emilsjolander/sprinkles  
 文档介绍：http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/  
 特点：比较显著的特点就是配合https://github.com/square/retrofit 能保存从服务器获取的数据  
-   
+
+1. Realm  
+移动端的数据库，适用于 Phone、Tablet、Wearable，支持 ORM，线程安全、支持连表及数据库加密，比 SQLite 性能更好  
+项目地址：https://github.com/realm/realm-java  
+文档介绍：http://realm.io/docs/java/0.72.0/   
+
 1. ormlite-android  
 项目地址：https://github.com/j256/ormlite-android  
 文档介绍：http://ormlite.com/sqlite_java_android_orm.shtml   
@@ -1718,6 +1723,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.gorbin.androidsoc
 Android 自定义的签名 View，可自定义笔颜色和大小  
 项目地址：https://github.com/gcacace/android-signaturepad  
 Demo项目：https://github.com/gcacace/android-signaturepad/tree/master/SignaturePad-Example  
+
+1. Teleport  
+Android Wear 数据同步和消息传送库  
+项目地址：https://github.com/Mariuxtheone/Teleport  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
