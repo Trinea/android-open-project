@@ -189,13 +189,17 @@ APP示例：手机QQV5.0
 
 1. sticky-headers-recyclerview  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现  
-项目地址： https://github.com/timehop/sticky-headers-recyclerview  
+项目地址：https://github.com/timehop/sticky-headers-recyclerview  
 
 1. PullSeparateListView  
 到达顶部或底部继续拉动时，实现Item间的相互分离，两种模式：(1) 全部分离的模式，即屏幕内所有Item都会分离 (2)部分分离模式，以点击位置为分界点，部分item分离  
-项目地址： https://github.com/chiemy/PullSeparateListView  
+项目地址：https://github.com/chiemy/PullSeparateListView  
 效果展示：
 ![Renderings](https://github.com/chiemy/PullSeparateListView/raw/master/capture.gif)  
+
+1. ExpandableLayout  
+Header 和 Content Item 都可以展开的 ExpandableListview  
+项目地址：https://github.com/traex/ExpandableLayout  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
@@ -376,7 +380,7 @@ ViewPager3D效果
 
 1. AnimaTabsview  
 仿网易云音乐标签切换的动画,带透明小三角  
-项目地址： https://github.com/wuyexiong/transparent-over-animtabsview  
+项目地址：https://github.com/wuyexiong/transparent-over-animtabsview  
 在线演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html  
 
 1. LoopingViewPager   
