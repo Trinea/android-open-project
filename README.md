@@ -1553,6 +1553,10 @@ Android App插件式插件开发，插件必须先安装，更推荐看上面两
 1. Android Plugin Framework  
 Android插件式开发，开放的源码目前不完整  
 项目地址：https://github.com/umeng/apf  
+
+1. multidex  
+安装多 dex 的 classloader  
+项目地址：https://github.com/casidiablo/multidex  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十二、文件  
