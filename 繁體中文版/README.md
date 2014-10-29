@@ -320,10 +320,9 @@ Demo視頻：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的多屏效果，可屏幕自動左右滾動進行Item移動交換，單屏效果見上面DraggableGridView  
 項目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
 
-1. GridView-with-Header-and-Footer
-
+11. GridView-with-Header-and-Footer
 和`ListView`一樣帶有頭部和底部，用法也一樣簡單
 項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter
 效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)

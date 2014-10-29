@@ -443,10 +443,9 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 一个支持跨行和跨列可变Item大小的GridView  
 项目地址：https://github.com/felipecsl/AsymmetricGridView   
 Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
-效果图：![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)   
+效果图：![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)
 
 1. GridView-with-Header-and-Footer
-
 和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter
 效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)
