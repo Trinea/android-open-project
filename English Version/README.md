@@ -307,7 +307,7 @@ Demo视频：http://youtu.be/FYTSRfthSuQ
 Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen. 
 Project Address: https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
-
+    
 11. GridView-with-Header-and-Footer
 Same with `ListView`. It allows you call `addHeaderView()`, `addFooterView` to add views to GridView.
 Project Address：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter

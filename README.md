@@ -444,9 +444,9 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 项目地址：https://github.com/felipecsl/AsymmetricGridView   
 Demo地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymmetricgridview.app  
 效果图：![Renderings](https://raw.githubusercontent.com/felipecsl/AsymmetricGridView/master/screenshots/ss_5_cols.png)
-
+    
 1. GridView-with-Header-and-Footer
-和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样
+和ListView一样带头部和底部的GridView`，用法和ListView一样
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter
 效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
