@@ -322,10 +322,10 @@ Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，�
 項目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
 Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
 
-11. GridView-with-Header-and-Footer
-和`ListView`一樣帶有頭部和底部，用法也一樣簡單
-項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter
-效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)
+1. GridView with Header and Footer    
+和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
+項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
