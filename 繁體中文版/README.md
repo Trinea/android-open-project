@@ -320,7 +320,12 @@ Demo視頻：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的多屏效果，可屏幕自動左右滾動進行Item移動交換，單屏效果見上面DraggableGridView  
 項目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
+
+1. GridView with Header and Footer    
+和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
+項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -785,6 +790,13 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (4)可方便的保存及初始化恢複數據  
 (5)支持不同類型網絡處理  
 (6)可根據系統配置初始化緩存等  
+
+1. Cube ImageLoader  
+阿里巴巴一些App使用的圖片加載組件，綜合了Android-Universal-Image-Loader 和 square 等組件優點，簡單易用。
+項目地址：https://github.com/etao-open-source/cube-sdk  
+Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+文檔介绍：http://cube-sdk.liaohuqiu.net/  
+效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、網絡相關  
