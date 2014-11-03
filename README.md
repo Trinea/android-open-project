@@ -394,6 +394,11 @@ ViewPager3D效果
 APP示例：iReader  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. ViewPagerIndicator   
+简化并实现android的TabHost效果，顶部滑动tab，引导页  
+支持自定义tab样式,自定义滑动块样式和位置,自定义切换tab的过渡动画,子界面的预加载和界面缓存,设置界面是否可滑动   
+项目地址：https://github.com/LuckyJayce/ViewPagerIndicator
+
 #### 五、GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
