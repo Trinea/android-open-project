@@ -675,6 +675,10 @@ Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExampl
 项目地址：https://github.com/marvinlabs/android-floatinglabel-widgets  
 Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget.floatinglabel.demo  
 在线演示：http://www.youtube.com/watch?v=hpZD9gJcRg0&feature=youtu.be   
+ 
+1. MaterialEditText  
+EditText 的 Material Design 实现。包含 [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html)中的UI效果和一些新增特性。   
+项目地址：https://github.com/rengwuxian/MaterialEditText  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
