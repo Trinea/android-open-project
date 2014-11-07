@@ -1,7 +1,7 @@
 Android开源项目分类汇总
 ====================
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
-> 欢迎加入 QQ 交流群：[(入群理由必须填写群简介问题答案) 214742675](http://jq.qq.com/?_wv=1027&k=c9rXYw "入群理由必须填写群简介问题答案")(五群) [377723625](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案")(一群已满) [383537512](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群已满) [63224677](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案")(三群已满) [148844489](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案")(四群已满) 不要重复加群 
+> 欢迎加入 QQ 交流群：[(入群理由必须填写群简介问题答案) 214742675](http://jq.qq.com/?_wv=1027&k=Zl6Yyj "入群理由必须填写群简介问题答案")(五群) [377723625](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案")(一群已满) [383537512](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群已满) [63224677](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案")(三群已满) [148844489](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案")(四群已满) 不要重复加群 
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
@@ -1066,6 +1066,11 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 圆形的 SeekBar  
 项目地址：https://github.com/TriggerTrap/SeekArc  
 效果图: ![Renderings](https://camo.githubusercontent.com/6a5091cb39a50d4c49b8d2f08684cb260db55aa7/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f6172635f7377656570732e706e67)  
+
+1. BlurDialogFragment  
+显示  DialogFragment 时背景模糊效果  
+项目地址：https://github.com/tvbarthel/BlurDialogFragment  
+Demo地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.lib.blurdialogfragment.sample  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
