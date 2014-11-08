@@ -1767,6 +1767,11 @@ Demo项目：https://github.com/gcacace/android-signaturepad/tree/master/Signatu
 1. Teleport  
 Android Wear 数据同步和消息传送库  
 项目地址：https://github.com/Mariuxtheone/Teleport  
+ 
+1. DebugLog  
+可以帮你创建更简单和更容易理解的调试日志，能够友好的显示调试信息所在类和函数。  
+项目地址：https://github.com/MustafaFerhan/DebugLog  
+项目截图：![DebugLog](https://camo.githubusercontent.com/37deffede9f9b185886da48e96a4829ebd407260/68747470733a2f2f7261772e6769746875622e636f6d2f4d75737461666146657268616e2f44656275674c6f672f6d61737465722f44656275674c6f672d44656d6f2f6173736574732f7373322e6a7067) 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
