@@ -686,6 +686,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget
 1. MaterialEditText  
 EditText 的 Material Design 实现。包含 [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html)中的UI效果和一些新增特性。   
 项目地址：https://github.com/rengwuxian/MaterialEditText  
+
+1. MultiActionTextView  
+可以分别给TextView中的某几个字设置点击事件的TextView。   
+项目地址：https://github.com/ajaysahani/MultiActionTextView  
+效果图：<img height="500px" src="https://camo.githubusercontent.com/1223e37d084e84ec0e22a1b27e7513661d0e1b39/687474703a2f2f692e696d6775722e636f6d2f773934576f53582e706e67" />   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
