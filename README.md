@@ -1296,6 +1296,11 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据  
 项目地址：https://github.com/yangfuhai/afinal  
 官方网站：http://www.afinal.org  
+
+1. UltimateAndroid	  
+UltimateAndroid是一个快速开发Android应用的框架，框架目前主要包含的功能有View Injection,ORM,异步网络请求和图片加载，自动化脚本测试,磁盘LRU等功能.同时提供了类似于TripleDes、Webview快速设置、Md5处理、String处理,Https处理等常用工具类，还有超过100多种UI控件效果。 
+项目地址：https://github.com/cymcsg/UltimateAndroid  
+官方网站：http://blog.marshalchen.com/UltimateAndroid/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、Android 高版本向低版本兼容  
