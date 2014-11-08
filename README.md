@@ -200,6 +200,13 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 1. ExpandableLayout  
 Header 和 Content Item 都可以展开的 ExpandableListview  
 项目地址：https://github.com/traex/ExpandableLayout  
+
+1. PagedHeadListView  
+支持paginated header以及material page indicator的ListView.   
+项目地址：https://github.com/JorgeCastilloPrz/PagedHeadListView  
+效果展示：
+![Renderings](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif)  
+ 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
