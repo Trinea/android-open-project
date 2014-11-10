@@ -200,6 +200,13 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 1. ExpandableLayout  
 Header 和 Content Item 都可以展开的 ExpandableListview  
 项目地址：https://github.com/traex/ExpandableLayout  
+
+1. PagedHeadListView  
+支持paginated header以及material page indicator的ListView.   
+项目地址：https://github.com/JorgeCastilloPrz/PagedHeadListView  
+效果展示：
+![Renderings](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif)  
+ 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
 
 #### 二、ActionBar  
@@ -679,6 +686,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget
 1. MaterialEditText  
 EditText 的 Material Design 实现。包含 [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html)中的UI效果和一些新增特性。   
 项目地址：https://github.com/rengwuxian/MaterialEditText  
+
+1. MultiActionTextView  
+可以分别给TextView中的某几个字设置点击事件的TextView。   
+项目地址：https://github.com/ajaysahani/MultiActionTextView  
+效果图：<img height="500px" src="https://camo.githubusercontent.com/1223e37d084e84ec0e22a1b27e7513661d0e1b39/687474703a2f2f692e696d6775722e636f6d2f773934576f53582e706e67" />   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 九、ScrollView  
@@ -1284,6 +1296,11 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据  
 项目地址：https://github.com/yangfuhai/afinal  
 官方网站：http://www.afinal.org  
+
+1. UltimateAndroid	  
+UltimateAndroid是一个快速开发Android应用的框架，框架目前主要包含的功能有View Injection,ORM,异步网络请求和图片加载，自动化脚本测试,磁盘LRU等功能.同时提供了类似于TripleDes、Webview快速设置、Md5处理、String处理,Https处理等常用工具类，还有超过100多种UI控件效果。 
+项目地址：https://github.com/cymcsg/UltimateAndroid  
+官方网站：http://blog.marshalchen.com/UltimateAndroid/  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、Android 高版本向低版本兼容  
@@ -1750,6 +1767,11 @@ Demo项目：https://github.com/gcacace/android-signaturepad/tree/master/Signatu
 1. Teleport  
 Android Wear 数据同步和消息传送库  
 项目地址：https://github.com/Mariuxtheone/Teleport  
+ 
+1. DebugLog  
+可以帮你创建更简单和更容易理解的调试日志，能够友好的显示调试信息所在类和函数。  
+项目地址：https://github.com/MustafaFerhan/DebugLog  
+项目截图：![DebugLog](https://camo.githubusercontent.com/37deffede9f9b185886da48e96a4829ebd407260/68747470733a2f2f7261772e6769746875622e636f6d2f4d75737461666146657268616e2f44656275674c6f672f6d61737465722f44656275674c6f672d44656d6f2f6173736574732f7373322e6a7067) 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 第三部分 优秀项目  
