@@ -306,7 +306,12 @@ Demo视频：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen. 
 Project Address: https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
+    
+1. GridView with Header and Footer    
+Same with `ListView`. It allows you call `addHeaderView()`, `addFooterView` to add views to GridView.    
+Project Address：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+Renderings：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. ImageView  
@@ -692,6 +697,13 @@ Image Cache, support multi caching algorithms
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-imagecache/ 
+
+1. Cube ImageLoader  
+Easy to use, high performance, used in some of the Apps in Alibaba Group.
+Project Address：https://github.com/etao-open-source/cube-sdk  
+Demo Apk：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+Document：http://cube-sdk.liaohuqiu.net/  
+Renderings: ![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Network  
