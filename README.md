@@ -45,7 +45,7 @@ PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的
 使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
-Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk  
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
 效果图：   
 <div>  
     <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
