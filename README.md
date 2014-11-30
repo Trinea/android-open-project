@@ -47,9 +47,11 @@ PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
 Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk
 效果图：
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh' width="200px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh' width="200px"/>  
+<div>
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="200px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="200px"/>  
     <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="200px"/>  
+</div>
    
 1. DropDownListView  
 下拉刷新及滑动到底部加载更多ListView  
