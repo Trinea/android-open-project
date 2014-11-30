@@ -44,14 +44,15 @@ PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的
 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。
 使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 支持 `API LEVEL >= 8`  
-项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
-Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk
-效果图：
-<div>
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="200px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="200px"/>  
-    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="200px"/>  
-</div>
+项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk  
+效果图：   
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 下拉刷新及滑动到底部加载更多ListView  
