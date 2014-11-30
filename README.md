@@ -40,7 +40,7 @@ APP示例：新浪微博各个页面
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
 PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的android-pulltorefresh  
 
-1. android-Ultra-Pull-to-Refresh
+1. android-Ultra-Pull-to-Refresh    
 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。
 使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 支持 `API LEVEL >= 8`  
