@@ -41,7 +41,8 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refres
 PS：这个被很多人使用的项目实际有不少bug，推荐使用上面的android-pulltorefresh  
 
 1. android-Ultra-Pull-to-Refresh    
-终极下拉刷新，github上最为流行的下拉刷新方案，两年之前停止维护并弃用了，这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能甚至比SwipeRefreshLayout强大。
+终极下拉刷新。第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代方案，也是终极方案。
+这个继承于ViewGroup可以包含任何View。功能甚至比SwipeRefreshLayout强大。
 使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
