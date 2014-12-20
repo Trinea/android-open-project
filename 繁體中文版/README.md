@@ -32,6 +32,20 @@ APP示例：新浪微博各個頁面
 項目地址：https://github.com/johannilsson/android-pulltorefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
 PS：這個被很多人使用的項目實際有不少bug，推薦使用上面的android-pulltorefresh  
+
+1. android-Ultra-Pull-to-Refresh    
+這是現在已經停止維護的下拉刷新項目的替代方案，繼承于ViewGroup, 可以包含任何View，功能比SwipeRefreshLayout強大，稱為終極下拉刷新。
+使用起來非常簡單，良好的設計，如果你想定製自己的UI樣式，那也非常簡單，就像給ListView加一個Header View那麼簡單。
+支持 `API LEVEL >= 8`  
+項目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+效果图：   
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 下拉刷新及滑動到底部加載更多ListView  
