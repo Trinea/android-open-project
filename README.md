@@ -490,6 +490,12 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 项目地址：https://github.com/vinc3m1/RoundedImageView  
 效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
 
+1. SelectableRoundedImageView  
+ImageView允许四个角的每一个有不同的半径值。也允许椭圆形、圆形的形状或者边  
+项目地址：https://github.com/pungrue26/SelectableRoundedImageView  
+Demo地址：https://play.google.com/store/apps/details?id=com.joooonho  
+效果图：![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
+
 1. ColorArt  
 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
 项目地址：https://github.com/MichaelEvans/ColorArt  
