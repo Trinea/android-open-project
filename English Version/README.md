@@ -348,7 +348,13 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.
 A fast ImageView that supports rounded corners and ovals or circles  
 Project Address: https://github.com/vinc3m1/RoundedImageView  
 Renderings: ![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
-   
+
+1. SelectableRoundedImageView  
+ImageView that supports different radiuses on each corner. It also supports oval(and circle) shape and border.  
+Project Address: https://github.com/pungrue26/SelectableRoundedImageView  
+Demo Apk: https://play.google.com/store/apps/details?id=com.joooonho  
+Renderings: ![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
+
 1. ColorArt  
 iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display  
 Project Address: https://github.com/MichaelEvans/ColorArt  
