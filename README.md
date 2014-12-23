@@ -1318,7 +1318,19 @@ Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAc
 UltimateAndroid是一个快速开发Android应用的框架，框架目前主要包含的功能有View Injection,ORM,异步网络请求和图片加载，自动化脚本测试,磁盘LRU等功能.同时提供了类似于TripleDes、Webview快速设置、Md5处理、String处理,Https处理等常用工具类，还有超过100多种UI控件效果。  
 项目地址：https://github.com/cymcsg/UltimateAndroid  
 官网网址：http://blog.marshalchen.com/UltimateAndroid/  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+
+1. SAF  
+SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。  
+项目地址：https://github.com/fengzhizi715/SAF  
+官网网址：http://www.salesuite.cn/  
+包括：(1)Event Bus(事件总线)  
+(2) Rest Client(http的框架)  
+(3) Image Cache(图片缓存)  
+(4) Dependency Injection(依赖注入)  
+(5) Sqlite ORM(sqlite的orm)  
+(6) Router(Activity、Fragment的Router)  
+(7) Utils(各种常用的工具类) 
 
 #### 六、Android 高版本向低版本兼容  
 1. ActionBarSherlock  
