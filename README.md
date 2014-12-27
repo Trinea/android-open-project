@@ -697,6 +697,12 @@ Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield
 Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExample  
 效果图：![Renderings](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)  
 
+1. RippleEffect  
+一个实现Material Design Ripple效果的库，支持Android API 9+以上版本。  
+项目地址：https://github.com/traex/RippleEffect  
+Demo项目：https://github.com/traex/RippleEffect/tree/master/sample  
+效果图：![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
+
 1. Android Floating Label Widgets  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
 项目地址：https://github.com/marvinlabs/android-floatinglabel-widgets  
