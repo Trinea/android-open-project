@@ -1124,6 +1124,11 @@ Demo地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.lib.blur
 随机值选取的 SeekBar  
 项目地址：https://github.com/yahoo/android-range-seek-bar  
 效果图：![Renderings](https://github.com/yahoo/android-range-seek-bar/raw/master/demo_screenshot.png)  
+
+1. MaterialRangeBar  
+可以选择一个范围内的值而不是单个值的 SeekBar，RangeBar 的 Material Design 风格适配  
+项目地址：https://github.com/oli107/material-range-bar  
+效果图：![Renderings](https://github.com/oli107/material-range-bar/raw/master/Screenshots/pin%20expand.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
