@@ -756,7 +756,12 @@ Demo地址：http://cloud.github.com/downloads/chrisjenx/ParallaxScrollView/Para
 支持视差滚动的ScrollView  
 项目地址：https://github.com/ideaismobile/AKParallax-Android  
 Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax_sample  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+
+1. Android-ObservableScrollView   
+监听滚动视图滚动事件的库，帮助与Toolbar的交互动效处理与Material Design的实现   
+项目地址：https://github.com/ksoichiro/Android-ObservableScrollView    
+Demo地址：https://play.google.com/store/apps/details?id=com.github.ksoichiro.android.observablescrollview.samples2  
 
 #### 十、TimeView  
 包括TimePicker、DatePicker、CalendarView、Clock等时间相关控件  
@@ -2182,7 +2187,11 @@ Google Material Design 规范中的 Icon
 Android 滚动屏幕自动截图 jar 包，支持纵向、横向滚动截屏拼接  
 项目地址：https://github.com/PGSSoft/scrollscreenshot  
 效果图：![Renderings](https://github.com/PGSSoft/scrollscreenshot/raw/master/samplehorizontal.png)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+
+1. droidicon  
+1600+的海量Icon，包括750+的Material Design icons    
+项目地址：https://github.com/theDazzler/droidicon   
   
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
