@@ -221,7 +221,7 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 1. CustomSwipeListView  
 支持左滑弹出自定义菜单，右滑删除且允许撤销，同时可以自定义滑动动画时间和滑动触发事件的时机等。  
 项目地址：https://github.com/xyczero/Android-CustomSwipeListView
-效果图：![screenshot](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListview_Set.PNG)
+![screenshot](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListview_Set.PNG)
 Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListView.apk)
 
 #### 二、ActionBar  
