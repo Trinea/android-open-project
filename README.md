@@ -3,7 +3,11 @@ Android开源项目分类汇总
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Trinea/android-open-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
-> 欢迎加入 QQ 交流群：[185715999(入群理由必须填写群简介问题答案)](http://jq.qq.com/?_wv=1027&k=fJlrh1 "入群理由必须填写群简介问题答案")(六群)  [377723625](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案")(一群已满) [383537512](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群已满) [63224677](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案")(三群已满) [148844489](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案")(四群已满) [214742675](http://jq.qq.com/?_wv=1027&k=Zl6Yyj "入群理由必须填写群简介问题答案")(五群已满) 不要重复加群  
+> 欢迎加入 QQ 交流群：  
+> [63224677(入群理由必须填写群简介问题答案)](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案")(三群有空位)  
+> [148844489(入群理由必须填写群简介问题答案)](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案")(四群有空位)  
+> [214742675(入群理由必须填写群简介问题答案)](http://jq.qq.com/?_wv=1027&k=Zl6Yyj "入群理由必须填写群简介问题答案")(五群有空位)  
+> [185715999](六群已满)(http://jq.qq.com/?_wv=1027&k=fJlrh1 "入群理由必须填写群简介问题答案")(六群)  [377723625](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案")(一群已满) [383537512](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群已满) 不要重复加群  
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
