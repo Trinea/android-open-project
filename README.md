@@ -601,12 +601,6 @@ APP示例：Android4.1时钟App
 项目地址：https://github.com/john990/WaveView  
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
-
-
-1. WaveView  
-圆角多彩可带图标的ProgressBar  
-项目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
-效果图：![RoundCornerProgressBar](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_01.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 八、TextView  
