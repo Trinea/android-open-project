@@ -229,7 +229,7 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomSwipeListView.apk)   
 
 1. Pull-to-Refresh.Rentals-Android  
-提供一个简单可以自定义的下拉刷新实现,[Yalantis](http://yalantis.com/)出品
+提供一个简单可以自定义的下拉刷新实现，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android  
 效果图：![Renderings](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)  
 
@@ -349,12 +349,12 @@ Material Design 形式的展开折叠Icon
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. Side-Menu.Android  
-分类侧滑菜单,[Yalantis](http://yalantis.com/)出品  
+分类侧滑菜单，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Side-Menu.Android  
 效果图：![Renderings](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)  
 
 1. Context-Menu.Android  
-可以方便快速集成漂亮带有动画效果的上下文菜单,[Yalantis](http://yalantis.com/)出品  
+可以方便快速集成漂亮带有动画效果的上下文菜单，[Yalantis](http://yalantis.com/)出品。  
 项目地址：https://github.com/Yalantis/Context-Menu.Android  
 效果图：![Renderings](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)  
 
