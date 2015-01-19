@@ -606,13 +606,17 @@ APP示例：Android4.1时钟App
 项目地址：https://github.com/Sefford/CircularProgressDrawable  
 效果图：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)  
 
+1. Android-RoundCornerProgressBar  
+Android 圆角 ProgressBar，可自定义圆角颜色和半径，包括带 Icon 和不带 Icon 两种类型。  
+项目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
+
 1. circular-progress-button  
 带进度显示的Button  
 项目地址：https://github.com/dmytrodanylyk/circular-progress-button  
 效果图：![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)  
 
 1. WaveView  
-一个波纹效果的 View，可用来坐 ProgressBar  
+一个波纹效果的 View，可用来做 ProgressBar  
 项目地址：https://github.com/john990/WaveView  
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
