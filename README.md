@@ -1,7 +1,6 @@
 Android开源项目分类汇总
 ====================
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Trinea/android-open-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
   
 > 欢迎加入 QQ 交流群：[383537512(入群理由必须填写群简介问题答案)](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群有空位)  
