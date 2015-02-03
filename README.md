@@ -878,6 +878,11 @@ Material Design 风格的 Toast，类似 Google inbox 中的提示
 Demo地址：https://play.google.com/store/apps/details?id=com.mrengineer13.snackbar.sample  
 效果图：![Renderings](https://camo.githubusercontent.com/67a39af16f3d46631567c1f7bd7dcddeb3c4c9e9/687474703a2f2f6d6174657269616c2d64657369676e2e73746f726167652e676f6f676c65617069732e636f6d2f696d616765732f636f6d706f6e656e74732d746f617374732d73706563732d737065635f746f6173745f30335f315f6c617267655f6d6470692e706e67)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+1. HeadsUp
+在2.3上使用 android  5.0的 HeadsUp 效果 
+项目地址：https://github.com/zzz40500/HeadsUp
+效果图：![heads-up.gif](http://upload-images.jianshu.io/upload_images/166866-543a5d26ab71d0f6.gif)
+
 
 #### 十二、FlipView  
 1. android-flip  
