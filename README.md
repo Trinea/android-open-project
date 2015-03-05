@@ -1374,6 +1374,11 @@ Android Sqlite orm的db工具类，比较显著的特点就是配合 https://git
 项目地址：https://github.com/SimonVT/schematic  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. DBExecutor  
+支持多线程，支持事务，支持ORM  
+有详细的api,uml架构图，测试用例，以及源码中详细的注解  
+项目地址：https://github.com/LuckyJayce/DBExecutor
+
 #### 五、Android公共库  
 1. Guava  
 Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
