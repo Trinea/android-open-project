@@ -614,6 +614,12 @@ Project Address: https://code.google.com/p/android-lockpattern/
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
   
+1. PatternLock  
+Yet another pattern lock library for Android  
+Project Address：https://github.com/DreaminginCodeZH/PatternLock  
+Demo Apk：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+Renderings：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+   
 1. RangeBar  
 Android widget for selecting a range of values. It provides for the selection of a range of values rather than a single value.  
 Project Address: https://github.com/edmodo/range-bar  
