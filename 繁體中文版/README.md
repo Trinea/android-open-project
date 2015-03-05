@@ -719,6 +719,13 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介紹：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
   
+1. PatternLock  
+另一個 Android 圖案解鎖庫  
+項目地址：https://github.com/DreaminginCodeZH/PatternLock  
+Demo地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+效果圖：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
+  
 1. RangeBar  
 類似于SeekBar，不同的是可以選擇一個範圍內的值而不是單個值  
 項目地址：https://github.com/edmodo/range-bar  
