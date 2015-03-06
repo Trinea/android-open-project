@@ -1374,10 +1374,10 @@ Android Sqlite orm的db工具类，比较显著的特点就是配合 https://git
 项目地址：https://github.com/SimonVT/schematic  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-1. DBFlow
-Android SQLite ORM工具库。综合了 Active Android, Schematic, Ollie,Sprinkles等库的优点；通过注解实现，性能好；能生成ContentProvider。
-项目地址：https://github.com/Raizlabs/DBFlow  
-文档介绍：https://github.com/Raizlabs/DBFlow#usage-docs  
+1. DBFlow  
+Android SQLite ORM工具库。综合了 Active Android, Schematic, Ollie,Sprinkles等库的优点；通过注解实现，性能好；能生成ContentProvider。  
+项目地址：https://github.com/Raizlabs/DBFlow    
+文档介绍：https://github.com/Raizlabs/DBFlow#usage-docs    
 
 #### 五、Android公共库  
 1. Guava  
