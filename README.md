@@ -793,6 +793,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax
 项目地址：https://github.com/ksoichiro/Android-ObservableScrollView    
 Demo地址：https://play.google.com/store/apps/details?id=com.github.ksoichiro.android.observablescrollview.samples2  
 
+1. OverScrollView   
+有弹性的ScrollView，实现了当手指滑动到ScrollView的顶部、底部时，可以继续的向上、向下拉伸。当释放手指的时候，向上、下回弹   
+项目地址：https://github.com/EverythingMe/OverScrollView
+
 #### 十、TimeView  
 包括TimePicker、DatePicker、CalendarView、Clock等时间相关控件  
 
