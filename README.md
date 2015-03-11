@@ -760,6 +760,12 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+
+1. SlideSwitch  
+状态切换的开关，可以设置为类似IOS的圆形，也可以设置为矩形，用 View 实现  
+项目地址：https://github.com/Leaking/SlideSwitch
+效果图：![Renderings](https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif)  
+
 1. ExpandableTextView  
 可展开和收缩内容的TextView。  
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
