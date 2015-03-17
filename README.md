@@ -1449,6 +1449,10 @@ SAF(Simple Android Framework)是一个简单的android框架，它为开发Andro
 (6) Router(Activity、Fragment的Router)  
 (7) Utils(各种常用的工具类) 
 
+1. Barber
+Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中的代码量。由于和 ButterKnife 一样使用了 Annotation Proccessor ，所以对程序性能没有影响。 
+项目地址：https://github.com/hzsweers/barber
+
 #### 六、Android 高版本向低版本兼容  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
