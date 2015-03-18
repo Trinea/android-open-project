@@ -233,6 +233,11 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 项目地址：https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android  
 效果图：![Renderings](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)  
 
+1. ScrollerCalendar  
+实现每行显示一年的12个月份的RecyclerView年历
+项目地址：https://github.com/guanchao/ScrollerCalendar
+效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
+
 #### 二、ActionBar  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
