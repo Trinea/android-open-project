@@ -234,8 +234,8 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 效果图：![Renderings](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)  
 
 1. ScrollerCalendar  
-实现每行显示一年的12个月份的RecyclerView年历
-项目地址：https://github.com/guanchao/ScrollerCalendar
+实现每行显示一年的12个月份的RecyclerView年历  
+项目地址：https://github.com/guanchao/ScrollerCalendar  
 效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
 
 #### 二、ActionBar  
@@ -768,7 +768,7 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 
 1. SlideSwitch  
 状态切换的开关，可以设置为类似IOS的圆形，也可以设置为矩形，用 View 实现  
-项目地址：https://github.com/Leaking/SlideSwitch
+项目地址：https://github.com/Leaking/SlideSwitch  
 效果图：![Renderings](https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif)  
 
 1. ExpandableTextView  
@@ -1216,8 +1216,8 @@ Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.material
 项目地址：https://github.com/romainguy/road-trip  
 效果图：![Renderings](https://github.com/zhangxin1989/RoadTrip/raw/master/screenshot/Road-Trip-200.gif)  
 
-1. dialogplus
-一个简单的Android对话框，支持不同的弹出模式
+1. dialogplus  
+一个简单的Android对话框，支持不同的弹出模式  
 项目地址：https://github.com/orhanobut/dialogplus  
 效果图：![Renderings](https://github.com/orhanobut/dialogplus/blob/master/images/d1.png)  
 
@@ -1454,9 +1454,9 @@ SAF(Simple Android Framework)是一个简单的android框架，它为开发Andro
 (6) Router(Activity、Fragment的Router)  
 (7) Utils(各种常用的工具类) 
 
-1. Barber
-Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中的代码量。由于和 ButterKnife 一样使用了 Annotation Proccessor ，所以对程序性能没有影响。 
-项目地址：https://github.com/hzsweers/barber
+1. Barber  
+Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中的代码量。由于和 ButterKnife 一样使用了 Annotation Proccessor ，所以对程序性能没有影响。  
+项目地址：https://github.com/hzsweers/barber  
 
 #### 六、Android 高版本向低版本兼容  
 1. ActionBarSherlock  
@@ -2006,7 +2006,7 @@ APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei
 
 (14) Scanbook  
 扫描搜索查询图书信息  
-项目地址：https://github.com/JayFang1993/ScanBook        
+项目地址：https://github.com/JayFang1993/ScanBook  
 APK地址：http://www.wandoujia.com/apps/com.scanbook   
 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
