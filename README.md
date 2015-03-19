@@ -6,12 +6,12 @@ Android开源项目分类汇总
 `codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
 > 我们的网站：[www.codekk.com](http://codekk.com)  
  我们的微博：[code-kk](http://weibo.com/codek2)  
- 我们的微信：codekk，二维码如下：  
+ 微信公众号：codekk，二维码如下：  
  ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg) 
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
-> 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<a title="欢迎邮件与我交流" href="mailto:trinea.cn@gmail.com" target="_blank">trinea.cn#gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;QQ：<a title="欢迎 Q 我" href="http://wpa.qq.com/msgrd?v=3&amp;uin=717763774&amp;site=qq&amp;menu=yes" target="_blank">717763774</a>  
+ 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<a title="欢迎邮件与我交流" href="mailto:trinea.cn@gmail.com" target="_blank">trinea.cn#gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;微信：[codek2](# "二维码就是上面那个")  
 
 
 更多：[Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)  
@@ -232,6 +232,11 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 提供一个简单可以自定义的下拉刷新实现，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android  
 效果图：![Renderings](https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966)  
+
+1. ScrollerCalendar  
+实现每行显示一年的12个月份的RecyclerView年历  
+项目地址：https://github.com/guanchao/ScrollerCalendar  
+效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
 
 #### 二、ActionBar  
 1. ActionBarSherlock  
@@ -760,6 +765,12 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+
+1. SlideSwitch  
+状态切换的开关，可以设置为类似IOS的圆形，也可以设置为矩形，用 View 实现  
+项目地址：https://github.com/Leaking/SlideSwitch  
+效果图：![Renderings](https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif)  
+
 1. ExpandableTextView  
 可展开和收缩内容的TextView。  
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
@@ -792,6 +803,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax
 监听滚动视图滚动事件的库，帮助与Toolbar的交互动效处理与Material Design的实现   
 项目地址：https://github.com/ksoichiro/Android-ObservableScrollView    
 Demo地址：https://play.google.com/store/apps/details?id=com.github.ksoichiro.android.observablescrollview.samples2  
+
+1. OverScrollView   
+有弹性的ScrollView，实现了当手指滑动到ScrollView的顶部、底部时，可以继续的向上、向下拉伸。当释放手指的时候，向上、下回弹   
+项目地址：https://github.com/EverythingMe/OverScrollView
 
 #### 十、TimeView  
 包括TimePicker、DatePicker、CalendarView、Clock等时间相关控件  
@@ -1081,6 +1096,13 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 文档介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 APP示例：Android开机的图案密码解锁，支付宝的密码解锁  
 
+1. PatternLock  
+另一个 Android 图案解锁库  
+项目地址：https://github.com/DreaminginCodeZH/PatternLock  
+Demo 地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+效果图：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+APP示例：Android开机的图案密码解锁，支付宝的密码解锁  
+
 1. RangeBar  
 类似于SeekBar，不同的是可以选择一个范围内的值而不是单个值  
 项目地址：https://github.com/edmodo/range-bar  
@@ -1193,6 +1215,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.material
 设置path的各种动画效果，以及如何实现复杂路径动画，类似于ios中的指纹注册界面的指纹动画效果  
 项目地址：https://github.com/romainguy/road-trip  
 效果图：![Renderings](https://github.com/zhangxin1989/RoadTrip/raw/master/screenshot/Road-Trip-200.gif)  
+
+1. dialogplus  
+一个简单的Android对话框，支持不同的弹出模式  
+项目地址：https://github.com/orhanobut/dialogplus  
+效果图：![Renderings](https://github.com/orhanobut/dialogplus/blob/master/images/d1.png)  
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -1367,6 +1394,11 @@ Android Sqlite orm的db工具类，比较显著的特点就是配合 https://git
 项目地址：https://github.com/SimonVT/schematic  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. DBFlow  
+Android SQLite ORM工具库。综合了 Active Android, Schematic, Ollie,Sprinkles等库的优点；通过注解实现，性能好；能生成ContentProvider。  
+项目地址：https://github.com/Raizlabs/DBFlow    
+文档介绍：https://github.com/Raizlabs/DBFlow#usage-docs    
+
 #### 五、Android公共库  
 1. Guava  
 Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
@@ -1421,6 +1453,10 @@ SAF(Simple Android Framework)是一个简单的android框架，它为开发Andro
 (5) Sqlite ORM(sqlite的orm)  
 (6) Router(Activity、Fragment的Router)  
 (7) Utils(各种常用的工具类) 
+
+1. Barber  
+Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中的代码量。由于和 ButterKnife 一样使用了 Annotation Proccessor ，所以对程序性能没有影响。  
+项目地址：https://github.com/hzsweers/barber  
 
 #### 六、Android 高版本向低版本兼容  
 1. ActionBarSherlock  
@@ -1967,6 +2003,12 @@ APK地址：https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxth
 定时更换桌面精美壁纸  
 项目地址：https://github.com/romannurik/muzei  
 APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei  
+
+(14) Scanbook  
+扫描搜索查询图书信息  
+项目地址：https://github.com/JayFang1993/ScanBook  
+APK地址：http://www.wandoujia.com/apps/com.scanbook   
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## 第四部分 开发工具及测试工具  
