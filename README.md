@@ -1,8 +1,8 @@
 Android开源项目分类汇总
 ====================
 
-####[Android 开源项目源码解析第一期(Volley、UIL、Dagger、EventBus、xUtils 等等分析)](http://codekk.com/open-source-project-analysis)  
-####[Android 职位内部推荐(阿里、百度、美团、点评、魅族等等)](http://codekk.com/jobs)  
+####<a href="http://codekk.com/open-source-project-analysis" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、xUtils 等分析)</a>  
+####<a href="http://codekk.com/jobs" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
 
 `codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
 > 我们的网站：[www.codekk.com](http://codekk.com)  
