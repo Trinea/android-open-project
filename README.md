@@ -630,6 +630,7 @@ Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/dem
 
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
+
 1. android-flowtextview  
 文字自动环绕其他View的Layout  
 项目地址：https://github.com/deano2390/FlowTextView  
