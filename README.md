@@ -1933,6 +1933,12 @@ Android Wear 数据同步和消息传送库
 效果图：![DebugLog](https://camo.githubusercontent.com/37deffede9f9b185886da48e96a4829ebd407260/68747470733a2f2f7261772e6769746875622e636f6d2f4d75737461666146657268616e2f44656275674c6f672f6d61737465722f44656275674c6f672d44656d6f2f6173736574732f7373322e6a7067) 
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Logger  
+简单、美观而且十分强大的Android日志工具  
+项目地址：https://github.com/orhanobut/logger  
+Demo地址：https://github.com/orhanobut/logger/tree/master/app  
+效果图：![Renderings](https://github.com/orhanobut/logger/blob/master/images/description.png)  
+
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
