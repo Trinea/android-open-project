@@ -1426,7 +1426,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 基于Afinal，包含DbUtils、ViewUtils、HttpUtils、BitmapUtils四大模块，可用于快速开发  
 项目地址：https://github.com/wyouflf/xUtils  
 
-1. Afinal  
+1. Afinal  and
 Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据  
 项目地址：https://github.com/yangfuhai/afinal  
 官网网址：http://www.afinal.org  
@@ -1996,6 +1996,11 @@ APK地址：https://play.google.com/store/apps/details?id=nl.mpcjanssen.todotxth
 APK地址：https://play.google.com/store/apps/details?id=net.nurik.roman.muzei  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
+(14) iosched
+The Google I/O 2014 Android App  
+项目地址：https://github.com/google/iosched  
+APK地址：https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
+
 ## 第四部分 开发工具及测试工具  
 主要介绍和Android开发工具和测试工具相关的开源项目。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 一、开发效率工具  
@@ -2137,6 +2142,14 @@ APT是腾讯开源的一个Android平台高效性能测试组件，提供丰富�
 py-uiautomator是一个对Android uiautomator用python进行封装的测试框架.  
 项目地址：https://github.com/xiaocong/uiautomator  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. Android py-uiautomator  
+Augmented Traffic Control: A tool to simulate network conditions(模拟网络状况)  
+项目地址：https://github.com/facebook/augmented-traffic-control
+
+1. stetho  
+Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. 使用chrome来调试android设备  
+项目地址：https://github.com/facebook/stetho
 
 #### 四、开发及编译环境  
 1. Buck  
