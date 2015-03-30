@@ -1290,8 +1290,13 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 项目地址：https://github.com/etao-open-source/cube-sdk  
 Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
 效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
-文档介绍：http://cube-sdk.liaohuqiu.net/  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+文档介绍：http://cube-sdk.liaohuqiu.net/    
+
+1. fresco  
+一款强大的图片缓存工具，由facebook开发
+项目地址：https://github.com/facebook/fresco
+文档介绍：http://frescolib.org/
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 三、网络相关  
 1. Asynchronous Http Client for Android  
