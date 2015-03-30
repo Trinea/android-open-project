@@ -1293,9 +1293,15 @@ Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.ap
 文档介绍：http://cube-sdk.liaohuqiu.net/    
 
 1. fresco  
-一款强大的图片缓存工具，由facebook开发
-项目地址：https://github.com/facebook/fresco
-文档介绍：http://frescolib.org/
+一款强大的图片缓存工具，由 Facebook开发  
+项目地址：https://github.com/facebook/fresco  
+文档介绍：http://frescolib.org/  
+特点：(1) 两个内存缓存加上磁盘缓存构成了三级缓存  
+(2) 支持流式，可以类似网页上模糊渐进式显示图片  
+(3) 对多帧动画图片支持更好，如 Gif、WebP  
+(4) 更多样的显示，如圆角、进度条、点击重试、自定义对焦点  
+(5) 更多样的加载，如支持 EXIF、全面支持 WebP  
+(6) 支持 Android 2.3+  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 三、网络相关  
