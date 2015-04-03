@@ -203,6 +203,11 @@ APP示例：手机QQV5.0
 项目地址：https://github.com/traex/CalendarListview  
 效果图：![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)  
 
+1. CalendarSelecter  
+通过ViewPager和ListView选择日期的日历
+项目地址：https://github.com/guanchao/ScrollerCalendar  
+效果图：![Renderings](https://github.com/Chaoba/android-CalendarSelecter/blob/master/demo.gif)  
+
 1. sticky-headers-recyclerview  
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现  
 项目地址：https://github.com/timehop/sticky-headers-recyclerview  
