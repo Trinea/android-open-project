@@ -240,7 +240,7 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 
 1. CalendarSelecter  
 通过ViewPager和ListView选择日期的日历
-项目地址：https://github.com/guanchao/ScrollerCalendar
+项目地址：https://github.com/guanchao/ScrollerCalendar  
 效果图：![Renderings](https://github.com/Chaoba/android-CalendarSelecter/blob/master/demo.gif)  
 
 #### 二、ActionBar  
