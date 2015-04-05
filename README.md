@@ -561,6 +561,10 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 效果图：![Renderings](https://raw.githubusercontent.com/amulyakhare/TextDrawable/master/screens/screen7.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. android-smart-image-view  
+可从URL或contact address book加载图片的ImageView，支持缓存  
+项目地址：https://github.com/loopj/android-smart-image-view  
+
 #### 七、ProgressBar  
 1. SmoothProgressBar  
 水平进度条  
