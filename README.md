@@ -981,7 +981,7 @@ APP示例：Wordpress Android，Google Analytics
 文档介绍：https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
 1. XCL-Charts  
-XCL-Charts基于原生的Canvas来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持3D/非3D柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆���图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。  
+XCL-Charts基于原生的Canvas来绘制各种图表,在设计时，尽量在保证开发效率的同时，给使用者提供足够多的定制化能力。因此使用简便,同时具有相当灵活的定制能力。目前支持3D/非3D柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆积图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、圆形图(Circle Chart)等图表。其它特性还包括支持图表缩放、手势移动、动画显示效果、高密度柱形显示、图表分界定制线、多图表的混合显示及同数据源不同类型图表切换等。  
 项目地址：https://github.com/xcltapestry/XCL-Charts  
 Demo地址：https://github.com/xcltapestry/XCL-Charts/blob/master/XCL-Charts-demo/bin/XCL-Charts-demo.apk?raw=true  
 
@@ -1298,9 +1298,15 @@ Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.ap
 文档介绍：http://cube-sdk.liaohuqiu.net/    
 
 1. fresco  
-一款强大的图片缓存工具，由facebook开发
-项目地址：https://github.com/facebook/fresco
-文档介绍：http://frescolib.org/
+一款强大的图片缓存工具，由 Facebook开发  
+项目地址：https://github.com/facebook/fresco  
+文档介绍：http://frescolib.org/  
+特点：(1) 两个内存缓存加上磁盘缓存构成了三级缓存  
+(2) 支持流式，可以类似网页上模糊渐进式显示图片  
+(3) 对多帧动画图片支持更好，如 Gif、WebP  
+(4) 更多样的显示，如圆角、进度条、点击重试、自定义对焦点  
+(5) 更多样的加载，如支持 EXIF、全面支持 WebP  
+(6) 支持 Android 2.3+  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 三、网络相关  
