@@ -442,6 +442,12 @@ APP示例：iReader
 项目地址：https://github.com/LuckyJayce/ViewPagerIndicator  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. ScreenSlideIndicator
+轻量级的圆形 Indicadtor，位置可以自由调整，不会对 ViewPager 产生任何影响。
+项目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+效果图：
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
+
 #### 五、GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
