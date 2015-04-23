@@ -442,6 +442,12 @@ APP示例：iReader
 项目地址：https://github.com/LuckyJayce/ViewPagerIndicator  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. ScreenSlideIndicator  
+轻量级的圆形 Indicadtor，位置可以自由调整，不会对 ViewPager 产生任何影响。  
+项目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)  
+效果图：  
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
+
 #### 五、GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
@@ -1221,6 +1227,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.material
 一个简单的Android对话框，支持不同的弹出模式  
 项目地址：https://github.com/orhanobut/dialogplus  
 效果图：![Renderings](https://github.com/orhanobut/dialogplus/blob/master/images/d1.png)  
+
+1. FlowLayout  
+一个简单的流式布局，用法类似 LinearLayout，但是能够让子元素根据宽度自动换行  
+项目地址：[FLowLayout](https://github.com/LyndonChin/AndroidFlowLayout)  
+效果图：  
+![Renderings](http://img02.taobaocdn.com/imgextra/i2/160310864/TB2MH8.bVXXXXa3XXXXXXXXXXXX_!!160310864.png)
 
 ## 第二部分 工具库  
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络相关、数据库ORM建模、Android公共库、Android 高版本向低版本兼容、多媒体相关及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
