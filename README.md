@@ -1314,15 +1314,12 @@ Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.ap
 (4) 更多样的显示，如圆角、进度条、点击重试、自定义对焦点  
 (5) 更多样的加载，如支持 EXIF、全面支持 WebP  
 (6) 支持 Android 2.3+  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 6. Glide
-
 Glide 是一个android平台上的快速和高效的开源的多媒体资源管理库,提供 多媒体文件的压缩,内存和磁盘缓存, 资源池的接口
 它可以最大性能地在Android设备上读取、解码、显示图片和视频。Glide可以将远程的图片、视频、动画图片等缓存在设备本地便于提高用户浏览图片的流畅体验。
 项目地址：https://github.com/bumptech/glide
 特点：
-
 (1) GIF动画的解码</br>
 (2) 本地视频剧照的解码</br>
 (3) 支持缩略图</br>
@@ -1330,6 +1327,7 @@ Glide 是一个android平台上的快速和高效的开源的多媒体资源管�
 (5) 转码的支持</br>
 (6) 动画的支持</br>
 (7) OkHttp和Volley的支持</br>
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 三、网络相关  
 1. Asynchronous Http Client for Android  
