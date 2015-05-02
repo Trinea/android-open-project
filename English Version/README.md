@@ -65,6 +65,11 @@ Project Address: https://github.com/47deg/android-swipelistview
 Demo Apk: https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 Similar App: 微信  
    
+1. RecyclerViewSwipeDismiss  
+lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`   
+Project Address：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
+Renderings: ![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)     
+   
 1. Android-SwipeToDismiss  
 Android swipe to dismiss listView  
 Project Address: https://github.com/romannurik/Android-SwipeToDismiss  

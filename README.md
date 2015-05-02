@@ -80,6 +80,11 @@ APP示例：微信
 项目地址：https://github.com/romannurik/Android-SwipeToDismiss  
 Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.apk/qr_code  
 
+1. RecyclerViewSwipeDismiss  
+轻量级支持support-v7中的RecyclerView的滑动删除(Swipe to dismiss)行为，不需要修改源代码，只要简单的绑定`onTouchListener`   
+项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
+效果图：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)  
+
 1. PinnedHeaderExpandableListView  
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
