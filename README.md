@@ -1956,6 +1956,7 @@ Demo地址：https://github.com/orhanobut/logger/tree/master/app
 1. Phrase
 square组开源大牛写的字符串替换类    
 项目地址：https://github.com/square/phrase    
+
 1. ColorPhrase
 模仿phrase写的对字符串个别字符颜色改变的类，高效强大！    
 项目地址：https://github.com/THEONE10211024/ColorPhrase    
