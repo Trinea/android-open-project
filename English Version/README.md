@@ -1126,6 +1126,15 @@ Gesture detector framework for multitouch handling on Android
 Project Address: https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. PinyinSearch  
+A Java Library Which provide data analysis methods, data matching method and so on for T9 pinyin search and Qwerty pinyin search.  
+Project Address: https://github.com/handsomezhou/PinyinSearchLibrary  
+Demo Apk: https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/PinyinSearchDemo.apk?raw=true  
+Renderings:  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/T9_search.png)  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/Qwerty_search.png)  
+Similar App: Contacts app,WeChat Phonebook  
+
 ## 3. Excellent projects  
 Linux  
 Project Address: https://github.com/torvalds/linux  
