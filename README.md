@@ -573,6 +573,11 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 项目地址：https://github.com/castorflex/SmoothProgressBar  
 Demo地址：https://play.google.com/store/apps/details?id=fr.castorflex.android.smoothprogressbar.sample  
 
+1. MaterialProgessBar
+Material Design 的进度条，支持 Android 4.0
+项目地址：https://github.com/DreaminginCodeZH/MaterialProgressBar  
+Demo地址：https://github.com/DreaminginCodeZH/MaterialProgressBar/blob/master/dist/sample.apk  
+
 1. ProgressWheel  
 支持进度显示的圆形ProgressBar  
 项目地址：https://github.com/Todd-Davies/ProgressWheel  
