@@ -418,6 +418,12 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
+1. SmartTabLayout
+自定义的Tab title strip，基于Google Samples中的android-SlidingTabBasic项目，滑动时Indicator可平滑过渡.
+项目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
 1. ViewPager3D  
 ViewPager3D效果  
 项目地址：https://github.com/inovex/ViewPager3D  

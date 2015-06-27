@@ -39,7 +39,7 @@ PS：這個被很多人使用的項目實際有不少bug，推薦使用上面的
 支持 `API LEVEL >= 8`  
 項目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
 Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
-效果图：   
+效果圖：   
 <div>  
     <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
     <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
@@ -294,10 +294,43 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
-1. ViewPager3D  
-ViewPager3D效果  
-項目地址：https://github.com/inovex/ViewPager3D  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. SmartTabLayout
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.
+項目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
+1. ViewPager3D效果
+項目地址：https://github.com/inovex/ViewPager3D
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+
+1. LoopingViewPager
+無限循環的ViewPager
+項目地址：https://github.com/imbryk/LoopingViewPager
+
+1. android_page_curl
+翻書卷曲效果
+項目地址：https://github.com/harism/android_page_curl
+APP示例：iReader
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw
+
+1. ViewPagerIndicator
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+1. ScreenSlideIndicator
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+效果圖：
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -339,7 +372,7 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 1. GridView with Header and Footer    
 和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
 項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
-效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
+效果圖：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -817,7 +850,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/etao-open-source/cube-sdk  
 Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
 文檔介绍：http://cube-sdk.liaohuqiu.net/  
-效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
+效果圖：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、網絡相關  

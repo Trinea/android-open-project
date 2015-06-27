@@ -289,7 +289,36 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.ex
 A custom ViewPager title strip which gives continuous feedback to the user when scrolling.This library has been added some features and utilities based on android-SlidingTabBasic project of Google Samples.  
 Project Address: https://github.com/ogaclejapan/SmartTabLayout  
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
-Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)  
+Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
+1. ViewPager3D
+A ViewPager with 3D effect
+Project Address: https://github.com/inovex/ViewPager3D
+
+1. AnimaTabsview
+A animation effect like 网易云音乐
+Project Address: https://github.com/wuyexiong/transparent-over-animtabsview
+Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+
+1. LoopingViewPager
+A ViewPager which support loop scroll
+Project Address: https://github.com/imbryk/LoopingViewPager
+
+1. android_page_curl
+Paging effect of iReader
+Project Address: https://github.com/harism/android_page_curl
+Demo App:iReader
+Demo: https://www.youtube.com/watch?v=iwu7P5PCpsw
+
+1. ViewPagerIndicator
+A custom ViewPagerIndicator
+Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+1. ScreenSlideIndicator
+Lightweight ViewPager Cycle Indicadtor
+Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
 #### 5. GridView  
 1. StaggeredGridView  
