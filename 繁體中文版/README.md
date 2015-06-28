@@ -332,6 +332,12 @@ APP示例：iReader
 效果圖：
 ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
+1. RecyclerViewPager
+完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。
+項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
+效果圖：
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+
 #### 五、GridView  
 1. StaggeredGridView  
 允許非對齊行的GridView，類似Pinterest的瀑布流，並且跟ListView一樣自帶View緩存，繼承自ViewGroup  
@@ -466,7 +472,33 @@ APP示例：Android4.1時鍾App
 帶數字進度的進度條     
 項目地址：https://github.com/daimajia/NumberProgressBar   
 效果圖：![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. CircularProgressDrawable  
+帶圓形進度顯示的進度條
+項目地址：https://github.com/Sefford/CircularProgressDrawable  
+效果圖：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)  
+
+1. Android-RoundCornerProgressBar  
+Android 圓角 ProgressBar，可自定義圓角顏色和半徑，包括帶 Icon 和不帶 Icon 兩種類型。
+項目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
+效果圖：![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)  
+
+1. circular-progress-button  
+帶進度顯示的Button
+項目地址：https://github.com/dmytrodanylyk/circular-progress-button  
+效果圖：![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)  
+
+1. WaveView  
+壹個波紋效果的 View，可用來做 ProgressBar
+項目地址：https://github.com/john990/WaveView  
+Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
+效果圖：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
+
+1. MaterialLoadingProgressBar
+抽取自SwipeRefreshLayout的Material Design進度指示器
+項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar
+效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
 包括TextView及所有繼承自TextView控件，如EditText、Button、RadioButton  

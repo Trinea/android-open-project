@@ -320,6 +320,12 @@ Lightweight ViewPager Cycle Indicadtor
 Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
+1. RecyclerViewPager
+A ViewPager implemention inherits from RecyclerView. Support fling operation like gallary and custom fling speed. Support Fragment.
+Project Address: [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
+Renderings:
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+
 #### 5. GridView  
 1. StaggeredGridView  
 A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
@@ -454,7 +460,38 @@ Renderings: ![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgr
 Circular progress View button inspired by FFCircularProgressView   
 Project Address: https://github.com/torryharris/TH-ProgressButton    
 Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. NumberProgressBar
+ProgressBar with percentage number
+Project Address:https://github.com/daimajia/NumberProgressBar
+Renderings: ![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)
+
+1. CircularProgressDrawable
+Circular Progress Drawable
+Project Address:https://github.com/Sefford/CircularProgressDrawable
+Renderings: ![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)
+
+1. Android-RoundCornerProgressBar
+Android ProgressBar drawing Round Corner
+Project Address:https://github.com/akexorcist/Android-RoundCornerProgressBar
+Renderings: ![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)
+
+1. circular-progress-button
+Button could switch to show circular progress
+Project Address:https://github.com/dmytrodanylyk/circular-progress-button
+Renderings: ![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)
+
+1. WaveView
+A ProgressBar which showing wave look progress
+Project Address:https://github.com/john990/WaveView
+Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk
+Renderings: ![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)
+
+1. MaterialLoadingProgressBar
+MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)
+Project Address:https://github.com/lsjwzh/MaterialLoadingProgressBar
+Renderings: ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 8. TextView  
 include TextView and other views extend TextView, like EditText, Button, RadioButton and so on  
