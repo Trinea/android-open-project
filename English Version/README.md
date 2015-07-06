@@ -32,6 +32,20 @@ Similar App: Sina Weibo Pages
 Pull to refresh listView for android, There is some bug for this  
 Project Address: https://github.com/johannilsson/android-pulltorefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true   
+
+1. android-Ultra-Pull-to-Refresh    
+It's a replacement for the deprecated pull to refresh solution. It can contain any view you want.
+It's easy to use and more powerful than SwipeRefreshLayout.
+It's well designed, you can customize the UI effect you want as easy as adding a headview to ListView.
+Support `API LEVEL >= 8`
+Project Address: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo Apk: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 Pull to refresh and load more when on bottom listView for android  
@@ -271,6 +285,12 @@ Project Address: https://github.com/astuetz/PagerSlidingTabStrip
 Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. SmartTabLayout  
+A custom ViewPager title strip which gives continuous feedback to the user when scrolling.This library has been added some features and utilities based on android-SlidingTabBasic project of Google Samples.  
+Project Address: https://github.com/ogaclejapan/SmartTabLayout  
+Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
+Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)  
+
 #### 5. GridView  
 1. StaggeredGridView  
 A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
@@ -306,7 +326,12 @@ Demo视频：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Zaker style grid view pager, support dragging & rearrange, using as zaker's main screen. 
 Project Address: https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
+    
+1. GridView with Header and Footer    
+Same with `ListView`. It allows you call `addHeaderView()`, `addFooterView` to add views to GridView.    
+Project Address：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+Renderings：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. ImageView  
@@ -329,7 +354,13 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.
 A fast ImageView that supports rounded corners and ovals or circles  
 Project Address: https://github.com/vinc3m1/RoundedImageView  
 Renderings: ![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
-   
+
+1. SelectableRoundedImageView  
+ImageView that supports different radiuses on each corner. It also supports oval(and circle) shape and border.  
+Project Address: https://github.com/pungrue26/SelectableRoundedImageView  
+Demo Apk: https://play.google.com/store/apps/details?id=com.joooonho  
+Renderings: ![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
+
 1. ColorArt  
 iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display  
 Project Address: https://github.com/MichaelEvans/ColorArt  
@@ -589,6 +620,12 @@ Project Address: https://code.google.com/p/android-lockpattern/
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
   
+1. PatternLock  
+Yet another pattern lock library for Android  
+Project Address：https://github.com/DreaminginCodeZH/PatternLock  
+Demo Apk：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+Renderings：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+   
 1. RangeBar  
 Android widget for selecting a range of values. It provides for the selection of a range of values rather than a single value.  
 Project Address: https://github.com/edmodo/range-bar  
@@ -648,6 +685,12 @@ Project Address: https://github.com/MarkMjw/PullScrollView
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. ArcLayout  
+A very simple arc layout library  
+Project Address: https://github.com/ogaclejapan/ArcLayout  
+Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
+Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
+
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
@@ -692,6 +735,13 @@ Image Cache, support multi caching algorithms
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: http://www.trinea.cn/android/android-imagecache/ 
+
+1. Cube ImageLoader  
+Easy to use, high performance, used in some of the Apps in Alibaba Group.
+Project Address：https://github.com/etao-open-source/cube-sdk  
+Demo Apk：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+Document：http://cube-sdk.liaohuqiu.net/  
+Renderings: ![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Network  

@@ -32,6 +32,20 @@ APP示例：新浪微博各個頁面
 項目地址：https://github.com/johannilsson/android-pulltorefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
 PS：這個被很多人使用的項目實際有不少bug，推薦使用上面的android-pulltorefresh  
+
+1. android-Ultra-Pull-to-Refresh    
+這是現在已經停止維護的下拉刷新項目的替代方案，繼承于ViewGroup, 可以包含任何View，功能比SwipeRefreshLayout強大，稱為終極下拉刷新。
+使用起來非常簡單，良好的設計，如果你想定製自己的UI樣式，那也非常簡單，就像給ListView加一個Header View那麼簡單。
+支持 `API LEVEL >= 8`  
+項目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+效果图：   
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 下拉刷新及滑動到底部加載更多ListView  
@@ -320,7 +334,12 @@ Demo視頻：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的多屏效果，可屏幕自動左右滾動進行Item移動交換，單屏效果見上面DraggableGridView  
 項目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
+
+1. GridView with Header and Footer    
+和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
+項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -700,6 +719,13 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介紹：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
   
+1. PatternLock  
+另一個 Android 圖案解鎖庫  
+項目地址：https://github.com/DreaminginCodeZH/PatternLock  
+Demo地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+效果圖：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
+  
 1. RangeBar  
 類似于SeekBar，不同的是可以選擇一個範圍內的值而不是單個值  
 項目地址：https://github.com/edmodo/range-bar  
@@ -785,6 +811,13 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (4)可方便的保存及初始化恢複數據  
 (5)支持不同類型網絡處理  
 (6)可根據系統配置初始化緩存等  
+
+1. Cube ImageLoader  
+阿里巴巴一些App使用的圖片加載組件，綜合了Android-Universal-Image-Loader 和 square 等組件優點，簡單易用。
+項目地址：https://github.com/etao-open-source/cube-sdk  
+Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+文檔介绍：http://cube-sdk.liaohuqiu.net/  
+效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、網絡相關  
