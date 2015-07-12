@@ -2211,6 +2211,12 @@ dagger的intellij插件
 项目地址：https://github.com/joelittlejohn/jsonschema2pojo  
 在线演示：http://www.jsonschema2pojo.org/  
 
+1. GsonFormat
+根据JSONObject格式的字符串,自动生成实体类参数的 Android Studio/IntelliJ IDEA 插件  
+项目地址：https://github.com/zzz40500/GsonFormat  
+效果图：![GsonFormat](https://camo.githubusercontent.com/fbf4b89e2ec64e80d351f725d11762ebd2b7a515/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d303766333038346262363735386566612e676966)  
+
+
 1. 9-Patch-Resizer  
 自动生成 png 及点 9 图片的不同分辨率版本  
 项目地址：https://github.com/redwarp/9-Patch-Resizer  
