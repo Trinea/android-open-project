@@ -386,6 +386,10 @@ Project Address: https://github.com/MostafaGazar/CustomShapeImageView
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. android-smart-image-view  
+ImageView allows image loading from URLs or contact address book, with caching    
+Project Address: https://github.com/loopj/android-smart-image-view  
+
 #### 7. ProgressBar  
 1. SmoothProgressBar  
 A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar  
