@@ -2220,6 +2220,11 @@ dagger的intellij插件
 项目地址：https://github.com/westlinkin/AndroidLocalizationer  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Material Palette
+一个将现有的色彩方案组合成材料设计的调色板方案，提供下载。
+选取两个主要色彩后便可以提供下载，提供下载的格式可以是android的资源xml文件，以色彩的方式提供，也可以是CSS、SVG、PNG等常见格式文件。
+项目地址: http://www.materialpalette.com/
+
 #### 二、开发自测相关  
 1. Quality Tools for Android  
 Android测试及自测工具集合和示例  
