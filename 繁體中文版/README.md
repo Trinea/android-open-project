@@ -1323,6 +1323,15 @@ Activity跳轉動畫，支持各個方向波浪的效果
 項目地址：https://github.com/EsotericSoftware/kryonet  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. PinyinSearch  
+一個為T9拼音搜索和Qwerty鍵盤搜索,提供數據解析與匹配等方法的java庫。  
+項目地址： https://github.com/handsomezhou/PinyinSearchLibrary  
+Demo地址： https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/PinyinSearchDemo.apk?raw=true  
+效果圖：  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/T9_search.png)  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/Qwerty_search.png)  
+APP示例： 通訊錄應用，微信電話本  
+
 ## 第三部分 優秀項目  
 主要介紹那些Android還不錯的完整項目，目前包含的項目主要依據是項目有意思或項目分層規範比較好。  
 Linux  

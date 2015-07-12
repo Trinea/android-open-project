@@ -2018,6 +2018,15 @@ square组开源大牛写的字符串替换类
 项目地址：https://github.com/THEONE10211024/ColorPhrase    
 效果图：![sample](https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg)    
 
+1. PinyinSearch  
+一个为T9拼音搜索和Qwerty键盘搜索,提供数据解析与匹配等方法的java库。  
+项目地址： https://github.com/handsomezhou/PinyinSearchLibrary  
+Demo地址： https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/PinyinSearchDemo.apk?raw=true  
+效果图：  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/T9_search.png)  
+![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/Qwerty_search.png)  
+APP示例： 通讯录应用,微信电话本  
+
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 Linux  
