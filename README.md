@@ -236,7 +236,6 @@ Header 和 Content Item 都可以展开的 ExpandableListview
 支持paginated header以及material page indicator的ListView.  
 项目地址：https://github.com/JorgeCastilloPrz/PagedHeadListView  
 效果图：![Renderings](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. CustomSwipeListView  
 支持左滑弹出自定义菜单，右滑删除且允许撤销，同时可以自定义滑动动画时间和滑动触发事件的时机等。   
@@ -255,10 +254,16 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
 
 1. ExtractWordView  
-一个可以提取单词的ListView,支持"放大镜"效果.  
+一个可以提取单词的ListView,支持"放大镜"效果。  
 项目地址：https://github.com/jcodeing/ExtractWordView  
 效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)  
-Demo地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/ExtractWordView-demo.apk)   
+Demo地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/ExtractWordView-demo.apk)  
+
+1. FlyRefresh  
+支持ListView, GridView, RecyclerView, ScrollView的下拉刷新  
+项目地址：https://github.com/race604/FlyRefresh  
+效果图：![Renderings](https://raw.githubusercontent.com/race604/FlyRefresh/master/images/flyrefresh.gif)  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、ActionBar  
 1. ActionBarSherlock  
