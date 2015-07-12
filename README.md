@@ -470,6 +470,21 @@ APP示例：iReader
 效果图：  
 ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
+1. SmartTabLayout  
+ A custom ViewPager title strip which gives continuous feedback to the user when scrolling.This library has been added some features and utilities based on android-SlidingTabBasic project of Google Samples.  
+ 自定义标题:viewpage地带使连续滚动时反馈给用户。这个库添加了一些功能和实用程序基于谷歌android-SlidingTabBasic工程样品。  
+ 项目地址: https://github.com/ogaclejapan/SmartTabLayout  
+ App示例: https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
+ 效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)  
+ 
+1. AndroidImageSlider  
+An amazing and convenient Android image slider.  
+一个了不起的滑块和方便Android 图片滑动。
+项目地址: https://github.com/daimajia/AndroidImageSlider  
+App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
+Eclipse工程: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.9/AndroidImageSlider-Eclipse.zip        
+效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)  
+
 #### 五、GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  
@@ -820,6 +835,13 @@ Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.ap
 仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。  
 项目地址：https://github.com/MarkMjw/PullScrollView  
 效果图：![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
+
+1. ArcLayout  
+一个非常简单的弧布局库 
+项目地址: https://github.com/ogaclejapan/ArcLayout  
+Demo地址k: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
+效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)  
+![renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)  
 
 1. ParallaxScrollView  
 支持视差滚动的ScrollView ，背景图片的滚动速度小于ScrollView中子控件的滚动速度  
