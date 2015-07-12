@@ -248,6 +248,12 @@ Demo地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustomS
 项目地址：https://github.com/guanchao/ScrollerCalendar  
 效果图：![Renderings](https://raw.githubusercontent.com/guanchao/ScrollerCalendar/master/images/sample2.gif)  
 
+1. ExtractWordView  
+一个可以提取单词的ListView,支持"放大镜"效果.  
+项目地址：https://github.com/jcodeing/ExtractWordView  
+效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)  
+Demo地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/ExtractWordView-demo.apk)   
+
 #### 二、ActionBar  
 1. ActionBarSherlock  
 为Android所有版本提供统一的ActionBar，解决4.0以下ActionBar的适配问题  
