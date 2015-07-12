@@ -2009,6 +2009,14 @@ Android Wear 数据同步和消息传送库
 项目地址：https://github.com/orhanobut/logger  
 Demo地址：https://github.com/orhanobut/logger/tree/master/app  
 效果图：![Renderings](https://github.com/orhanobut/logger/blob/master/images/description.png)  
+1. Phrase
+square组开源大牛写的字符串替换类    
+项目地址：https://github.com/square/phrase    
+
+1. ColorPhrase
+模仿phrase写的对字符串个别字符颜色改变的类，高效强大！    
+项目地址：https://github.com/THEONE10211024/ColorPhrase    
+效果图：![sample](https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg)    
 
 ## 第三部分 优秀项目  
 主要介绍那些Android还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
