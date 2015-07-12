@@ -64,6 +64,11 @@ APP示例：Wordpress Android
 項目地址：https://github.com/47deg/android-swipelistview  
 Demo地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP示例：微信  
+
+1. RecyclerViewSwipeDismiss  
+輕量級支持support-v7中的RecyclerView的滑動刪除(Swipe to dismiss)行為，不需要修改源代碼，只要間單的邦定`onTouchListener`   
+項目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
+效果圖：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif) 
    
 1. Android-SwipeToDismiss  
 滑動Item消失ListView  
