@@ -83,7 +83,7 @@ Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.
 1. RecyclerViewSwipeDismiss  
 轻量级支持support-v7中的RecyclerView的滑动删除(Swipe to dismiss)行为，不需要修改源代码，只要简单的绑定`onTouchListener`  
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss  
-效果图：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif) 
+效果图：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)  
 
 1. PinnedHeaderExpandableListView  
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
@@ -261,9 +261,14 @@ Demo地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractW
 1. MVCHelper  
 实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，真正的MVC架构  
 支持切换主流下拉刷新框架 Android-PullToRefresh-Library,android-Ultra-Pull-To-Refresh-library，SwipeRefreshLayout  
-项目地址: https://github.com/LuckyJayce/MVCHelper  
+项目地址：https://github.com/LuckyJayce/MVCHelper  
 Demo地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_Demo.apk?raw=true  
 
+1. RecyclerViewSwipeDismiss  
+支持滑动 Item 操作、点击展开、拖动排序、展开后拖动排序等特性的 RecyclerView  
+项目地址：https://play.google.com/store/apps/details?id=com.h6ah4i.android.example.advrecyclerview  
+Demo地址：
+视频：http://www.youtube.com/watch?feature=player_embedded&v=S7cSwMArjUQ  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、ActionBar  
@@ -914,16 +919,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.b
 日期控件，支持周，天视图，支持自定义样式  
 项目地址：https://github.com/alamkanak/Android-Week-View  
 效果图：![Renderings](https://github.com/alamkanak/Android-Week-View/blob/master/images/screen-shot.png)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. PickerView  
-仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果  
-——TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式  
-——OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动  
-项目地址：https://github.com/saiwu-bigkoo/Android-PickerView    
-效果图：  
-![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
-
+仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果，TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式；OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动  
+项目地址：https://github.com/saiwu-bigkoo/Android-PickerView  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、TipView  
 包括Toast、角标、UndoBar等提示性控件  
@@ -1025,7 +1026,7 @@ Demo地址：https://raw.github.com/biboune/colorpicker/master/colorpicker-sampl
 
 #### 十四、GraphView  
 1. MPAndroidChart  
-强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图及各种图的结合；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表  
+强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表  
 项目地址：https://github.com/PhilJay/MPAndroidChart  
 Demo地址：https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample  
 Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
