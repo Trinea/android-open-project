@@ -916,6 +916,15 @@ Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.b
 效果图：![Renderings](https://github.com/alamkanak/Android-Week-View/blob/master/images/screen-shot.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. PickerView  
+仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果  
+——TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式  
+——OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动  
+项目地址：https://github.com/saiwu-bigkoo/Android-PickerView    
+效果图：  
+![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
+
+
 #### 十一、TipView  
 包括Toast、角标、UndoBar等提示性控件  
 
