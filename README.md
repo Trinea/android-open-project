@@ -65,7 +65,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 1. WaterDropListView  
 模仿IOS下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
 项目地址：https://github.com/THEONE10211024/WaterDropListView  
-效果图![p1]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
+效果图:  ![p1]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 1. DragSortListView  
 拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
