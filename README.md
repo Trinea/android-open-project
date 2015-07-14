@@ -5,14 +5,14 @@ Android开源项目分类汇总
 ####<a href="http://codekk.com/jobs" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
 
 `codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
-> 我们的网站：[www.codekk.com](http://codekk.com)  
+> 微信公众号：codekk，二维码如下：  
+ ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ 我们的网站：[www.codekk.com](http://codekk.com)  
  我们的微博：[code-kk](http://weibo.com/codek2)  
- 微信公众号：codekk，二维码如下：  
- ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg) 
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
- 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<a title="欢迎邮件与我交流" href="mailto:trinea.cn@gmail.com" target="_blank">trinea.cn#gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;微信：[codek2](# "二维码就是上面那个")  
+ 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>  
 
 
 更多：[Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)  
@@ -62,10 +62,7 @@ Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/mas
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
-1. WaterDropListView  
-模仿IOS下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
-项目地址：https://github.com/THEONE10211024/WaterDropListView  
-效果图:  ![p1]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
+
 1. DragSortListView  
 拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
@@ -272,6 +269,11 @@ Demo地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_D
 项目地址：https://play.google.com/store/apps/details?id=com.h6ah4i.android.example.advrecyclerview  
 Demo地址：
 视频：http://www.youtube.com/watch?feature=player_embedded&v=S7cSwMArjUQ  
+
+1. WaterDropListView  
+模仿 iOS 下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
+项目地址：https://github.com/THEONE10211024/WaterDropListView  
+效果图: ![]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、ActionBar  
@@ -2530,9 +2532,9 @@ Github地址：https://github.com/inmite
 [部分国外著名 Android 开发者信息](https://github.com/android-cn/android-dev-com)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-## Licensewa
+## License
 
-    Copyright 2014 trinea.cn
+    Copyright 2014 [trinea.cn](http://www.trinea.cn/)
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
