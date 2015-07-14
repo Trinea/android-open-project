@@ -62,7 +62,10 @@ Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/mas
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
-
+1. WaterDropListView  
+模仿IOS下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
+项目地址：https://github.com/THEONE10211024/WaterDropListView  
+效果图![p1]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 1. DragSortListView  
 拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
@@ -2404,7 +2407,7 @@ Github地址：https://github.com/inmite
 [部分国外著名 Android 开发者信息](https://github.com/android-cn/android-dev-com)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-## License
+## Licensewa
 
     Copyright 2014 trinea.cn
 
