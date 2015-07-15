@@ -83,7 +83,8 @@ Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.
 1. RecyclerViewSwipeDismiss  
 轻量级支持support-v7中的RecyclerView的滑动删除(Swipe to dismiss)行为，不需要修改源代码，只要简单的绑定`onTouchListener`  
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss  
-效果图：![Renderings](https://github.com/CodeFalling/RecyclerViewSwipeDismiss/blob/master/RecyclerViewSwipeDismiss.gif)
+效果图：![Renderings](https://raw.githubusercontent.com/CodeFalling/RecyclerViewSwipeDismiss/master/RecyclerViewSwipeDismiss.gif)  
+
 1. PinnedHeaderExpandableListView  
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
@@ -272,7 +273,7 @@ Demo地址：
 1. WaterDropListView  
 模仿 iOS 下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
 项目地址：https://github.com/THEONE10211024/WaterDropListView  
-效果图: ![]( https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
+效果图: ![](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、ActionBar  
@@ -402,13 +403,13 @@ Material Design 形式的展开折叠Icon
 1. Droppy  
 支持多种样式的下拉菜单  
 项目地址：https://github.com/shehabic/Droppy  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. MaterialDrawer  
 Material Design 风格的导航抽屉，提供简便且强大的定制功能  
 项目地址：https://github.com/mikepenz/MaterialDrawer   
 Demo地址：https://play.google.com/store/apps/details？id=com.mikepenz.materialdrawer.app  
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
