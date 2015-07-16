@@ -452,10 +452,6 @@ Project Address: https://github.com/flavioarfaria/KenBurnsView
 Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.    
 Project Address: https://github.com/MostafaGazar/CustomShapeImageView     
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
-
-1. android-smart-image-view  
-ImageView allows image loading from URLs or contact address book, with caching    
-Project Address: https://github.com/loopj/android-smart-image-view  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. ProgressBar  
@@ -1227,15 +1223,6 @@ Demo Apk: https://github.com/Comcast/FreeFlow/releases
 1. Android Gesture Detectors Framework  
 Gesture detector framework for multitouch handling on Android  
 Project Address: https://github.com/Almeros/android-gesture-detectors  
-
-1. PinyinSearch  
-A Java Library Which provide data analysis methods, data matching method and so on for T9 pinyin search and Qwerty pinyin search.  
-Project Address: https://github.com/handsomezhou/PinyinSearchLibrary  
-Demo Apk: https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/PinyinSearchDemo.apk?raw=true  
-Renderings:  
-![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/T9_search.png)  
-![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/Qwerty_search.png)  
-Similar App: Contacts app,WeChat Phonebook  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## 3. Excellent projects  

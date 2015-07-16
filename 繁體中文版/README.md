@@ -299,6 +299,11 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
+1. SmartTabLayout    
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.    
+項目地址：https://github.com/ogaclejapan/SmartTabLayout    
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo    
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)    
 
 1. SmartTabLayout
 自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.
@@ -342,6 +347,40 @@ APP示例：iReader
 項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
 效果圖：
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+
+1. ViewPager3D效果    
+項目地址：https://github.com/inovex/ViewPager3D 
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角    
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview    
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
+
+1. LoopingViewPager    
+無限循環的ViewPager    
+項目地址：https://github.com/imbryk/LoopingViewPager    
+
+1. android_page_curl    
+翻書卷曲效果    
+項目地址：https://github.com/harism/android_page_curl    
+APP示例：iReader    
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw    
+
+1. ViewPagerIndicator    
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動    
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator    
+
+1. ScreenSlideIndicator    
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。    
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)    
+效果圖：    
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)    
+
+1. RecyclerViewPager    
+完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。    
+項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
+效果圖：    
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)    
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -433,10 +472,6 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 效果圖：![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-1. android-smart-image-view  
-可從URL或contact address book加載圖片的ImageView，支持緩存  
-項目地址：https://github.com/loopj/android-smart-image-view  
-
 #### 七、ProgressBar  
 1. SmoothProgressBar  
 水平進度條  
@@ -483,30 +518,32 @@ APP示例：Android4.1時鍾App
 效果圖：![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)  
 
 1. CircularProgressDrawable  
-帶圓形進度顯示的進度條
+帶圓形進度顯示的進度條    
 項目地址：https://github.com/Sefford/CircularProgressDrawable  
-效果圖：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)  
+效果圖：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)    
 
 1. Android-RoundCornerProgressBar  
-Android 圓角 ProgressBar，可自定義圓角顏色和半徑，包括帶 Icon 和不帶 Icon 兩種類型。
+Android 圓角 ProgressBar，可自定義圓角顏色和半徑，包括帶 Icon 和不帶 Icon 兩種類型。    
 項目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
-效果圖：![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)  
-
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)      
 1. circular-progress-button  
-帶進度顯示的Button
+帶進度顯示的Button    
 項目地址：https://github.com/dmytrodanylyk/circular-progress-button  
-效果圖：![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)  
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)      
 
 1. WaveView  
-壹個波紋效果的 View，可用來做 ProgressBar
+壹個波紋效果的 View，可用來做 ProgressBar    
 項目地址：https://github.com/john990/WaveView  
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
-效果圖：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
+效果圖：    
+![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
 
-1. MaterialLoadingProgressBar
-抽取自SwipeRefreshLayout的Material Design進度指示器
-項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar
-效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design進度指示器    
+項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
@@ -1387,15 +1424,6 @@ Activity跳轉動畫，支持各個方向波浪的效果
 通過NIO提供客戶端和服務器端TCP/UDP網絡傳輸的Java庫  
 項目地址：https://github.com/EsotericSoftware/kryonet  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
-
-1. PinyinSearch  
-一個為T9拼音搜索和Qwerty鍵盤搜索,提供數據解析與匹配等方法的java庫。  
-項目地址： https://github.com/handsomezhou/PinyinSearchLibrary  
-Demo地址： https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/PinyinSearchDemo.apk?raw=true  
-效果圖：  
-![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/T9_search.png)  
-![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/Qwerty_search.png)  
-APP示例： 通訊錄應用，微信電話本  
 
 ## 第三部分 優秀項目  
 主要介紹那些Android還不錯的完整項目，目前包含的項目主要依據是項目有意思或項目分層規範比較好。  
