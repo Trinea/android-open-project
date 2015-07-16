@@ -466,6 +466,12 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
+1. SmartTabLayout
+自定义的Tab title strip，基于Google Samples中的android-SlidingTabBasic项目，滑动时Indicator可平滑过渡.
+项目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
 1. ViewPager3D  
 ViewPager3D效果  
 项目地址：https://github.com/inovex/ViewPager3D  
@@ -504,8 +510,14 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smart
 Android 图片滑动  
 项目地址: https://github.com/daimajia/AndroidImageSlider  
 App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
-效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   
+
+1. RecyclerViewPager    
+完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持垂直方向的ViewPager，支持Fragment。    
+项目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
+效果图：
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>    
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -700,7 +712,12 @@ Android 圆角 ProgressBar，可自定义圆角颜色和半径，包括带 Icon 
 项目地址：https://github.com/john990/WaveView  
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design进度指示器    
+项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果图：    ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
@@ -1535,6 +1552,14 @@ Android SQLite ORM工具库。综合了 Active Android, Schematic, Ollie,Sprinkl
 Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 项目地址：https://code.google.com/p/guava-libraries/  
 文档介绍：https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
+
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
+
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
 
 1. AndroidCommon  
 Android公共库  
