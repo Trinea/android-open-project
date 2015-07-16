@@ -520,13 +520,6 @@ App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>    
 
-1. RecyclerViewPager    
-完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持垂直方向的ViewPager，支持Fragment。    
-项目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
-效果图：
-![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)   
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>    
-
 #### 五、GridView  
 1. StaggeredGridView  
 允许非对齐行的GridView，类似Pinterest的瀑布流，并且跟ListView一样自带View缓存，继承自ViewGroup  

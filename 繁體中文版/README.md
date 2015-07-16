@@ -334,19 +334,12 @@ APP示例：iReader
 1. ViewPagerIndicator
 簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動
 項目地址：https://github.com/LuckyJayce/ViewPagerIndicator
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. ScreenSlideIndicator
 輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。
 項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 效果圖：
 ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
-
-1. RecyclerViewPager
-完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。
-項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
-效果圖：
-![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
 
 1. ViewPager3D效果    
 項目地址：https://github.com/inovex/ViewPager3D 
@@ -380,7 +373,8 @@ APP示例：iReader
 完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。    
 項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
 效果圖：    
-![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)    
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -580,7 +574,7 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 項目地址：https://github.com/kpbird/chips-edittext-library  
 Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
 
-1. AutoFitTextView  
+1. AutoFitTextView
 可固定邊界內容字體大小自適應的TextView    
 項目地址：https://github.com/grantland/android-autofittextview  
 
