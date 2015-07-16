@@ -295,14 +295,14 @@ Project Address: https://github.com/ogaclejapan/SmartTabLayout
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
 
-1. ViewPager3D
-A ViewPager with 3D effect
-Project Address: https://github.com/inovex/ViewPager3D
+1. ViewPager3D    
+A ViewPager with 3D effect    
+Project Address: https://github.com/inovex/ViewPager3D    
 
-1. AnimaTabsview
-A animation effect like 网易云音乐
-Project Address: https://github.com/wuyexiong/transparent-over-animtabsview
-Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+1. AnimaTabsview    
+A animation effect like 网易云音乐    
+Project Address: https://github.com/wuyexiong/transparent-over-animtabsview   
+Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
 
 1. LoopingViewPager
 A ViewPager which support loop scroll
