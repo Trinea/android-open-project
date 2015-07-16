@@ -714,10 +714,10 @@ Android 圆角 ProgressBar，可自定义圆角颜色和半径，包括带 Icon 
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
 
-1. MaterialLoadingProgressBar
-抽取自SwipeRefreshLayout的Material Design进度指示器
-项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar
-效果图：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design进度指示器    
+项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果图：    ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
