@@ -510,8 +510,7 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smart
 Android 图片滑动  
 项目地址: https://github.com/daimajia/AndroidImageSlider  
 App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
-效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   
 
 1. RecyclerViewPager    
 完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持垂直方向的ViewPager，支持Fragment。    
