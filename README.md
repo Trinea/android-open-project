@@ -5,14 +5,14 @@ Android开源项目分类汇总
 ####<a href="http://codekk.com/jobs" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
 
 `codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
-> 我们的网站：[www.codekk.com](http://codekk.com)  
+> 微信公众号：codekk，二维码如下：  
+ ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ 我们的网站：[www.codekk.com](http://codekk.com)  
  我们的微博：[code-kk](http://weibo.com/codek2)  
- 微信公众号：codekk，二维码如下：  
- ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg) 
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
- 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<a title="欢迎邮件与我交流" href="mailto:trinea.cn@gmail.com" target="_blank">trinea.cn#gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;微信：[codek2](# "二维码就是上面那个")  
+ 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>  
 
 
 更多：[Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)  
@@ -83,7 +83,7 @@ Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.
 1. RecyclerViewSwipeDismiss  
 轻量级支持support-v7中的RecyclerView的滑动删除(Swipe to dismiss)行为，不需要修改源代码，只要简单的绑定`onTouchListener`  
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss  
-效果图：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif) 
+效果图：![Renderings](https://raw.githubusercontent.com/CodeFalling/RecyclerViewSwipeDismiss/master/RecyclerViewSwipeDismiss.gif)  
 
 1. PinnedHeaderExpandableListView  
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
@@ -261,9 +261,19 @@ Demo地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractW
 1. MVCHelper  
 实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，真正的MVC架构  
 支持切换主流下拉刷新框架 Android-PullToRefresh-Library,android-Ultra-Pull-To-Refresh-library，SwipeRefreshLayout  
-项目地址: https://github.com/LuckyJayce/MVCHelper  
+项目地址：https://github.com/LuckyJayce/MVCHelper  
 Demo地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_Demo.apk?raw=true  
 
+1. RecyclerViewSwipeDismiss  
+支持滑动 Item 操作、点击展开、拖动排序、展开后拖动排序等特性的 RecyclerView  
+项目地址：https://play.google.com/store/apps/details?id=com.h6ah4i.android.example.advrecyclerview  
+Demo地址：
+视频：http://www.youtube.com/watch?feature=player_embedded&v=S7cSwMArjUQ  
+
+1. WaterDropListView  
+模仿 iOS 下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
+项目地址：https://github.com/THEONE10211024/WaterDropListView  
+效果图: ![](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、ActionBar  
@@ -393,6 +403,12 @@ Material Design 形式的展开折叠Icon
 1. Droppy  
 支持多种样式的下拉菜单  
 项目地址：https://github.com/shehabic/Droppy  
+
+1. MaterialDrawer  
+Material Design 风格的导航抽屉，提供简便且强大的定制功能  
+项目地址：https://github.com/mikepenz/MaterialDrawer   
+Demo地址：https://play.google.com/store/apps/details？id=com.mikepenz.materialdrawer.app  
+效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 四、ViewPager 、Gallery  
@@ -450,6 +466,12 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
+1. SmartTabLayout
+自定义的Tab title strip，基于Google Samples中的android-SlidingTabBasic项目，滑动时Indicator可平滑过渡.
+项目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
 1. ViewPager3D  
 ViewPager3D效果  
 项目地址：https://github.com/inovex/ViewPager3D  
@@ -488,8 +510,14 @@ Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smart
 Android 图片滑动  
 项目地址: https://github.com/daimajia/AndroidImageSlider  
 App示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
-效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   
+
+1. RecyclerViewPager    
+完全继承自RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持垂直方向的ViewPager，支持Fragment。    
+项目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
+效果图：
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>    
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -684,7 +712,12 @@ Android 圆角 ProgressBar，可自定义圆角颜色和半径，包括带 Icon 
 项目地址：https://github.com/john990/WaveView  
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design进度指示器    
+项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果图：    ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
@@ -914,6 +947,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.doomonafireball.b
 日期控件，支持周，天视图，支持自定义样式  
 项目地址：https://github.com/alamkanak/Android-Week-View  
 效果图：![Renderings](https://github.com/alamkanak/Android-Week-View/blob/master/images/screen-shot.png)  
+
+1. PickerView  
+仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果，TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式；OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动  
+项目地址：https://github.com/saiwu-bigkoo/Android-PickerView  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十一、TipView  
@@ -1016,7 +1054,7 @@ Demo地址：https://raw.github.com/biboune/colorpicker/master/colorpicker-sampl
 
 #### 十四、GraphView  
 1. MPAndroidChart  
-强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图及各种图的结合；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表  
+强大的图表绘制工具，支持折线图、面积图、散点图、时间图、柱状图、条图、饼图、气泡图、圆环图、范围（高至低）条形图、网状图等；支持图的拖拽缩放；支持 Android 2.2 以上，支持横纵轴缩放，多指缩放，展现动画、高亮、保存到 sdcard、从文件读取图表  
 项目地址：https://github.com/PhilJay/MPAndroidChart  
 Demo地址：https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample  
 Demo项目：https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample  
@@ -1106,6 +1144,11 @@ Android 扁平化风格的组件，支持一些自定义样式
 项目地址：https://github.com/eluleci/FlatUI  
 效果图：![Renderings](https://camo.githubusercontent.com/590d4a2ac322417b71f83223bd58b83903d58343/68747470733a2f2f7261772e6769746875622e636f6d2f656c756c6563692f466c617455492f6d61737465722f73616d706c652d696d616765732f73686f77636173652e706e67)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. cheesesquare  
+全新 Android 设计库演示 Demo，包括 Collapsing Toolbar、FloatingActionButton、View anchoring、NavigationView、Snackbar    
+项目地址：https://github.com/chrisbanes/cheesesquare  
+效果图：![Renderings](http://7xikfc.com1.z0.glb.clouddn.com/Screenshot_2015-07-17-12-22-07.png)  
 
 #### 十六、其他  
 1. SwipeBackLayout  
@@ -1514,6 +1557,14 @@ Android SQLite ORM工具库。综合了 Active Android, Schematic, Ollie,Sprinkl
 Google的基于java1.6的类库集合的扩展项目，包括collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O等等. 这些高质量的API可以使你的JAVa代码更加优雅，更加简洁  
 项目地址：https://code.google.com/p/guava-libraries/  
 文档介绍：https://code.google.com/p/guava-libraries/wiki/GuavaExplained  
+
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
+
+1. TwistVolley  
+TwistVolley是对Volley的一个封装库。提供类似Picasso一样的串联式API。使得使用Volley更加方便
+项目地址：https://github.com/TwistedEquations/TwistVolley
 
 1. AndroidCommon  
 Android公共库  
@@ -2519,7 +2570,7 @@ Github地址：https://github.com/inmite
 
 ## License
 
-    Copyright 2014 trinea.cn
+    Copyright 2014 [trinea.cn](http://www.trinea.cn/)
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
