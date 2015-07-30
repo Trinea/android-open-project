@@ -495,7 +495,7 @@ APP 示例：iReader
 1. ScreenSlideIndicator  
 轻量级的圆形 Indicadtor，位置可以自由调整，不会对 ViewPager 产生任何影响。  
 项目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)  
-效果图：![Renderings](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)  
+效果图：![Renderings](https://github.com/LyndonChin/AndroidScreenSlidePager/raw/master/art/sample.gif)  
 
 1. SmartTabLayout  
 自定义的 Tab title strip，基于 Google Samples 中的 android-SlidingTabBasic 项目，滑动时 Indicator 可平滑过渡。  
@@ -717,6 +717,7 @@ Demo 地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/de
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
+
 1. android-flowtextview  
 文字自动环绕其他 View 的 Layout  
 项目地址：https://github.com/deano2390/FlowTextView  
@@ -900,6 +901,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.github.ksoichiro
 
 #### 十、TimeView
 包括 TimePicker、DatePicker、CalendarView、Clock 等时间相关控件  
+
 1. android-times-square  
 Android 日历时间部件，支持选取单个日期，多个日期，及日期区间段和对话框形式显示  
 项目地址：https://github.com/square/android-times-square  
@@ -945,6 +947,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.doomonafireball.
 
 #### 十一、TipView
 包括 Toast、角标、UndoBar 等提示性控件  
+
 1. Crouton  
 丰富样式的 Toast，允许 alert、comfirm、info 样式及点击消失样式，允许设置 Toast 显示时间，允许自定义 View。 本文 32. SuperToasts 为其扩展版  
 项目地址：https://github.com/keyboardsurfer/Crouton  
@@ -1098,6 +1101,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=lecho.lib.hellochart
 
 #### 十五、UI Style
 不同样式的系统 UI 风格，如 IOS、Bootstrap 风格  
+
 1. UITableView  
 ios 风格控件，包括 Button、ListView、TableView  
 项目地址：https://github.com/thiagolocatelli/android-uitableview  
@@ -1331,6 +1335,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 
 #### 一、依赖注入 DI
 通过依赖注入减少 View、服务、资源简化初始化，事件绑定等重复繁琐工作  
+
 1. AndroidAnnotations(Code Diet)  
 android 快速开发框架  
 项目地址：https://github.com/excilys/androidannotations  
@@ -1734,6 +1739,7 @@ android 上开源弹幕解析绘制引擎项目
 
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
+
 1. EventBus  
 greenrobot 的开源项目  
 项目地址：https://github.com/greenrobot/EventBus  
@@ -1852,6 +1858,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.l
 
 #### 十一、插件化
 更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/)  
+
 1. dynamic-load-apk  
 Android 动态加载 Apk，热部署，利用 ClassLoader 以及 Activity 代理的方式解决  
 项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
@@ -1882,6 +1889,7 @@ Android ANR 监听，通过监听自己的 UI Thread 是否被执行确定是否
 
 #### 十二、文件
 对不同文档类型的处理，包括 PDF、Word、EPub、Html、Zip 等  
+
 1. purePDF  
 允许从任何运行的 SWF 文件读取和创建 PDF 文档  
 项目地址：https://github.com/sephiroth74/purePDF  
