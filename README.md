@@ -33,7 +33,7 @@ Android 开源项目分类汇总
 ## 第一部分 个性化控件(View)  
 主要介绍那些不错个性化的 View，包括 ListView、ActionBar、Menu、ViewPager、Gallery、GridView、ImageView、ProgressBar、TextView、ScrollView、TimeView、TipView、FlipView、ColorPickView、GraphView、UI Style 等等。  
 
-#### 一、ListView  
+#### 一、ListView
 1. android-pulltorefresh  
 一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal  ScrollView、Fragment 上下左右拉动刷新，比下面 johannilsson 那个只支持 ListView 的强大的多。并且它实现的下拉刷新 ListView 在 item 不足一屏情况下也不会显示刷新提示，体验更好。  
 项目地址：https://github.com/chrisbanes/Android-PullToRefresh  
@@ -270,7 +270,7 @@ Demo 地址：
 1. WaterDropListView  
 模仿 iOS 下拉刷新“水滴”效果，支持下拉刷新和上拉加载  
 项目地址：https://github.com/THEONE10211024/WaterDropListView  
-效果图: ![](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
+效果图：![](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
   
 #### 二、ActionBar  
 1. ActionBarSherlock  
@@ -501,9 +501,9 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smar
  
 1. AndroidImageSlider  
 Android 图片滑动  
-项目地址: https://github.com/daimajia/AndroidImageSlider  
-App 示例: https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
-效果图: ![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   
+项目地址：https://github.com/daimajia/AndroidImageSlider  
+App 示例：https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk  
+效果图：![Renderings](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)   
 
 1. RecyclerViewPager    
 完全继承自 RecyclerView，可以自定义触发翻页的距离，可自定义翻页速度，支持垂直方向的 ViewPager，支持 Fragment。    
@@ -565,7 +565,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 1. GridView with Header and Footer  
 和`ListView`一样带头部和底部的`GridView`，用法和`ListView`一样  
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter  
-效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
+效果图：![](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 
 #### 六、ImageView  
 1. PhotoView  
@@ -675,7 +675,7 @@ APP 示例：Android4.1 时钟 App
 
 1. TH-ProgressButton  
 带圆形进度显示的按钮  
-项目地址；https://github.com/torryharris/TH-ProgressButton  
+项目地址：https://github.com/torryharris/TH-ProgressButton  
 效果图：![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)  ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  
 
 1. NumberProgressBar  
@@ -762,7 +762,7 @@ Demo 地址：https://github.com/kpbird/chips-edittext-library/tree/master/Chips
 
 1. Calligraphy  
 让我们在 android 开发中使用自定义字体变得更加简单  
-项目地址 ：https://github.com/chrisjenx/Calligraphy  
+项目地址：https://github.com/chrisjenx/Calligraphy  
 效果图：![Renderings](https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png)  
 
 1. CreditsRoll  
@@ -869,9 +869,9 @@ Demo 地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.a
 
 1. ArcLayout  
 一个非常简单的弧布局库  
-项目地址: https://github.com/ogaclejapan/ArcLayout  
-Demo 地址 k: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
-效果图: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)  
+项目地址：https://github.com/ogaclejapan/ArcLayout  
+Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
+效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)  
 ![renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif)  
 
 1. ParallaxScrollView  
@@ -1170,7 +1170,6 @@ Demo 地址：http://bit.ly/13buAIq
 1. ActivityTransition  
 Activity 切换动画，包括渐变、flip、某个位置进入等等  
 项目地址：https://github.com/ophilbert/ActivityTransition  
-效果图：类似桌面左右切换的各种效果，不过桌面并非用 ViewPager 实现而已  
 文档介绍：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 
 1. EasyAndroidAnimations  
@@ -1342,7 +1341,7 @@ android 快速开发框架
 (4) REST 客户端：定义客户端接口，自动生成 REST 请求的实现  
 (5) 没有你想象的复杂：AndroidAnnotations 只是在在编译时生成相应子类  
 (6) 不影响应用性能：仅 50kb，在编译时完成，不会对运行时有性能影响。  
-PS：与 roboguice 的比较：roboguice 通过运行时读取 annotations 进行反射，所以可能影响应用性能，而 AndroidAnnotations 在编译时生成子类，所以对性能没有影响  
+其他：与 roboguice 的比较：roboguice 通过运行时读取 annotations 进行反射，所以可能影响应用性能，而 AndroidAnnotations 在编译时生成子类，所以对性能没有影响  
 
 1. roboguice  
 帮你处理了很多代码异常，利用 annotation 使得更少的代码完成项目  
@@ -1392,7 +1391,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.de
 阿里巴巴一淘使用的图片加载，综合了 Android-Universal-Image-Loader 和 square 等组件优点，简单易用，良好的中文文档支持  
 项目地址：https://github.com/etao-open-source/cube-sdk  
 Demo 地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
-效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
+效果图：![](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 文档介绍：http://cube-sdk.liaohuqiu.net/    
 
 1. fresco  
@@ -1972,6 +1971,7 @@ Android 的异步编程模式
 Android 应用自身被卸载监听及打开浏览器等反馈功能实现  
 项目地址：https://github.com/sevenler/Uninstall_Statics  
 文档介绍：http://www.cnblogs.com/zealotrouge/p/3157126.html  http://www.cnblogs.com/zealotrouge/p/3159772.html  
+
 1. Memento  
 保证在系统配置改变时，Activity 中的某些数据可以简单安全的保持不变  
 项目地址：https://github.com/mttkay/memento  
@@ -2085,23 +2085,25 @@ APP 示例： 通讯录应用，微信电话本
   
 ## 第三部分 优秀项目  
 主要介绍那些 Android 还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
-Linux  
+#### 一、系统及平台
+1. Linux  
 项目地址：https://github.com/torvalds/linux  
-Android  
-项目地址：https://android.googlesource.com/ 或 https://github.com/android  
-以上两个项目，不解释  
 
+1. Android  
+项目地址：https://android.googlesource.com/
+
+#### 二、项目
 1. ZXing  
 二维码扫描工具  
 项目地址：https://github.com/zxing/zxing 或 https://code.google.com/p/zxing/  
 APK 地址：https://play.google.com/store/apps/details?id=com.google.zxing.client.android  
-PS：现在市面上很多应用的二维码扫描功能都是从这个修改而来  
+其他：现在市面上很多应用的二维码扫描功能都是从这个修改而来  
 
 1. photup  
 编辑机批量上传照片到 facebook 上  
 项目地址：https://github.com/chrisbanes/photup  
 APK 地址：https://play.google.com/store/apps/details?id=uk.co.senab.photup  
-PS：代码分包合理，很棒。不过这个项目依赖的开源项目比较多，比较难编译  
+其他：代码分包合理，很棒。不过这个项目依赖的开源项目比较多，比较难编译  
   
 1. github-android  
 Github 的 Android 客户端项目  
@@ -2112,7 +2114,7 @@ APK 地址：https://play.google.com/store/apps/details?id=com.github.mobile
 MIUI 便签  
 项目地址：https://github.com/MiCode/Notes  
 APK 地址：https://github.com/Trinea/TrineaDownload/blob/master/miui-note-demo.apk?raw=true  
-PS：项目分包比较合理，相比较 miui 的文件管理器 https://github.com/MiCode/FileExplorer 代码规范较好得多  
+其他：项目分包比较合理，相比较 miui 的文件管理器 https://github.com/MiCode/FileExplorer 代码规范较好得多  
 
 1. weicuiyuan  
 四次元-新浪微博客户端  
@@ -2184,17 +2186,17 @@ APK 地址：https://play.google.com/store/apps/details?id=com.google.samples.ap
 1. IntelliJ Plugin for Android Parcelable boilerplate code generation  
 Android studio 插件，生成 Parcelable 代码  
 项目地址：https://github.com/mcharmas/android-parcelable-intellij-plugin  
-效果图：![Holo Colors Idea](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
+效果图：![](https://github.com/mcharmas/android-parcelable-intellij-plugin/raw/master/screenshot.png)  
 
 1. Android Holo Colors IntelliJ Plugin  
 Android studio 插件，生成 holo 样式 9 patch 图片  
 项目地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
-效果图：![Holo Colors Idea](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
+效果图：![](https://raw.github.com/jeromevdl/android-holo-colors-idea-plugin/master/other/holocolorsidea.png)  
 
 1. Android Drawable Factory  
 用于生成各个分辨率的图片  
 项目地址：https://github.com/tizionario/AndroidDrawableFactory  
-效果图：![Android Drawable Factory](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
+效果图：![](https://github-camo.global.ssl.fastly.net/5c3844b345a9779296f996490070dab0bfc9dbf5/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32363636343637352f416e64726f69644472617761626c65466163746f72792f312e706e67)  
 
 1. SelectorChapek for Android  
 Android Studio 插件，可根据固定文件名格式资源自动生成 drawable selectors xml 文件。  
@@ -2254,7 +2256,7 @@ dagger 的 intellij 插件
   
 1. Material Palette
 一个将现有的色彩方案组合成材料设计的调色板方案，提供下载。选取两个主要色彩后便可以提供下载，提供下载的格式可以是 android 的资源 xml 文件，以色彩的方式提供，也可以是 CSS、SVG、PNG 等常见格式文件。  
-项目地址: http://www.materialpalette.com/  
+项目地址：http://www.materialpalette.com/  
 
 #### 二、开发自测相关  
 1. Quality Tools for Android  
@@ -2449,7 +2451,7 @@ Android 滚动屏幕自动截图 jar 包，支持纵向、横向滚动截屏拼�
 Android 内存泄露检测工具，集成方便，出现泄露后报告直观  
 项目地址：https://github.com/square/leakcanary  
 效果图：![Renderings](https://github.com/square/leakcanary/blob/master/assets/screenshot.png)  
-  
+
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
 
