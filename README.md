@@ -408,6 +408,11 @@ Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.mater
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
 
 #### 四、ViewPager 、Gallery
+1. ConvenientBanner  
+通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。
+项目地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/blob/master/preview/convenientbannerdemo.gif)  
+
 1. Android-ViewPagerIndicator  
 配合 ViewPager 使用的 Indicator，支持各种位置和样式  
 项目地址：https://github.com/JakeWharton/Android-ViewPagerIndicator  
