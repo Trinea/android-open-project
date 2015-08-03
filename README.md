@@ -867,6 +867,14 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
 效果图：![Renderings](https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966)  
 
+1.TagCloudView(支持 SingleLine 模式的标签云)  
+标签云效果，只需要一行代码即可设置为 SingleLine 模式，轻松实现知乎问题话题列表效果。SingleLine 模式时末尾文字及图片可自定义。
+项目地址：[https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)  
+示例APK地址：[https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk](https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk)  
+APP示例：知乎  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif)
+
 #### 九、ScrollView
 1. Discrollview  
 支持滚动时 Item 淡入淡出，平移，缩放效果的 ScrollView  
