@@ -200,11 +200,6 @@ APP 示例：手机 QQV5.0
 原理剖析文档：[CalendarListview](http://codekk.com/open-source-project-analysis/detail/Android/undefined/CalendarListView 源码解析)  
 效果图：![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)  
 
-1. CalendarSelecter  
-通过 ViewPager 和 ListView 选择日期的日历  
-项目地址：https://github.com/guanchao/ScrollerCalendar  
-效果图：![Renderings](https://github.com/Chaoba/android-CalendarSelecter/blob/master/demo.gif)  
-
 1. sticky-headers-recyclerview  
 GroupName 滑动到顶端时会固定不动直到另外一个 GroupName 到达顶端的 ListView，采用 support-v7 中的 RecyclerView 实现  
 项目地址：https://github.com/timehop/sticky-headers-recyclerview  
@@ -428,12 +423,6 @@ Demo 地址：https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyVi
 支持横向和纵向(垂直)的 ViewPager  
 项目地址：https://github.com/JakeWharton/Android-DirectionalViewPager  
 Demo 地址：https://market.android.com/details?id=com.directionalviewpager.sample  
-
-1. android-pulltorefresh  
-支持下拉刷新的 ViewPager  
-项目地址：https://github.com/chrisbanes/Android-PullToRefresh  
-Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
-APP 示例：新浪微博各个页面  
 
 1. FancyCoverFlow  
 支持 Item 切换动画效果的类似 Gallery View  
