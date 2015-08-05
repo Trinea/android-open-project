@@ -403,6 +403,11 @@ Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.mater
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
 
 #### 四、ViewPager 、Gallery
+1. ConvenientBanner  
+通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。
+项目地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-ConvenientBanner/blob/master/preview/convenientbannerdemo.gif)  
+
 1. Android-ViewPagerIndicator  
 配合 ViewPager 使用的 Indicator，支持各种位置和样式  
 项目地址：https://github.com/JakeWharton/Android-ViewPagerIndicator  
@@ -846,6 +851,14 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 可展开和收缩内容的 TextView。  
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
 效果图：![Renderings](https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966)  
+
+1.TagCloudView(支持 SingleLine 模式的标签云)  
+标签云效果，只需要一行代码即可设置为 SingleLine 模式，轻松实现知乎问题话题列表效果。SingleLine 模式时末尾文字及图片可自定义。
+项目地址：[https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)  
+示例APK地址：[https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk](https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk)  
+APP示例：知乎  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif)
 
 #### 九、ScrollView
 1. Discrollview  
@@ -1611,7 +1624,18 @@ Android 4.4 的 Transitions API 兼容到 Android 2.2 以上
 网站介绍：http://www.vitamio.org/docs/  
 特点：(1) 全面支持硬件解码与 GPU 渲染  
 (2) 能够流畅播放 720P 甚至 1080P 高清 MKV，FLV，MP4，MOV，TS，RMVB 等常见格式的视频  
-(3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。  
+(3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。 
+
+1. VDPlayerSDK  
+最容易集成的开源播放器组件，支持直播，支持软硬解切换，支持清晰度切换  
+项目地址：https://github.com/SinaVDDeveloper/  
+Demo地址：https://github.com/SinaVDDeveloper/demo  
+文档介绍：https://github.com/SinaVDDeveloper/sinavideo_playersdk  
+特点：  
+(1) 使用自定义控件方式提供播放器UI，不需要视频相关知识，能编写android应用就能使用  
+(2) 软硬解切换、点播直播支持  
+(3) 解码内核小于4M，更方便集成到非专业视频app中。  
+(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等。    
 
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
