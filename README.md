@@ -54,12 +54,6 @@ http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif
 http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif  
 http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif  
 
-1. DropDownListView  
-下拉刷新及滑动到底部加载更多 ListView  
-项目地址：https://github.com/Trinea/AndroidCommon  
-Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
-
 1. DragSortListView  
 拖动排序的 ListView，同时支持 ListView 滑动 item 删除，各个 Item 高度不一、单选、复选、CursorAdapter 做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
@@ -277,6 +271,7 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
 项目地址：https://github.com/JakeWharton/ActionBarSherlock  
 Demo 地址：https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
+标签：兼容库, ActionBar  
 
 1. ActionBar-PullToRefresh  
 下拉刷新，ActionBar 出现加载中提示  
@@ -453,21 +448,11 @@ Android 自动滚动 轮播循环的 ViewPager
 Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 文档介绍：http://www.trinea.cn/android/auto-scroll-view-pager/  
 
-1. Salvage view  
-带 View 缓存的 Viewpager PagerAdapter，很方便使用  
-项目地址：https://github.com/JakeWharton/salvage  
-
 1. Android PagerSlidingTabStrip  
 配合 ViewPager 使用的 Indicator，支持 ViewPager Scroll 时 Indicator 联动  
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 原理剖析文档：[Android PagerSlidingTabStrip](http://codekk.com/open-source-project-analysis/detail/Android/ayyb1988/PagerSlidingTabStrip 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
-
-1. SmartTabLayout  
-自定义的 Tab title strip，基于 Google Samples 中的 android-SlidingTabBasic 项目，滑动时 Indicator 可平滑过渡.  
-项目地址：https://github.com/ogaclejapan/SmartTabLayout  
-Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
-效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)  
 
 1. ViewPager3D  
 ViewPager3D 效果  
@@ -1159,11 +1144,6 @@ Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialog
 Demo 地址：https://play.google.com/store/apps/details?id=com.sothree.umano  
 APP 示例：Google Music 精简播放栏  
 
-1. AndroidWheel  
-Android Wheel 支持城市、多种日期时间、密码、图片  
-项目地址：https://code.google.com/p/android-wheel/  
-效果图：![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
-
 1. TableFixHeaders  
 第一列固定的 Table  
 项目地址：https://github.com/InQBarna/TableFixHeaders  
@@ -1181,17 +1161,6 @@ Activity 切换动画，包括渐变、flip、某个位置进入等等
 1. EasyAndroidAnimations  
 针对 View 的各种动画  
 项目地址：https://github.com/2359media/EasyAndroidAnimations  
-
-1. GlowPadBackport  
-将 Android4.2 的锁屏界面解锁扩展到 Android1.6 及 1.6+  
-项目地址：https://github.com/rock3r/GlowPadBackport  
-Demo 地址：https://play.google.com/store/apps/details?id=net.sebastianopoggi.samples.ui.GlowPadSample  
-效果图：![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
-
-1. GlowPadView  
-Android4 锁屏界面解锁  
-项目地址：https://github.com/nadavfima/GlowPadView  
-效果图：![Renderings](https://raw.github.com/nadavfima/GlowPadView/master/example.png)  
 
 1. android-lockpattern  
 Android 的图案密码解锁  
@@ -1383,18 +1352,6 @@ square 开源的图片缓存
 (4)可以设置占位资源  
 (5)支持 debug 模式  
 
-1. ImageCache  
-图片缓存，包含内存和 Sdcard 缓存  
-项目地址：https://github.com/Trinea/AndroidCommon  
-Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/android/android-imagecache/  
-特点：(1)支持预取新图片，支持等待队列  
-(2)包含二级缓存，可自定义文件名保存规则  
-(3)可选择多种缓存算法(FIFO、LIFO、LRU、MRU、LFU、MFU 等 13 种)或自定义缓存算法  
-(4)可方便的保存及初始化恢复数据  
-(5)支持不同类型网络处理  
-(6)可根据系统配置初始化缓存等  
-
 1. Cube ImageLoader  
 阿里巴巴一淘使用的图片加载，综合了 Android-Universal-Image-Loader 和 square 等组件优点，简单易用，良好的中文文档支持  
 项目地址：https://github.com/etao-open-source/cube-sdk  
@@ -1460,17 +1417,6 @@ Java 异步 Http 请求
 支持图片、json、http post 等异步请求  
 项目地址：https://github.com/koush/ion  
 文档介绍：https://github.com/koush/ion#more-examples  
-
-1. HttpCache  
-Http 缓存  
-项目地址：https://github.com/Trinea/AndroidCommon  
-Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/android/android-http-cache  
-特点是：(1) 根据 cache-control、expires 缓存 http 请求  
-(2) 支持同步、异步 Http 请求  
-(3) 在匿名回调中处理请求结果  
-(4) 在 UI 线程外进行 http 请求  
-(5) 默认 gzip 压缩  
 
 1. Http Request  
 项目地址：https://github.com/kevinsawicki/http-request  
@@ -1550,9 +1496,27 @@ Android 公共库
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 文档介绍：http://www.trinea.cn/android/android-common-lib/  
-包括：(1)缓存(图片缓存、预取缓存、网络缓存)  
+包括：a. ImageCache 图片缓存，包含内存和 Sdcard 缓存  
+http://www.trinea.cn/android/android-imagecache/  
+特点：(1)支持预取新图片，支持等待队列  
+(2)包含二级缓存，可自定义文件名保存规则  
+(3)可选择多种缓存算法(FIFO、LIFO、LRU、MRU、LFU、MFU 等 13 种)或自定义缓存算法  
+(4)可方便的保存及初始化恢复数据  
+(5)支持不同类型网络处理  
+(6)可根据系统配置初始化缓存等  
+
+b. HttpCache Http 缓存  
+文档介绍：http://www.trinea.cn/android/android-http-cache  
+特点是：(1) 根据 cache-control、expires 缓存 http 请求  
+(2) 支持同步、异步 Http 请求  
+(3) 在匿名回调中处理请求结果  
+(4) 在 UI 线程外进行 http 请求  
+(5) 默认 gzip 压缩  
 (2) 公共 View(下拉及底部加载更多 ListView、底部加载更多 ScrollView、滑动一页 Gallery)  
 (3) Android 常用工具类(网络、下载、Android 资源操作、shell、文件、Json、随机数、Collection 等等)  
+
+c. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
+文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
 
 1. shipfaster  
 整合了 Dagger Otto Retrofit Robolectric Picasso OkHttp，方便快速开发  
@@ -1598,12 +1562,6 @@ A library that analyzes an Android device's specifications and calculates which 
 项目地址：https://github.com/facebook/device-year-class  
 
 #### 六、Android 高版本向低版本兼容
-1. ActionBarSherlock  
-为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
-项目地址：https://github.com/JakeWharton/ActionBarSherlock  
-Demo 地址：https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.demos  
-APP 示例：太多了。。现在连 google 都在用  
-
 1. Nine Old Androids  
 将 Android 3.0(Honeycomb)所有动画 API(ObjectAnimator ValueAnimator 等)兼容到 Android1.0  
 项目地址：https://github.com/JakeWharton/NineOldAndroids  
@@ -1635,10 +1593,6 @@ Demo 地址：https://play.google.com/store/apps/details?id=org.jraf.android.bac
 1. android-datepicker  
 将 Android 4.0 的 datepicker 兼容到 Android2.2++  
 项目地址：https://github.com/SimonVT/android-datepicker  
-
-1. GlowPadBackport  
-Android 4.2 的 GlowPadView 向后适配到 API4 以上  
-项目地址：https://github.com/frakbot/GlowPadBackport  
 
 1. Transitions Everywhere  
 Android 4.4 的 Transitions API 兼容到 Android 2.2 以上  
@@ -1845,13 +1799,6 @@ Android 4 锁屏界面解锁
 项目地址：https://github.com/nadavfima/GlowPadView  
 效果图：![Renderings](https://raw.github.com/nadavfima/GlowPadView/master/example.png)  
 
-1. android-lockpattern  
-Android 的图案密码解锁  
-项目地址：https://code.google.com/p/android-lockpattern/  
-原理剖析文档：[android-lockpattern](http://codekk.com/open-source-project-analysis/detail/Android/爱早起/Android Lock Pattern 源码解析)  
-Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
-文档介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-
 1. Android-InsecureBank  
 关于 Android 不安全性的示例  
 项目地址：https://github.com/dineshshetty/Android-InsecureBankv2  
@@ -2018,10 +1965,6 @@ Android App 增量升级，包含前后端方案、Demo、以及 so 库，可用
 1. Magnet  
 创建类似 Facebook 聊天桌面悬浮窗的效果  
 项目地址：https://github.com/premnirmal/Magnet  
-
-1. Parceler  
-通过注解及工具类自动完成实体类 Parcelable 及值传递  
-项目地址：https://github.com/johncarl81/parceler  
 
 1. AcDisplay  
 将 Android 的通知都集中到锁屏显示  
