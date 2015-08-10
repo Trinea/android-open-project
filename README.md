@@ -397,6 +397,12 @@ Material Design 风格的导航抽屉，提供简便且强大的定制功能
 Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.materialdrawer.app  
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
 
+1. SlideBottomPanel  
+底部划出菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView  
+项目地址：[https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)  
+Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/SlideBottomPanel/raw/master/apk/SlideBottomPanelDemo.apk)  
+效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
+
 #### 四、ViewPager 、Gallery
 1. ConvenientBanner  
 通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。
@@ -841,7 +847,7 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
 效果图：![Renderings](https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966)  
 
-1.TagCloudView(支持 SingleLine 模式的标签云)  
+1. TagCloudView(支持 SingleLine 模式的标签云)  
 标签云效果，只需要一行代码即可设置为 SingleLine 模式，轻松实现知乎问题话题列表效果。SingleLine 模式时末尾文字及图片可自定义。
 项目地址：https://github.com/kingideayou/TagCloudView  
 示例APK地址：https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk  
