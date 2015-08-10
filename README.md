@@ -398,7 +398,7 @@ Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.mater
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)  
 
 1. SlideBottomPanel  
-底部划出菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView 
+底部划出菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView  
 项目地址：[https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)  
 Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/SlideBottomPanel/raw/master/apk/SlideBottomPanelDemo.apk)  
 效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
