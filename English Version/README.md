@@ -1136,7 +1136,25 @@ Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.u
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-#### 11. Others  
+#### 11. Maps
+1. GraphHopper
+Fast routing library and server using OpenStreetMap  
+Project Address: https://github.com/graphhopper/graphhopper/  
+Document: https://github.com/graphhopper/graphhopper/blob/master/docs/index.md#developers  
+Example APK address: https://graphhopper.com/#community  
+Official Website: https://graphhopper.com  
+Similar App: https://github.com/graphhopper/graphhopper/blob/master/docs/android/index.md#cruiser-app  
+Online Demo: https://graphhopper.com/maps  
+
+2. Mapsforge
+Software for maps rendering based on OpenStreetMap  
+Project Address: https://github.com/mapsforge/mapsforge/  
+Document: https://github.com/mapsforge/mapsforge/blob/master/docs/Getting-Started-Developers.md  
+Example APK address: https://graphhopper.com/#community  
+Renderings: ![Renderings](https://raw.githubusercontent.com/mapsforge/mapsforge/master/docs/images/screenshot-berlin-1.png)
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+#### 12. Others  
 1. Salvage view  
 Generic view recycler and ViewPager PagerAdapter implementation.  
 Project Address: https://github.com/JakeWharton/salvage  
