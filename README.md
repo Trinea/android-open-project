@@ -1244,6 +1244,11 @@ Demo 地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rel
 项目地址：https://github.com/Tibolte/Android-Anim-Playground  
 效果图：![Renderings](https://raw.githubusercontent.com/Tibolte/Android-Anim-Playground/master/androiddemosvg.gif)  
 
+1. AlertView 
+仿iOS的AlertViewController 几乎完美还原iOS 的 AlertViewController ，同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.  
+项目地址：https://github.com/saiwu-bigkoo/Android-AlertView  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-AlertView/blob/master/preview/alertviewdemo.gif)  
+
 1. NiftyDialogEffects  
 支持自定义飞入动画样式的 Dialog  
 项目地址：https://github.com/sd6352051/NiftyDialogEffects  
