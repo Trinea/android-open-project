@@ -700,6 +700,12 @@ Demo 地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/de
 项目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar  
 效果图：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)  
 
+1. MetaballLoading  
+A 2d metaball loading
+项目地址：https://github.com/dodola/MetaballLoading
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball.gif) 
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif) 
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
@@ -853,6 +859,11 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 示例APK地址：https://github.com/kingideayou/TagCloudView/raw/master/apk/Demo.apk  
 APP示例：知乎  
 效果图：![Renderings](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif)  
+
+1. BubbleTextView 
+Android Bubble View 
+项目地址：https://github.com/dupengtao/BubbleTextView 
+效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
 
 #### 九、ScrollView
 1. Discrollview  
