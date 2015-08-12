@@ -593,6 +593,12 @@ Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/dem
 效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
+1. MetaballLoading  
+A 2d metaball loading
+项目地址：https://github.com/dodola/MetaballLoading
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball.gif) 
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif) 
+
 #### 八、TextView  
 包括TextView及所有继承自TextView控件，如EditText、Button、RadioButton  
 1. android-flowtextview  
@@ -735,6 +741,11 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 项目地址：https://github.com/Manabu-GT/ExpandableTextView  
 效果图：<img height="500px" src="https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966" />
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. BubbleTextView 
+Android Bubble View 
+项目地址：https://github.com/dupengtao/BubbleTextView 
+效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
 
 #### 九、ScrollView  
 1. Discrollview  
