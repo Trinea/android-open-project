@@ -1860,6 +1860,11 @@ Android App 插件式插件开发，插件必须先安装，更推荐看上面�
 Android 插件式开发，开放的源码目前不完整  
 项目地址：https://github.com/umeng/apf  
 
+1. Android OpenAtlas  
+Android插件框架，基于OSGI，非代理方式，组件需要在宿主中声明  
+项目地址：https://github.com/bunnyblue/OpenAtlas  
+Demo 地址：https://github.com/bunnyblue/OpenAtlasExtension/blob/master/Dist/OpenAtlasLauncher.apk 
+
 1. multidex  
 安装多 dex 的 classloader  
 项目地址：https://github.com/casidiablo/multidex  
