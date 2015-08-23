@@ -32,6 +32,20 @@ APP示例：新浪微博各個頁面
 項目地址：https://github.com/johannilsson/android-pulltorefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
 PS：這個被很多人使用的項目實際有不少bug，推薦使用上面的android-pulltorefresh  
+
+1. android-Ultra-Pull-to-Refresh    
+這是現在已經停止維護的下拉刷新項目的替代方案，繼承于ViewGroup, 可以包含任何View，功能比SwipeRefreshLayout強大，稱為終極下拉刷新。
+使用起來非常簡單，良好的設計，如果你想定製自己的UI樣式，那也非常簡單，就像給ListView加一個Header View那麼簡單。
+支持 `API LEVEL >= 8`  
+項目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+效果圖：   
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 下拉刷新及滑動到底部加載更多ListView  
@@ -50,6 +64,11 @@ APP示例：Wordpress Android
 項目地址：https://github.com/47deg/android-swipelistview  
 Demo地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP示例：微信  
+
+1. RecyclerViewSwipeDismiss  
+輕量級支持support-v7中的RecyclerView的滑動刪除(Swipe to dismiss)行為，不需要修改源代碼，只要間單的邦定`onTouchListener`   
+項目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
+效果圖：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif) 
    
 1. Android-SwipeToDismiss  
 滑動Item消失ListView  
@@ -280,10 +299,82 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
-1. ViewPager3D  
-ViewPager3D效果  
-項目地址：https://github.com/inovex/ViewPager3D  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+1. SmartTabLayout    
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.    
+項目地址：https://github.com/ogaclejapan/SmartTabLayout    
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo    
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)    
+
+1. SmartTabLayout
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.
+項目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
+1. ViewPager3D效果
+項目地址：https://github.com/inovex/ViewPager3D
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+
+1. LoopingViewPager
+無限循環的ViewPager
+項目地址：https://github.com/imbryk/LoopingViewPager
+
+1. android_page_curl
+翻書卷曲效果
+項目地址：https://github.com/harism/android_page_curl
+APP示例：iReader
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw
+
+1. ViewPagerIndicator
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator
+
+1. ScreenSlideIndicator
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+效果圖：
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
+
+1. ViewPager3D效果    
+項目地址：https://github.com/inovex/ViewPager3D 
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角    
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview    
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
+
+1. LoopingViewPager    
+無限循環的ViewPager    
+項目地址：https://github.com/imbryk/LoopingViewPager    
+
+1. android_page_curl    
+翻書卷曲效果    
+項目地址：https://github.com/harism/android_page_curl    
+APP示例：iReader    
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw    
+
+1. ViewPagerIndicator    
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動    
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator    
+
+1. ScreenSlideIndicator    
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。    
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)    
+效果圖：    
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)    
+
+1. RecyclerViewPager    
+完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。    
+項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
+效果圖：    
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -320,7 +411,12 @@ Demo視頻：http://youtu.be/FYTSRfthSuQ
 1. Android-DraggableGridViewPager  
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的多屏效果，可屏幕自動左右滾動進行Item移動交換，單屏效果見上面DraggableGridView  
 項目地址：https://github.com/zzhouj/Android-DraggableGridViewPager  
-Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true  
+Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-grid-viewpager-demo.apk?raw=true
+
+1. GridView with Header and Footer    
+和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
+項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
+效果圖：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -414,7 +510,35 @@ APP示例：Android4.1時鍾App
 帶數字進度的進度條     
 項目地址：https://github.com/daimajia/NumberProgressBar   
 效果圖：![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. CircularProgressDrawable  
+帶圓形進度顯示的進度條    
+項目地址：https://github.com/Sefford/CircularProgressDrawable  
+效果圖：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)    
+
+1. Android-RoundCornerProgressBar  
+Android 圓角 ProgressBar，可自定義圓角顏色和半徑，包括帶 Icon 和不帶 Icon 兩種類型。    
+項目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)      
+1. circular-progress-button  
+帶進度顯示的Button    
+項目地址：https://github.com/dmytrodanylyk/circular-progress-button  
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)      
+
+1. WaveView  
+壹個波紋效果的 View，可用來做 ProgressBar    
+項目地址：https://github.com/john990/WaveView  
+Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
+效果圖：    
+![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
+
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design進度指示器    
+項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 八、TextView  
 包括TextView及所有繼承自TextView控件，如EditText、Button、RadioButton  
@@ -450,7 +574,7 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 項目地址：https://github.com/kpbird/chips-edittext-library  
 Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
 
-1. AutoFitTextView  
+1. AutoFitTextView
 可固定邊界內容字體大小自適應的TextView    
 項目地址：https://github.com/grantland/android-autofittextview  
 
@@ -700,6 +824,13 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介紹：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
   
+1. PatternLock  
+另一個 Android 圖案解鎖庫  
+項目地址：https://github.com/DreaminginCodeZH/PatternLock  
+Demo地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+效果圖：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
+  
 1. RangeBar  
 類似于SeekBar，不同的是可以選擇一個範圍內的值而不是單個值  
 項目地址：https://github.com/edmodo/range-bar  
@@ -785,6 +916,13 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 (4)可方便的保存及初始化恢複數據  
 (5)支持不同類型網絡處理  
 (6)可根據系統配置初始化緩存等  
+
+1. Cube ImageLoader  
+阿里巴巴一些App使用的圖片加載組件，綜合了Android-Universal-Image-Loader 和 square 等組件優點，簡單易用。
+項目地址：https://github.com/etao-open-source/cube-sdk  
+Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
+文檔介绍：http://cube-sdk.liaohuqiu.net/  
+效果圖：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、網絡相關  
