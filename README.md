@@ -1469,7 +1469,8 @@ TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串
 项目地址：https://github.com/TwistedEquations/TwistVolley  
 
 #### 四、数据库 orm 工具包
-orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作  
+orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
+
 1. greenDAO  
 Android Sqlite orm 的 db 工具类  
 项目地址：https://github.com/greenrobot/greenDAO  
