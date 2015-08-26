@@ -1180,6 +1180,15 @@ Activity 切换动画，包括渐变、flip、某个位置进入等等
 针对 View 的各种动画  
 项目地址：https://github.com/2359media/EasyAndroidAnimations  
 
+1. ViewAnimation    
+对android view 动画进行封装,实现起更简单，自带三种常见运动路径，其他的可自定义  
+项目地址：https://github.com/guohuanwen/ViewAniamtion  
+效果图：![ViewAnimation](https://github.com/guohuanwen/ViewAniamtion/blob/master/sreenshots/AnimationGif.gif)  
+APP 示例：QQ名片圈圈效果  
+
+
+
+
 1. android-lockpattern  
 Android 的图案密码解锁  
 项目地址：https://code.google.com/p/android-lockpattern/  
