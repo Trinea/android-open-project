@@ -865,6 +865,12 @@ Android Bubble View
 项目地址：https://github.com/dupengtao/BubbleTextView 
 效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
 
+1. AutoCompleteEditText  
+自动补全的EditText  
+项目地址：[https://github.com/wudkj/AutoCompleteEditText](https://github.com/wudkj/AutoCompleteEditText "https://github.com/wudkj/AutoCompleteEditText")  
+效果图：![](https://github.com/wudkj/AutoCompleteEditText/raw/master/screen/autocomplete.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
 #### 九、ScrollView
 1. Discrollview  
 支持滚动时 Item 淡入淡出，平移，缩放效果的 ScrollView  
