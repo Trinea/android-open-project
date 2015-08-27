@@ -761,6 +761,12 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 效果图：<img height="500px" src="https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966" />
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. AutoCompleteEditText  
+自动补全的EditText  
+项目地址：[https://github.com/wudkj/AutoCompleteEditText](https://github.com/wudkj/AutoCompleteEditText "https://github.com/wudkj/AutoCompleteEditText")  
+效果图：![](https://github.com/wudkj/AutoCompleteEditText/raw/master/screen/autocomplete.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
 #### 九、ScrollView  
 1. Discrollview  
 支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
