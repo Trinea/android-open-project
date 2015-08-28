@@ -623,6 +623,11 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 可从 URL 或 contact address book 加载图片的 ImageView，支持缓存  
 项目地址：https://github.com/loopj/android-smart-image-view  
 
+1. PhotoView  
+支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
+项目地址：https://github.com/bm-x/PhotoView  
+效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
+
 #### 七、ProgressBar
 1. SmoothProgressBar  
 水平进度条  
