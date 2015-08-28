@@ -558,7 +558,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 
 #### 六、ImageView
 1. PhotoView  
-支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加优雅平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用
+支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
 项目地址：https://github.com/bm-x/PhotoView  
 效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
 
