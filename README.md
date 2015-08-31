@@ -623,6 +623,11 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 可从 URL 或 contact address book 加载图片的 ImageView，支持缓存  
 项目地址：https://github.com/loopj/android-smart-image-view  
 
+1. PhotoView  
+支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
+项目地址：https://github.com/bm-x/PhotoView  
+效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
+
 #### 七、ProgressBar
 1. SmoothProgressBar  
 水平进度条  
@@ -1180,6 +1185,15 @@ Activity 切换动画，包括渐变、flip、某个位置进入等等
 针对 View 的各种动画  
 项目地址：https://github.com/2359media/EasyAndroidAnimations  
 
+1. ViewAnimation    
+对android view 动画进行封装,实现起更简单，自带三种常见运动路径，其他的可自定义  
+项目地址：https://github.com/guohuanwen/ViewAniamtion  
+效果图：![ViewAnimation](https://github.com/guohuanwen/ViewAniamtion/blob/master/sreenshots/AnimationGif.gif)  
+APP 示例：QQ名片圈圈效果  
+
+
+
+
 1. android-lockpattern  
 Android 的图案密码解锁  
 项目地址：https://code.google.com/p/android-lockpattern/  
@@ -1469,7 +1483,8 @@ TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串
 项目地址：https://github.com/TwistedEquations/TwistVolley  
 
 #### 四、数据库 orm 工具包
-orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作  
+orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
+
 1. greenDAO  
 Android Sqlite orm 的 db 工具类  
 项目地址：https://github.com/greenrobot/greenDAO  
@@ -1859,6 +1874,11 @@ Android App 插件式插件开发，插件必须先安装，更推荐看上面�
 1. Android Plugin Framework  
 Android 插件式开发，开放的源码目前不完整  
 项目地址：https://github.com/umeng/apf  
+
+1. Android OpenAtlas  
+Android插件框架，基于OSGI，非代理方式，组件需要在宿主中声明  
+项目地址：https://github.com/bunnyblue/OpenAtlas  
+Demo 地址：https://github.com/bunnyblue/OpenAtlasExtension/blob/master/Dist/OpenAtlasLauncher.apk 
 
 1. multidex  
 安装多 dex 的 classloader  
