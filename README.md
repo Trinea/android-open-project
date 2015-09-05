@@ -1191,7 +1191,10 @@ Activity 切换动画，包括渐变、flip、某个位置进入等等
 效果图：![ViewAnimation](https://github.com/guohuanwen/ViewAniamtion/blob/master/sreenshots/AnimationGif.gif)  
 APP 示例：QQ名片圈圈效果  
 
-
+1. TaiJIView  
+一个太极加载动画，中国风  
+项目地址：https://github.com/guohuanwen/TaiJIView  
+效果图：![TaiJIView](https://github.com/guohuanwen/TaiJIView/blob/master/screenshots/taiji0.gif)  
 
 
 1. android-lockpattern  
