@@ -956,6 +956,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.doomonafireball.
 #### 十一、TipView
 包括 Toast、角标、UndoBar 等提示性控件  
 
+1. SVProgressHUD 
+SVProgressHUD For Android 精仿iOS的提示库 SVProgressHUD，api也几乎一样。  
+项目地址：https://github.com/saiwu-bigkoo/Android-SVProgressHUD  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-SVProgressHUD/raw/master/preview/svprogresshuddemo.gif)  
+
 1. Crouton  
 丰富样式的 Toast，允许 alert、comfirm、info 样式及点击消失样式，允许设置 Toast 显示时间，允许自定义 View。 本文 32. SuperToasts 为其扩展版  
 项目地址：https://github.com/keyboardsurfer/Crouton  
