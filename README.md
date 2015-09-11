@@ -2486,6 +2486,11 @@ Android 内存泄露检测工具，集成方便，出现泄露后报告直观
 项目地址：https://github.com/square/leakcanary  
 效果图：![Renderings](https://github.com/square/leakcanary/blob/master/assets/screenshot.png)  
 
+1. CacheUtilsLibrary  
+将任何Java Object类型的数据序列化后写入缓存文件，将来使用时读取缓存文件并反序列化成对应Java Object的库  
+项目地址：https://github.com/westlinkin/CacheUtilsLibrary  
+
+
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
 
