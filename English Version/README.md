@@ -1249,6 +1249,10 @@ Gesture detector framework for multitouch handling on Android
 Project Address: https://github.com/Almeros/android-gesture-detectors  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. CacheUtilsLibrary  
+This is a simple Android utils library to write any type of data into cache files and then read them later, using Gson to serialize and deserialize these data.  
+Project Address: https://github.com/westlinkin/CacheUtilsLibrary  
+
 ## 3. Excellent projects  
 Linux  
 Project Address: https://github.com/torvalds/linux  
