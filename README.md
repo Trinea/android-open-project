@@ -972,10 +972,10 @@ Demo 地址：http://play.google.com/store/apps/details?id=de.keyboardsurfer.app
 Demo 地址：https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
 
 1. Android ViewBadger  
-为其他 View 添加角标等  
+为其他 View 添加角标（消息圆点）等  
 项目地址：https://github.com/jgilfelt/android-viewbadger  
 Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
-效果图：![Renderings](https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)  
+效果图：![Renderings](http://www.jeffgilfelt.com/viewbadger/vb-1a.png)  
 
 1. SuperToasts  
 更丰富样式的 toast，支持 Button、Progress、Horizontal Progress 样式、支持进入动画、支持撤销及其动画设置  
