@@ -262,7 +262,7 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 效果图：![Renderings](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 
 1. PopupListView  
-實現ListItem 點擊後至頂並可添加顯示item的內部View 的ListView  
+實現ListItem 點擊後置頂並可顯示客製化添加的item的內部View 的ListView  
 项目地址：https://github.com/s8871404/PopupListView  
 Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplistview_sample  
 效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)  
