@@ -261,6 +261,12 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 项目地址：https://github.com/THEONE10211024/WaterDropListView  
 效果图：![Renderings](https://github.com/THEONE10211024/WaterDropListView/blob/master/demo/demo.gif)  
 
+1. PopupListView  
+實現ListItem 點擊後至頂並可添加顯示item的內部View 的ListView  
+项目地址：https://github.com/s8871404/PopupListView  
+Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplistview_sample  
+效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)  
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
