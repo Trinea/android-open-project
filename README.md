@@ -2091,8 +2091,7 @@ square 组开源大牛写的字符串替换类
 1. PinyinSearch  
 一个为 T9 搜索和 Qwerty 搜索,提供数据解析与匹配等方法的拼音搜索 java 库。  
 项目地址： https://github.com/handsomezhou/PinyinSearchLibrary  
-Demo 地址： [ContactsSearch](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/ContactsSearch.apk?raw=true)  
-            [AppSearch](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/AppSearch.apk?raw=true)  
+Demo 地址： [ContactsSearch](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/ContactsSearch.apk?raw=true)    [AppSearch](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/bin/AppSearch.apk?raw=true)  
 效果图：![Renderings](https://github.com/handsomezhou/PinyinSearchLibrary/blob/master/external_res/image/ContactsSearch.gif)  
 APP 示例： 通讯录应用，微信电话本  
 
