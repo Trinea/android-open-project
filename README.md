@@ -2116,17 +2116,17 @@ PaintView 是一个画图工具:
 项目地址：[Paintview](https://github.com/lfkdsk/JustWeTools)  
 效果图：![p1](https://github.com/lfkdsk/JustWeTools/blob/master/picture/gif.gif)  
         ![p2](https://github.com/lfkdsk/JustWeTools/blob/master/picture/io.gif)  
-demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/DrawAPicture.apk)
-原理解析：[PaintView 绘图控件解析](http://www.cnblogs.com/lfk-dsk/p/4768850.html)
+demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/DrawAPicture.apk)  
+原理解析：[PaintView 绘图控件解析](http://www.cnblogs.com/lfk-dsk/p/4768850.html)  
 
-1. CodeView
+1. CodeView  
 CodeView代码查看／修改工具: 基于WebView制作的代码编辑器,实现代码高亮，暗色主题  
 项目地址：[CodeView](https://github.com/lfkdsk/JustWeTools)  
 效果图：![p3](https://github.com/lfkdsk/JustWeTools/blob/master/picture/accomplish.png)  
         ![p4](https://github.com/lfkdsk/JustWeTools/blob/master/picture/edit.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
 
-1. ExplorerView
+1. ExplorerView  
 文件浏览器：继承自ListView，可拓展性强，可进行文件类型分析  
 项目地址：[CodeView](https://github.com/lfkdsk/JustWeTools)  
 效果图：![p5](https://github.com/lfkdsk/JustWeTools/blob/master/picture/explorer1.png)  
@@ -2139,21 +2139,19 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 效果图：![p7](https://github.com/lfkdsk/JustWeTools/blob/master/picture/readbook.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
 
-1.MarkDownView
+1. MarkDownView  
 支持MarkDown语法的渲染器,基于WebView的MarkDown渲染器,支持标准化的MarkDown语法,
 调用接口和CodeView保持一致使用简便  
 项目地址：[ReadView](https://github.com/lfkdsk/JustWeTools)  
 效果图：![markdown](https://github.com/lfkdsk/JustWeTools/blob/master/picture/markdown.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
 
-1.VerTextView竖行排版的TextView:
+1. VerTextView竖行排版的TextView:  
 支持竖行排版，添加了下划线功能，开启简便，下划线粗细、颜色、间距均可自定义，  
 接口调用方式与TextView相似，使用简便。  
 项目地址：[ReadView](https://github.com/lfkdsk/JustWeTools)  
 效果图：![vertextview](https://github.com/lfkdsk/JustWeTools/blob/master/picture/VerTextView.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
-
-
 
 ## 第三部分 优秀项目
 主要介绍那些 Android 还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
