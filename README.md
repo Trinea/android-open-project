@@ -2132,6 +2132,22 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 效果图：![p7](https://github.com/lfkdsk/JustWeTools/blob/master/picture/readbook.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
 
+1.MarkDownView
+支持MarkDown语法的渲染器,基于WebView的MarkDown渲染器,支持标准化的MarkDown语法,
+调用接口和CodeView保持一致使用简便  
+项目地址：[ReadView](https://github.com/lfkdsk/JustWeTools)  
+效果图：![markdown](https://github.com/lfkdsk/JustWeTools/blob/master/picture/markdown.png)  
+demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
+
+1.VerTextView竖行排版的TextView:
+支持竖行排版，添加了下划线功能，开启简便，下划线粗细、颜色、间距均可自定义，  
+接口调用方式与TextView相似，使用简便。  
+项目地址：[ReadView](https://github.com/lfkdsk/JustWeTools)  
+效果图：![vertextview](https://github.com/lfkdsk/JustWeTools/blob/master/picture/VerTextView.png)  
+demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
+
+
+
 ## 第三部分 优秀项目
 主要介绍那些 Android 还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 
