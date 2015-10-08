@@ -506,6 +506,13 @@ App
 项目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)  
 效果图：![Renderings](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)  
 
+1. CircleIndicator  
+轻量级ViewPager指示器,支持三种不同的模式    
+项目地址：[CircleIndicator]( https://github.com/THEONE10211024/CircleIndicator)  
+效果图：![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/inside.gif)  
+![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/outside.gif)    
+![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/solo.gif)    
+
 #### 五、GridView
 1. StaggeredGridView  
 允许非对齐行的 GridView，类似 Pinterest 的瀑布流，并且跟 ListView 一样自带 View 缓存，继承自 ViewGroup  
