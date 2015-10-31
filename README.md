@@ -64,7 +64,14 @@ APP 示例：Wordpress Android
 支持定义 ListView 左右滑动事件，支持左右滑动位移，支持定义动画时间  
 项目地址：https://github.com/47deg/android-swipelistview  
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
-APP 示例：微信  
+APP 示例：微信 
+
+1. SlideAndDragListView  
+支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
+项目地址：https://github.com/yydcdut/SlideAndDragListView  
+Demo 地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+APP 示例：Android 手机QQ 5.0  
+效果图：![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif)  
 
 1. Android-SwipeToDismiss  
 滑动 Item 消失 ListView，支持 3.0 以下版本见：https://github.com/JakeWharton/SwipeToDismissNOA  

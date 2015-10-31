@@ -64,7 +64,14 @@ APP示例：Wordpress Android
 項目地址：https://github.com/47deg/android-swipelistview  
 Demo地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP示例：微信  
-
+   
+1. SwipeListView  
+持ListView的Item的拖動排序、左右滑動事件，可自定義左右滑動顯示文字、圖標、位移，同時支持onItemClick、onItemLongClick等監聽器，提供豐富的回調接口。  
+項目地址：https://github.com/yydcdut/SlideAndDragListView  
+Demo地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+APP示例：Android 手机QQ 5.0  
+效果圖：![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) 
+   
 1. RecyclerViewSwipeDismiss  
 輕量級支持support-v7中的RecyclerView的滑動刪除(Swipe to dismiss)行為，不需要修改源代碼，只要間單的邦定`onTouchListener`   
 項目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    

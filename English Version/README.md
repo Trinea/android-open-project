@@ -63,7 +63,15 @@ Similar App: Wordpress Android
 An Android List View implementation with support for drawable cells and many other swipe related features  
 Project Address: https://github.com/47deg/android-swipelistview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
-Similar App: 微信  
+Similar App: 微信
+
+1. SlideAndDragListView  
+An extension of the Android ListView that enables slide and drag-and-drop reordering of list items.  
+Project Address: https://github.com/yydcdut/SlideAndDragListView  
+Demo Apk: https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+Similar App: Android 手机QQ 5.0  
+Renderings: ![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif)  
+
    
 1. RecyclerViewSwipeDismiss
 lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`
