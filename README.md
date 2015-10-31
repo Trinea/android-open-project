@@ -66,7 +66,7 @@ APP 示例：Wordpress Android
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP 示例：微信 
 
-1. SlideAndDragListView
+1. SlideAndDragListView  
 支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
 项目地址：https://github.com/yydcdut/SlideAndDragListView  
 Demo 地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
