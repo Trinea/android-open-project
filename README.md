@@ -982,6 +982,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.doomonafireball.
 项目地址：https://github.com/saiwu-bigkoo/Android-PickerView  
 效果图：![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
 
+1. CountdownView  
+Android 倒计时控件，使用Canvas绘制，支持多种样式  
+项目地址：https://github.com/iwgang/CountdownView  
+效果图：![Renderings](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif)
+
 #### 十一、TipView
 包括 Toast、角标、UndoBar 等提示性控件  
 
