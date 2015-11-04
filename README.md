@@ -1,14 +1,11 @@
 Android 开源项目分类汇总
 ====================
-
-####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、xUtils 等分析)</a>  
-####<a href="http://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
-
-`codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
-> 微信公众号：codekk，二维码如下：  
+> 我们的微信公众号：codekk，专注于 Android 开源分享、源码解析、框架设计、Android 内推。二维码如下：  
  ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
- 我们的网站：[www.codekk.com](http://codekk.com)  
- 我们的微博：[code-kk](http://weibo.com/codek2)  
+ 我们的网站：[www.codekk.com](http://a.codekk.com)  
+
+####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、xUtils、下拉刷新、插件化库等分析)</a>  
+####<a href="http://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
 
 欢迎大家推荐好的 Android 开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
