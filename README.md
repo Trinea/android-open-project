@@ -732,10 +732,10 @@ A 2d metaball loading
 效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif) 
 
 1. SectorProgressView  
-一个圆形的进度显示控件，用圆中扇形的角度大小来表示进度信息
-项目地址：https://github.com/timqi/SectorProgressView
-Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/SectorProgressView-V1.0-Example.apk) 
-效果图：![SectorProgressView](https://github.com/timqi/SectorProgressView/blob/master/art/sample.gif) 
+一个圆形或环形的进度显示控件，用圆中扇形的角度大小来表示进度信息<br/>
+项目地址：https://github.com/timqi/SectorProgressView<br/>
+Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/example.apk) <br/>
+效果图：<br/>![ColorfulRingProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/colorfulringprogressview.demo.gif) ![SectorProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/sectorprogressview.demo.gif)
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
