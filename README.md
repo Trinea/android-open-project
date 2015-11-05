@@ -852,6 +852,15 @@ Demo 项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExamp
 Demo 项目：https://github.com/traex/RippleEffect/tree/master/sample  
 效果图：![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
 
+1. RippleCompat
+使用易于移植的方式为UI控件实现波纹效应，可以适配控件原背景及Palette支持。api简单，可自定义效果，兼容至Android API 7+。
+项目地址：https://github.com/desmond1121/RippleCompat
+效果图：
+![Renderings](https://raw.githubusercontent.com/desmond1121/RippleCompat/master/demo/Demo.gif)
+
+palette效果：
+![Renderings](https://raw.githubusercontent.com/desmond1121/RippleCompat/master/demo/Demo1.gif)
+
 1. Android Floating Label Widgets  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
 项目地址：https://github.com/marvinlabs/android-floatinglabel-widgets  
