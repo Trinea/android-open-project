@@ -849,13 +849,13 @@ Demo 项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExamp
 1. RippleEffect  
 一个实现 Material Design Ripple 效果的库，支持 Android API 9+以上版本。  
 项目地址：https://github.com/traex/RippleEffect  
-Demo 项目：https://github.com/desmond1121/RippleCompat/tree/master/app
+Demo 项目：https://github.com/traex/RippleEffect/tree/master/sample  
 效果图：![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
 
 1. RippleCompat
 使用易于移植的方式为UI控件实现波纹效应，可以适配控件原背景及Palette支持。api简单，可自定义效果，兼容至Android API 7+。
 项目地址：https://github.com/desmond1121/RippleCompat
-Demo 项目：https://github.com/desmond1121/RippleCompat/blob/master/demo/demo.apk
+Demo 项目：https://github.com/desmond1121/RippleCompat/tree/master/app
 效果图：
 ![Renderings](https://raw.githubusercontent.com/desmond1121/RippleCompat/master/demo/Demo.gif)
 
