@@ -1241,7 +1241,7 @@ APP 示例：QQ名片圈圈效果
 1. AndroidLoadingAnimation  
 多种android加载动画  
 项目地址：https://github.com/guohuanwen/AndroidLoadingAnimation  
-效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji0.gif)  
+效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji1.gif)  
 
 
 1. android-lockpattern  
