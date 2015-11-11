@@ -1593,7 +1593,7 @@ http://www.trinea.cn/android/android-imagecache/
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
 
-b. HttpCache Http 缓存  
+1. HttpCache Http 缓存  
 文档介绍：http://www.trinea.cn/android/android-http-cache  
 特点是：(1) 根据 cache-control、expires 缓存 http 请求  
 (2) 支持同步、异步 Http 请求  
@@ -1603,7 +1603,7 @@ b. HttpCache Http 缓存
 (2) 公共 View(下拉及底部加载更多 ListView、底部加载更多 ScrollView、滑动一页 Gallery)  
 (3) Android 常用工具类(网络、下载、Android 资源操作、shell、文件、Json、随机数、Collection 等等)  
 
-c. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
+1. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
 
 1. shipfaster  
@@ -1648,6 +1648,11 @@ Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中�
 1. device-year-class  
 A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.(facebook 开发的检测手机主流配置工具)  
 项目地址：https://github.com/facebook/device-year-class  
+
+1. RxAndroid
+对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。
+项目地址：https://github.com/ReactiveX/RxAndroid
+文档介绍：给Android 开发者的 RxJava 详解
 
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
