@@ -1652,7 +1652,7 @@ A library that analyzes an Android device's specifications and calculates which 
 1. RxAndroid   
 对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。   
 项目地址：https://github.com/ReactiveX/RxAndroid   
-文档介绍：给Android 开发者的 RxJava 详解   
+文档介绍：[给Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)   
 
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
