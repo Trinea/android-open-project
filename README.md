@@ -1979,6 +1979,7 @@ java 压缩和解压库
 
 1. Image File Selector  
 轻量级的图片文件选择器  
+项目地址：https://github.com/sw926/ImageFileSelector  
 (1) 使用系统自动软件选择图片  
 (2) 选择完成后可以自动压缩到指定的尺寸  
 (3) 可以调用系统的裁切软件进行裁切  
