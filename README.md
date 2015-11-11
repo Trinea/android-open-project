@@ -1649,10 +1649,10 @@ Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中�
 A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.(facebook 开发的检测手机主流配置工具)  
 项目地址：https://github.com/facebook/device-year-class  
 
-1. RxAndroid
-对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。
-项目地址：https://github.com/ReactiveX/RxAndroid
-文档介绍：给Android 开发者的 RxJava 详解
+1. RxAndroid   
+对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。   
+项目地址：https://github.com/ReactiveX/RxAndroid   
+文档介绍：给Android 开发者的 RxJava 详解   
 
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
