@@ -1977,6 +1977,13 @@ java 压缩和解压库
 (4) 支持遍历 zip 包内容  
 (5) 比较两个 zip 包等功能  
 
+1. Image File Selector  
+轻量级的图片文件选择器  
+(1) 使用系统自动软件选择图片  
+(2) 选择完成后可以自动压缩到指定的尺寸  
+(3) 可以调用系统的裁切软件进行裁切  
+(4) 用Callback接受选择的文件，使用方便  
+	
 #### 十三、其他
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  
