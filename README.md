@@ -1982,6 +1982,10 @@ java 压缩和解压库
 (4) 支持遍历 zip 包内容  
 (5) 比较两个 zip 包等功能  
 
+1. Image File Selector  
+轻量级的图片文件选择器，用系统api选取，压缩和裁切图片，可以方便的得要指定尺寸的图片  
+项目地址：https://github.com/sw926/ImageFileSelector  
+	
 #### 十三、其他
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  

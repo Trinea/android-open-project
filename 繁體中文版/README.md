@@ -1352,6 +1352,10 @@ java壓縮和解壓庫
 (5) 比較兩個zip包等功能  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Image File Selector  
+輕量級的圖片文件選擇器，用系統api選取，壓縮和裁切圖片，可以方便的得要指定尺寸的圖片  
+項目地址：https://github.com/sw926/ImageFileSelector  
+
 #### 十三、其他  
 1. Salvage view  
 帶View緩存的Viewpager PagerAdapter，很方便使用  
