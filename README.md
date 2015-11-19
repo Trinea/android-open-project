@@ -874,6 +874,7 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 
 1. MaterialEditText
 实现 [Material Design](http://www.google.com/design/spec/components/text-fields.html) 中 Ripple 效果线条背景的 EditText。直接替换原生 EditText 即可集成。
+项目地址：https://github.com/DreamingInCodeZH/MaterialEditText  
 
 1. MultiActionTextView  
 可以分别给 TextView 中的某几个字设置点击事件的 TextView  
