@@ -913,6 +913,13 @@ Android Bubble View
 项目地址：https://github.com/dupengtao/BubbleTextView 
 效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
 
+1. shadow-layout
+Android Shadow Layout
+解决了`CardView`：1.不能画圆的阴影。2.设置阴影的位置。3.设置阴影颜色。
+项目地址：https://github.com/dmytrodanylyk/shadow-layout
+效果图：
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/shadow-layout/master/screenshots/intro.png)  
+
 #### 九、ScrollView
 1. Discrollview  
 支持滚动时 Item 淡入淡出，平移，缩放效果的 ScrollView  
