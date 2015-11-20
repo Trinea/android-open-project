@@ -886,6 +886,11 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 项目地址：https://github.com/zcweng/ToggleButton  
 效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
 
+1. SwitchButton  
+状态切换的 Button，类似 iOS，有漂亮的和友好的用户界面 
+项目地址：https://github.com/kyleduo/SwitchButton
+效果图：![Renderings](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/demo_131.jpg)  
+
 1. SlideSwitch  
 状态切换的开关，可以设置为类似 IOS 的圆形，也可以设置为矩形，用 View 实现  
 项目地址：https://github.com/Leaking/SlideSwitch  
