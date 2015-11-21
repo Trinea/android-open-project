@@ -874,6 +874,7 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 
 1. MaterialEditText
 实现 [Material Design](http://www.google.com/design/spec/components/text-fields.html) 中 Ripple 效果线条背景的 EditText。直接替换原生 EditText 即可集成。
+项目地址：https://github.com/DreamingInCodeZH/MaterialEditText  
 
 1. MultiActionTextView  
 可以分别给 TextView 中的某几个字设置点击事件的 TextView  
@@ -884,6 +885,11 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 状态切换的 Button，类似 iOS，用 View 实现  
 项目地址：https://github.com/zcweng/ToggleButton  
 效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
+
+1. SwitchButton  
+状态切换的 Button，类似 iOS，拥有良好的用户界面  
+项目地址：https://github.com/kyleduo/SwitchButton  
+效果图：![Renderings](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/demo_131.jpg)  
 
 1. SlideSwitch  
 状态切换的开关，可以设置为类似 IOS 的圆形，也可以设置为矩形，用 View 实现  
@@ -906,6 +912,13 @@ APP示例：知乎
 Android Bubble View 
 项目地址：https://github.com/dupengtao/BubbleTextView 
 效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
+
+1. shadow-layout
+Android Shadow Layout
+解决了`CardView`：1.不能画圆的阴影。2.设置阴影的位置。3.设置阴影颜色。
+项目地址：https://github.com/dmytrodanylyk/shadow-layout
+效果图：
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/shadow-layout/master/screenshots/intro.png)  
 
 #### 九、ScrollView
 1. Discrollview  
@@ -1241,7 +1254,7 @@ APP 示例：QQ名片圈圈效果
 1. AndroidLoadingAnimation  
 多种android加载动画  
 项目地址：https://github.com/guohuanwen/AndroidLoadingAnimation  
-效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji0.gif)  
+效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji1.gif)  
 
 
 1. android-lockpattern  
@@ -1593,7 +1606,7 @@ http://www.trinea.cn/android/android-imagecache/
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
 
-b. HttpCache Http 缓存  
+1. HttpCache Http 缓存  
 文档介绍：http://www.trinea.cn/android/android-http-cache  
 特点是：(1) 根据 cache-control、expires 缓存 http 请求  
 (2) 支持同步、异步 Http 请求  
@@ -1603,7 +1616,7 @@ b. HttpCache Http 缓存
 (2) 公共 View(下拉及底部加载更多 ListView、底部加载更多 ScrollView、滑动一页 Gallery)  
 (3) Android 常用工具类(网络、下载、Android 资源操作、shell、文件、Json、随机数、Collection 等等)  
 
-c. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
+1. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
 
 1. shipfaster  
@@ -1648,6 +1661,11 @@ Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中�
 1. device-year-class  
 A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.(facebook 开发的检测手机主流配置工具)  
 项目地址：https://github.com/facebook/device-year-class  
+
+1. RxAndroid   
+对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。   
+项目地址：https://github.com/ReactiveX/RxAndroid   
+文档介绍：[给Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)   
 
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
@@ -1977,6 +1995,10 @@ java 压缩和解压库
 (4) 支持遍历 zip 包内容  
 (5) 比较两个 zip 包等功能  
 
+1. Image File Selector  
+轻量级的图片文件选择器，用系统api选取，压缩和裁切图片，可以方便的得要指定尺寸的图片  
+项目地址：https://github.com/sw926/ImageFileSelector  
+	
 #### 十三、其他
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  
