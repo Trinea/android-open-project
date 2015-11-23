@@ -1399,6 +1399,13 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 项目地址：[FLowLayout](https://github.com/LyndonChin/AndroidFlowLayout)  
 效果图：![Renderings](http://img02.taobaocdn.com/imgextra/i2/160310864/TB2MH8.bVXXXXa3XXXXXXXXXXXX_!!160310864.png)  
 
+1. CircleSeekbar  
+一个环形Seekbar组件,支持叠加复合使用  
+项目地址：[CircleSeekbar](https://github.com/feeeei/CircleSeekbar)  
+效果图：  
+![Renderings](https://github.com/feeeei/CircleSeekbar/blob/master/gifs/withtext.gif)
+![Renderings](https://github.com/feeeei/CircleSeekbar/raw/master/gifs/union.gif)
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
