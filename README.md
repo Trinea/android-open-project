@@ -1402,7 +1402,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 1. CircleSeekbar  
 一个环形Seekbar组件,支持叠加复合使用  
 项目地址：[CircleSeekbar](https://github.com/feeeei/CircleSeekbar)  
-效果图：
+效果图：  
 ![Renderings](https://github.com/feeeei/CircleSeekbar/blob/master/gifs/withtext.gif)
 ![Renderings](https://github.com/feeeei/CircleSeekbar/raw/master/gifs/union.gif)
 
