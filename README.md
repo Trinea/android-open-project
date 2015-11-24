@@ -1593,6 +1593,15 @@ Android SQLite ORM 工具库。综合了 Active Android, Schematic, Ollie,Sprink
 项目地址：https://github.com/Raizlabs/DBFlow  
 文档介绍：https://github.com/Raizlabs/DBFlow#usage-docs  
 
+1. SnappyDB
+SnappyDB是一个key-value数据库，非常流行的NoSQL数据库。
+项目地址：https://github.com/nhachicha/SnappyDB
+演示Demo：https://play.google.com/store/apps/details?id=com.snappydb.snippets.app
+性能对比图：
+![Renderings](https://camo.githubusercontent.com/0f6193a1f84aa8a77d07ac18d3566b87bc89999b/687474703a2f2f736e6170707964622e636f6d2f696d672f62656e63686d61726b5f73716c6974655f776974685f7472616e73616374696f6e2e706e67)
+
+
+
 #### 五、Android 公共库
 1. Guava  
 Google 的基于 java1.6 的类库集合的扩展项目，包括 collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O 等等. 这些高质量的 API 可以使你的 JAVa 代码更加优雅，更加简洁  
