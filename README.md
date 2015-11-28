@@ -1216,6 +1216,13 @@ Android 扁平化风格的组件，支持一些自定义样式
 Demo 地址：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
 APP 示例：知乎  
 
+1. ParallaxBackLayout  
+视差滑动返回的 Activity
+项目地址：https://github.com/anzewei/ParallaxBackLayout  
+Demo 地址：https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/demo.apk?raw=true  
+APP 示例：微信 
+效果图：![Renderings](https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/v0.2.gif)  
+
 1. android-styled-dialogs  
 可自定义样式的 dialog，默认与 Holo 主题样式一致，在 Android2.2 以上同一样式  
 项目地址：https://github.com/inmite/android-styled-dialogs  
