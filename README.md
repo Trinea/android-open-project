@@ -1406,6 +1406,18 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 ![Renderings](https://github.com/feeeei/CircleSeekbar/blob/master/gifs/withtext.gif)
 ![Renderings](https://github.com/feeeei/CircleSeekbar/raw/master/gifs/union.gif)
 
+1. FinestWebView  
+FinestWebView是一個易於使用的WebView為移動應用。  
+项目地址: https://github.com/TheFinestArtist/FinestWebView-Android  
+Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
+效果图: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
+
+1. YouTubePlayerActivity  
+只需通過一個URL來在新的活動播放YouTube視頻。它支持屏幕方向，媒體音量控制等。  
+项目地址: https://github.com/TheFinestArtist/YouTubePlayerActivity  
+Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
+效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
