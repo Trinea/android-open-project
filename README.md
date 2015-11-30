@@ -872,9 +872,9 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widge
 EditText 的 Material Design 实现。包含 [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html)中的 UI 效果和一些新增特性。  
 项目地址：https://github.com/rengwuxian/MaterialEditText  
 
-1. MaterialEditText
-实现 [Material Design](http://www.google.com/design/spec/components/text-fields.html) 中 Ripple 效果线条背景的 EditText。直接替换原生 EditText 即可集成。
-项目地址：https://github.com/DreamingInCodeZH/MaterialEditText  
+1. MaterialEditText  
+实现 [Material Design](http://www.google.com/design/spec/components/text-fields.html) 中 Ripple 效果线条背景的 EditText。直接替换原生 EditText 即可集成。  
+项目地址：https://github.com/DreamingInCodeZH/MaterialEditText    
 
 1. MultiActionTextView  
 可以分别给 TextView 中的某几个字设置点击事件的 TextView  
