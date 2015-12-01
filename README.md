@@ -2016,6 +2016,11 @@ java 压缩和解压库
 项目地址：https://github.com/sw926/ImageFileSelector  
 	
 #### 十三、其他
+
+1. CustomTabsHelper  
+快速集成 CustomTabs 的工具类  
+项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
+
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
