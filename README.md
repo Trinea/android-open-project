@@ -62,7 +62,7 @@ APP 示例：Wordpress Android
 支持定义 ListView 左右滑动事件，支持左右滑动位移，支持定义动画时间  
 项目地址：https://github.com/47deg/android-swipelistview  
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
-APP 示例：微信 
+APP 示例：微信
 
 1. SlideAndDragListView  
 支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
@@ -726,8 +726,8 @@ Demo 地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/de
 1. MetaballLoading  
 A 2d metaball loading
 项目地址：https://github.com/dodola/MetaballLoading
-效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball.gif) 
-效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif) 
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball.gif)
+效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif)
 
 1. SectorProgressView  
 一个圆形或环形的进度显示控件，用圆中扇形的角度大小来表示进度信息<br/>
@@ -908,9 +908,9 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 APP示例：知乎  
 效果图：![Renderings](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif)  
 
-1. BubbleTextView 
-Android Bubble View 
-项目地址：https://github.com/dupengtao/BubbleTextView 
+1. BubbleTextView
+Android Bubble View
+项目地址：https://github.com/dupengtao/BubbleTextView
 效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
 
 1. shadow-layout
@@ -1011,7 +1011,7 @@ Android 倒计时控件，使用Canvas绘制，支持多种样式
 #### 十一、TipView
 包括 Toast、角标、UndoBar 等提示性控件  
 
-1. SVProgressHUD 
+1. SVProgressHUD
 SVProgressHUD For Android 精仿iOS的提示库 SVProgressHUD，api也几乎一样。  
 项目地址：https://github.com/saiwu-bigkoo/Android-SVProgressHUD  
 效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-SVProgressHUD/raw/master/preview/svprogresshuddemo.gif)  
@@ -1338,7 +1338,7 @@ Demo 地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rel
 项目地址：https://github.com/Tibolte/Android-Anim-Playground  
 效果图：![Renderings](https://raw.githubusercontent.com/Tibolte/Android-Anim-Playground/master/androiddemosvg.gif)  
 
-1. AlertView 
+1. AlertView
 仿iOS的AlertViewController 几乎完美还原iOS 的 AlertViewController ，同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.  
 项目地址：https://github.com/saiwu-bigkoo/Android-AlertView  
 效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-AlertView/blob/master/preview/alertviewdemo.gif)  
@@ -1565,7 +1565,7 @@ TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串
 项目地址：https://github.com/TwistedEquations/TwistVolley  
 
 #### 四、数据库 orm 工具包
-orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
+orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作
 
 1. greenDAO  
 Android Sqlite orm 的 db 工具类  
@@ -1745,7 +1745,7 @@ Android 4.4 的 Transitions API 兼容到 Android 2.2 以上
 网站介绍：http://www.vitamio.org/docs/  
 特点：(1) 全面支持硬件解码与 GPU 渲染  
 (2) 能够流畅播放 720P 甚至 1080P 高清 MKV，FLV，MP4，MOV，TS，RMVB 等常见格式的视频  
-(3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。 
+(3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议，包括点播与直播。
 
 1. VDPlayerSDK  
 最容易集成的开源播放器组件，支持直播，支持软硬解切换，支持清晰度切换  
@@ -1948,6 +1948,11 @@ Android 4 锁屏界面解锁
 关于 Android 不安全性的示例  
 项目地址：https://github.com/dineshshetty/Android-InsecureBankv2  
 
+1. AndResGuard  
+资源文件的混淆工具  
+由微信团队提供的资源文件的混淆工具  
+项目地址：https://github.com/lendylongli/AndResGuard  
+
 #### 十一、插件化
 更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/)  
 
@@ -1974,7 +1979,7 @@ Android 插件式开发，开放的源码目前不完整
 1. Android OpenAtlas  
 Android插件框架，基于OSGI，非代理方式，组件需要在宿主中声明  
 项目地址：https://github.com/bunnyblue/OpenAtlas  
-Demo 地址：https://github.com/bunnyblue/OpenAtlasExtension/blob/master/Dist/OpenAtlasLauncher.apk 
+Demo 地址：https://github.com/bunnyblue/OpenAtlasExtension/blob/master/Dist/OpenAtlasLauncher.apk
 
 1. multidex  
 安装多 dex 的 classloader  
@@ -2026,7 +2031,7 @@ java 压缩和解压库
 1. Image File Selector  
 轻量级的图片文件选择器，用系统api选取，压缩和裁切图片，可以方便的得要指定尺寸的图片  
 项目地址：https://github.com/sw926/ImageFileSelector  
-	
+
 #### 十三、其他
 
 1. CustomTabsHelper  
