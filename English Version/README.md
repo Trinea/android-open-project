@@ -804,6 +804,18 @@ Project Address: https://github.com/ogaclejapan/ArcLayout
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
 
+1. FinestWebView  
+FinestWebView is an easy to use WebView for mobile Applications.  
+Project Address: https://github.com/TheFinestArtist/FinestWebView-Android  
+Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
+Renderings: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
+
+1. YouTubePlayerActivity  
+Simply pass a url to play youtube video in new activity. It supports screen orientation, media volume control and etc.  
+Project Address: https://github.com/TheFinestArtist/YouTubePlayerActivity  
+Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
+Renderings: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
