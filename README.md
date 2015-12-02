@@ -1407,7 +1407,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 ![Renderings](https://github.com/feeeei/CircleSeekbar/raw/master/gifs/union.gif)
 
 1. FinestWebView  
-FinestWebView是一個易於使用的WebView為移動應用。  
+美麗的和可定制的Android的活動，顯示在一個應用程序的網頁。  
 项目地址: https://github.com/TheFinestArtist/FinestWebView-Android  
 Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
 效果图: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
