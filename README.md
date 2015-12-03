@@ -1,14 +1,12 @@
 Android 开源项目分类汇总
 ====================
-
-####<a href="http://codekk.com/open-source-project-analysis" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、xUtils 等分析)</a>  
-####<a href="http://codekk.com/jobs" target="_blank">Android 职位内部推荐(阿里、百度、美团、点评、魅族等)</a>  
-
-`codeKK`专注于开源项目源码解析、开源项目分享、Android 职位推荐。  
-> 微信公众号：codekk，二维码如下：  
+> 我们的微信公众号：codekk。二维码如下：  
+ 专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
  ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
- 我们的网站：[www.codekk.com](http://codekk.com)  
- 我们的微博：[code-kk](http://weibo.com/codek2)  
+ 我们的网站：[www.codekk.com](http://a.codekk.com)  
+
+####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
+####<a href="http://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)</a>  
 
 欢迎大家推荐好的 Android 开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
 > **关于我，欢迎关注**  
@@ -47,7 +45,7 @@ Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refre
 1. android-Ultra-Pull-to-Refresh  
 下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于 ViewGroup 可以包含任何 View。功能甚至比 SwipeRefreshLayout 强大。使用起来非常简单。良好的设计，如果你想定制自己的 UI 样式，非常简单，就像给 ListView 加一个 Header View 那么简单。支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
-原理剖析文档：[android-Ultra-Pull-to-Refresh](http://codekk.com/open-source-project-analysis/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
+原理剖析文档：[android-Ultra-Pull-to-Refresh](http://a.codekk.com/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
 Demo 地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
 效果图：![Renderings](http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif)  
 http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif  
@@ -64,7 +62,14 @@ APP 示例：Wordpress Android
 支持定义 ListView 左右滑动事件，支持左右滑动位移，支持定义动画时间  
 项目地址：https://github.com/47deg/android-swipelistview  
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
-APP 示例：微信  
+APP 示例：微信 
+
+1. SlideAndDragListView  
+支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
+项目地址：https://github.com/yydcdut/SlideAndDragListView  
+Demo 地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+APP 示例：Android 手机QQ 5.0  
+效果图：![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif)  
 
 1. Android-SwipeToDismiss  
 滑动 Item 消失 ListView，支持 3.0 以下版本见：https://github.com/JakeWharton/SwipeToDismissNOA  
@@ -197,7 +202,7 @@ APP 示例：手机 QQV5.0
 1. CalendarListview  
 实现每个月一行日历效果的 ListView  
 项目地址：https://github.com/traex/CalendarListview  
-原理剖析文档：[CalendarListview](http://codekk.com/open-source-project-analysis/detail/Android/undefined/CalendarListView 源码解析)  
+原理剖析文档：[CalendarListview](http://a.codekk.com/detail/Android/Rogary/CalendarListView%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)  
 效果图：![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)  
 
 1. sticky-headers-recyclerview  
@@ -314,7 +319,7 @@ APP 示例：Gmail、Google Music 等大部分 google app
 1. SlidingMenu  
 滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕左右划出，支持菜单 zoom、scale、slide up 三种动画样式出现。与 MenuDrawer 相比而言，SlidingMenu 支持菜单动画样式出现，MenuDrawer 支持菜单 view 处于内容的上下层  
 项目地址：https://github.com/jfeinstein10/SlidingMenu  
-原理剖析文档：[SlidingMenu](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/SlidingMenu 源码解析)  
+原理剖析文档：[SlidingMenu](http://a.codekk.com/detail/Android/huxian99/SlidingMenu 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.slidingmenu.example  
 APP 示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for Android, ESPN ScoreCenter, MLS MatchDay, 9GAG, Wunderlist 2, The Verge, MTG Familiar, Mantano Reader, Falcon Pro (BETA), MW3 Barracks  
 
@@ -356,7 +361,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.ptr.folding.samp
 1. CircularFloatingActionMenu  
 一个可定制的圆形的浮动菜单控件，类似于 Path 的圆形菜单。这个控件的可定制性更强，可以很容易的定制菜单出现消失时的动画，起始角度和半径。  
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
-原理剖析文档：[CircularFloatingActionMenu](http://codekk.com/open-source-project-analysis/detail/Android/cpacm/CircularFloatingActionMenu 源码解析)  
+原理剖析文档：[CircularFloatingActionMenu](http://a.codekk.com/detail/Android/cpacm/CircularFloatingActionMenu 源码解析)  
 Demo 地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
 效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
 
@@ -385,7 +390,7 @@ Material Design 形式的展开折叠 Icon
 1. Side-Menu.Android  
 分类侧滑菜单，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Side-Menu.Android  
-原理剖析文档：[Side-Menu.Android](http://codekk.com/open-source-project-analysis/detail/Android/cpacm/Side Menu.Android 源码解析)  
+原理剖析文档：[Side-Menu.Android](http://a.codekk.com/detail/Android/cpacm/Side Menu.Android 源码解析)  
 效果图：![Renderings](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)  
 
 1. Context-Menu.Android  
@@ -457,7 +462,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.de
 1. Android PagerSlidingTabStrip  
 配合 ViewPager 使用的 Indicator，支持 ViewPager Scroll 时 Indicator 联动  
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
-原理剖析文档：[Android PagerSlidingTabStrip](http://codekk.com/open-source-project-analysis/detail/Android/ayyb1988/PagerSlidingTabStrip 源码解析)  
+原理剖析文档：[Android PagerSlidingTabStrip](http://a.codekk.com/detail/Android/ayyb1988/PagerSlidingTabStrip 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
 1. ViewPager3D  
@@ -573,7 +578,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 1. PhotoView  
 支持双击或双指缩放的 ImageView，在 ViewPager 等 Scrolling view 中正常使用，相比上面的 AndroidTouchGallery，不仅支持 ViewPager，同时支持单个 ImageView  
 项目地址：https://github.com/chrisbanes/PhotoView  
-原理剖析文档：[PhotoView](http://codekk.com/open-source-project-analysis/detail/Android/dkmeteor/PhotoView 源码解析)  
+原理剖析文档：[PhotoView](http://a.codekk.com/detail/Android/dkmeteor/PhotoView 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP 示例：photup  
 
@@ -725,10 +730,10 @@ A 2d metaball loading
 效果图：![Renderings](https://github.com/dodola/MetaballLoading/blob/master/metaball2.gif) 
 
 1. SectorProgressView  
-一个圆形的进度显示控件，用圆中扇形的角度大小来表示进度信息
-项目地址：https://github.com/timqi/SectorProgressView
-Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/SectorProgressView-V1.0-Example.apk) 
-效果图：![SectorProgressView](https://github.com/timqi/SectorProgressView/blob/master/art/sample.gif) 
+一个圆形或环形的进度显示控件，用圆中扇形的角度大小来表示进度信息<br/>
+项目地址：https://github.com/timqi/SectorProgressView<br/>
+Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/example.apk) <br/>
+效果图：<br/>![ColorfulRingProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/colorfulringprogressview.demo.gif) ![SectorProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/sectorprogressview.demo.gif)
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
@@ -847,6 +852,16 @@ Demo 项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExamp
 Demo 项目：https://github.com/traex/RippleEffect/tree/master/sample  
 效果图：![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
 
+1. RippleCompat
+使用易于移植的方式为UI控件实现波纹效应，可以适配控件原背景及Palette支持。api简单，可自定义效果，兼容至Android API 7+。
+项目地址：https://github.com/desmond1121/RippleCompat
+Demo 项目：https://github.com/desmond1121/RippleCompat/tree/master/app
+效果图：
+![Renderings](https://raw.githubusercontent.com/desmond1121/RippleCompat/master/demo/Demo.gif)
+
+palette效果：
+![Renderings](https://raw.githubusercontent.com/desmond1121/RippleCompat/master/demo/Demo1.gif)
+
 1. Android Floating Label Widgets  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
 项目地址：https://github.com/marvinlabs/android-floatinglabel-widgets  
@@ -857,6 +872,10 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widge
 EditText 的 Material Design 实现。包含 [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html)中的 UI 效果和一些新增特性。  
 项目地址：https://github.com/rengwuxian/MaterialEditText  
 
+1. MaterialEditText  
+实现 [Material Design](http://www.google.com/design/spec/components/text-fields.html) 中 Ripple 效果线条背景的 EditText。直接替换原生 EditText 即可集成。  
+项目地址：https://github.com/DreamingInCodeZH/MaterialEditText    
+
 1. MultiActionTextView  
 可以分别给 TextView 中的某几个字设置点击事件的 TextView  
 项目地址：https://github.com/ajaysahani/MultiActionTextView  
@@ -866,6 +885,11 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 状态切换的 Button，类似 iOS，用 View 实现  
 项目地址：https://github.com/zcweng/ToggleButton  
 效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
+
+1. SwitchButton  
+状态切换的 Button，类似 iOS，拥有良好的用户界面  
+项目地址：https://github.com/kyleduo/SwitchButton  
+效果图：![Renderings](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/demo_131.jpg)  
 
 1. SlideSwitch  
 状态切换的开关，可以设置为类似 IOS 的圆形，也可以设置为矩形，用 View 实现  
@@ -888,6 +912,13 @@ APP示例：知乎
 Android Bubble View 
 项目地址：https://github.com/dupengtao/BubbleTextView 
 效果图：![Renderings](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)  
+
+1. shadow-layout
+Android Shadow Layout
+解决了`CardView`：1.不能画圆的阴影。2.设置阴影的位置。3.设置阴影颜色。
+项目地址：https://github.com/dmytrodanylyk/shadow-layout
+效果图：
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/shadow-layout/master/screenshots/intro.png)  
 
 #### 九、ScrollView
 1. Discrollview  
@@ -971,6 +1002,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.doomonafireball.
 仿 iOS 的 PickerView 控件，有时间选择和选项选择并支持一二三级联动效果，TimePopupWindow 时间选择器，支持年月日时分，年月日，时分等格式；OptionsPopupWindow 选项选择器，支持一，二，三级选项选择，并且可以设置是否联动  
 项目地址：https://github.com/saiwu-bigkoo/Android-PickerView  
 效果图：![Renderings](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)  
+
+1. CountdownView  
+Android 倒计时控件，使用Canvas绘制，支持多种样式  
+项目地址：https://github.com/iwgang/CountdownView  
+效果图：![Renderings](https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/screenshot.gif)
 
 #### 十一、TipView
 包括 Toast、角标、UndoBar 等提示性控件  
@@ -1218,13 +1254,13 @@ APP 示例：QQ名片圈圈效果
 1. AndroidLoadingAnimation  
 多种android加载动画  
 项目地址：https://github.com/guohuanwen/AndroidLoadingAnimation  
-效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji0.gif)  
+效果图：![TaiJIView](https://github.com/guohuanwen/AndroidLoadingAnimation/blob/master/screenshots/taiji1.gif)  
 
 
 1. android-lockpattern  
 Android 的图案密码解锁  
 项目地址：https://code.google.com/p/android-lockpattern/  
-原理剖析文档：[android-lockpattern](http://codekk.com/open-source-project-analysis/detail/Android/爱早起/Android Lock Pattern 源码解析)  
+原理剖析文档：[android-lockpattern](http://a.codekk.com/detail/Android/爱早起/Android Lock Pattern 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 文档介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 APP 示例：Android 开机的图案密码解锁，支付宝的密码解锁  
@@ -1363,6 +1399,25 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.dexafree.materia
 项目地址：[FLowLayout](https://github.com/LyndonChin/AndroidFlowLayout)  
 效果图：![Renderings](http://img02.taobaocdn.com/imgextra/i2/160310864/TB2MH8.bVXXXXa3XXXXXXXXXXXX_!!160310864.png)  
 
+1. CircleSeekbar  
+一个环形Seekbar组件,支持叠加复合使用  
+项目地址：[CircleSeekbar](https://github.com/feeeei/CircleSeekbar)  
+效果图：  
+![Renderings](https://github.com/feeeei/CircleSeekbar/blob/master/gifs/withtext.gif)
+![Renderings](https://github.com/feeeei/CircleSeekbar/raw/master/gifs/union.gif)
+
+1. FinestWebView  
+美麗的和可定制的Android的活動，顯示在一個應用程序的網頁。  
+项目地址: https://github.com/TheFinestArtist/FinestWebView-Android  
+Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
+效果图: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
+
+1. YouTubePlayerActivity  
+只需通過一個URL來在新的活動播放YouTube視頻。它支持屏幕方向，媒體音量控制等。  
+项目地址: https://github.com/TheFinestArtist/YouTubePlayerActivity  
+Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
+效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
@@ -1395,14 +1450,14 @@ android 快速开发框架
 1. Dagger  
 依赖注入，适用于 Android 和 Java  
 项目地址：https://github.com/square/dagger  
-原理剖析文档：[Dagger](http://codekk.com/open-source-project-analysis/detail/Android/扔物线/Dagger 源码解析)  
+原理剖析文档：[Dagger](http://a.codekk.com/detail/Android/扔物线/Dagger 源码解析)  
 文档介绍：http://square.github.io/dagger/  
 
 #### 二、图片缓存
 1. Android-Universal-Image-Loader  
 图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader  
-原理剖析文档：[Android-Universal-Image-Loader](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android Universal Image Loader 源码分析)  
+原理剖析文档：[Android-Universal-Image-Loader](http://a.codekk.com/detail/Android/huxian99/Android Universal Image Loader 源码分析)  
 Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
 文档介绍：http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
 
@@ -1550,6 +1605,15 @@ Android SQLite ORM 工具库。综合了 Active Android, Schematic, Ollie,Sprink
 项目地址：https://github.com/Raizlabs/DBFlow  
 文档介绍：https://github.com/Raizlabs/DBFlow#usage-docs  
 
+1. SnappyDB
+SnappyDB是一个key-value数据库，非常流行的NoSQL数据库。
+项目地址：https://github.com/nhachicha/SnappyDB
+演示Demo：https://play.google.com/store/apps/details?id=com.snappydb.snippets.app
+性能对比图：
+![Renderings](https://camo.githubusercontent.com/0f6193a1f84aa8a77d07ac18d3566b87bc89999b/687474703a2f2f736e6170707964622e636f6d2f696d672f62656e63686d61726b5f73716c6974655f776974685f7472616e73616374696f6e2e706e67)
+
+
+
 #### 五、Android 公共库
 1. Guava  
 Google 的基于 java1.6 的类库集合的扩展项目，包括 collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O 等等. 这些高质量的 API 可以使你的 JAVa 代码更加优雅，更加简洁  
@@ -1570,7 +1634,7 @@ http://www.trinea.cn/android/android-imagecache/
 (5)支持不同类型网络处理  
 (6)可根据系统配置初始化缓存等  
 
-b. HttpCache Http 缓存  
+1. HttpCache Http 缓存  
 文档介绍：http://www.trinea.cn/android/android-http-cache  
 特点是：(1) 根据 cache-control、expires 缓存 http 请求  
 (2) 支持同步、异步 Http 请求  
@@ -1580,7 +1644,7 @@ b. HttpCache Http 缓存
 (2) 公共 View(下拉及底部加载更多 ListView、底部加载更多 ScrollView、滑动一页 Gallery)  
 (3) Android 常用工具类(网络、下载、Android 资源操作、shell、文件、Json、随机数、Collection 等等)  
 
-c. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
+1. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
 文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
 
 1. shipfaster  
@@ -1594,7 +1658,7 @@ c. DropDownListView 下拉刷新及滑动到底部加载更多 ListView
 1. xUtils  
 基于 Afinal，包含 DbUtils、ViewUtils、HttpUtils、BitmapUtils 四大模块，可用于快速开发  
 项目地址：https://github.com/wyouflf/xUtils  
-原理剖析文档：[xUtils](http://codekk.com/open-source-project-analysis/detail/Android/Caij/xUtils 源码解析)  
+原理剖析文档：[xUtils](http://a.codekk.com/detail/Android/Caij/xUtils 源码解析)  
 
 1. Afinal  
 Afinal 是一个 android 的 ioc，orm 框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过 finalActivity，我们可以通过注解的方式进行绑定 ui 和事件。通过 finalBitmap，我们可以方便的加载 bitmap 图片，而无需考虑 oom 等问题。通过 finalDB 模块，我们一行代码就可以对 android 的 sqlite 数据库进行增删改查。通过 FinalHttp 模块，我们可以以 ajax 形式请求 http 数据  
@@ -1626,11 +1690,16 @@ Custom View 神器。通过简单的注解帮助你大大减少 Custom View 中�
 A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.(facebook 开发的检测手机主流配置工具)  
 项目地址：https://github.com/facebook/device-year-class  
 
+1. RxAndroid   
+对RxJava在Android上的扩展，使得Android上也很容易实现reactive components，简化线程操作，从而写出很漂亮的代码。   
+项目地址：https://github.com/ReactiveX/RxAndroid   
+文档介绍：[给Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)   
+
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
 将 Android 3.0(Honeycomb)所有动画 API(ObjectAnimator ValueAnimator 等)兼容到 Android1.0  
 项目地址：https://github.com/JakeWharton/NineOldAndroids  
-原理剖析文档：[Nine Old Androids](http://codekk.com/open-source-project-analysis/detail/Android/Mr.Simple/NineOldAnimations 源码解析)  
+原理剖析文档：[Nine Old Androids](http://a.codekk.com/detail/Android/Mr.Simple/NineOldAnimations 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample  
 文档介绍：http://nineoldandroids.com/  
 
@@ -1773,7 +1842,7 @@ android 上开源弹幕解析绘制引擎项目
 1. EventBus  
 greenrobot 的开源项目  
 项目地址：https://github.com/greenrobot/EventBus  
-原理剖析文档：[EventBus](http://codekk.com/open-source-project-analysis/detail/Android/Trinea/EventBus 源码解析)  
+原理剖析文档：[EventBus](http://a.codekk.com/detail/Android/Trinea/EventBus 源码解析)  
 文档介绍：https://github.com/greenrobot/EventBus#general-usage-and-api  
 特点：(1) 支持在不同类型的线程中处理订阅，包括发布所在线程，UI 线程、单一后台线程、异步线程  
 (2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像啊  
@@ -1885,7 +1954,7 @@ Android 4 锁屏界面解锁
 1. dynamic-load-apk  
 Android 动态加载 Apk，热部署，利用 ClassLoader 以及 Activity 代理的方式解决  
 项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
-原理剖析文档：[dynamic-load-apk](http://codekk.com/open-source-project-analysis/detail/Android/FFish/DynamicLoadApk 源码解析)  
+原理剖析文档：[dynamic-load-apk](http://a.codekk.com/detail/Android/FFish/DynamicLoadApk 源码解析)  
 文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 
 1. Android Dynamic Loader  
@@ -1954,7 +2023,16 @@ java 压缩和解压库
 (4) 支持遍历 zip 包内容  
 (5) 比较两个 zip 包等功能  
 
+1. Image File Selector  
+轻量级的图片文件选择器，用系统api选取，压缩和裁切图片，可以方便的得要指定尺寸的图片  
+项目地址：https://github.com/sw926/ImageFileSelector  
+	
 #### 十三、其他
+
+1. CustomTabsHelper  
+快速集成 CustomTabs 的工具类  
+项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
+
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  

@@ -63,7 +63,15 @@ Similar App: Wordpress Android
 An Android List View implementation with support for drawable cells and many other swipe related features  
 Project Address: https://github.com/47deg/android-swipelistview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
-Similar App: 微信  
+Similar App: 微信
+
+1. SlideAndDragListView  
+An extension of the Android ListView that enables slide and drag-and-drop reordering of list items.  
+Project Address: https://github.com/yydcdut/SlideAndDragListView  
+Demo Apk: https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+Similar App: Android 手机QQ 5.0  
+Renderings: ![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif)  
+
    
 1. RecyclerViewSwipeDismiss
 lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`
@@ -796,6 +804,18 @@ Project Address: https://github.com/ogaclejapan/ArcLayout
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
 
+1. FinestWebView  
+FinestWebView is an easy to use WebView for mobile Applications.  
+Project Address: https://github.com/TheFinestArtist/FinestWebView-Android  
+Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
+Renderings: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
+
+1. YouTubePlayerActivity  
+Simply pass a url to play youtube video in new activity. It supports screen orientation, media volume control and etc.  
+Project Address: https://github.com/TheFinestArtist/YouTubePlayerActivity  
+Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
+Renderings: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
@@ -1036,7 +1056,10 @@ Demo Apk: https://play.google.com/store/apps/details?id=teaonly.droideye
 libpng for Android NDK  
 Project Address: https://github.com/julienr/libpng-android  
 Document: http://www.libpng.org/pub/png/libpng.html  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+1. Image File Selector  
+Project Address: https://github.com/sw926/ImageFileSelector 
 
 #### 8. Event Bus  
 A typical use case for Android apps is gluing Activities, Fragments, and background threads together. Conventional wiring of those elements often introduces complex and error-prone dependencies and life cycle issues.   
