@@ -1739,6 +1739,11 @@ Android 4.4 的 Transitions API 兼容到 Android 2.2 以上
 文档介绍：http://www.cocos2d-x.org/wiki  
 官网网址：http://www.cocos2d-x.org/  
 
+1. JustWeEngine  
+Android的轻量级游戏框架，能大大缩减编写原生游戏的代码量和难度，仍在持续更新中。  
+项目地址: https://github.com/lfkdsk/JustWeEngine
+Demo地址: https://github.com/lfkdsk/EngineDemo  
+
 1. Vitamio  
 是一款 Android 与 iOS 平台上的全能多媒体开发框架  
 项目地址：https://github.com/yixia/VitamioBundle  
@@ -2245,7 +2250,7 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 二维码扫描工具  
 项目地址：https://github.com/zxing/zxing 或 https://code.google.com/p/zxing/  
 APK 地址：https://play.google.com/store/apps/details?id=com.google.zxing.client.android  
-其他：现在市面上很多应用的二维码扫描功能都是从这个修改而来  
+其他：现在市面上很duo多应用的二维码扫描功能都是从这个修改而来  
 
 1. photup  
 编辑机批量上传照片到 facebook 上  
