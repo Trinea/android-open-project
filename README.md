@@ -1739,10 +1739,10 @@ Android 4.4 的 Transitions API 兼容到 Android 2.2 以上
 文档介绍：http://www.cocos2d-x.org/wiki  
 官网网址：http://www.cocos2d-x.org/  
 
-+1. JustWeEngine  
-+Android的轻量级游戏框架，能大大缩减编写原生游戏的代码量和难度，仍在持续更新中。  
-+项目地址: https://github.com/lfkdsk/JustWeEngine  
-+Demo地址: https://github.com/lfkdsk/EngineDemo  
+1. JustWeEngine  
+Android的轻量级游戏框架，能大大缩减编写原生游戏的代码量和难度，仍在持续更新中。  
+项目地址: https://github.com/lfkdsk/JustWeEngine  
+Demo地址: https://github.com/lfkdsk/EngineDemo  
 
 1. Vitamio  
 是一款 Android 与 iOS 平台上的全能多媒体开发框架  
