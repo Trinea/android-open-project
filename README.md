@@ -735,6 +735,12 @@ A 2d metaball loading
 Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/example.apk) <br/>
 效果图：<br/>![ColorfulRingProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/colorfulringprogressview.demo.gif) ![SectorProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/sectorprogressview.demo.gif)
 
+1. CircularFillableLoaders  
+一个可以用于闪屏或者其他地方加载的控件<br/>
+项目地址：https://github.com/lopspower/CircularFillableLoaders<br/>
+Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.circularfillableloaderssample) <br/>
+效果图：<br/>![CircularFillableLoaders](https://camo.githubusercontent.com/b8e510f51d0781c1ac41a01713d81beb93ff30a9/687474703a2f2f6936362e74696e797069632e636f6d2f357a6771776e2e706e67) ![CircularFillableLoaders](https://lh3.googleusercontent.com/QUzoUjzTGirHKnGSmvziRfh230FRph12TPfEqUdZs9HXAgDnB79pSP6aCDLVpU9QvRZA=h310-rw)
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
