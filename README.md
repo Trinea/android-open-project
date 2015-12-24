@@ -270,7 +270,14 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 實現ListItem 點擊後置頂並可顯示客製化添加的item的內部View 的ListView  
 项目地址：https://github.com/s8871404/PopupListView  
 Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplistview_sample  
-效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)  
+效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)   
+
+1. CircleRefreshLayout  
+一个包含有趣的动画的自定义下拉刷新布局  
+项目地址：https://github.com/tuesda/CircleRefreshLayout  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif)
+  
 
 #### 二、ActionBar
 1. ActionBarSherlock  
@@ -1422,7 +1429,23 @@ Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist
 只需通過一個URL來在新的活動播放YouTube視頻。它支持屏幕方向，媒體音量控制等。  
 项目地址: https://github.com/TheFinestArtist/YouTubePlayerActivity  
 Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
-效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)  
+
+1. material-camera  
+material风格的camera。能使camera使用起来更简单的库。  
+项目地址：https://github.com/afollestad/material-camera   
+效果图：  
+![Renderings](https://raw.githubusercontent.com/afollestad/material-camera/master/art/deviceart.png)    
+
+1. material-dialogs  
+各种material风格的dialog。
+漂亮的的、易于使用的和可定制的Dialog API，你能够使用Material designed风格的Dialog到API 8。  
+项目地址：https://github.com/afollestad/material-dialogs   
+Sample地址：https://github.com/afollestad/material-dialogs/blob/master/sample/sample.apk  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)    
+  
+
 
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
