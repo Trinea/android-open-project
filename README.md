@@ -276,7 +276,16 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 一个包含有趣的动画的自定义下拉刷新布局  
 项目地址：https://github.com/tuesda/CircleRefreshLayout  
 效果图：  
-![Renderings](https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif)
+![Renderings](https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif)   
+  
+1. EasyRecyclerView  
+一款简单易用的EasyRecyclerView
+1.提供EasyRecyclerView，不需要写太多RecyclerView的配置代码  
+2.提供好一个可以适配单布局和多布局的RecyclerViewAdapter  
+3.提供了分割线的实现类，只需要传入一个DrawableId  
+项目地址：https://github.com/CaMnter/EasyRecyclerView  
+
+
   
 
 #### 二、ActionBar
@@ -524,6 +533,13 @@ App
 效果图：![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/inside.gif)  
 ![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/outside.gif)    
 ![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/solo.gif)    
+
+1. EasySlidingTabs  
+一款简单、易用的滑动标签页  
+项目地址： https://github.com/CaMnter/EasySlidingTabs  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/CaMnter/EasySlidingTabs/master/readme/readme_easy_sliding_tabs_1.png)   
+
 
 #### 五、GridView
 1. StaggeredGridView  
