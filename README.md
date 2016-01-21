@@ -2220,6 +2220,12 @@ Android Wear 数据同步和消息传送库
 Demo 地址：https://github.com/orhanobut/logger/tree/master/app  
 效果图：![Renderings](https://github.com/orhanobut/logger/blob/master/images/description.png)  
 
+1. jlog  
+可以灵活配置的日志工具，支持JSON打印，日志保存到指定文件，日志显示调用位置（混淆模式下依然有效）  
+项目地址：https://github.com/JiongBull/jlog  
+Demo 地址：[apk地址](https://raw.githubusercontent.com/JiongBull/jlog/master/apk/JLog_sample.apk)  
+效果图：![Renderings](http://7xize8.com1.z0.glb.clouddn.com/jlog_sample.gif)  
+
 1. Phrase  
 square 组开源大牛写的字符串替换类  
 项目地址：https://github.com/square/phrase  
