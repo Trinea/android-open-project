@@ -1833,8 +1833,13 @@ Demo 地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurD
 文档介绍：https://github.com/edmodo/cropper/wiki  
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
+1. uCrop  
+Yalantis 出品的强大的图片裁剪库 ，支持缩放，旋转图片，支持各种比例的裁剪框  
+项目地址：https://github.com/Yalantis/uCrop  
+效果图：![Renderings](https://camo.githubusercontent.com/8577338af603bb6046e0ff06e2530cbbedd94d85/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3232313933352f73637265656e73686f74732f323437343239352f616e696d6174696f6e2e676966)
+
 1. android-crop  
-图片裁剪 Activity  
+图片裁剪 Activity
 项目地址：https://github.com/jdamcd/android-crop  
 效果图：![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 
