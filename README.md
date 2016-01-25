@@ -1806,7 +1806,12 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 (1) 使用自定义控件方式提供播放器UI，不需要视频相关知识，能编写android应用就能使用  
 (2) 软硬解切换、点播直播支持  
 (3) 解码内核小于4M，更方便集成到非专业视频app中  
-(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等  
+(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等
+
+1.VideoPlayerManager
+帮助实现VideoPlayer控制，使得它更容易使用ListView和recyclerview。它还可以跟踪滚动列表中可见的项。当列表中的新项可见域最大时，该库给出了接口来跟踪它。
+项目地址;https://github.com/danylovolokh/VideoPlayerManager
+文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn
 
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
