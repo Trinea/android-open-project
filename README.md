@@ -1777,6 +1777,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=org.jraf.android.bac
 Android 4.4 的 Transitions API 兼容到 Android 2.2 以上  
 项目地址：https://github.com/andkulikov/transitions-everywhere  
 
+1.KShareViewActivityManager
+一个兼容Android 5.0 以下Shared Element Transition （页面间共享元素位移动画）库
+项目地址：https://github.com/kot32go/KShareViewActivityManager
+Demo地址：http://i8.tietuku.com/aa5726b8302ae711.gif
+
 #### 七、多媒体相关
 1. cocos2d-x  
 跨平台的 2d 游戏框架，支持 Android、IOS、Linux、Windows 等众多平台  
