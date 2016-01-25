@@ -2612,10 +2612,10 @@ Chrome 的 Adb 插件，当登录后，能看到所有连接的设备并操作�
 项目地址：https://github.com/importre/chromeadb  
 
 #### 五、其他
-1. GT
-APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。
-项目地址：https://github.com/TencentOpen/GT
-文档介绍：http://gt.qq.com/docs.html
+1. GT  
+APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。  
+项目地址：https://github.com/TencentOpen/GT  
+文档介绍：http://gt.qq.com/docs.html  
 
 1. ViewServer  
 允许 app 运行在任何手机上都可以用 HierarchyViewer 查看  
