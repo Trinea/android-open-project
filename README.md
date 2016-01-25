@@ -2097,7 +2097,13 @@ java 压缩和解压库
 	
 #### 十三、其他
 
-1. CustomTabsHelper  
+1.https://github.com/Mr-wangyong/FragmentStack
+一个封装了启动模式的Fragment便捷使用库,方便构建单Activity+多Fragment轻量级框架
+项目地址：https://github.com/Mr-wangyong/FragmentStack
+效果图：https://github.com/Mr-wangyong/FragmentStack/blob/master/play.gif
+App示例：[南瓜电影](http://www.wandoujia.com/apps/cn.vcinema.cinema)
+
+1. CustomTabsHelper
 快速集成 CustomTabs 的工具类  
 项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
 
