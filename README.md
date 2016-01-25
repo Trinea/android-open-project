@@ -2616,6 +2616,7 @@ Chrome 的 Adb 插件，当登录后，能看到所有连接的设备并操作�
 APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。
 项目地址：https://github.com/TencentOpen/GT
 文档介绍：http://gt.qq.com/docs.html
+
 1. ViewServer  
 允许 app 运行在任何手机上都可以用 HierarchyViewer 查看  
 项目地址：https://github.com/romainguy/ViewServer  
@@ -2692,8 +2693,11 @@ Android 内存泄露检测工具，集成方便，出现泄露后报告直观
 
 1. CacheUtilsLibrary  
 将任何Java Object类型的数据序列化后写入缓存文件，将来使用时读取缓存文件并反序列化成对应Java Object的库  
-项目地址：https://github.com/westlinkin/CacheUtilsLibrary  
+项目地址：https://github.com/westlinkin/CacheUtilsLibrary
 
+1.BlockCanary
+BlockCanary是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。
+项目地址: https://github.com/moduth/blockcanary
 
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
