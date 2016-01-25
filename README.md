@@ -1783,7 +1783,7 @@ Android 4.4 的 Transitions API 兼容到 Android 2.2 以上
 1. KShareViewActivityManager  
 一个兼容Android 5.0 以下Shared Element Transition （页面间共享元素位移动画）库  
 项目地址：https://github.com/kot32go/KShareViewActivityManager  
-Demo地址：http://i8.tietuku.com/aa5726b8302ae711.gif  
+效果图：http://i8.tietuku.com/aa5726b8302ae711.gif  
 
 #### 七、多媒体相关
 1. cocos2d-x  
@@ -1818,7 +1818,7 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 
 1. VideoPlayerManager  
 帮助实现VideoPlayer控制，使得它更容易使用ListView和recyclerview。它还可以跟踪滚动列表中可见的项。当列表中的新项可见域最大时，该库给出了接口来跟踪它。  
-项目地址;https://github.com/danylovolokh/VideoPlayerManager  
+项目地址：https://github.com/danylovolokh/VideoPlayerManager  
 文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn  
 
 1. PhotoProcessing  
@@ -2695,7 +2695,7 @@ Android 内存泄露检测工具，集成方便，出现泄露后报告直观
 将任何Java Object类型的数据序列化后写入缓存文件，将来使用时读取缓存文件并反序列化成对应Java Object的库  
 项目地址：https://github.com/westlinkin/CacheUtilsLibrary
 
-1.BlockCanary  
+1. BlockCanary  
 BlockCanary是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。  
 项目地址: https://github.com/moduth/blockcanary  
 
