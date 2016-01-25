@@ -1461,7 +1461,10 @@ Sample地址：https://github.com/afollestad/material-dialogs/blob/master/sample
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)    
   
-
+1.NotifyUtil
+最常见的通知样式库
+项目地址:https://github.com/wenmingvs/NotifyUtil
+demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
