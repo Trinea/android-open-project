@@ -1461,7 +1461,10 @@ Sample地址：https://github.com/afollestad/material-dialogs/blob/master/sample
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)    
   
-
+1. NotifyUtil  
+最常见的通知样式库  
+项目地址:https://github.com/wenmingvs/NotifyUtil  
+demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo  
 
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
@@ -1777,6 +1780,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=org.jraf.android.bac
 Android 4.4 的 Transitions API 兼容到 Android 2.2 以上  
 项目地址：https://github.com/andkulikov/transitions-everywhere  
 
+1. KShareViewActivityManager  
+一个兼容Android 5.0 以下Shared Element Transition （页面间共享元素位移动画）库  
+项目地址：https://github.com/kot32go/KShareViewActivityManager  
+效果图：http://i8.tietuku.com/aa5726b8302ae711.gif  
+
 #### 七、多媒体相关
 1. cocos2d-x  
 跨平台的 2d 游戏框架，支持 Android、IOS、Linux、Windows 等众多平台  
@@ -1806,7 +1814,12 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 (1) 使用自定义控件方式提供播放器UI，不需要视频相关知识，能编写android应用就能使用  
 (2) 软硬解切换、点播直播支持  
 (3) 解码内核小于4M，更方便集成到非专业视频app中  
-(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等  
+(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等
+
+1. VideoPlayerManager  
+帮助实现VideoPlayer控制，使得它更容易使用ListView和recyclerview。它还可以跟踪滚动列表中可见的项。当列表中的新项可见域最大时，该库给出了接口来跟踪它。  
+项目地址：https://github.com/danylovolokh/VideoPlayerManager  
+文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn  
 
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
@@ -2084,7 +2097,13 @@ java 压缩和解压库
 	
 #### 十三、其他
 
-1. CustomTabsHelper  
+1. FragmentStack  
+一个封装了启动模式的Fragment便捷使用库,方便构建单Activity+多Fragment轻量级框架  
+项目地址：https://github.com/Mr-wangyong/FragmentStack  
+效果图：https://github.com/Mr-wangyong/FragmentStack/blob/master/play.gif  
+App示例：[南瓜电影](http://www.wandoujia.com/apps/cn.vcinema.cinema)  
+
+1. CustomTabsHelper
 快速集成 CustomTabs 的工具类  
 项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
 
@@ -2593,10 +2612,11 @@ Chrome 的 Adb 插件，当登录后，能看到所有连接的设备并操作�
 项目地址：https://github.com/importre/chromeadb  
 
 #### 五、其他
-1.GT
-APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。
-项目地址：https://github.com/TencentOpen/GT
-文档介绍：http://gt.qq.com/docs.html
+1. GT  
+APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。  
+项目地址：https://github.com/TencentOpen/GT  
+文档介绍：http://gt.qq.com/docs.html  
+
 1. ViewServer  
 允许 app 运行在任何手机上都可以用 HierarchyViewer 查看  
 项目地址：https://github.com/romainguy/ViewServer  
@@ -2673,8 +2693,11 @@ Android 内存泄露检测工具，集成方便，出现泄露后报告直观
 
 1. CacheUtilsLibrary  
 将任何Java Object类型的数据序列化后写入缓存文件，将来使用时读取缓存文件并反序列化成对应Java Object的库  
-项目地址：https://github.com/westlinkin/CacheUtilsLibrary  
+项目地址：https://github.com/westlinkin/CacheUtilsLibrary
 
+1. BlockCanary  
+BlockCanary是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。  
+项目地址: https://github.com/moduth/blockcanary  
 
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
