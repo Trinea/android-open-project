@@ -1239,6 +1239,11 @@ Android 扁平化风格的组件，支持一些自定义样式
 效果图：![Renderings](http://7xikfc.com1.z0.glb.clouddn.com/Screenshot_2015-07-17-12-22-07.png)  
 
 #### 十六、其他
+1. SnappingStepper   
+一种漂亮的UI控件，能更灵活的控制数字的增减。可用于购物车商品数量控制。  
+项目地址：https://github.com/saiwu-bigkoo/Android-SnappingStepper  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-SnappingStepper/blob/master/preview/snappingstepperdemo.gif)  
+
 1. SwipeBackLayout  
 左右或向上滑动返回的 Activity  
 项目地址：https://github.com/Issacw0ng/SwipeBackLayout  
