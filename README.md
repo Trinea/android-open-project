@@ -270,7 +270,23 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 實現ListItem 點擊後置頂並可顯示客製化添加的item的內部View 的ListView  
 项目地址：https://github.com/s8871404/PopupListView  
 Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplistview_sample  
-效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)  
+效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)   
+
+1. CircleRefreshLayout  
+一个包含有趣的动画的自定义下拉刷新布局  
+项目地址：https://github.com/tuesda/CircleRefreshLayout  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif)   
+  
+1. EasyRecyclerView  
+一款简单易用的EasyRecyclerView
+1.提供EasyRecyclerView，不需要写太多RecyclerView的配置代码  
+2.提供好一个可以适配单布局和多布局的RecyclerViewAdapter  
+3.提供了分割线的实现类，只需要传入一个DrawableId  
+项目地址：https://github.com/CaMnter/EasyRecyclerView  
+
+
+  
 
 #### 二、ActionBar
 1. ActionBarSherlock  
@@ -518,6 +534,13 @@ App
 ![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/outside.gif)    
 ![Renderings]( https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/solo.gif)    
 
+1. EasySlidingTabs  
+一款简单、易用的滑动标签页  
+项目地址： https://github.com/CaMnter/EasySlidingTabs  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/CaMnter/EasySlidingTabs/master/readme/readme_easy_sliding_tabs_1.png)   
+
+
 #### 五、GridView
 1. StaggeredGridView  
 允许非对齐行的 GridView，类似 Pinterest 的瀑布流，并且跟 ListView 一样自带 View 缓存，继承自 ViewGroup  
@@ -734,6 +757,12 @@ A 2d metaball loading
 项目地址：https://github.com/timqi/SectorProgressView<br/>
 Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/example.apk) <br/>
 效果图：<br/>![ColorfulRingProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/colorfulringprogressview.demo.gif) ![SectorProgressView](https://github.com/timqi/SectorProgressView/raw/master/art/sectorprogressview.demo.gif)
+
+1. CircularFillableLoaders  
+一个可以用于闪屏或者其他地方加载的控件<br/>
+项目地址：https://github.com/lopspower/CircularFillableLoaders<br/>
+Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.circularfillableloaderssample) <br/>
+效果图：<br/>![CircularFillableLoaders](https://camo.githubusercontent.com/b8e510f51d0781c1ac41a01713d81beb93ff30a9/687474703a2f2f6936362e74696e797069632e636f6d2f357a6771776e2e706e67) ![CircularFillableLoaders](https://lh3.googleusercontent.com/QUzoUjzTGirHKnGSmvziRfh230FRph12TPfEqUdZs9HXAgDnB79pSP6aCDLVpU9QvRZA=h310-rw)
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
@@ -1416,7 +1445,26 @@ Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist
 只需通過一個URL來在新的活動播放YouTube視頻。它支持屏幕方向，媒體音量控制等。  
 项目地址: https://github.com/TheFinestArtist/YouTubePlayerActivity  
 Sample 地址: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
-效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+效果图: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)  
+
+1. material-camera  
+material风格的camera。能使camera使用起来更简单的库。  
+项目地址：https://github.com/afollestad/material-camera   
+效果图：  
+![Renderings](https://raw.githubusercontent.com/afollestad/material-camera/master/art/deviceart.png)    
+
+1. material-dialogs  
+各种material风格的dialog。
+漂亮的的、易于使用的和可定制的Dialog API，你能够使用Material designed风格的Dialog到API 8。  
+项目地址：https://github.com/afollestad/material-dialogs   
+Sample地址：https://github.com/afollestad/material-dialogs/blob/master/sample/sample.apk  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png)    
+  
+1. NotifyUtil  
+最常见的通知样式库  
+项目地址:https://github.com/wenmingvs/NotifyUtil  
+demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo  
 
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
@@ -1732,6 +1780,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=org.jraf.android.bac
 Android 4.4 的 Transitions API 兼容到 Android 2.2 以上  
 项目地址：https://github.com/andkulikov/transitions-everywhere  
 
+1. KShareViewActivityManager  
+一个兼容Android 5.0 以下Shared Element Transition （页面间共享元素位移动画）库  
+项目地址：https://github.com/kot32go/KShareViewActivityManager  
+效果图：http://i8.tietuku.com/aa5726b8302ae711.gif  
+
 #### 七、多媒体相关
 1. cocos2d-x  
 跨平台的 2d 游戏框架，支持 Android、IOS、Linux、Windows 等众多平台  
@@ -1761,7 +1814,12 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 (1) 使用自定义控件方式提供播放器UI，不需要视频相关知识，能编写android应用就能使用  
 (2) 软硬解切换、点播直播支持  
 (3) 解码内核小于4M，更方便集成到非专业视频app中  
-(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等  
+(4) 修正一些vitaimio的问题，比如m3u8可以拖动等等
+
+1. VideoPlayerManager  
+帮助实现VideoPlayer控制，使得它更容易使用ListView和recyclerview。它还可以跟踪滚动列表中可见的项。当列表中的新项可见域最大时，该库给出了接口来跟踪它。  
+项目地址：https://github.com/danylovolokh/VideoPlayerManager  
+文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn  
 
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
@@ -1788,8 +1846,13 @@ Demo 地址：https://github.com/kikoso/android-stackblur/blob/master/StackBlurD
 文档介绍：https://github.com/edmodo/cropper/wiki  
 效果图：![Renderings](https://github-camo.global.ssl.fastly.net/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067)  
 
+1. uCrop  
+Yalantis 出品的强大的图片裁剪库 ，支持缩放，旋转图片，支持各种比例的裁剪框  
+项目地址：https://github.com/Yalantis/uCrop  
+效果图：![Renderings](https://camo.githubusercontent.com/8577338af603bb6046e0ff06e2530cbbedd94d85/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3232313933352f73637265656e73686f74732f323437343239352f616e696d6174696f6e2e676966)
+
 1. android-crop  
-图片裁剪 Activity  
+图片裁剪 Activity
 项目地址：https://github.com/jdamcd/android-crop  
 效果图：![Renderings](https://github.com/jdamcd/android-crop/raw/master/screenshot.png)  
 
@@ -2034,7 +2097,13 @@ java 压缩和解压库
 	
 #### 十三、其他
 
-1. CustomTabsHelper  
+1. FragmentStack  
+一个封装了启动模式的Fragment便捷使用库,方便构建单Activity+多Fragment轻量级框架  
+项目地址：https://github.com/Mr-wangyong/FragmentStack  
+效果图：https://github.com/Mr-wangyong/FragmentStack/blob/master/play.gif  
+App示例：[南瓜电影](http://www.wandoujia.com/apps/cn.vcinema.cinema)  
+
+1. CustomTabsHelper
 快速集成 CustomTabs 的工具类  
 项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
 
@@ -2175,6 +2244,12 @@ Android Wear 数据同步和消息传送库
 Demo 地址：https://github.com/orhanobut/logger/tree/master/app  
 效果图：![Renderings](https://github.com/orhanobut/logger/blob/master/images/description.png)  
 
+1. jlog  
+可以灵活配置的日志工具，支持JSON打印，日志保存到指定文件，日志显示调用位置（混淆模式下依然有效）  
+项目地址：https://github.com/JiongBull/jlog  
+Demo 地址：[apk地址](https://raw.githubusercontent.com/JiongBull/jlog/master/apk/JLog_sample.apk)  
+效果图：![Renderings](http://7xize8.com1.z0.glb.clouddn.com/jlog_sample.gif)  
+
 1. Phrase  
 square 组开源大牛写的字符串替换类  
 项目地址：https://github.com/square/phrase  
@@ -2235,6 +2310,11 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 项目地址：[ReadView](https://github.com/lfkdsk/JustWeTools)  
 效果图：![vertextview](https://github.com/lfkdsk/JustWeTools/blob/master/picture/VerTextView.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
+
+1. GHDownload下载框架  
+支持单线程和多线程断点下载，简单易用。  
+项目地址：[GHDownload](https://github.com/guanchao/GHDownload)  
+
 
 ## 第三部分 优秀项目
 主要介绍那些 Android 还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
@@ -2532,6 +2612,11 @@ Chrome 的 Adb 插件，当登录后，能看到所有连接的设备并操作�
 项目地址：https://github.com/importre/chromeadb  
 
 #### 五、其他
+1. GT  
+APP的随身调试平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。  
+项目地址：https://github.com/TencentOpen/GT  
+文档介绍：http://gt.qq.com/docs.html  
+
 1. ViewServer  
 允许 app 运行在任何手机上都可以用 HierarchyViewer 查看  
 项目地址：https://github.com/romainguy/ViewServer  
@@ -2608,8 +2693,11 @@ Android 内存泄露检测工具，集成方便，出现泄露后报告直观
 
 1. CacheUtilsLibrary  
 将任何Java Object类型的数据序列化后写入缓存文件，将来使用时读取缓存文件并反序列化成对应Java Object的库  
-项目地址：https://github.com/westlinkin/CacheUtilsLibrary  
+项目地址：https://github.com/westlinkin/CacheUtilsLibrary
 
+1. BlockCanary  
+BlockCanary是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。  
+项目地址: https://github.com/moduth/blockcanary  
 
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
