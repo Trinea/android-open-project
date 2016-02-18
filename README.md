@@ -1826,6 +1826,12 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 项目地址：https://github.com/danylovolokh/VideoPlayerManager  
 文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn  
 
+1. UniversalVideoView  
+Android上定义播放器控件,支持自定义控制UI, 全屏播放, 重力感应自动切换横竖屏.  
+项目地址：https://github.com/linsea/UniversalVideoView  
+![Sample Screenshot 1](https://github.com/linsea/UniversalVideoView/raw/master/screenshot/screen1.png)
+![Sample Screenshot 2](https://github.com/linsea/UniversalVideoView/raw/master/screenshot/screen2.png)
+
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
 项目地址：https://github.com/lightbox/PhotoProcessing  
@@ -1908,6 +1914,10 @@ Android Svg 矢量图形支持
 1. DanmakuFlameMaster  
 android 上开源弹幕解析绘制引擎项目  
 项目地址：https://github.com/ctiao/DanmakuFlameMaster  
+
+1. OpenDanmaku  
+android 上一个轻量级的更简单的开源弹幕控件  
+项目地址：https://github.com/linsea/OpenDanmaku  
 
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
