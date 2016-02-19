@@ -764,6 +764,11 @@ Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art
 Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.circularfillableloaderssample) <br/>
 效果图：<br/>![CircularFillableLoaders](https://camo.githubusercontent.com/b8e510f51d0781c1ac41a01713d81beb93ff30a9/687474703a2f2f6936362e74696e797069632e636f6d2f357a6771776e2e706e67) ![CircularFillableLoaders](https://lh3.googleusercontent.com/QUzoUjzTGirHKnGSmvziRfh230FRph12TPfEqUdZs9HXAgDnB79pSP6aCDLVpU9QvRZA=h310-rw)
 
+1. PinWheel  
+一个旋转的大风车Dialog 
+项目地址：https://github.com/codingWang/PinWheel<br/>
+效果图：![Renderings](https://github.com/codingWang/PinWheel/blob/master/gif/pinwheel.gif) 
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
