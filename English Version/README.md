@@ -805,7 +805,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayou
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
 
 1. FinestWebView  
-FinestWebView is an easy to use WebView for mobile Applications.  
+Beautiful and customizable Android Activity that shows web pages within an app.  
 Project Address: https://github.com/TheFinestArtist/FinestWebView-Android  
 Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
 Renderings: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
