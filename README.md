@@ -764,6 +764,11 @@ Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art
 Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.circularfillableloaderssample) <br/>
 效果图：<br/>![CircularFillableLoaders](https://camo.githubusercontent.com/b8e510f51d0781c1ac41a01713d81beb93ff30a9/687474703a2f2f6936362e74696e797069632e636f6d2f357a6771776e2e706e67) ![CircularFillableLoaders](https://lh3.googleusercontent.com/QUzoUjzTGirHKnGSmvziRfh230FRph12TPfEqUdZs9HXAgDnB79pSP6aCDLVpU9QvRZA=h310-rw)
 
+1. PinWheel  
+一个旋转的大风车Dialog 
+项目地址：https://github.com/codingWang/PinWheel<br/>
+效果图：![Renderings](https://github.com/codingWang/PinWheel/blob/master/gif/pinwheel.gif) 
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
@@ -1239,6 +1244,11 @@ Android 扁平化风格的组件，支持一些自定义样式
 效果图：![Renderings](http://7xikfc.com1.z0.glb.clouddn.com/Screenshot_2015-07-17-12-22-07.png)  
 
 #### 十六、其他
+1. SnappingStepper   
+一种漂亮的UI控件，能更灵活的控制数字的增减。可用于购物车商品数量控制。  
+项目地址：https://github.com/saiwu-bigkoo/Android-SnappingStepper  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-SnappingStepper/blob/master/preview/snappingstepperdemo.gif)  
+
 1. SwipeBackLayout  
 左右或向上滑动返回的 Activity  
 项目地址：https://github.com/Issacw0ng/SwipeBackLayout  
@@ -1821,6 +1831,12 @@ Demo 地址：https://github.com/SinaVDDeveloper/demo
 项目地址：https://github.com/danylovolokh/VideoPlayerManager  
 文档介绍：https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429#.hs5n0geqn  
 
+1. UniversalVideoView  
+Android上定义播放器控件,支持自定义控制UI, 全屏播放, 重力感应自动切换横竖屏.  
+项目地址：https://github.com/linsea/UniversalVideoView  
+![Sample Screenshot 1](https://github.com/linsea/UniversalVideoView/raw/master/screenshot/screen1.png)
+![Sample Screenshot 2](https://github.com/linsea/UniversalVideoView/raw/master/screenshot/screen2.png)
+
 1. PhotoProcessing  
 利用 ndk 处理图片库，支持 Instafix、Ansel、Testino、XPro、Retro、BW、Sepia、Cyano、Georgia、Sahara、HDR、Rotate(旋转)、Flip(翻转)等各种特效  
 项目地址：https://github.com/lightbox/PhotoProcessing  
@@ -1903,6 +1919,10 @@ Android Svg 矢量图形支持
 1. DanmakuFlameMaster  
 android 上开源弹幕解析绘制引擎项目  
 项目地址：https://github.com/ctiao/DanmakuFlameMaster  
+
+1. OpenDanmaku  
+android 上一个轻量级的更简单的开源弹幕控件  
+项目地址：https://github.com/linsea/OpenDanmaku  
 
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
