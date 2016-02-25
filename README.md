@@ -2488,6 +2488,11 @@ Android ActionBar 样式生成器，可在线选择 ActionBar 样式自动生成
 用于生成各个分辨率的图片  
 项目地址：http://www.appiconsizes.com/  
 
+1. AndroidUtiles 
+集合了所有常用的安卓工具类
+项目地址：https://github.com/l123456789jy/Lazy
+
+
 1. Gradle Retrolambda Plugin  
 [Retrolambda](https://github.com/orfjackal/retrolambda)是将 Java8 的 Lambdas 应用于 Java7 的工具，本项目是 Gradle 插件，通过 Retrolambda 从而使 Java 或 Android 项目用 Java8 的 Lambdas 编写，将编译后的字节码转换为 Java6 和 7 的字节码从而正常运行  
 项目地址：https://github.com/evant/gradle-retrolambda  
