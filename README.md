@@ -52,6 +52,12 @@ http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif
 http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif  
 http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif  
 
+1.Android-PullToRefreshRecyclerView  
+支持下拉刷新的RecyclerView，同时支持滑动到底部自动加载数据、给RecyclerView添加Header。并且不更改原有RecyclerView的逻辑。  
+![Screenshot](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/screenshot.gif)  
+项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。  
+Demo地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/sample.apk  
+
 1. DragSortListView  
 拖动排序的 ListView，同时支持 ListView 滑动 item 删除，各个 Item 高度不一、单选、复选、CursorAdapter 做为适配器、拖动背景变化等  
 项目地址：https://github.com/bauerca/drag-sort-listview  
@@ -431,6 +437,11 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
 
 #### 四、ViewPager 、Gallery
+1.AdvancedPagerSlidingTabStrip   
+一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点。  
+![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png) 
+项目地址：https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip。  
+
 1. ConvenientBanner  
 通用的广告栏控件，让你轻松实现广告头效果。支持无限循环，可以设置自动翻页和时间(而且非常智能，手指触碰则暂停翻页，离开自动开始翻页。你也可以设置在界面onPause的时候不进行自动翻页，onResume之后继续自动翻页)，并且提供多种翻页特效。 对比其他广告栏控件，大多都需要对源码进行改动才能加载网络图片，或者帮你集成不是你所需要的图片缓存库。而这个库能让有代码洁癖的你欢喜，不需要对库源码进行修改你就可以使用任何你喜欢的网络图片库进行配合。
 项目地址：https://github.com/saiwu-bigkoo/Android-ConvenientBanner  
@@ -604,6 +615,10 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 原理剖析文档：[PhotoView](http://a.codekk.com/detail/Android/dkmeteor/PhotoView 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP 示例：photup  
+
+1.Fresco-ImageView  
+Fresco-ImageView是一种Android平台的图像控件，底层是对Fresco的封装，可以异步加载网络图片、项目资源和本地图片，并且支持双指缩放、图片的基本处理以及Fresco的所有特性。  
+项目地址：https://github.com/HomHomLin/FrescoImageView。  
 
 1. android-gif-drawable  
 支持 gif 显示的 view，用 jni 实现的，编译生成 so 库后直接 xml 定义 view 即可，而且本身不依赖于其他开源项目所以相对下面的 ImageViewEx 简单的多  
