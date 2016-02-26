@@ -1216,6 +1216,13 @@ Demo 项目：https://github.com/diogobernardino/WilliamChart/tree/master/sample
 Demo 地址：https://play.google.com/store/apps/details?id=lecho.lib.hellocharts.samples  
 在线演示：https://www.youtube.com/watch?v=xbSBjyjH2SY  
 
+1. PieChartView  
+比较简单直接的饼状统计报表图，使用方便，设置相应的属性参数即可  
+项目地址：https://github.com/wuseal/PieChartView　  
+Demo 地址：https://github.com/wuseal/PieChartView  
+效果图：  
+![Renderings](https://github.com/wuseal/PieChartView/blob/master/demo.png?raw=true)  
+
 #### 十五、UI Style
 不同样式的系统 UI 风格，如 IOS、Bootstrap 风格  
 
