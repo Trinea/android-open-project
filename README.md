@@ -52,10 +52,10 @@ http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif
 http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif  
 http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif  
 
-1.Android-PullToRefreshRecyclerView  
+1. Android-PullToRefreshRecyclerView  
 支持下拉刷新的RecyclerView，同时支持滑动到底部自动加载数据、给RecyclerView添加Header。并且不更改原有RecyclerView的逻辑。  
 ![Screenshot](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/screenshot.gif)  
-项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。  
+项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。    
 Demo地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/sample.apk  
 
 1. DragSortListView  
@@ -437,9 +437,9 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
 
 #### 四、ViewPager 、Gallery
-1.AdvancedPagerSlidingTabStrip   
+1. AdvancedPagerSlidingTabStrip   
 一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点。  
-![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png) 
+![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png)  
 项目地址：https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip。  
 
 1. ConvenientBanner  
@@ -616,7 +616,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 Demo 地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP 示例：photup  
 
-1.Fresco-ImageView  
+1. Fresco-ImageView  
 Fresco-ImageView是一种Android平台的图像控件，底层是对Fresco的封装，可以异步加载网络图片、项目资源和本地图片，并且支持双指缩放、图片的基本处理以及Fresco的所有特性。  
 项目地址：https://github.com/HomHomLin/FrescoImageView。  
 
