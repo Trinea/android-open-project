@@ -784,6 +784,11 @@ Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.cir
 项目地址：https://github.com/codingWang/PinWheel<br/>
 效果图：![Renderings](https://github.com/codingWang/PinWheel/blob/master/gif/pinwheel.gif) 
 
+1. ColorArcProgressBar
+一个可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能。<br/>
+项目地址：https://github.com/Shinelw/ColorArcProgressBar<br/>
+效果图：<br/>![ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif)
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
