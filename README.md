@@ -1749,8 +1749,8 @@ A library that analyzes an Android device's specifications and calculates which 
 文档介绍：[给Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)  
 
 1. MultiImageSelector   
-一个本地图片选择器，支持图片的单选和多选，直接返回所选图片的路径。
-项目地址：https://github.com/lovetuzitong/MultiImageSelector.git   
+一个本地图片选择器，支持图片的单选和多选，直接返回所选图片的路径。   
+项目地址：https://github.com/lovetuzitong/MultiImageSelector.git 
 
 #### 六、Android 高版本向低版本兼容
 1. Nine Old Androids  
