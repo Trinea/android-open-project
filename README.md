@@ -2400,6 +2400,11 @@ APK 地址：https://github.com/Trinea/TrineaDownload/blob/master/miui-note-demo
 项目地址：https://github.com/qii/weiciyuan  
 APK 地址：https://play.google.com/store/apps/details?id=org.qii.weiciyuan  
 
+1. Douya  
+豆芽——Material Design 的豆瓣客户端  
+项目地址：https://github.com/DreaminginCodeZH/Douya  
+效果图：![](https://raw.githubusercontent.com/DreaminginCodeZH/Douya/master/screenshot/00-main.png)  
+
 1. gnucash-android  
 一个记账理财软件  
 项目地址：https://github.com/codinguser/gnucash-android  
