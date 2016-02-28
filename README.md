@@ -1538,6 +1538,13 @@ android 快速开发框架
 原理剖析文档：[Dagger](http://a.codekk.com/detail/Android/扔物线/Dagger 源码解析)  
 文档介绍：http://square.github.io/dagger/  
 
+1. AutoParcel  
+注解自动生成Parcelable实现代码的库     
+项目地址：https://github.com/frankiesardo/auto-parcel    
+这篇文章详细介绍了它的使用方法：[AutoParcel](https://passy.svbtle.com/simpler-android-apis-with-autoparcel)     
+作者认为使用AutoParcel的好处是，可以简化构造函数，方便IDE代码自动完成，方便测试，前向兼容，生成不可变的对象。      
+文档介绍：https://github.com/frankiesardo/auto-parcel
+
 #### 二、图片缓存
 1. Android-Universal-Image-Loader  
 图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
