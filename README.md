@@ -1669,6 +1669,11 @@ Android Sqlite orm 的 db 工具类
 (3) 内存小好小  
 (4) 库大小小  
 
+1. GreenDaoUpgradeHelper  
+greenDAO的数据库升级帮助类，只需一行代码解决数据库升级  
+项目地址：https://github.com/yuweiguocn/GreenDaoUpgradeHelper
+
+
 1. ActiveAndroid  
 Android Sqlite orm 的 db 工具类  
 项目地址：https://github.com/pardom/ActiveAndroid  
