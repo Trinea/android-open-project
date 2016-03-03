@@ -291,6 +291,12 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 3.提供了分割线的实现类，只需要传入一个DrawableId  
 项目地址：https://github.com/CaMnter/EasyRecyclerView  
 
+1. CanRefresh 
+可适配所有视图的下拉刷新上拉加载，并支持各种风格
+项目地址：https://github.com/canyinghao/CanRefresh 
+效果图：  
+![Renderings](https://raw.githubusercontent.com/canyinghao/CanRefresh/master/pic/CanRefresh.gif)   
+
 
   
 
@@ -1544,6 +1550,12 @@ android 快速开发框架
 这篇文章详细介绍了它的使用方法：[AutoParcel](https://passy.svbtle.com/simpler-android-apis-with-autoparcel)     
 作者认为使用AutoParcel的好处是，可以简化构造函数，方便IDE代码自动完成，方便测试，前向兼容，生成不可变的对象。      
 文档介绍：https://github.com/frankiesardo/auto-parcel
+
+1. CanPhotos
+使用fresco选取多张图片并可预览图片 
+项目地址：https://github.com/canyinghao/CanPhotos 
+效果图：  
+![Renderings](https://raw.githubusercontent.com/canyinghao/CanPhotos/master/pic/CanPhotos.gif) 
 
 #### 二、图片缓存
 1. Android-Universal-Image-Loader  
