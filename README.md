@@ -291,14 +291,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 3.提供了分割线的实现类，只需要传入一个DrawableId  
 项目地址：https://github.com/CaMnter/EasyRecyclerView  
 
-1. CanRefresh 
-可适配所有视图的下拉刷新上拉加载，并支持各种风格
-项目地址：https://github.com/canyinghao/CanRefresh 
+1. CanRefresh
+可适配所有视图的下拉刷新上拉加载，并支持各种风格  
+项目地址：https://github.com/canyinghao/CanRefresh  
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanRefresh/master/pic/CanRefresh.gif)   
-
-
-  
 
 #### 二、ActionBar
 1. ActionBarSherlock  
@@ -1509,6 +1506,18 @@ Sample地址：https://github.com/afollestad/material-dialogs/blob/master/sample
 项目地址:https://github.com/wenmingvs/NotifyUtil  
 demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo  
 
+1. CanPhotos
+使用fresco选取多张图片并可预览图片  
+项目地址：https://github.com/canyinghao/CanPhotos   
+效果图：  
+![Renderings](https://raw.githubusercontent.com/canyinghao/CanPhotos/master/pic/CanPhotos.gif) 
+
+1. CanDialog
+仿照系统Dialog所写，继承于FrameLayout，添加一些动画，一些显示类型。  
+项目地址：https://github.com/canyinghao/CanDialog  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/canyinghao/CanDialog/master/pic/CanDialog.gif) 
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
@@ -1551,11 +1560,7 @@ android 快速开发框架
 作者认为使用AutoParcel的好处是，可以简化构造函数，方便IDE代码自动完成，方便测试，前向兼容，生成不可变的对象。      
 文档介绍：https://github.com/frankiesardo/auto-parcel
 
-1. CanPhotos
-使用fresco选取多张图片并可预览图片 
-项目地址：https://github.com/canyinghao/CanPhotos 
-效果图：  
-![Renderings](https://raw.githubusercontent.com/canyinghao/CanPhotos/master/pic/CanPhotos.gif) 
+
 
 #### 二、图片缓存
 1. Android-Universal-Image-Loader  
