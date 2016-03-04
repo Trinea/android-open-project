@@ -291,14 +291,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 3.提供了分割线的实现类，只需要传入一个DrawableId  
 项目地址：https://github.com/CaMnter/EasyRecyclerView  
 
-1. CanRefresh 
+1. CanRefresh
 可适配所有视图的下拉刷新上拉加载，并支持各种风格  
 项目地址：https://github.com/canyinghao/CanRefresh  
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanRefresh/master/pic/CanRefresh.gif)   
-
-
-  
 
 #### 二、ActionBar
 1. ActionBarSherlock  
@@ -1515,7 +1512,7 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanPhotos/master/pic/CanPhotos.gif) 
 
-1. CanPhotos
+1. CanDialog
 仿照系统Dialog所写，继承于FrameLayout，添加一些动画，一些显示类型。  
 项目地址：https://github.com/canyinghao/CanDialog  
 效果图：  
