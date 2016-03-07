@@ -439,6 +439,11 @@ Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.mater
 Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/SlideBottomPanel/raw/master/apk/SlideBottomPanelDemo.apk)  
 效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
 
+1. FlowingDrawer  
+带手势流动效果侧滑菜单
+项目地址：[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+效果图：![Renderings](https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif)  
+
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
 一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点。  
