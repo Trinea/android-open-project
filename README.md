@@ -2,7 +2,7 @@ Android 开源项目分类汇总
 ====================
 > 我们的微信公众号：codekk。二维码如下：  
  专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
- ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ ![img](http://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
  我们的网站：[www.codekk.com](http://a.codekk.com)  
 
 ####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
