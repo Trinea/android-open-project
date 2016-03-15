@@ -2,7 +2,7 @@ Android 开源项目分类汇总
 ====================
 > 我们的微信公众号：codekk。二维码如下：  
  专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
- ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ ![img](http://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
  我们的网站：[www.codekk.com](http://a.codekk.com)  
 
 ####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
@@ -438,6 +438,11 @@ Demo 地址：https://play.google.com/store/apps/details？id=com.mikepenz.mater
 项目地址：[https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)  
 Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/SlideBottomPanel/raw/master/apk/SlideBottomPanelDemo.apk)  
 效果图：![Renderings](https://github.com/kingideayou/SlideBottomPanel/blob/master/imgs/demo_list_view.gif)  
+
+1. FlowingDrawer  
+带手势流动效果侧滑菜单
+项目地址：[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+效果图：![Renderings](https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif)  
 
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
