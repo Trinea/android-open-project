@@ -373,6 +373,12 @@ Renderings:
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
+1. WoWoViewPager
+A material design Viewpager.Optimized for scrolling app intros or making your CV app. Free and open source.
+WoWoViewPager combines animations and viewpager. When you are swiping viewpager, you are also controlling the frames of the animation. Just like rewinding time.
+Project Address: [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
+Renderings: ![](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif)
+
 #### 5. GridView
 1. StaggeredGridView  
 A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
