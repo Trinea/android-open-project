@@ -847,6 +847,11 @@ Document: http://jakewharton.github.io/butterknife/
 A fast dependency injector for Android and Java.    
 Project Address: https://github.com/square/dagger  
 Document: http://square.github.io/dagger/  
+
+1. Anvil
+A small library for building reactive UI components, data binding and event listener injection. Inspired by React.    
+Project Address: https://github.com/zserge/anvil  
+Document: http://anvil.site/  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Image Cache  
