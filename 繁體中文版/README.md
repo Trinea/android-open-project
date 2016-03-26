@@ -406,7 +406,8 @@ Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，�
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
 也可自定義item的寬高和每行的個數，同時修改了交換邏輯，當移動到另壹個item時就進行交換，並刪除滾動邏輯。  
 項目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
-效果圖：![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+效果圖：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
 1. StickyGridHeaders  
 GroupName滑動到頂端時會固定不動直到另外一個GroupName到達頂端的GridView  

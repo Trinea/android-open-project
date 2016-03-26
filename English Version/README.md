@@ -402,7 +402,8 @@ Project Address: https://github.com/thquinn/DraggableGridView
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
 You can customize the width and height of item,and the count of item each line,You can also customize the padding of line.Default value is 20dp.  
 Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
-Renderings: ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+Renderings:   
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
 1. StickyGridHeaders  
 StickyGridHeaders is an Android library that provides a GridView that shows items in sections with headers. By default the section headers stick to the top like the People app in Android 4.x but this can be turned off.  

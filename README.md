@@ -583,7 +583,8 @@ Item 可拖动交换位置的 GridView，实际是自己继承 ViewGroup 实现�
 Demo 地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
 也可自定义item的宽高和每行的个数，同时修改了交换逻辑，当移动到另一个item时就进行交换，并删除滚动逻辑。  
 项目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
-效果图：![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+效果图：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
 
 1. StickyGridHeaders  
