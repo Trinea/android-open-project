@@ -986,10 +986,10 @@ Android Shadow Layout
 效果图：
 ![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/shadow-layout/master/screenshots/intro.png)  
 
-1. MoneyTextView 
-一个支持加法运算的金额输入TextView
-项目地址：https://github.com/andyken/MoneyTextView 
-效果图：
+1. MoneyTextView  
+一个支持加法运算的金额输入TextView  
+项目地址：https://github.com/andyken/MoneyTextView  
+效果图：  
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 九、ScrollView
