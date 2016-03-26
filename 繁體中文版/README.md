@@ -615,6 +615,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 項目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. MoneyTextView 
+壹個支持加法運算的金額輸入TextView
+項目地址：https://github.com/andyken/MoneyTextView 
+效果圖：
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
+
 #### 九、ScrollView  
 1. Discrollview  
 支持滾動時Item淡入淡出，平移，縮放效果的ScrollView  

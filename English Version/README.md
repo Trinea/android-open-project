@@ -597,6 +597,12 @@ Project Address: https://github.com/RomainPiel/Titanic
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. MoneyTextView 
+A TextView used for inputing and adding money 
+Project Address: https://github.com/andyken/MoneyTextView 
+Renderings: 
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
+
 #### 9. Others  
 1. achartengine  
 AChartEngine is a charting library for Android applications. It currently supports the following chart types: line chart, area chart, scatter chart, time chart, bar chart, pie chart, bubble chart, doughnut chart, range (high-low) bar chart, dial chart / gauge, combined (any combination of line, cubic line, scatter, bar, range bar, bubble) chart, cubic line chart and so on.  
