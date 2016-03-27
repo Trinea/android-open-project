@@ -404,7 +404,11 @@ APP示例：Pinterest等
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的單屏效果，可屏幕自動上下滾動進行Item移動交換，多屏效果見下面PagedDragDropGrid  
 項目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-   
+也可自定義item的寬高和每行的個數，同時修改了交換邏輯，當移動到另壹個item時就進行交換，並刪除滾動邏輯。  
+項目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
+效果圖：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
 1. StickyGridHeaders  
 GroupName滑動到頂端時會固定不動直到另外一個GroupName到達頂端的GridView  
 項目地址：https://github.com/TonicArtos/StickyGridHeaders     
@@ -611,6 +615,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 帶加載或提交進度的Button  
 項目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. MoneyTextView  
+壹個支持加法運算的金額輸入TextView  
+項目地址：https://github.com/andyken/MoneyTextView  
+效果圖：  
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 九、ScrollView  
 1. Discrollview  
