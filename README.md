@@ -87,6 +87,11 @@ Demo 地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss  
 效果图：![Renderings](https://raw.githubusercontent.com/CodeFalling/RecyclerViewSwipeDismiss/master/RecyclerViewSwipeDismiss.gif)  
 
+1. QuickSideBar  
+帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。  
+项目地址：https://github.com/saiwu-bigkoo/Android-QuickSideBar  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-QuickSideBar/blob/master/preview/quicksidebardemo.gif) 
+
 1. PinnedHeaderExpandableListView  
 首先它是一个 ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
