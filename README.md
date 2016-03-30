@@ -581,9 +581,10 @@ APP 示例：Pinterest 等
 Item 可拖动交换位置的 GridView，实际是自己继承 ViewGroup 实现，类似桌面的单屏效果，可屏幕自动上下滚动进行 Item 移动交换，多屏效果见下面 PagedDragDropGrid  
 项目地址：https://github.com/thquinn/DraggableGridView  
 Demo 地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-也可以自定义item的宽高和每行的个数，并且修改交换逻辑，当移动到另一个item时就进行交换，删除滚动逻辑。
+也可自定义item的宽高和每行的个数，同时修改了交换逻辑，当移动到另一个item时就进行交换，并删除滚动逻辑。  
 项目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
-效果图：![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif) 
+效果图：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
 
 1. StickyGridHeaders  
@@ -985,6 +986,12 @@ Android Shadow Layout
 项目地址：https://github.com/dmytrodanylyk/shadow-layout
 效果图：
 ![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/shadow-layout/master/screenshots/intro.png)  
+
+1. MoneyTextView  
+一个支持加法运算的金额输入TextView  
+项目地址：https://github.com/andyken/MoneyTextView  
+效果图：  
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 九、ScrollView
 1. Discrollview  
