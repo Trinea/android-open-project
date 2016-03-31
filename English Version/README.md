@@ -373,6 +373,12 @@ Renderings:
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
+1. WoWoViewPager
+A material design Viewpager.Optimized for scrolling app intros or making your CV app. Free and open source.
+WoWoViewPager combines animations and viewpager. When you are swiping viewpager, you are also controlling the frames of the animation. Just like rewinding time.
+Project Address: [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
+Renderings: ![](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif)
+
 #### 5. GridView
 1. StaggeredGridView  
 A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
@@ -394,7 +400,11 @@ Similar App: Pinterest
 A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can  swich from up to bottom, If you want switch from left screen to right please use PagedDragDropGrid below  
 Project Address: https://github.com/thquinn/DraggableGridView  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-   
+You can customize the width and height of item,and the count of item each line,You can also customize the padding of line.Default value is 20dp.  
+Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
+Renderings:   
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
 1. StickyGridHeaders  
 StickyGridHeaders is an Android library that provides a GridView that shows items in sections with headers. By default the section headers stick to the top like the People app in Android 4.x but this can be turned off.  
 Project Address: https://github.com/TonicArtos/StickyGridHeaders     
@@ -587,6 +597,12 @@ Android experiment showing a sinking TextView
 Project Address: https://github.com/RomainPiel/Titanic    
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. MoneyTextView  
+A TextView used for inputing and adding money  
+Project Address: https://github.com/andyken/MoneyTextView  
+Renderings:   
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 9. Others  
 1. achartengine  
@@ -805,7 +821,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayou
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
 
 1. FinestWebView  
-FinestWebView is an easy to use WebView for mobile Applications.  
+Beautiful and customizable Android Activity that shows web pages within an app.  
 Project Address: https://github.com/TheFinestArtist/FinestWebView-Android  
 Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.finestwebview.sample  
 Renderings: ![Renderings](https://github.com/TheFinestArtist/FinestWebView-Android/blob/master/art/screenshots.png?raw=true)
@@ -841,6 +857,11 @@ Document: http://jakewharton.github.io/butterknife/
 A fast dependency injector for Android and Java.    
 Project Address: https://github.com/square/dagger  
 Document: http://square.github.io/dagger/  
+
+1. Anvil
+A small library for building reactive UI components, data binding and event listener injection. Inspired by React.    
+Project Address: https://github.com/zserge/anvil  
+Document: http://anvil.site/  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Image Cache  
