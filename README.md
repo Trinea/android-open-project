@@ -451,8 +451,9 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
-一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点。  
-![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png)  
+一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点；支持自定义为微博形式的可滑动tab。  
+![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png) 
+![p2](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160411141706.png)
 项目地址：https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip。  
 
 1. ConvenientBanner  
