@@ -55,7 +55,7 @@ http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif
 1. Android-PullToRefreshRecyclerView  
 支持下拉刷新的RecyclerView，同时支持滑动到底部自动加载数据、给RecyclerView添加Header。并且不更改原有RecyclerView的逻辑。  
 ![Screenshot](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/screenshot.gif)  
-项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。    
+项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView
 Demo地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/sample.apk  
 
 1. DragSortListView  
