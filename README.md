@@ -70,6 +70,13 @@ APP 示例：Wordpress Android
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP 示例：微信 
 
+1. Android-SlidingLayout  
+实现类似QQ、微信ListView和WebView的上拉下拉弹跳效果和iOS的ListView的果冻效果。兼容Android自带库和兼容库的所有View组件，包括RecyclerView、ListView、ScrollView以及WebView等等。  
+![p1](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/list.gif)  
+![p2](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/webview.gif)  
+项目地址：https://github.com/HomHomLin/SlidingLayout/。    
+Demo地址：https://github.com/HomHomLin/SlidingLayout/tree/master/demo  
+
 1. SlideAndDragListView  
 支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
 项目地址：https://github.com/yydcdut/SlideAndDragListView  
