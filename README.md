@@ -815,6 +815,15 @@ Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.cir
 项目地址：https://github.com/Shinelw/ColorArcProgressBar<br/>
 效果图：<br/>![ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif)
 
+1. LoadingDrawable
+一些酷炫的android加载动画，可以与任何组件配合使用作为加载的组件或者ProgressBar。<br>
+项目地址：https://github.com/dinuscxj/LoadingDrawable
+效果图：<br/>
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
