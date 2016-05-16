@@ -551,7 +551,7 @@ Renderings: ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/r
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. LoadingDrawable
-壹些酷炫的android加載動畫，可以與任何組件配合使用作為加載的組件或者ProgressBar。<br>
+some beautiful android loading drawable, can be combined with any view as the loading view and the progressbar.<br>
 項目地址：https://github.com/dinuscxj/LoadingDrawable
 效果圖：<br/>
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
