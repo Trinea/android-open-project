@@ -552,8 +552,8 @@ Renderings: ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/r
 
 1. LoadingDrawable
 some beautiful android loading drawable, can be combined with any view as the loading view and the progressbar.<br>
-項目地址：https://github.com/dinuscxj/LoadingDrawable
-效果圖：<br/>
+Project Address:https://github.com/dinuscxj/LoadingDrawable
+Renderings: <br/>
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
