@@ -1547,6 +1547,10 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanDialog/master/pic/CanDialog.gif) 
 
+1. WindRoseDiagramView
+一个风力玫瑰图的 View 组件，项目地址：![https://github.com/timqi/WindRoseDiagramView/](https://github.com/timqi/WindRoseDiagramView/)
+![效果图](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif) 
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
