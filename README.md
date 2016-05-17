@@ -55,7 +55,7 @@ http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif
 1. Android-PullToRefreshRecyclerView  
 支持下拉刷新的RecyclerView，同时支持滑动到底部自动加载数据、给RecyclerView添加Header。并且不更改原有RecyclerView的逻辑。  
 ![Screenshot](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/screenshot.gif)  
-项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。    
+项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView
 Demo地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/sample.apk  
 
 1. DragSortListView  
@@ -69,6 +69,13 @@ APP 示例：Wordpress Android
 项目地址：https://github.com/47deg/android-swipelistview  
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP 示例：微信 
+
+1. Android-SlidingLayout  
+实现类似QQ、微信ListView和WebView的上拉下拉弹跳效果和iOS的ListView的果冻效果。兼容Android自带库和兼容库的所有View组件，包括RecyclerView、ListView、ScrollView以及WebView等等。  
+![p1](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/list.gif)  
+![p2](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/webview.gif)  
+项目地址：https://github.com/HomHomLin/SlidingLayout/。    
+Demo地址：https://github.com/HomHomLin/SlidingLayout/tree/master/demo  
 
 1. SlideAndDragListView  
 支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
