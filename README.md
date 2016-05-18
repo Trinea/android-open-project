@@ -1695,6 +1695,11 @@ Demo 地址：https://github.com/stephanenicolas/RoboDemo/downloads
 TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串联式 API。使得使用 Volley 更加方便。  
 项目地址：https://github.com/TwistedEquations/TwistVolley  
 
+1. OkHttpFinal  
+一个对OkHttp封装的简单易用型HTTP请求和文件下载管理框架  
+项目地址：https://github.com/pengjianbo/OkHttpFinal  
+Demo 地址：https://github.com/pengjianbo/OkHttpFinal  
+
 #### 四、数据库 orm 工具包
 orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
 
