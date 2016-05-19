@@ -46,7 +46,7 @@ Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refre
 下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于 ViewGroup 可以包含任何 View。功能甚至比 SwipeRefreshLayout 强大。使用起来非常简单。良好的设计，如果你想定制自己的 UI 样式，非常简单，就像给 ListView 加一个 Header View 那么简单。支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
 原理剖析文档：[android-Ultra-Pull-to-Refresh](http://a.codekk.com/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
-Demo 地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+Demo 地址：https://raw.githubusercontent.com/liaohuqiu/android-Ultra-Pull-To-Refresh/master/ptr-demo.apk  
 效果图：![Renderings](http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif)  
 http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif  
 http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif  
@@ -1694,6 +1694,11 @@ Demo 地址：https://github.com/stephanenicolas/RoboDemo/downloads
 1. TwistVolley  
 TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串联式 API。使得使用 Volley 更加方便。  
 项目地址：https://github.com/TwistedEquations/TwistVolley  
+
+1. OkHttpFinal  
+一个对OkHttp封装的简单易用型HTTP请求和文件下载管理框架  
+项目地址：https://github.com/pengjianbo/OkHttpFinal  
+Demo 地址：https://github.com/pengjianbo/OkHttpFinal  
 
 #### 四、数据库 orm 工具包
 orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
