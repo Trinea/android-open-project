@@ -64,7 +64,14 @@ APP示例：Wordpress Android
 項目地址：https://github.com/47deg/android-swipelistview  
 Demo地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP示例：微信  
-
+   
+1. SwipeListView  
+持ListView的Item的拖動排序、左右滑動事件，可自定義左右滑動顯示文字、圖標、位移，同時支持onItemClick、onItemLongClick等監聽器，提供豐富的回調接口。  
+項目地址：https://github.com/yydcdut/SlideAndDragListView  
+Demo地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+APP示例：Android 手机QQ 5.0  
+效果圖：![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) 
+   
 1. RecyclerViewSwipeDismiss  
 輕量級支持support-v7中的RecyclerView的滑動刪除(Swipe to dismiss)行為，不需要修改源代碼，只要間單的邦定`onTouchListener`   
 項目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
@@ -397,7 +404,11 @@ APP示例：Pinterest等
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的單屏效果，可屏幕自動上下滾動進行Item移動交換，多屏效果見下面PagedDragDropGrid  
 項目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-   
+也可自定義item的寬高和每行的個數，同時修改了交換邏輯，當移動到另壹個item時就進行交換，並刪除滾動邏輯。  
+項目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
+效果圖：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
 1. StickyGridHeaders  
 GroupName滑動到頂端時會固定不動直到另外一個GroupName到達頂端的GridView  
 項目地址：https://github.com/TonicArtos/StickyGridHeaders     
@@ -540,6 +551,15 @@ Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/dem
 效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
+1. LoadingDrawable
+壹些酷炫的android加載動畫，可以與任何組件配合使用作為加載的組件或者ProgressBar。<br>
+項目地址：https://github.com/dinuscxj/LoadingDrawable
+效果圖：<br/>
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
+
 #### 八、TextView  
 包括TextView及所有繼承自TextView控件，如EditText、Button、RadioButton  
 
@@ -604,6 +624,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 帶加載或提交進度的Button  
 項目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. MoneyTextView  
+壹個支持加法運算的金額輸入TextView  
+項目地址：https://github.com/andyken/MoneyTextView  
+效果圖：  
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 九、ScrollView  
 1. Discrollview  
@@ -1344,6 +1370,10 @@ java壓縮和解壓庫
 (4) 支持遍曆zip包內容  
 (5) 比較兩個zip包等功能  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. Image File Selector  
+輕量級的圖片文件選擇器，用系統api選取，壓縮和裁切圖片，可以方便的得要指定尺寸的圖片  
+項目地址：https://github.com/sw926/ImageFileSelector  
 
 #### 十三、其他  
 1. Salvage view  
