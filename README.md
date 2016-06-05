@@ -309,6 +309,12 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanRefresh/master/pic/CanRefresh.gif)   
 
+1. NestRefreshLayout  
+下拉刷新及加载更多控件，支持多种View，可以自定义Header和Footer
+由于实现了NestedScrollingChild和NestedScrollingParent所以与Support-Design兼容，可以配合CollapsingToolbarLayout使用  
+项目地址：https://github.com/anzewei/NestRefreshLayout  
+Demo 地址：https://github.com/anzewei/NestRefreshLayout/blob/master/ext/sample-debug.apk?raw=true
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
@@ -1322,6 +1328,12 @@ Android 扁平化风格的组件，支持一些自定义样式
 项目地址：https://github.com/Issacw0ng/SwipeBackLayout  
 Demo 地址：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
 APP 示例：知乎  
+
+1. ParallaxBackLayout  
+视差滑动返回的 Activity
+项目地址：https://github.com/anzewei/ParallaxBackLayout  
+Demo 地址：https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/demo.apk?raw=true  
+效果图：![Renderings](https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/v0.2.gif)  
 
 1. android-styled-dialogs  
 可自定义样式的 dialog，默认与 Holo 主题样式一致，在 Android2.2 以上同一样式  
@@ -2616,6 +2628,11 @@ dagger 的 intellij 插件
 根据 JSONObject 格式的字符串,自动生成实体类参数的 Android Studio/IntelliJ IDEA 插件  
 项目地址：https://github.com/zzz40500/GsonFormat  
 效果图：![Renderings](https://camo.githubusercontent.com/fbf4b89e2ec64e80d351f725d11762ebd2b7a515/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d303766333038346262363735386566612e676966)  
+
+1. Json2Class  
+根据Json生成Java文件的Android Studio/IntelliJ IDEA 插件，并且可以选择Parcelable或者Serializable  
+项目地址：https://github.com/anzewei/Json2Class  
+效果图：![Renderings](https://raw.githubusercontent.com/anzewei/Json2Class/master/screenshot/screenshot_15002.png)  
 
 1. 9-Patch-Resizer  
 自动生成 png 及点 9 图片的不同分辨率版本  
