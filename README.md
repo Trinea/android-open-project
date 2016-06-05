@@ -272,6 +272,12 @@ Demo 地址：https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_
 Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplistview_sample  
 效果图：![Renderings](https://github.com/s8871404/PopupListView/blob/master/example.gif)  
 
+1. NestRefreshLayout  
+下拉刷新及加载更多控件，支持多种View，可以自定义Header和Footer
+由于实现了NestedScrollingChild和NestedScrollingParent所以与Support-Design兼容，可以配合CollapsingToolbarLayout使用  
+项目地址：https://github.com/anzewei/NestRefreshLayout  
+Demo 地址：https://github.com/anzewei/NestRefreshLayout/blob/master/ext/sample-debug.apk?raw=true
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
