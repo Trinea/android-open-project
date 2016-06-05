@@ -2390,6 +2390,11 @@ dagger 的 intellij 插件
 项目地址：https://github.com/zzz40500/GsonFormat  
 效果图：![Renderings](https://camo.githubusercontent.com/fbf4b89e2ec64e80d351f725d11762ebd2b7a515/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d303766333038346262363735386566612e676966)  
 
+1. Json2Class  
+根据Json生成Java文件的Android Studio/IntelliJ IDEA 插件，并且可以选择Parcelable或者Serializable  
+项目地址：https://github.com/anzewei/Json2Class  
+效果图：![Renderings](https://raw.githubusercontent.com/anzewei/Json2Class/master/screenshot/screenshot_15002.png)  
+
 1. 9-Patch-Resizer  
 自动生成 png 及点 9 图片的不同分辨率版本  
 项目地址：https://github.com/redwarp/9-Patch-Resizer  
