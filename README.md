@@ -578,6 +578,11 @@ App
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/CaMnter/EasySlidingTabs/master/readme/readme_easy_sliding_tabs_1.png)   
 
+1. ParallaxViewPager  
+ViewPager页面切换视差效果  
+项目地址：https://github.com/ybq/ParallaxViewPager  
+效果图：    
+![Renderings](https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif)   
 
 #### 五、GridView
 1. StaggeredGridView  
@@ -829,6 +834,11 @@ Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.cir
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
+1. Android-SpinKit  
+Android加载动画库  
+项目地址：https://github.com/ybq/Android-SpinKit  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)  
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
