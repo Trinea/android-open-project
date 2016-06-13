@@ -317,6 +317,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 项目地址：https://github.com/anzewei/NestRefreshLayout  
 Demo 地址：https://github.com/anzewei/NestRefreshLayout/blob/master/ext/sample-debug.apk?raw=true
 
+1. SnappingSwipingRecyclerView
+实现了类似微信读书首页的长按之后滑动删除的特效和动画
+<img src="https://raw.githubusercontent.com/CarlLee/SnappingSwipingRecyclerView/master/preview.gif" height="480" width="320" >
+项目地址:https://github.com/CarlLee/SnappingSwipingRecyclerView
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
