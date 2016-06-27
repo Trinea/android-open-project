@@ -469,6 +469,11 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 项目地址：[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 效果图：![Renderings](https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif)  
 
+1. FloatingActionMenu-Animation  
+扩展FloatingActionMenu库，自定义菜单图标，动画滚动时
+项目地址: https://github.com/toanvc/FloatingActionMenu-Animation  
+效果图: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
+
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
 一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点；支持自定义为微博形式的可滑动tab。  
