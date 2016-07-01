@@ -1234,7 +1234,7 @@ Project Address: https://github.com/path/android-priority-jobqueue
 Document: https://github.com/path/android-priority-jobqueue#getting-started  
 
 1. Glide Bitmap Pool  
-Java HTML Parser, with best of DOM, CSS, and jquery  
+Glide Bitmap Pool is a memory management library for reusing the bitmap memory
 Project Address: https://github.com/amitshekhariitbhu/GlideBitmapPool 
 Document: https://amitshekhariitbhu.github.io/GlideBitmapPool/ 
 
