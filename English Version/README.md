@@ -935,6 +935,11 @@ Document: http://sonatype.github.io/async-http-client/
 Android Asynchronous Networking and Image Loading  
 Project Address: https://github.com/koush/ion  
 Document: https://github.com/koush/ion#more-examples  
+
+1. Android Networking  
+Android Networking is a powerful library for doing any type of networking in Android Applications 
+Project Address: https://github.com/amitshekhariitbhu/AndroidNetworking  
+Document: http://amitshekhariitbhu.github.io/AndroidNetworking/  
    
 1. Http Request  
 A simple convenience library for using a HttpURLConnection to make requests and access the response.  
