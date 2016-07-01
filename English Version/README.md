@@ -1232,7 +1232,12 @@ Project Address: https://github.com/JakeWharton/salvage
 A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.  
 Project Address: https://github.com/path/android-priority-jobqueue  
 Document: https://github.com/path/android-priority-jobqueue#getting-started  
-   
+
+1. Glide Bitmap Pool  
+Java HTML Parser, with best of DOM, CSS, and jquery  
+Project Address: https://github.com/amitshekhariitbhu/GlideBitmapPool 
+Document: https://amitshekhariitbhu.github.io/GlideBitmapPool/ 
+
 1. jsoup  
 Java HTML Parser, with best of DOM, CSS, and jquery  
 Project Address: https://github.com/jhy/jsoup  
