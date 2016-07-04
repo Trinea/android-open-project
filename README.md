@@ -731,7 +731,11 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 1. PhotoView  
 支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
 项目地址：https://github.com/bm-x/PhotoView  
-效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
+效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)  
+  
+1. TextWithImageDrawable  
+一个可以同时包含图片和文字的drawable,使用方式类似TextView和它的drawableLeft之类的方法,功能比较全面,可以代替TextView或是解决一些非得需要在ImageView中同时显示文字和图片的问题  
+项目地址：https://github.com/wuseal/TextWithImageDrawable  
 
 #### 七、ProgressBar
 1. SmoothProgressBar  
