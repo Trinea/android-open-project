@@ -1321,6 +1321,10 @@ Project Address: https://github.com/Almeros/android-gesture-detectors
 This is a simple Android utils library to write any type of data into cache files and then read them later, using Gson to serialize and deserialize these data.  
 Project Address: https://github.com/westlinkin/CacheUtilsLibrary  
 
+1. EasyDeviceInfo  
+Android library to get device information in a super easy way.  
+Project Address: https://github.com/nisrulz/easydeviceinfo 
+
 ## 3. Excellent projects  
 Linux  
 Project Address: https://github.com/torvalds/linux  
