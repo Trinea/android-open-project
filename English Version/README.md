@@ -1170,6 +1170,10 @@ Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Sensey   
+Android library which makes detecting gestures a breeze.  
+Project Address: https://github.com/nisrulz/sensey
+
 #### 10. Security  
 1. SQLCipher  
 SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  
