@@ -564,6 +564,14 @@ Renderings: <br/>
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
 
+1. StackedHorizontalProgressBar
+Stacked dual progress indicator progressbar
+
+Project Address:https://github.com/nisrulz/stackedhorizontalprogressbar
+
+Renderings: </br>
+![Sc1](https://github.com/nisrulz/stackedhorizontalprogressbar/blob/master/img/sc1.png) 
+
 #### 8. TextView  
 include TextView and other views extend TextView, like EditText, Button, RadioButton and so on  
 
