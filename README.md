@@ -322,6 +322,12 @@ Demo 地址：https://github.com/anzewei/NestRefreshLayout/blob/master/ext/sampl
 <img src="https://raw.githubusercontent.com/CarlLee/SnappingSwipingRecyclerView/master/preview.gif" height="480" width="320" >
 项目地址:https://github.com/CarlLee/SnappingSwipingRecyclerView
 
+1. RecyclerViewHelper
+RecyclerView的工具类，更方便的实现Adapter，item点击事件，更快的实现加载提示，分页加载。
+项目地址：https://github.com/freekite/Android-RecyclerViewHelper
+效果图：  
+![演示](https://github.com/freekite/Android-RecyclerViewHelper/blob/master/resource/ScreenRecord.gif)
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
