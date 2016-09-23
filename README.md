@@ -2069,6 +2069,12 @@ android 上开源弹幕解析绘制引擎项目
 android 上一个轻量级的更简单的开源弹幕控件  
 项目地址：https://github.com/linsea/OpenDanmaku  
 
+1. K-Sonic  
+一个基于Sonic的变音Demo,可调节Speed,Pitch,Rate.  
+项目地址：https://github.com/jcodeing/K-Sonic  
+Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/K-Sonic-demo.apk)  
+效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/lookme.jpg)  
+
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
 
