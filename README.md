@@ -59,6 +59,13 @@ APP示例：微信
 支持3.0以下版本见：https://github.com/JakeWharton/SwipeToDismissNOA  
 Demo地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.apk/qr_code  
 
+1. async-expandable-list
+支持异步加载子列表的 ExpandableListView，包括CollectionView可以显示小标题的列表
+项目地址：https://github.com/Ericliu001/async-expandable-list
+效果图：
+
+![Demo](https://cloud.githubusercontent.com/assets/3691022/19348717/0d6c98ec-919b-11e6-97c3-a8ff782a059b.gif)  ![Demo](https://cloud.githubusercontent.com/assets/3691022/19406879/cb982648-92da-11e6-86bf-7c82e8505e6c.gif)
+
 1. PinnedHeaderExpandableListView  
 首先它是一个ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
