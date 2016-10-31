@@ -1606,6 +1606,12 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 一个风力玫瑰图的 View 组件，项目地址：![https://github.com/timqi/WindRoseDiagramView/](https://github.com/timqi/WindRoseDiagramView/)
 ![效果图](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif) 
 
+1. MaterialRatingBar  
+与 Google 系应用设计相同、支持拉伸、修正原生实现诸多问题的星级评分条。可直接替换 RatingBar。  
+项目地址：https://github.com/DreaminginCodeZH/MaterialRatingBar  
+Demo 地址：https://github.com/DreaminginCodeZH/MaterialRatingBar/releases/download/v1.0.2/sample-release.apk  
+![效果图](https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
