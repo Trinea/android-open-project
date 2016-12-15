@@ -627,6 +627,12 @@ Renderings:
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 9. Others  
+1. youtube-play-icon   
+Material style morphing play-pause icon   
+Project Address: https://github.com/alxrm/youtube-play-icon   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/alxrm/youtube-play-icon/master/art/play.gif)  
+
 1. achartengine  
 AChartEngine is a charting library for Android applications. It currently supports the following chart types: line chart, area chart, scatter chart, time chart, bar chart, pie chart, bubble chart, doughnut chart, range (high-low) bar chart, dial chart / gauge, combined (any combination of line, cubic line, scatter, bar, range bar, bubble) chart, cubic line chart and so on.  
 Project Address: https://code.google.com/p/achartengine/  
