@@ -746,8 +746,8 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 项目地址：https://github.com/wuseal/TextWithImageDrawable  
 
 1. AnchorImageView  
-一个可以锚点定位的ImageView(根据像素点)  
-Demo中通过AnchorImageView简单的实现了一个课本点读的功能  
+一个可以锚点定位的ImageView(根据像素点)  
+Demo中通过AnchorImageView简单的实现了一个课本点读的功能  
 项目地址：https://github.com/jcodeing/AnchorImageView  
 Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/AnchorImageView-debug.apk)  
 效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif)  
