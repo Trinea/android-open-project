@@ -745,6 +745,13 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 一个可以同时包含图片和文字的drawable,使用方式类似TextView和它的drawableLeft之类的方法,功能比较全面,可以代替TextView或是解决一些非得需要在ImageView中同时显示文字和图片的问题  
 项目地址：https://github.com/wuseal/TextWithImageDrawable  
 
+1. AnchorImageView  
+一个可以锚点定位的ImageView(根据像素点)  
+Demo中通过AnchorImageView简单的实现了一个课本点读的功能  
+项目地址：https://github.com/jcodeing/AnchorImageView  
+Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/AnchorImageView-debug.apk)  
+效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif)  
+
 #### 七、ProgressBar
 1. SmoothProgressBar  
 水平进度条  
