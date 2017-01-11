@@ -101,6 +101,14 @@ Demo 地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA
 项目地址：https://github.com/saiwu-bigkoo/Android-QuickSideBar  
 效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-QuickSideBar/blob/master/preview/quicksidebardemo.gif) 
 
+1. async-expandable-list
+支持异步加载子列表的 ExpandableListView，包括CollectionView可以显示小标题的列表
+项目地址：https://github.com/Ericliu001/async-expandable-list
+
+效果图：
+
+![Demo](https://cloud.githubusercontent.com/assets/3691022/19348717/0d6c98ec-919b-11e6-97c3-a8ff782a059b.gif)  ![Demo](https://cloud.githubusercontent.com/assets/3691022/19406879/cb982648-92da-11e6-86bf-7c82e8505e6c.gif)
+
 1. PinnedHeaderExpandableListView  
 首先它是一个 ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
 项目地址：https://github.com/singwhatiwanna/PinnedHeaderExpandableListView  
@@ -1597,6 +1605,12 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 1. WindRoseDiagramView
 一个风力玫瑰图的 View 组件，项目地址：![https://github.com/timqi/WindRoseDiagramView/](https://github.com/timqi/WindRoseDiagramView/)
 ![效果图](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif) 
+
+1. MaterialRatingBar  
+与 Google 系应用设计相同、支持拉伸、修正原生实现诸多问题的星级评分条。可直接替换 RatingBar。  
+项目地址：https://github.com/DreaminginCodeZH/MaterialRatingBar  
+Demo 地址：https://github.com/DreaminginCodeZH/MaterialRatingBar/releases/download/v1.0.2/sample-release.apk  
+![效果图](https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg)  
 
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
