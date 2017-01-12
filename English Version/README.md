@@ -763,7 +763,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=net.sebastianopoggi.samp
 Renderings: ![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
 
 1. GlowPadView  
-GlowPadView for Android is a great library to implement Google's lockscreen and new alarmclock style.  
+GlowPadView for Android is a great library to implement Googles lockscreen and new alarmclock style.  
 Project Address: https://github.com/nadavfima/GlowPadView  
 Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
@@ -855,6 +855,14 @@ Simply pass a url to play youtube video in new activity. It supports screen orie
 Project Address: https://github.com/TheFinestArtist/YouTubePlayerActivity  
 Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
 Renderings: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
+
+1. TristateToggleButton
+Customizable tri-state toggle button (with three states, three state toggle) for Android
+Project Address: https://github.com/BeppiMenozzi/TriStateToggleButton  
+
+1. Knob
+Fully customizable rotating knob selector with discrete values for Android. Replaces radio buttons, integer value inputs and ViewPager indicators.
+Project Address: https://github.com/BeppiMenozzi/Knob
 
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
