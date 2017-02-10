@@ -412,7 +412,7 @@ Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridVie
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
-1. DividedDraggbleView
+1. DividedDraggableView
 Draggable grid view with divided line.
 Project Address: https://github.com/andyken/DividedDraggableView
 Renderings:
