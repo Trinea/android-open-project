@@ -412,6 +412,12 @@ Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridVie
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
+1. DividedDraggbleView
+Draggable grid view with divided line.
+Project Address: https://github.com/andyken/DividedDraggableView
+Renderings:
+![Renderings](https://github.com/andyken/DividedDraggableView/blob/master/app/sample.gif)
+
 1. StickyGridHeaders  
 StickyGridHeaders is an Android library that provides a GridView that shows items in sections with headers. By default the section headers stick to the top like the People app in Android 4.x but this can be turned off.  
 Project Address: https://github.com/TonicArtos/StickyGridHeaders     

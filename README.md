@@ -631,6 +631,11 @@ Demo 地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragg
 效果图：  
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
+1. DividedDraggbleView
+一个带有分割区域的可拖动 view ,可屏幕自动上下滚动进行 Item 移动交换。
+项目地址：https://github.com/andyken/DividedDraggableView
+效果图：
+![Renderings](https://github.com/andyken/DividedDraggableView/blob/master/app/sample.gif)
 
 1. StickyGridHeaders  
 GroupName 滑动到顶端时会固定不动直到另外一个 GroupName 到达顶端的 GridView  
