@@ -253,7 +253,14 @@ APP示例：Path
 仿 Dribbble 的邊欄菜單   
 項目地址：https://github.com/SpecialCyCi/AndroidResideMenu    
 效果圖：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
+
+1. FloatingActionMenu-Animation  
+扩展FloatingActionMenu库，自定义菜单图标，动画滚动时
+项目地址: https://github.com/toanvc/FloatingActionMenu-Animation  
+效果图: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
@@ -550,6 +557,15 @@ Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/dem
 項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
 效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+1. LoadingDrawable
+壹些酷炫的android加載動畫，可以與任何組件配合使用作為加載的組件或者ProgressBar。<br>
+項目地址：https://github.com/dinuscxj/LoadingDrawable
+效果圖：<br/>
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
 
 #### 八、TextView  
 包括TextView及所有繼承自TextView控件，如EditText、Button、RadioButton  

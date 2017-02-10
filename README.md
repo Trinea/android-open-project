@@ -4,11 +4,14 @@ Android 开源项目分类汇总
  专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
  ![img](http://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
  我们的网站：[www.codekk.com](http://a.codekk.com)  
-
+ 
+####[Android 开发调试效率数倍提升工具——开发助手](http://www.trinea.cn/android/android-develop-and-debug-tools/)，可从 Google Play、应用宝、360 手机助手里搜索”开发助手”下载，或通过网页下载：<a href="https://play.google.com/store/apps/details?id=cn.trinea.android.developertools" target="_blank" title="去 Google Play 下载开发助手">Google Play</a>、<a href="http://android.myapp.com/myapp/detail.htm?apkName=cn.trinea.android.developertools" target="_blank" title="去应用宝下载开发助手">应用宝</a>、<a href="http://zhushou.360.cn/detail/index/soft_id/3644614" target="_blank" title="去 360 手机助手下载开发助手">360 手机助手</a>、<a href="http://trinea.cn/app/dev-tools.apk" target="_blank" title="直接本地下载开发助手">本地下载</a>
 ####<a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
 ####<a href="http://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)</a>  
+####<a href="http://p.codekk.com" target="_blank">强大的 Android 开源项目搜索站</a>  
 
-欢迎大家推荐好的 Android 开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
+欢迎大家推荐好的 Android 开源项目，开源项目添加到 <a href="http://p.codekk.com/add-project" target="_blank">Android 开源项目集合</a>，可以得到更多朋友的关注和反馈，欢迎`Star`、`Fork` :)  
+
 > **关于我，欢迎关注**  
  微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>  
 
@@ -46,7 +49,7 @@ Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refre
 下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于 ViewGroup 可以包含任何 View。功能甚至比 SwipeRefreshLayout 强大。使用起来非常简单。良好的设计，如果你想定制自己的 UI 样式，非常简单，就像给 ListView 加一个 Header View 那么简单。支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
 原理剖析文档：[android-Ultra-Pull-to-Refresh](http://a.codekk.com/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
-Demo 地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+Demo 地址：https://raw.githubusercontent.com/liaohuqiu/android-Ultra-Pull-To-Refresh/master/ptr-demo.apk  
 效果图：![Renderings](http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif)  
 http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif  
 http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif  
@@ -55,7 +58,7 @@ http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif
 1. Android-PullToRefreshRecyclerView  
 支持下拉刷新的RecyclerView，同时支持滑动到底部自动加载数据、给RecyclerView添加Header。并且不更改原有RecyclerView的逻辑。  
 ![Screenshot](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/screenshot.gif)  
-项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView。    
+项目地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView
 Demo地址：https://github.com/HomHomLin/Android-PullToRefreshRecyclerView/blob/master/sample.apk  
 
 1. DragSortListView  
@@ -69,6 +72,13 @@ APP 示例：Wordpress Android
 项目地址：https://github.com/47deg/android-swipelistview  
 Demo 地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP 示例：微信 
+
+1. Android-SlidingLayout  
+实现类似QQ、微信ListView和WebView的上拉下拉弹跳效果和iOS的ListView的果冻效果。兼容Android自带库和兼容库的所有View组件，包括RecyclerView、ListView、ScrollView以及WebView等等。  
+![p1](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/list.gif)  
+![p2](https://raw.githubusercontent.com/HomHomLin/SlidingLayout/master/pic/webview.gif)  
+项目地址：https://github.com/HomHomLin/SlidingLayout/。    
+Demo地址：https://github.com/HomHomLin/SlidingLayout/tree/master/demo  
 
 1. SlideAndDragListView  
 支持ListView的Item的拖动排序、左右滑动事件，可自定义左右滑动显示文字、图标、位移，同时支持onItemClick、onItemLongClick等监听器，提供丰富的回调接口。  
@@ -86,6 +96,19 @@ Demo 地址：https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA
 轻量级支持 support-v7 中的 RecyclerView 的滑动删除(Swipe to dismiss)行为，不需要修改源代码，只要简单的绑定`onTouchListener`  
 项目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss  
 效果图：![Renderings](https://raw.githubusercontent.com/CodeFalling/RecyclerViewSwipeDismiss/master/RecyclerViewSwipeDismiss.gif)  
+
+1. QuickSideBar  
+帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。  
+项目地址：https://github.com/saiwu-bigkoo/Android-QuickSideBar  
+效果图：![Renderings](https://github.com/saiwu-bigkoo/Android-QuickSideBar/blob/master/preview/quicksidebardemo.gif) 
+
+1. async-expandable-list
+支持异步加载子列表的 ExpandableListView，包括CollectionView可以显示小标题的列表
+项目地址：https://github.com/Ericliu001/async-expandable-list
+
+效果图：
+
+![Demo](https://cloud.githubusercontent.com/assets/3691022/19348717/0d6c98ec-919b-11e6-97c3-a8ff782a059b.gif)  ![Demo](https://cloud.githubusercontent.com/assets/3691022/19406879/cb982648-92da-11e6-86bf-7c82e8505e6c.gif)
 
 1. PinnedHeaderExpandableListView  
 首先它是一个 ExpandableListView，但是它的头部可以固定，其次，在它的上面还有一个头部可以来回伸缩  
@@ -297,6 +320,17 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanRefresh/master/pic/CanRefresh.gif)   
 
+1. NestRefreshLayout  
+下拉刷新及加载更多控件，支持多种View，可以自定义Header和Footer
+由于实现了NestedScrollingChild和NestedScrollingParent所以与Support-Design兼容，可以配合CollapsingToolbarLayout使用  
+项目地址：https://github.com/anzewei/NestRefreshLayout  
+Demo 地址：https://github.com/anzewei/NestRefreshLayout/blob/master/ext/sample-debug.apk?raw=true
+
+1. SnappingSwipingRecyclerView
+实现了类似微信读书首页的长按之后滑动删除的特效和动画
+<img src="https://raw.githubusercontent.com/CarlLee/SnappingSwipingRecyclerView/master/preview.gif" height="480" width="320" >
+项目地址:https://github.com/CarlLee/SnappingSwipingRecyclerView
+
 #### 二、ActionBar
 1. ActionBarSherlock  
 为 Android 所有版本提供统一的 ActionBar，解决 4.0 以下 ActionBar 的适配问题  
@@ -444,10 +478,16 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 项目地址：[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 效果图：![Renderings](https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif)  
 
+1. FloatingActionMenu-Animation  
+扩展FloatingActionMenu库，自定义菜单图标，动画滚动时
+项目地址: https://github.com/toanvc/FloatingActionMenu-Animation  
+效果图: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
+
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
-一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点。  
-![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png)  
+一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点；支持自定义为微博形式的可滑动tab。  
+![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png) 
+![p2](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160411141706.png)
 项目地址：https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip。  
 
 1. ConvenientBanner  
@@ -559,6 +599,11 @@ App
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/CaMnter/EasySlidingTabs/master/readme/readme_easy_sliding_tabs_1.png)   
 
+1. ParallaxViewPager  
+ViewPager页面切换视差效果  
+项目地址：https://github.com/ybq/ParallaxViewPager  
+效果图：    
+![Renderings](https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif)   
 
 #### 五、GridView
 1. StaggeredGridView  
@@ -695,7 +740,18 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 1. PhotoView  
 支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
 项目地址：https://github.com/bm-x/PhotoView  
-效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
+效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)  
+  
+1. TextWithImageDrawable  
+一个可以同时包含图片和文字的drawable,使用方式类似TextView和它的drawableLeft之类的方法,功能比较全面,可以代替TextView或是解决一些非得需要在ImageView中同时显示文字和图片的问题  
+项目地址：https://github.com/wuseal/TextWithImageDrawable  
+
+1. AnchorImageView  
+一个可以锚点定位的ImageView(根据像素点)  
+Demo中通过AnchorImageView简单的实现了一个课本点读的功能  
+项目地址：https://github.com/jcodeing/AnchorImageView  
+Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/AnchorImageView-debug.apk)  
+效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif)  
 
 #### 七、ProgressBar
 1. SmoothProgressBar  
@@ -801,6 +857,20 @@ Demo地址：(https://play.google.com/store/apps/details?id=com.mikhaellopez.cir
 一个可定制的圆形进度条，通过xml参数配置可实现QQ健康中步数的弧形进度显示、仪盘表显示速度、最常见的下载进度条等功能。<br/>
 项目地址：https://github.com/Shinelw/ColorArcProgressBar<br/>
 效果图：<br/>![ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif)
+
+1. LoadingDrawable
+一些酷炫的android加载动画，可以与任何组件配合使用作为加载的组件或者ProgressBar。<br>
+项目地址：https://github.com/dinuscxj/LoadingDrawable
+效果图：<br/>
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
+1. Android-SpinKit  
+Android加载动画库  
+项目地址：https://github.com/ybq/Android-SpinKit  
+效果图：  
+![Renderings](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)  
 
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
@@ -1301,6 +1371,12 @@ Android 扁平化风格的组件，支持一些自定义样式
 Demo 地址：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
 APP 示例：知乎  
 
+1. ParallaxBackLayout  
+视差滑动返回的 Activity
+项目地址：https://github.com/anzewei/ParallaxBackLayout  
+Demo 地址：https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/demo.apk?raw=true  
+效果图：![Renderings](https://github.com/anzewei/ParallaxBackLayout/blob/master/ext/v0.2.gif)  
+
 1. android-styled-dialogs  
 可自定义样式的 dialog，默认与 Holo 主题样式一致，在 Android2.2 以上同一样式  
 项目地址：https://github.com/inmite/android-styled-dialogs  
@@ -1534,6 +1610,16 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/canyinghao/CanDialog/master/pic/CanDialog.gif) 
 
+1. WindRoseDiagramView
+一个风力玫瑰图的 View 组件，项目地址：![https://github.com/timqi/WindRoseDiagramView/](https://github.com/timqi/WindRoseDiagramView/)
+![效果图](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif) 
+
+1. MaterialRatingBar  
+与 Google 系应用设计相同、支持拉伸、修正原生实现诸多问题的星级评分条。可直接替换 RatingBar。  
+项目地址：https://github.com/DreaminginCodeZH/MaterialRatingBar  
+Demo 地址：https://github.com/DreaminginCodeZH/MaterialRatingBar/releases/download/v1.0.2/sample-release.apk  
+![效果图](https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
@@ -1688,6 +1774,11 @@ Demo 地址：https://github.com/stephanenicolas/RoboDemo/downloads
 1. TwistVolley  
 TwistVolley 是对 Volley 的一个封装库。提供类似 Picasso 一样的串联式 API。使得使用 Volley 更加方便。  
 项目地址：https://github.com/TwistedEquations/TwistVolley  
+
+1. OkHttpFinal  
+一个对OkHttp封装的简单易用型HTTP请求和文件下载管理框架  
+项目地址：https://github.com/pengjianbo/OkHttpFinal  
+Demo 地址：https://github.com/pengjianbo/OkHttpFinal  
 
 #### 四、数据库 orm 工具包
 orm 的 db 工具类，简化建表、查询、更新、插入、事务、索引的操作 
@@ -1999,6 +2090,12 @@ android 上开源弹幕解析绘制引擎项目
 1. OpenDanmaku  
 android 上一个轻量级的更简单的开源弹幕控件  
 项目地址：https://github.com/linsea/OpenDanmaku  
+
+1. K-Sonic  
+一个基于Sonic的变音Demo,可调节Speed,Pitch,Rate.  
+项目地址：https://github.com/jcodeing/K-Sonic  
+Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/K-Sonic-demo.apk)  
+效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/lookme.jpg)  
 
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
@@ -2585,6 +2682,11 @@ dagger 的 intellij 插件
 根据 JSONObject 格式的字符串,自动生成实体类参数的 Android Studio/IntelliJ IDEA 插件  
 项目地址：https://github.com/zzz40500/GsonFormat  
 效果图：![Renderings](https://camo.githubusercontent.com/fbf4b89e2ec64e80d351f725d11762ebd2b7a515/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d303766333038346262363735386566612e676966)  
+
+1. Json2Class  
+根据Json生成Java文件的Android Studio/IntelliJ IDEA 插件，并且可以选择Parcelable或者Serializable  
+项目地址：https://github.com/anzewei/Json2Class  
+效果图：![Renderings](https://raw.githubusercontent.com/anzewei/Json2Class/master/screenshot/screenshot_15002.png)  
 
 1. 9-Patch-Resizer  
 自动生成 png 及点 9 图片的不同分辨率版本  
