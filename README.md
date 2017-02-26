@@ -681,7 +681,7 @@ APP 示例：photup
 
 1. Fresco-ImageView  
 Fresco-ImageView是一种Android平台的图像控件，底层是对Fresco的封装，可以异步加载网络图片、项目资源和本地图片，并且支持双指缩放、图片的基本处理以及Fresco的所有特性。  
-项目地址：https://github.com/HomHomLin/FrescoImageView。  
+项目地址：https://github.com/HomHomLin/FrescoImageView  
 
 1. android-gif-drawable  
 支持 gif 显示的 view，用 jni 实现的，编译生成 so 库后直接 xml 定义 view 即可，而且本身不依赖于其他开源项目所以相对下面的 ImageViewEx 简单的多  
