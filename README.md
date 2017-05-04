@@ -2648,6 +2648,10 @@ Android ActionBar 样式生成器，可在线选择 ActionBar 样式自动生成
 用于快速生成[ButterKnife](https://github.com/JakeWharton/butterknife)View 注入代码的 Android Studio/IDEA 插件  
 项目地址：https://github.com/inmite/android-butterknife-zelezny  
 
+1. Afinal-view-helper
+基于ButterKnifeZelezny修改的，用于快速生成[Afinal](https://github.com/yangfuhai/afinal)View注入代码的Android Studio/IDEA插件
+项目地址：https://github.com/lsjwzh/afinal-view-helper 
+ 
 1. RoboCoP  
 利用 Gradle task 根据固定格式的 json 文件生成 ContentProvider  
 项目地址：https://github.com/mediarain/RoboCoP  
