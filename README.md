@@ -2306,6 +2306,10 @@ App示例：[南瓜电影](http://www.wandoujia.com/apps/cn.vcinema.cinema)
 快速集成 CustomTabs 的工具类  
 项目地址：https://github.com/DreaminginCodeZH/CustomTabsHelper  
 
+1. EffortlessPermissions  
+基于 Google EasyPermissions 进行扩展的动态权限库  
+项目地址：https://github.com/DreaminginCodeZH/EffortlessPermissions  
+
 1. Salvage view  
 带 View 缓存的 Viewpager PagerAdapter，很方便使用  
 项目地址：https://github.com/JakeWharton/salvage  
