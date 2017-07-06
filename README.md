@@ -1626,6 +1626,12 @@ demo地址：https://github.com/wenmingvs/NotifyUtil#notifydemo
 Demo 地址：https://github.com/DreaminginCodeZH/MaterialRatingBar/releases/download/v1.0.2/sample-release.apk  
 ![效果图](https://github.com/DreaminginCodeZH/MaterialRatingBar/raw/master/screenshot/sample_app.jpg)  
 
+1. Spotlight  
+Android图书馆点亮项目的教程或漫步等...  
+項目地址：https://github.com/TakuSemba/Spotlight
+
+效果圖: ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
