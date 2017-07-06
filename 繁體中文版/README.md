@@ -898,6 +898,7 @@ Android上的Segmented Controls，相當于RadioButton組
 1. Spotlight  
 Android图书馆点亮项目的教程或漫步等...  
 項目地址：https://github.com/TakuSemba/Spotlight
+
 效果圖: ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
 
 
