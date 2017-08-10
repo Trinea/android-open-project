@@ -2928,8 +2928,8 @@ BlockCanary是一个Android平台的一个非侵入式的性能监控组件，�
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow 大神，深挖大神的项目和 following，你会发现很多。  
 
 #### 一、个人  
-1. JakeWharton  
-就职于 Square，绝对牛逼的大神，项目主要集中在 Android 版本兼容，ViewPager 及开发工具上  
+1. JakeWharton  
+现就职于 Google，（曾就职于 Square），绝对牛逼的大神，项目主要集中在 Android 版本兼容，ViewPager 及开发工具上  
 Github 地址：https://github.com/JakeWharton  
 代表作：ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel    
 pidcat 另外对 square 及其他开源项目有很多贡献  
