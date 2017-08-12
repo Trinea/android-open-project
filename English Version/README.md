@@ -876,6 +876,13 @@ Project Address: https://github.com/BeppiMenozzi/TriStateToggleButton
 Fully customizable rotating knob selector with discrete values for Android. Replaces radio buttons, integer value inputs and ViewPager indicators.
 Project Address: https://github.com/BeppiMenozzi/Knob
 
+1. Spotlight  
+Android Library that lights items for tutorials or walk-throughs etc...
+Project Address: https://github.com/TakuSemba/Spotlight   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
+
+
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
