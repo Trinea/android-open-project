@@ -3,6 +3,8 @@ Android開源項目分類彙總
 
 歡迎大家推薦好的Android開源項目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我，歡迎`Star`、`Fork` :)  
 
+#### [Android 開發調試效率數倍提升工具——開發助手 App 最新版](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)  
+
 微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;主頁：[www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;郵箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
 分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到QQ空間" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到騰訊微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>  
 ## 目前包括：  
@@ -415,6 +417,12 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 項目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
 效果圖：  
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
+1. DividedDraggableView
+壹個帶有分割區域的可拖動 view ,可屏幕自動上下滾動進行 Item 移動交換。
+項目地址：https://github.com/andyken/DividedDraggableView
+效果圖：
+![Renderings](https://github.com/andyken/DividedDraggableView/blob/master/app/sample.gif)
 
 1. StickyGridHeaders  
 GroupName滑動到頂端時會固定不動直到另外一個GroupName到達頂端的GridView  
@@ -885,7 +893,14 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo
 1. android-segmented-control  
 Android上的Segmented Controls，相當于RadioButton組  
 項目地址：https://github.com/hoang8f/android-segmented-control   
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. Spotlight  
+Android图书馆点亮项目的教程或漫步等...  
+項目地址：https://github.com/TakuSemba/Spotlight
+
+效果圖: ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
+
 
 ## 第二部分 工具庫  
 主要包括那些不錯的開發庫，包括依賴注入框架、圖片緩存、網絡相關、數據庫ORM建模、Android公共庫、Android 高版本向低版本兼容、多媒體相關及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
