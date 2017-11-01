@@ -911,6 +911,12 @@ Project Address: https://github.com/TakuSemba/Spotlight
 Renderings:   
 ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
 
+1. SpeedView  
+Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:
+Project Address: https://github.com/anastr/SpeedView   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
+
 
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -1721,4 +1727,3 @@ HomePage: http://www.inmite.eu/
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
