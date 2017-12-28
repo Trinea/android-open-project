@@ -901,6 +901,12 @@ Android图书馆点亮项目的教程或漫步等...
 
 效果圖: ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
 
+1. SpeedView  
+Android的动态车速表和量规。 惊人，强大，多形 :zap:
+項目地址: https://github.com/anastr/SpeedView   
+效果圖:   
+![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
+
 
 ## 第二部分 工具庫  
 主要包括那些不錯的開發庫，包括依賴注入框架、圖片緩存、網絡相關、數據庫ORM建模、Android公共庫、Android 高版本向低版本兼容、多媒體相關及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
