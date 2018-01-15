@@ -273,7 +273,7 @@ Demo 地址：[Download here](http://7u2jsw.com1.z0.glb.clouddn.com/githubCustom
 一个可以提取单词的 ListView,支持"放大镜"效果。  
 项目地址：https://github.com/jcodeing/ExtractWordView  
 Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/ExtractWordView-demo.apk)  
-效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)  
+![Renderings](https://raw.githubusercontent.com/jcodeing/ExtractWordView/master/lookme.gif)  
 
 1. FlyRefresh  
 支持 ListView, GridView, RecyclerView, ScrollView 的下拉刷新  
@@ -757,7 +757,7 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 Demo中通过AnchorImageView简单的实现了一个课本点读的功能  
 项目地址：https://github.com/jcodeing/AnchorImageView  
 Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/AnchorImageView-debug.apk)  
-效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif)  
+![Renderings](https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif)
 
 #### 七、ProgressBar
 1. SmoothProgressBar  
@@ -2113,7 +2113,18 @@ android 上一个轻量级的更简单的开源弹幕控件
 一个基于Sonic的变音Demo,可调节Speed,Pitch,Rate.  
 项目地址：https://github.com/jcodeing/K-Sonic  
 Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/K-Sonic-demo.apk)  
-效果图：![Renderings](https://raw.githubusercontent.com/jcodeing/K-Sonic/master/lookme.jpg)  
+
+1. KMedia  
+一个为Android打造的应用级媒体框架, 它可以助你快速搭建媒体应用.
+内部重新定义Android MediaPlayer API并对其封装, 简化和扩展一些原生API不支持的功能.
+其中涵盖了, `AB播放/循环` `位置单元/间隔/循环` `变速播放` `媒体队列管理` `媒体服务/绑定` `音频后台/通知栏控制`
+`媒体按键自定义处理` `音频焦点管理` `媒体引擎切换/扩展`... 等功能的快速实现.
+以及, 对视频播放实现方面的封装. 其中将视频视图主要分为: 绘制层 控制组 控制层, 三个部分.
+从而能够快速并灵活的实现Video相关应用的大部分功能, 包括 `视频浮窗/拖动/调整位置大小` `横竖屏自动切换` `全屏锁定`
+`手势调整亮度/音量/进度` `字幕/切换/拖动` `视频段落/间隔复读` `视频续集/列表/循环播放` `动态切换视频控制层`
+`控制层分离`... 等功能的快速实现.  
+项目地址：https://github.com/jcodeing/KMedia →项目模块：[KMedia-Core](https://github.com/jcodeing/KMedia-Core) & [KMedia-Uie](https://github.com/jcodeing/KMedia-Uie) & [KMedia-Exo](https://github.com/jcodeing/KMedia-Exo)  
+![Demo-Gif-1](https://raw.githubusercontent.com/jcodeing/raw/raw/gif/km_d_sr_1_270.gif)![Demo-Gif-2](https://raw.githubusercontent.com/jcodeing/raw/raw/gif/km_d_ui_270.gif)![Demo-Gif-3](https://raw.githubusercontent.com/jcodeing/raw/raw/gif/km_d_sr_2_270.gif)
 
 #### 八、事件总线(订阅者模式)
 通过发布/订阅事件解耦事件发送和接受，从而简化应用程序组件(Activities, Fragments 及后台线程)之间的通信  
