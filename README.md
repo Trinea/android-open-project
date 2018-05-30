@@ -1680,6 +1680,10 @@ android 快速开发框架
 作者认为使用AutoParcel的好处是，可以简化构造函数，方便IDE代码自动完成，方便测试，前向兼容，生成不可变的对象。      
 文档介绍：https://github.com/frankiesardo/auto-parcel
 
+1. Dilutions  
+通过注解生成协议映射执行跨模块的界面跳转和方法调用，解耦的协议框架  
+项目地址：https://github.com/HomHomLin/Dilutions 
+文档介绍：https://github.com/HomHomLin/Dilutions  
 
 
 #### 二、图片缓存
