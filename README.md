@@ -1638,6 +1638,12 @@ Android的动态车速表和量规。 惊人，强大，多形 :zap:
 效果圖:   
 ![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
 
+1. MaterialPlayPauseDrawble  
+Material Design 的播放/暂停图标动画，可作为 `Drawable`、`ImageView` 或 `ImageButton` 使用  
+項目地址: https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble   
+效果图:   
+![Renderings](https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble/raw/master/preview/sample.gif)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
