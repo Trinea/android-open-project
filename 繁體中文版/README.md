@@ -3,6 +3,8 @@ Android開源項目分類彙總
 
 歡迎大家推薦好的Android開源項目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我，歡迎`Star`、`Fork` :)  
 
+#### [Android 開發調試效率數倍提升工具——開發助手 App 最新版](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)  
+
 微博：[Trinea](https://weibo.com/trinea)&nbsp;&nbsp;&nbsp;&nbsp;主頁：[www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;郵箱：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
 分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到QQ空間" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到騰訊微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>  
 ## 目前包括：  
@@ -32,6 +34,20 @@ APP示例：新浪微博各個頁面
 項目地址：https://github.com/johannilsson/android-pulltorefresh  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true  
 PS：這個被很多人使用的項目實際有不少bug，推薦使用上面的android-pulltorefresh  
+
+1. android-Ultra-Pull-to-Refresh    
+這是現在已經停止維護的下拉刷新項目的替代方案，繼承于ViewGroup, 可以包含任何View，功能比SwipeRefreshLayout強大，稱為終極下拉刷新。
+使用起來非常簡單，良好的設計，如果你想定製自己的UI樣式，那也非常簡單，就像給ListView加一個Header View那麼簡單。
+支持 `API LEVEL >= 8`  
+項目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+效果圖：   
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 下拉刷新及滑動到底部加載更多ListView  
@@ -50,6 +66,18 @@ APP示例：Wordpress Android
 項目地址：https://github.com/47deg/android-swipelistview  
 Demo地址：https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 APP示例：微信  
+   
+1. SwipeListView  
+持ListView的Item的拖動排序、左右滑動事件，可自定義左右滑動顯示文字、圖標、位移，同時支持onItemClick、onItemLongClick等監聽器，提供豐富的回調接口。  
+項目地址：https://github.com/yydcdut/SlideAndDragListView  
+Demo地址：https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.apk?raw=true  
+APP示例：Android 手机QQ 5.0  
+效果圖：![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif) 
+   
+1. RecyclerViewSwipeDismiss  
+輕量級支持support-v7中的RecyclerView的滑動刪除(Swipe to dismiss)行為，不需要修改源代碼，只要間單的邦定`onTouchListener`   
+項目地址：https://github.com/CodeFalling/RecyclerViewSwipeDismiss    
+效果圖：![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif) 
    
 1. Android-SwipeToDismiss  
 滑動Item消失ListView  
@@ -227,7 +255,14 @@ APP示例：Path
 仿 Dribbble 的邊欄菜單   
 項目地址：https://github.com/SpecialCyCi/AndroidResideMenu    
 效果圖：![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
+
+1. FloatingActionMenu-Animation  
+扩展FloatingActionMenu库，自定义菜单图标，动画滚动时
+项目地址: https://github.com/toanvc/FloatingActionMenu-Animation  
+效果图: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)
+
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
 
 #### 四、ViewPager 、Gallery  
 1. Android-ViewPagerIndicator  
@@ -280,10 +315,82 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/astuetz/PagerSlidingTabStrip  
 Demo地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
-1. ViewPager3D  
-ViewPager3D效果  
-項目地址：https://github.com/inovex/ViewPager3D  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+1. SmartTabLayout    
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.    
+項目地址：https://github.com/ogaclejapan/SmartTabLayout    
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo    
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)    
+
+1. SmartTabLayout
+自定義的Tab title strip，基於Google Samples中的android-SlidingTabBasic項目，滑動時Indicator可平滑過渡.
+項目地址：https://github.com/ogaclejapan/SmartTabLayout
+Demo地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo
+效果圖：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
+
+1. ViewPager3D效果
+項目地址：https://github.com/inovex/ViewPager3D
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
+
+1. LoopingViewPager
+無限循環的ViewPager
+項目地址：https://github.com/imbryk/LoopingViewPager
+
+1. android_page_curl
+翻書卷曲效果
+項目地址：https://github.com/harism/android_page_curl
+APP示例：iReader
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw
+
+1. ViewPagerIndicator
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator
+
+1. ScreenSlideIndicator
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+效果圖：
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
+
+1. ViewPager3D效果    
+項目地址：https://github.com/inovex/ViewPager3D 
+
+1. AnimaTabsview
+仿網易雲音樂標簽切換的動畫,帶透明小三角    
+項目地址：https://github.com/wuyexiong/transparent-over-animtabsview    
+在線演示：http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
+
+1. LoopingViewPager    
+無限循環的ViewPager    
+項目地址：https://github.com/imbryk/LoopingViewPager    
+
+1. android_page_curl    
+翻書卷曲效果    
+項目地址：https://github.com/harism/android_page_curl    
+APP示例：iReader    
+在線演示：https://www.youtube.com/watch?v=iwu7P5PCpsw    
+
+1. ViewPagerIndicator    
+簡化並實現android的TabHost效果，頂部滑動tab，引導頁，支持自定義tab樣式,自定義滑動塊樣式和位置,自定義切換tab的過渡動畫,子界面的預加載和界面緩存,設置界面是否可滑動    
+項目地址：https://github.com/LuckyJayce/ViewPagerIndicator    
+
+1. ScreenSlideIndicator    
+輕量級的圓形 Indicadtor，位置可以自由調整，不會對 ViewPager 產生任何影響。    
+項目地址：[ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)    
+效果圖：    
+![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)    
+
+1. RecyclerViewPager    
+完全繼承自RecyclerView，可以自定義觸發翻頁的距離，可自定義翻頁速度，支持垂直方向的ViewPager，支持Fragment。    
+項目地址：[RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)    
+效果圖：    
+![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 五、GridView  
 1. StaggeredGridView  
@@ -306,7 +413,17 @@ APP示例：Pinterest等
 Item可拖動交換位置的GridView，實際是自己繼承ViewGroup實現，類似桌面的單屏效果，可屏幕自動上下滾動進行Item移動交換，多屏效果見下面PagedDragDropGrid  
 項目地址：https://github.com/thquinn/DraggableGridView  
 Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-   
+也可自定義item的寬高和每行的個數，同時修改了交換邏輯，當移動到另壹個item時就進行交換，並刪除滾動邏輯。  
+項目地址：[DraggableGridView](https://github.com/andyken/DraggableGridView)  
+效果圖：  
+![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
+1. DividedDraggableView
+壹個帶有分割區域的可拖動 view ,可屏幕自動上下滾動進行 Item 移動交換。
+項目地址：https://github.com/andyken/DividedDraggableView
+效果圖：
+![Renderings](https://github.com/andyken/DividedDraggableView/blob/master/app/sample.gif)
+
 1. StickyGridHeaders  
 GroupName滑動到頂端時會固定不動直到另外一個GroupName到達頂端的GridView  
 項目地址：https://github.com/TonicArtos/StickyGridHeaders     
@@ -325,7 +442,7 @@ Demo地址：https://github.com/Trinea/trinea-download/blob/master/draggable-gri
 1. GridView with Header and Footer    
 和`ListView`一樣帶有頭部和底部，用法也一樣簡單    
 項目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
-效果图：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
+效果圖：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 六、ImageView  
@@ -419,7 +536,44 @@ APP示例：Android4.1時鍾App
 帶數字進度的進度條     
 項目地址：https://github.com/daimajia/NumberProgressBar   
 效果圖：![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. CircularProgressDrawable  
+帶圓形進度顯示的進度條    
+項目地址：https://github.com/Sefford/CircularProgressDrawable  
+效果圖：![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)    
+
+1. Android-RoundCornerProgressBar  
+Android 圓角 ProgressBar，可自定義圓角顏色和半徑，包括帶 Icon 和不帶 Icon 兩種類型。    
+項目地址：https://github.com/akexorcist/Android-RoundCornerProgressBar  
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)      
+1. circular-progress-button  
+帶進度顯示的Button    
+項目地址：https://github.com/dmytrodanylyk/circular-progress-button  
+效果圖：    
+![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)      
+
+1. WaveView  
+壹個波紋效果的 View，可用來做 ProgressBar    
+項目地址：https://github.com/john990/WaveView  
+Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
+效果圖：    
+![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
+
+1. MaterialLoadingProgressBar    
+抽取自SwipeRefreshLayout的Material Design進度指示器    
+項目地址：https://github.com/lsjwzh/MaterialLoadingProgressBar    
+效果圖：![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)    
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+
+1. LoadingDrawable
+壹些酷炫的android加載動畫，可以與任何組件配合使用作為加載的組件或者ProgressBar。<br>
+項目地址：https://github.com/dinuscxj/LoadingDrawable
+效果圖：<br/>
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
 
 #### 八、TextView  
 包括TextView及所有繼承自TextView控件，如EditText、Button、RadioButton  
@@ -455,7 +609,7 @@ Demo地址：https://github.com/thquinn/DraggableGridView/blob/master/bin/Dragga
 項目地址：https://github.com/kpbird/chips-edittext-library  
 Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsEditTextDemo/bin  
 
-1. AutoFitTextView  
+1. AutoFitTextView
 可固定邊界內容字體大小自適應的TextView    
 項目地址：https://github.com/grantland/android-autofittextview  
 
@@ -485,6 +639,12 @@ Demo地址：https://github.com/kpbird/chips-edittext-library/tree/master/ChipsE
 帶加載或提交進度的Button  
 項目地址：https://github.com/dmytrodanylyk/android-process-buton  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. MoneyTextView  
+壹個支持加法運算的金額輸入TextView  
+項目地址：https://github.com/andyken/MoneyTextView  
+效果圖：  
+![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 九、ScrollView  
 1. Discrollview  
@@ -705,6 +865,13 @@ Demo地址：https://play.google.com/store/apps/details?id=group.pals.android.li
 使用介紹：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
   
+1. PatternLock  
+另一個 Android 圖案解鎖庫  
+項目地址：https://github.com/DreaminginCodeZH/PatternLock  
+Demo地址：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
+效果圖：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
+示例APP：Android開機的圖案密碼解鎖，支付寶的密碼解鎖  
+  
 1. RangeBar  
 類似于SeekBar，不同的是可以選擇一個範圍內的值而不是單個值  
 項目地址：https://github.com/edmodo/range-bar  
@@ -726,7 +893,20 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo
 1. android-segmented-control  
 Android上的Segmented Controls，相當于RadioButton組  
 項目地址：https://github.com/hoang8f/android-segmented-control   
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. Spotlight  
+Android图书馆点亮项目的教程或漫步等...  
+項目地址：https://github.com/TakuSemba/Spotlight
+
+效果圖: ![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
+
+1. SpeedView  
+Android的动态车速表和量规。 惊人，强大，多形 :zap:
+項目地址: https://github.com/anastr/SpeedView   
+效果圖:   
+![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
+
 
 ## 第二部分 工具庫  
 主要包括那些不錯的開發庫，包括依賴注入框架、圖片緩存、網絡相關、數據庫ORM建模、Android公共庫、Android 高版本向低版本兼容、多媒體相關及其他。  <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
@@ -796,7 +976,7 @@ Demo地址：https://play.google.com/store/apps/details?id=cn.trinea.android.dem
 項目地址：https://github.com/etao-open-source/cube-sdk  
 Demo地址：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
 文檔介绍：http://cube-sdk.liaohuqiu.net/  
-效果图：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
+效果圖：![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 三、網絡相關  
@@ -1218,6 +1398,10 @@ java壓縮和解壓庫
 (4) 支持遍曆zip包內容  
 (5) 比較兩個zip包等功能  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目錄" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. Image File Selector  
+輕量級的圖片文件選擇器，用系統api選取，壓縮和裁切圖片，可以方便的得要指定尺寸的圖片  
+項目地址：https://github.com/sw926/ImageFileSelector  
 
 #### 十三、其他  
 1. Salvage view  
