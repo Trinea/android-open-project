@@ -1,22 +1,22 @@
-Android 开源项目分类汇总，更全更新可见 [codekk.com](http://p.codekk.com/)
+Android 开源项目分类汇总，更全更新可见 [codekk.com](https://p.codekk.com/)
 ====================
-Other: [English Version](https://github.com/Trinea/android-open-project/tree/master/English%20Version), [繁體版](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88), [Website Version](http://p.codekk.com/).    
+Other: [English Version](https://github.com/Trinea/android-open-project/tree/master/English%20Version), [繁體版](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88), [Website Version](https://p.codekk.com/).    
 > 我们的微信公众号：codekk。二维码如下：  
  专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
- ![img](http://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
- 我们的网站：[www.codekk.com](http://a.codekk.com)  
+ ![img](https://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
+ 我们的网站：[www.codekk.com](https://a.codekk.com)  
  
-#### [Android 开发调试效率数倍提升工具——开发助手 App 最新版](http://www.trinea.cn/dev-tools/development-tools/features-and-versions/)，可从 Google Play、应用宝、360 手机助手里搜索”开发助手”下载，或通过网页下载：<a href="https://play.google.com/store/apps/details?id=cn.trinea.android.developertools" target="_blank" title="去 Google Play 下载开发助手">Google Play</a>、<a href="http://android.myapp.com/myapp/detail.htm?apkName=cn.trinea.android.developertools" target="_blank" title="去应用宝下载开发助手">应用宝</a>、<a href="http://zhushou.360.cn/detail/index/soft_id/3644614" target="_blank" title="去 360 手机助手下载开发助手">360 手机助手</a>、<a href="http://trinea.cn/app/dev-tools.apk" target="_blank" title="直接本地下载开发助手">本地下载</a>
-#### <a href="http://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
-#### <a href="http://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)</a>  
-#### <a href="http://p.codekk.com" target="_blank">强大的 Android 开源项目搜索站</a>  
+#### [Android 开发调试效率数倍提升工具——开发助手 App 最新版](https://www.trinea.cn/dev-tools/development-tools/features-and-versions/)，可从 Google Play、应用宝、360 手机助手里搜索”开发助手”下载，或通过网页下载：<a href="https://play.google.com/store/apps/details?id=cn.trinea.android.developertools" target="_blank" title="去 Google Play 下载开发助手">Google Play</a>、<a href="http://android.myapp.com/myapp/detail.htm?apkName=cn.trinea.android.developertools" target="_blank" title="去应用宝下载开发助手">应用宝</a>、<a href="http://zhushou.360.cn/detail/index/soft_id/3644614" target="_blank" title="去 360 手机助手下载开发助手">360 手机助手</a>、<a href="https://trinea.cn/app/dev-tools.apk" target="_blank" title="直接本地下载开发助手">本地下载</a>
+#### <a href="https://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
+#### <a href="https://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)</a>  
+#### <a href="https://p.codekk.com" target="_blank">强大的 Android 开源项目搜索站</a>  
 
-欢迎大家推荐好的 Android 开源项目，开源项目添加到 <a href="http://p.codekk.com/add-project" target="_blank">Android 开源项目集合</a>，可以得到更多朋友的关注和反馈，欢迎`Star`、`Fork` :)  
+欢迎大家推荐好的 Android 开源项目，开源项目添加到 <a href="https://p.codekk.com/add-project" target="_blank">Android 开源项目集合</a>，可以得到更多朋友的关注和反馈，欢迎`Star`、`Fork` :)  
 
 > **关于我，欢迎关注**  
- 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>  
+ 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="https://www.trinea.cn/" target="_blank">trinea.cn</a>  
 
-更多：[Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)  
+更多：[Android 开源库获取途径整理](https://www.trinea.cn/android/android-open-project-summary/)  
 分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86250%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8cB%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86250%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="分享到 QQ 空间" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86250%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="分享到腾讯微博" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/tweet?text=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86250%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86250%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>  
 
 ## 目前包括：
@@ -49,7 +49,7 @@ Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refre
 1. android-Ultra-Pull-to-Refresh  
 下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于 ViewGroup 可以包含任何 View。功能甚至比 SwipeRefreshLayout 强大。使用起来非常简单。良好的设计，如果你想定制自己的 UI 样式，非常简单，就像给 ListView 加一个 Header View 那么简单。支持 `API LEVEL >= 8`  
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh  
-原理剖析文档：[android-Ultra-Pull-to-Refresh](http://a.codekk.com/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
+原理剖析文档：[android-Ultra-Pull-to-Refresh](https://a.codekk.com/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh 源码解析)  
 Demo 地址：https://raw.githubusercontent.com/liaohuqiu/android-Ultra-Pull-To-Refresh/master/ptr-demo.apk  
 效果图：![Renderings](http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif)  
 http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif  
@@ -232,7 +232,7 @@ APP 示例：手机 QQV5.0
 1. CalendarListview  
 实现每个月一行日历效果的 ListView  
 项目地址：https://github.com/traex/CalendarListview  
-原理剖析文档：[CalendarListview](http://a.codekk.com/detail/Android/Rogary/CalendarListView%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)  
+原理剖析文档：[CalendarListview](https://a.codekk.com/detail/Android/Rogary/CalendarListView%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)  
 效果图：![Renderings](https://github.com/traex/CalendarListview/raw/master/demo.gif)  
 
 1. sticky-headers-recyclerview  
@@ -379,7 +379,7 @@ APP 示例：Gmail、Google Music 等大部分 google app
 1. SlidingMenu  
 滑出式菜单，通过拖动屏幕边缘滑出菜单，支持屏幕左右划出，支持菜单 zoom、scale、slide up 三种动画样式出现。与 MenuDrawer 相比而言，SlidingMenu 支持菜单动画样式出现，MenuDrawer 支持菜单 view 处于内容的上下层  
 项目地址：https://github.com/jfeinstein10/SlidingMenu  
-原理剖析文档：[SlidingMenu](http://a.codekk.com/detail/Android/huxian99/SlidingMenu 源码解析)  
+原理剖析文档：[SlidingMenu](https://a.codekk.com/detail/Android/huxian99/SlidingMenu 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.slidingmenu.example  
 APP 示例：Foursquare, LinkedIn, Zappos, Rdio, Evernote Food, Plume, VLC for Android, ESPN ScoreCenter, MLS MatchDay, 9GAG, Wunderlist 2, The Verge, MTG Familiar, Mantano Reader, Falcon Pro (BETA), MW3 Barracks  
 
@@ -421,7 +421,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.ptr.folding.samp
 1. CircularFloatingActionMenu  
 一个可定制的圆形的浮动菜单控件，类似于 Path 的圆形菜单。这个控件的可定制性更强，可以很容易的定制菜单出现消失时的动画，起始角度和半径。  
 项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu  
-原理剖析文档：[CircularFloatingActionMenu](http://a.codekk.com/detail/Android/cpacm/CircularFloatingActionMenu 源码解析)  
+原理剖析文档：[CircularFloatingActionMenu](https://a.codekk.com/detail/Android/cpacm/CircularFloatingActionMenu 源码解析)  
 Demo 地址：https://github.com/oguzbilgener/CircularFloatingActionMenu/tree/master/samples  
 效果图：![Renderings](https://raw.githubusercontent.com/oguzbilgener/CircularFloatingActionMenu/master/assets/circularfab.gif)  
 
@@ -450,7 +450,7 @@ Material Design 形式的展开折叠 Icon
 1. Side-Menu.Android  
 分类侧滑菜单，[Yalantis](http://yalantis.com/) 出品。  
 项目地址：https://github.com/Yalantis/Side-Menu.Android  
-原理剖析文档：[Side-Menu.Android](http://a.codekk.com/detail/Android/cpacm/Side Menu.Android 源码解析)  
+原理剖析文档：[Side-Menu.Android](https://a.codekk.com/detail/Android/cpacm/Side Menu.Android 源码解析)  
 效果图：![Renderings](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)  
 
 1. Context-Menu.Android  
@@ -533,12 +533,12 @@ APP 示例：类似微信中查看聊天记录图片时可双击放大，并且�
 Android 自动滚动 轮播循环的 ViewPager  
 项目地址：https://github.com/Trinea/android-auto-scroll-view-pager  
 Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/android/auto-scroll-view-pager/  
+文档介绍：https://www.trinea.cn/android/auto-scroll-view-pager/  
 
 1. Android PagerSlidingTabStrip  
 配合 ViewPager 使用的 Indicator，支持 ViewPager Scroll 时 Indicator 联动  
 项目地址：https://github.com/astuetz/PagerSlidingTabStrip  
-原理剖析文档：[Android PagerSlidingTabStrip](http://a.codekk.com/detail/Android/ayyb1988/PagerSlidingTabStrip 源码解析)  
+原理剖析文档：[Android PagerSlidingTabStrip](https://a.codekk.com/detail/Android/ayyb1988/PagerSlidingTabStrip 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
 1. ViewPager3D  
@@ -676,7 +676,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 1. PhotoView  
 支持双击或双指缩放的 ImageView，在 ViewPager 等 Scrolling view 中正常使用，相比上面的 AndroidTouchGallery，不仅支持 ViewPager，同时支持单个 ImageView  
 项目地址：https://github.com/chrisbanes/PhotoView  
-原理剖析文档：[PhotoView](http://a.codekk.com/detail/Android/dkmeteor/PhotoView 源码解析)  
+原理剖析文档：[PhotoView](https://a.codekk.com/detail/Android/dkmeteor/PhotoView 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=uk.co.senab.photoview.sample  
 APP 示例：photup  
 
@@ -1427,7 +1427,7 @@ APP 示例：QQ名片圈圈效果
 1. android-lockpattern  
 Android 的图案密码解锁  
 项目地址：https://code.google.com/p/android-lockpattern/  
-原理剖析文档：[android-lockpattern](http://a.codekk.com/detail/Android/爱早起/Android Lock Pattern 源码解析)  
+原理剖析文档：[android-lockpattern](https://a.codekk.com/detail/Android/爱早起/Android Lock Pattern 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 文档介绍：https://code.google.com/p/android-lockpattern/wiki/QuickUse  
 APP 示例：Android 开机的图案密码解锁，支付宝的密码解锁  
@@ -1676,7 +1676,7 @@ android 快速开发框架
 1. Dagger  
 依赖注入，适用于 Android 和 Java  
 项目地址：https://github.com/square/dagger  
-原理剖析文档：[Dagger](http://a.codekk.com/detail/Android/扔物线/Dagger 源码解析)  
+原理剖析文档：[Dagger](https://a.codekk.com/detail/Android/扔物线/Dagger 源码解析)  
 文档介绍：http://square.github.io/dagger/  
 
 1. AutoParcel  
@@ -1696,7 +1696,7 @@ android 快速开发框架
 1. Android-Universal-Image-Loader  
 图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。  
 项目地址：https://github.com/nostra13/Android-Universal-Image-Loader  
-原理剖析文档：[Android-Universal-Image-Loader](http://a.codekk.com/detail/Android/huxian99/Android Universal Image Loader 源码分析)  
+原理剖析文档：[Android-Universal-Image-Loader](https://a.codekk.com/detail/Android/huxian99/Android Universal Image Loader 源码分析)  
 Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/universal-imageloader-demo.apk?raw=true  
 文档介绍：http://www.intexsoft.com/blog/item/74-universal-image-loader-part-3.html  
 
@@ -1873,9 +1873,9 @@ Google 的基于 java1.6 的类库集合的扩展项目，包括 collections, ca
 Android 公共库  
 项目地址：https://github.com/Trinea/AndroidCommon  
 Demo 地址：https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-文档介绍：http://www.trinea.cn/android/android-common-lib/  
+文档介绍：https://www.trinea.cn/android/android-common-lib/  
 包括：a. ImageCache 图片缓存，包含内存和 Sdcard 缓存  
-http://www.trinea.cn/android/android-imagecache/  
+https://www.trinea.cn/android/android-imagecache/  
 特点：(1)支持预取新图片，支持等待队列  
 (2)包含二级缓存，可自定义文件名保存规则  
 (3)可选择多种缓存算法(FIFO、LIFO、LRU、MRU、LFU、MFU 等 13 种)或自定义缓存算法  
@@ -1884,7 +1884,7 @@ http://www.trinea.cn/android/android-imagecache/
 (6)可根据系统配置初始化缓存等  
 
 1. HttpCache Http 缓存  
-文档介绍：http://www.trinea.cn/android/android-http-cache  
+文档介绍：https://www.trinea.cn/android/android-http-cache  
 特点是：(1) 根据 cache-control、expires 缓存 http 请求  
 (2) 支持同步、异步 Http 请求  
 (3) 在匿名回调中处理请求结果  
@@ -1894,7 +1894,7 @@ http://www.trinea.cn/android/android-imagecache/
 (3) Android 常用工具类(网络、下载、Android 资源操作、shell、文件、Json、随机数、Collection 等等)  
 
 1. DropDownListView 下拉刷新及滑动到底部加载更多 ListView  
-文档介绍：http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
+文档介绍：https://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
 
 1. shipfaster  
 整合了 Dagger Otto Retrofit Robolectric Picasso OkHttp，方便快速开发  
@@ -1907,7 +1907,7 @@ http://www.trinea.cn/android/android-imagecache/
 1. xUtils  
 基于 Afinal，包含 DbUtils、ViewUtils、HttpUtils、BitmapUtils 四大模块，可用于快速开发  
 项目地址：https://github.com/wyouflf/xUtils  
-原理剖析文档：[xUtils](http://a.codekk.com/detail/Android/Caij/xUtils 源码解析)  
+原理剖析文档：[xUtils](https://a.codekk.com/detail/Android/Caij/xUtils 源码解析)  
 
 1. Afinal  
 Afinal 是一个 android 的 ioc，orm 框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过 finalActivity，我们可以通过注解的方式进行绑定 ui 和事件。通过 finalBitmap，我们可以方便的加载 bitmap 图片，而无需考虑 oom 等问题。通过 finalDB 模块，我们一行代码就可以对 android 的 sqlite 数据库进行增删改查。通过 FinalHttp 模块，我们可以以 ajax 形式请求 http 数据  
@@ -1952,7 +1952,7 @@ A library that analyzes an Android device's specifications and calculates which 
 1. Nine Old Androids  
 将 Android 3.0(Honeycomb)所有动画 API(ObjectAnimator ValueAnimator 等)兼容到 Android1.0  
 项目地址：https://github.com/JakeWharton/NineOldAndroids  
-原理剖析文档：[Nine Old Androids](http://a.codekk.com/detail/Android/Mr.Simple/NineOldAnimations 源码解析)  
+原理剖析文档：[Nine Old Androids](https://a.codekk.com/detail/Android/Mr.Simple/NineOldAnimations 源码解析)  
 Demo 地址：https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample  
 文档介绍：http://nineoldandroids.com/  
 
@@ -2142,7 +2142,7 @@ Demo 地址：[Download here](https://raw.githubusercontent.com/jcodeing/K-Sonic
 1. EventBus  
 greenrobot 的开源项目  
 项目地址：https://github.com/greenrobot/EventBus  
-原理剖析文档：[EventBus](http://a.codekk.com/detail/Android/Trinea/EventBus 源码解析)  
+原理剖析文档：[EventBus](https://a.codekk.com/detail/Android/Trinea/EventBus 源码解析)  
 文档介绍：https://github.com/greenrobot/EventBus#general-usage-and-api  
 特点：(1) 支持在不同类型的线程中处理订阅，包括发布所在线程，UI 线程、单一后台线程、异步线程  
 (2) 支持事件优先级定义，支持优先级高的订阅者取消事件继续传递，支持粘性事件，是不是跟系统的有序广播、粘性广播很像啊  
@@ -2249,12 +2249,12 @@ Android 4 锁屏界面解锁
 项目地址：https://github.com/dineshshetty/Android-InsecureBankv2  
 
 #### 十一、插件化
-更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](http://www.trinea.cn/android/android-plugin/)  
+更多见：[Android 插件化作用、概念以及不错的资料(包括开源项目)和解决方案](https://www.trinea.cn/android/android-plugin/)  
 
 1. dynamic-load-apk  
 Android 动态加载 Apk，热部署，利用 ClassLoader 以及 Activity 代理的方式解决  
 项目地址：https://github.com/singwhatiwanna/dynamic-load-apk  
-原理剖析文档：[dynamic-load-apk](http://a.codekk.com/detail/Android/FFish/DynamicLoadApk 源码解析)  
+原理剖析文档：[dynamic-load-apk](https://a.codekk.com/detail/Android/FFish/DynamicLoadApk 源码解析)  
 文档介绍：http://blog.csdn.net/singwhatiwanna/article/details/22597587  
 
 1. Android Dynamic Loader  
@@ -3039,7 +3039,7 @@ Github 地址：https://github.com/inmite
 
 ## License
 
-    Copyright 2014 [trinea.cn](http://www.trinea.cn/)
+    Copyright 2014 [trinea.cn](https://www.trinea.cn/)
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
