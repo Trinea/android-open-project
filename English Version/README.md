@@ -299,7 +299,7 @@ Project Address: https://github.com/JakeWharton/Android-ViewPagerIndicator
 Demo Apk: https://play.google.com/store/apps/details?id=com.viewpagerindicator.sample  
    
 1. JazzyViewPager  
-An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!  
+An easy way to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!  
 Project Address: https://github.com/jfeinstein10/JazzyViewPager  
 Demo Apk: https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true  
 
@@ -340,7 +340,7 @@ Project Address: https://github.com/astuetz/PagerSlidingTabStrip
 Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
 1. SmartTabLayout  
-A custom ViewPager title strip which gives continuous feedback to the user when scrolling.This library has been added some features and utilities based on android-SlidingTabBasic project of Google Samples.  
+A custom ViewPager title strip which gives continuous feedback to the user while scrolling.This library has added some features and utilities based on android-SlidingTabBasic project of Google Samples.  
 Project Address: https://github.com/ogaclejapan/SmartTabLayout  
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)
@@ -433,10 +433,10 @@ Project Address: https://github.com/GDG-Korea/PinterestLikeAdapterView
 Similar App: Pinterest  
    
 1. DraggableGridView  
-A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can  swich from up to bottom, If you want switch from left screen to right please use PagedDragDropGrid below  
+A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can switch from up to bottom, If you want switch from left screen to right please use PagedDragDropGrid below  
 Project Address: https://github.com/thquinn/DraggableGridView  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-You can customize the width and height of item,and the count of item each line,You can also customize the padding of line.Default value is 20dp.  
+You can customize the width and height of item,and the count of item each line.You can also customize the padding of line. Default value is 20dp.   
 Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
