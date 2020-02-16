@@ -676,6 +676,11 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.felipecsl.asymme
 项目地址：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter  
 效果图：![Renderings](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)  
 
+1. TopGrid  
+高仿网易新闻新版频道管理功能,实现Item的拖拽,长按删除等操作.  
+项目地址：https://github.com/whatshappen/TopGrid  
+效果图：![Renderings](https://github.com/whatshappen/TopGrid/blob/master/screenshots/demo.gif) 
+
 #### 六、ImageView
 1. PhotoView  
 支持双击或双指缩放的 ImageView，在 ViewPager 等 Scrolling view 中正常使用，相比上面的 AndroidTouchGallery，不仅支持 ViewPager，同时支持单个 ImageView  
