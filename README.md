@@ -6,9 +6,13 @@ Other: [English Version](https://github.com/Trinea/android-open-project/tree/mas
  ![img](https://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
  我们的网站：[www.codekk.com](https://p.codekk.com)  
  
-#### [Android 开发调试效率数倍提升工具——开发助手 App 最新版](https://www.trinea.cn/dev-tools/development-tools/features-and-versions/)，可从 Google Play、应用宝、360 手机助手里搜索”开发助手”下载，或通过网页下载：<a href="https://play.google.com/store/apps/details?id=cn.trinea.android.developertools" target="_blank" title="去 Google Play 下载开发助手">Google Play</a>、<a href="http://android.myapp.com/myapp/detail.htm?apkName=cn.trinea.android.developertools" target="_blank" title="去应用宝下载开发助手">应用宝</a>、<a href="http://zhushou.360.cn/detail/index/soft_id/3644614" target="_blank" title="去 360 手机助手下载开发助手">360 手机助手</a>、<a href="https://trinea.cn/app/dev-tools.apk" target="_blank" title="直接本地下载开发助手">本地下载</a>
-#### <a href="https://a.codekk.com" target="_blank">Android 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)</a>  
-#### <a href="https://j.codekk.com" target="_blank">Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)</a>  
+
+ 
+### Dev Tools App
+The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly, It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
+  
+You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**, [DevTools@酷安](https://coolapk.com/apk/cn.trinea.android.developertools), [DevTools@应用宝](http://android.myapp.com/myapp/detail.htm?apkName=cn.trinea.android.developertools), [DevTools@360 手机助手](http://zhushou.360.cn/detail/index/soft_id/3644614), [DevTools@trinea.cn](https://trinea.cn/app/dev-tools.apk)  
+![](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)   
 #### <a href="https://p.codekk.com" target="_blank">强大的 Android 开源项目搜索站</a>  
 
 每日最新开源项目可见 <a href="https://p.codekk.com/" target="_blank">Android 开源项目集合</a>，欢迎浏览和反馈 :)  
