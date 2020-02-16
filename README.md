@@ -158,6 +158,12 @@ ListView 快速滑动，同时屏幕中间 PopupWindows 显示滑动到的 item 
 项目地址：https://github.com/nolanlawson/CustomFastScrollViewDemo  
 效果图：![Renderings](https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png)  
 
+1. AndroidFastScroll  
+为 RecyclerView 和其他视图添加快速滚动支持，高度可定制并且自带默认和 MD2 两种主题。  
+项目地址：https://github.com/zhanghai/AndroidFastScroll  
+Demo 地址：https://play.google.com/store/apps/details?id=me.zhanghai.android.fastscroll.sample  
+效果图：![Renderings](https://raw.githubusercontent.com/zhanghai/AndroidFastScroll/master/screenshot/default.png)  
+
 1. Android-ScrollBarPanel  
 ListView 滑动时固定的 Panel 指示显示在 scrollbar 旁边  
 项目地址：https://github.com/rno/Android-ScrollBarPanel  
