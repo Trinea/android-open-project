@@ -5,7 +5,8 @@ Other: [English Version](https://github.com/Trinea/android-open-project/tree/mas
  专注于 Android 开源分享、源码解析、框架设计、Android 内推。  
  ![img](https://www.trinea.cn/wp-content/uploads/2016/01/weixin-codekk-160.jpg)  
  我们的网站：[www.codekk.com](https://p.codekk.com)  
- 
+  
+  THIS TOOL IS BASED ON ANDROID 
 
  
 ### Dev Tools App
