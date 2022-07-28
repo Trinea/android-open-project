@@ -5,7 +5,7 @@ Welcome to recommend good android open source projects, you can [Commit](https:/
 
  
 ### Dev Tools App
-The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly, It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
+The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly; It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
   
 You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
 ![](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)  
