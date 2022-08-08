@@ -60,13 +60,13 @@ File,
 Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
 #### 1. ListView  
 1. android-pulltorefresh  
-Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
+Provides a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
 Project Address: https://github.com/chrisbanes/Android-PullToRefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true  
 Similar App: Sina Weibo Pages  
    
 1. android-pulltorefresh-listview  
-Pull to refresh listView for android, There is some bug for this  
+Pull to refresh listView for android, There is some bug for this.  
 Project Address: https://github.com/johannilsson/android-pulltorefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true   
 
@@ -85,7 +85,7 @@ Demo Apk: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master
 </div>   
    
 1. DropDownListView  
-Pull to refresh and load more when on bottom listView for android  
+Pull to refresh and load more when on bottom listView for android. 
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: https://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
@@ -97,7 +97,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.mobeta.android.demod
 Similar App: Wordpress Android  
    
 1. SwipeListView  
-An Android List View implementation with support for drawable cells and many other swipe related features  
+An Android List View implementation with support for drawable cells and many other swipe related features. 
 Project Address: https://github.com/47deg/android-swipelistview  
 Demo Apk: https://play.google.com/store/apps/details?id=com.fortysevendeg.android.swipelistview  
 Similar App: 微信
@@ -115,12 +115,12 @@ Project Address：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
 Renderings: ![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)
 
 1. Android-SwipeToDismiss
-Android swipe to dismiss listView  
+Android swipe to dismiss listView.
 Project Address: https://github.com/romannurik/Android-SwipeToDismiss  
 Demo Apk: https://github.com/JakeWharton/SwipeToDismissNOA/SwipeToDismissNOA.apk/qr_code  
    
 1. StickyListHeaders  
-An android library for section headers of listView that stick to the top  
+An android library for section headers of listView that stick to the top. 
 Project Address: https://github.com/emilsjolander/StickyListHeaders  
 Similar App: Contacts app of Android 4.0 Ice Cream Sandwich  
 Renderings: ![Renderings](https://raw.github.com/emilsjolander/StickyListHeaders/master/demo.gif)  
@@ -131,7 +131,7 @@ Project Address: https://github.com/beworker/pinned-section-listview
 Renderings: ![Renderings](https://raw.github.com/beworker/pinned-section-listview/master/screen1.png)  
    
 1. PinnedHeaderListView  
-A ListView with pinned section headers for Android  
+A ListView with pinned section headers for Android.
 Project Address: https://github.com/JimiSmith/PinnedHeaderListView  
    
 1. QuickReturnHeader  
@@ -141,13 +141,13 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/quick-return-head
 Similar App: google plus  
    
 1. IndexableListView  
-iPhone like fast scroll ListView on Android with non-alphabetic overlays  
+iPhone like fast scroll ListView on Android with non-alphabetic overlays. 
 Project Address: https://github.com/woozzu/IndexableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/indexable-listview.apk?raw=true  
 Similar App: Weichat contact  
    
 1. CustomFastScrollView  
-A FastScrollView with non-alphabetic overlays  
+A FastScrollView with non-alphabetic overlays.  
 Project Address: https://github.com/nolanlawson/CustomFastScrollViewDemo  
 Renderings: ![Renderings](https://raw.github.com/nolanlawson/CustomFastScrollViewDemo/master/example.png)  
    
@@ -157,7 +157,7 @@ Project Address: https://github.com/rno/Android-ScrollBarPanel
 Renderings: ![Renderings](https://github.com/rno/Android-ScrollBarPanel/raw/master/demo_capture.png)  
    
 1. SlideExpandableListView  
-A better ExpandableListView, with animated expandable views for each list item  
+A better ExpandableListView, with animated expandable views for each list item.  
 Project Address: https://github.com/tjerkw/Android-SlideExpandableListView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/slide-expandable-listView-demo.apk?raw=true  
    
@@ -167,18 +167,18 @@ Project Address: https://github.com/twotoasters/JazzyListView
 Demo Apk: https://play.google.com/store/apps/details?id=com.twotoasters.jazzylistview.sample  
    
 1. ListViewAnimations  
-An Android library which allows developers to easily add animations to ListView items  
+An Android library which allows developers to easily add animations to ListView items.  
 Project Address: https://github.com/nhaarman/ListViewAnimations  
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations  
 Similar App: Google plus, Google Now, Ultimate, Light Flow Lite, TreinVerkeer, Running Coach, Pearl Jam Lyrics, Calorie Chart, Car Hire, Super BART, DK FlashCards, Counter Plus, Voorlees Verhaaltjes 2.0  
    
 1. DevsmartLib-Android  
-A Horizontal ListView for Android  
+A Horizontal ListView for Android. 
 Project Address: https://github.com/dinocore1/DevsmartLib-Android  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/horizontal-listview-demo.apk?raw=true  
    
 1. HorizontalVariableListView  
-Horizontal list view for Android which allows variable items widths  
+Horizontal list view for Android which allows variable items widths.  
 Project Address: https://github.com/sephiroth74/HorizontalVariableListView   
    
 1. LinearListView  
@@ -186,7 +186,7 @@ Android library that allows you to bind a LinearLayout with a ListAdapter.
 Project Address: https://github.com/frankiesardo/LinearListView   
   
 1. MultiChoiceAdapter  
-A ListView adapter with support for multiple choice modal selection  
+A ListView adapter with support for multiple choice modal selection. 
 Project Address: https://github.com/ManuelPeinado/MultiChoiceAdapter   
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.multichoiceadapter.demo  
 
@@ -221,25 +221,25 @@ Demo Apk: https://play.google.com/store/apps/details?id=uk.co.senab.actionbarpul
 Similar App: Gmail，Google plus  
    
 1. FadingActionBar  
-Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app  
+Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app.  
 Project Address: https://github.com/ManuelPeinado/FadingActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.fadingactionbar.demo  
 Similar App: google music  
    
 1. NotBoringActionBar  
-Auto dismis actionbar when content scroll down  
+Auto dismiss actionbar when content scroll down.
 Project Address: https://github.com/flavienlaurent/NotBoringActionBar  
 Demo Apk: http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/  
 Similar App: google music  
    
 1. RefreshActionItem  
-An action bar item which acts both as a refresh button and as a progress indicator  
+An action bar item which acts both as a refresh button and as a progress indicator.  
 Project Address: https://github.com/ManuelPeinado/RefreshActionItem  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.refreshactionitem.demo  
 Similar App: The New York Times，DevAppsDirect.  
    
 1. GlassActionBar  
-An Android library which implements a glass-like effect for the action bar  
+An Android library which implements a glass-like effect for the action bar.  
 Project Address: https://github.com/ManuelPeinado/GlassActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 Similar App: google music  
@@ -265,13 +265,13 @@ Similar App: Path
 Renderings: ![Renderings](https://dl.dropboxusercontent.com/u/11369687/preview0.png)  
    
 1. android-satellite-menu  
-Android Satellite Menu  
+Android Satellite Menu.  
 Project Address: https://github.com/siyamed/android-satellite-menu  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/satellite-menu-demo.apk?raw=true  
 Similar App: Path  
    
 1. radial-menu-widget  
-A radial (pie) menu for Android  
+A radial (pie) menu for Android.  
 Project Address: https://code.google.com/p/radial-menu-widget/  
 Renderings: http://farm8.staticflickr.com/7377/11621125154_d1773c2dcc_o.jpg  
    
@@ -287,12 +287,12 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.ptr.folding.sample
 Renderings: ![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-BK2JH-jrX1sIXVTqciACqRhqFH48hc4pm2Q=h310-rw)  
 
 1. AndroidResideMenu  
-The idea of ResideMenu is from Dribbble 1 and 2 likes iOS ResideMenu   
+The idea of ResideMenu is from Dribbble 1 and 2 likes iOS ResideMenu.   
 Project Address: https://github.com/SpecialCyCi/AndroidResideMenu    
 Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
 
 1. FloatingActionMenu-Animation  
-Extended FloatingActionMenu lib, with custom menu icon, animation when scrolling
+Extended FloatingActionMenu lib, with custom menu icon, animation when scrolling.
 Project Address: https://github.com/toanvc/FloatingActionMenu-Animation  
 Renderings: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
@@ -330,7 +330,7 @@ Project Address: https://github.com/Dreddik/AndroidTouchGallery
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-demo.apk?raw=true    
    
 1. Android Auto Scroll ViewPager  
-Android Auto scroll ViewPager or ViewPager in ViewPager  
+Android Auto scroll ViewPager or ViewPager in ViewPager. 
 Project Address: https://github.com/Trinea/android-auto-scroll-view-pager  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
 Document: https://www.trinea.cn/android/auto-scroll-view-pager/  
@@ -340,7 +340,7 @@ Generic view recycler and ViewPager PagerAdapter implementation.
 Project Address: https://github.com/JakeWharton/salvage  
   
 1. Android PagerSlidingTabStrip  
-An interactive indicator to navigate between the different pages of a ViewPager  
+An interactive indicator to navigate between the different pages of a ViewPager.  
 Project Address: https://github.com/astuetz/PagerSlidingTabStrip  
 Demo Apk: https://play.google.com/store/apps/details?id=com.astuetz.viewpager.extensions.sample  
 
@@ -360,27 +360,27 @@ Project Address: https://github.com/wuyexiong/transparent-over-animtabsview
 Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html    
 
 1. LoopingViewPager
-A ViewPager which support loop scroll
+A ViewPager which support loop scroll.
 Project Address: https://github.com/imbryk/LoopingViewPager
 
 1. android_page_curl
-Paging effect of iReader
+Paging effect of iReader.
 Project Address: https://github.com/harism/android_page_curl
 Demo App:iReader
 Demo: https://www.youtube.com/watch?v=iwu7P5PCpsw
 
 1. ViewPagerIndicator
-A custom ViewPagerIndicator
+A custom ViewPagerIndicator.
 Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. ScreenSlideIndicator
-Lightweight ViewPager Cycle Indicadtor
+Lightweight ViewPager Cycle Indicator.
 Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
 1. ViewPager3D
-A ViewPager with 3D effect
+A ViewPager with 3D effect.
 Project Address: https://github.com/inovex/ViewPager3D
 
 1. AnimaTabsview
@@ -389,21 +389,21 @@ Project Address: https://github.com/wuyexiong/transparent-over-animtabsview
 Demo: http://v.youku.com/v_show/id_XNzA4MjY5NjA0.html
 
 1. LoopingViewPager
-A ViewPager which support loop scroll
+A ViewPager which support loop scroll.
 Project Address: https://github.com/imbryk/LoopingViewPager
 
 1. android_page_curl
-Paging effect of iReader
+Paging effect of iReader.
 Project Address: https://github.com/harism/android_page_curl
 Demo App: iReader
 Demo: https://www.youtube.com/watch?v=iwu7P5PCpsw
 
 1. ViewPagerIndicator
-A custom ViewPagerIndicator
+A custom ViewPagerIndicator.
 Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
 
 1. ScreenSlideIndicator
-Lightweight ViewPager Cycle Indicadtor
+Lightweight ViewPager Cycle Indicadtor.
 Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
@@ -422,26 +422,26 @@ Renderings: ![](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/
 
 #### 5. GridView
 1. StaggeredGridView  
-A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
+A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. Contains cache, extends from ViewGroup.  
 Project Address: https://github.com/maurycyw/StaggeredGridView  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/staggered-gridview-demo.apk?raw=true  
 Similar App: Pinterest  
    
 1. AndroidStaggeredGrid  
-An Android staggered grid view which supports multiple columns with rows of varying sizes. extends from AbsListView  
+An Android staggered grid view which supports multiple columns with rows of varying sizes. Extends from AbsListView.  
 Project Address: https://github.com/etsy/AndroidStaggeredGrid  
 Similar App: Pinterest  
    
 1. PinterestLikeAdapterView  
-An Android multi column list view like Pinterest. allow pull to refresh.  
+An Android multi column list view like Pinterest. Allow pull to refresh.  
 Project Address: https://github.com/GDG-Korea/PinterestLikeAdapterView  
 Similar App: Pinterest  
    
 1. DraggableGridView  
-A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can  swich from up to bottom, If you want switch from left screen to right please use PagedDragDropGrid below  
+A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can  swich from up to bottom, if you want switch from left screen to right please use PagedDragDropGrid below.  
 Project Address: https://github.com/thquinn/DraggableGridView  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
-You can customize the width and height of item,and the count of item each line,You can also customize the padding of line.Default value is 20dp.  
+You can customize the width and height of item , and the count of item each line , you can also customize the padding of line . Default value is 20dp.  
 Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
@@ -458,7 +458,7 @@ Project Address: https://github.com/TonicArtos/StickyGridHeaders
 Renderings: ![Renderings](https://github-camo.global.ssl.fastly.net/90b57e9383704c400706545225d439e057c6fcc0/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d535f4262685758367754592f55517057306377554745492f41414141414141414776552f7a7a4a586a2d50635662592f73313630302f73637265656e2d6c616e6473636170652d736d616c6c65722e706e67)    
 
 1. PagedDragDropGrid  
-An Android ViewGroup that implements a paged grid with drag'n'drop moveable items. It can  swich from left screen to right, If you want switch from up to bottom please use DraggableGridView above   
+An Android ViewGroup that implements a paged grid with drag'n'drop moveable items. It can swich from left screen to right, if you want switch from up to bottom please use DraggableGridView above.   
 Project Address: https://github.com/mrKlar/PagedDragDropGrid  
 Demo视频：http://youtu.be/FYTSRfthSuQ  
 
@@ -490,7 +490,7 @@ Project Address: https://github.com/frapontillo/ImageViewEx
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.apk?raw=true  
    
 1. RoundedImageView  
-A fast ImageView that supports rounded corners and ovals or circles  
+A fast ImageView that supports rounded corners and ovals or circles.
 Project Address: https://github.com/vinc3m1/RoundedImageView  
 Renderings: ![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
 
@@ -501,17 +501,17 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.joooonho
 Renderings: ![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
 
 1. ColorArt  
-iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display  
+iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display.  
 Project Address: https://github.com/MichaelEvans/ColorArt  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/color-art-demo.apk?raw=true  
    
 1. CircleImageView  
-A circular ImageView for Android  
+A circular ImageView for Android. 
 Project Address: https://github.com/hdodenhof/CircleImageView  
 Renderings: ![Renderings](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)  
   
 1. ImageViewZoom  
-Android ImageView widget with zoom and pan capabilities   
+Android ImageView widget with zoom and pan capabilities.   
 Project Address: https://github.com/sephiroth74/ImageViewZoom  
 Similar App: https://play.google.com/store/apps/details?id=com.aviary.android.feather  
   
@@ -527,7 +527,7 @@ Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageVi
 
 #### 7. ProgressBar  
 1. SmoothProgressBar  
-A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar  
+A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar.  
 Project Address: https://github.com/castorflex/SmoothProgressBar  
 Demo Apk: https://play.google.com/store/apps/details?id=fr.castorflex.android.smoothprogressbar.sample  
    
@@ -537,7 +537,7 @@ Project Address: https://github.com/Todd-Davies/ProgressWheel
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/progress-wheel-demo.apk?raw=true  
    
 1. android-square-progressbar  
-A progressbar which go's around an image.  
+A progressbar which goes around an image.  
 Project Address: https://github.com/mrwonderman/android-square-progressbar  
 Demo Apk: https://play.google.com/store/apps/details?id=net.yscs.android.square_progressbar_example  
 Similar App: square  
@@ -561,32 +561,32 @@ Project Address: https://github.com/jpardogo/GoogleProgressBar
 Renderings: ![Renderings](https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif)  
 
 1. TH-ProgressButton  
-Circular progress View button inspired by FFCircularProgressView   
+Circular progress View button inspired by FFCircularProgressView.   
 Project Address: https://github.com/torryharris/TH-ProgressButton    
 Renderings: ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot1.png)      ![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot2.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot3.png)  	![Renderings](https://raw.github.com/Vyshakh-K/TH-ProgressButton/master/screenshots/progressshot4.png)  
 
 1. NumberProgressBar
-ProgressBar with percentage number
+ProgressBar with percentage number.
 Project Address:https://github.com/daimajia/NumberProgressBar
 Renderings: ![Renderings](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)
 
 1. CircularProgressDrawable
-Circular Progress Drawable
+Circular Progress Drawable.
 Project Address:https://github.com/Sefford/CircularProgressDrawable
 Renderings: ![Renderings](https://raw.githubusercontent.com/Sefford/CircularProgressDrawable/master/overshoot.gif)
 
 1. Android-RoundCornerProgressBar
-Android ProgressBar drawing Round Corner
+Android ProgressBar drawing Round Corner.
 Project Address:https://github.com/akexorcist/Android-RoundCornerProgressBar
 Renderings: ![Renderings](https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png)
 
 1. circular-progress-button
-Button could switch to show circular progress
+Button could switch to show circular progress.
 Project Address:https://github.com/dmytrodanylyk/circular-progress-button
 Renderings: ![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)
 
 1. WaveView
-A ProgressBar which showing wave look progress
+A ProgressBar which showing wave look progress.
 Project Address:https://github.com/john990/WaveView
 Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk
 Renderings: ![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)
@@ -607,7 +607,7 @@ Renderings: <br/>
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
 
 1. StackedHorizontalProgressBar
-Stacked dual progress indicator progressbar
+Stacked dual progress indicator progressbar.
 
 Project Address:https://github.com/nisrulz/stackedhorizontalprogressbar
 
@@ -615,30 +615,30 @@ Renderings: </br>
 ![Sc1](https://github.com/nisrulz/stackedhorizontalprogressbar/blob/master/img/sc1.png) 
 
 #### 8. TextView  
-include TextView and other views extend TextView, like EditText, Button, RadioButton and so on  
+Include TextView and other views extend TextView, like EditText, Button, RadioButton and so on.  
 
 1. android-flowtextview  
-A TextView for Android which supports text wrapping around other views  
+A TextView for Android which supports text wrapping around other views.  
 Project Address: https://code.google.com/p/android-flowtextview/  
 Renderings: http://i949.photobucket.com/albums/ad332/vostroman1500/1.png  
   
 1. Android Form EditText  
-Android form edit text is an extension of EditText that brings data validation facilities to the edittext.  
+Android form edit text is an extension of EditText that brings data validation facilities to the edit text.  
 Project Address: https://github.com/vekexasia/android-edittext-validator  
 Demo Apk: https://play.google.com/store/apps/details?id=com.andreabaccega.edittextformexample  
 
 1. Emojicon  
-A library to show emoji in TextView, EditText (like WhatsApp) for Android  
+A library to show emoji in TextView, EditText (like WhatsApp) for Android.  
 Project Address: https://github.com/rockerhieu/emojicon  
 Document: http://rockerhieu.com/emojicon/    
 
 1. android-circlebutton  
-Circle button widget for Android, extend from ImageView actually  
+Circle button widget for Android, extend from ImageView actually.  
 Project Address: https://github.com/markushi/android-circlebutton   
 Demo Apk: https://github.com/markushi/android-circlebutton/blob/master/example/example.apk    
 
 1. Segmented Radio Buttons for Android  
-Android implementation of iPhone's segmented control  
+Android implementation of iPhone's segmented control.  
 Project Address: https://github.com/vinc3m1/android-segmentedradiobutton  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
 Renderings: ![Renderings](https://raw.github.com/vinc3m1/android-segmentedradiobutton/master/screens/segmentedradio.png)  
@@ -653,24 +653,24 @@ A TextView that automatically resizes text to fit perfectly within its bounds.
 Project Address: https://github.com/grantland/android-autofittextview  
 
 1. Shimmer for Android  
-An Android TextView with a shimmering effect  
+An Android TextView with a shimmering effect. 
 Project Address: https://github.com/RomainPiel/Shimmer-android  
 
 1. Titanic   
-Android experiment showing a sinking TextView  
+Android experiment showing a sinking TextView.  
 Project Address: https://github.com/RomainPiel/Titanic    
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. MoneyTextView  
-A TextView used for inputing and adding money  
+A TextView used for inputing and adding money.  
 Project Address: https://github.com/andyken/MoneyTextView  
 Renderings:   
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 9. Others  
 1. youtube-play-icon   
-Material style morphing play-pause icon   
+Material style morphing play-pause icon.   
 Project Address: https://github.com/alxrm/youtube-play-icon   
 Renderings:   
 ![Renderings](https://raw.githubusercontent.com/alxrm/youtube-play-icon/master/art/play.gif)  
@@ -694,7 +694,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.sothree.umano
 Similar App: Wordpress Android，Google Analytics  
    
 1. android-flip  
-A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android  
+A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android.
 Project Address: https://github.com/openaphid/android-flip  
 Demo Apk: https://github.com/openaphid/android-flip/blob/master/FlipView/Demo/APK/Aphid-FlipView-Demo.apk?raw=true  
 Similar App: flipboard  
@@ -705,7 +705,7 @@ Project Address: https://github.com/castorflex/FlipImageView
 Demo Apk: https://play.google.com/store/apps/details?id=fr.castorflex.android.flipimageview  
    
 1. SwipeBackLayout  
-An Android library that help you to build app with swipe back gesture.  
+An Android library that helps you to build app with swipe back gesture.  
 Project Address: https://github.com/Issacw0ng/SwipeBackLayout  
 Demo Apk: https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo  
 Similar App: Zhihu  
@@ -726,7 +726,7 @@ Project Address: https://github.com/inmite/android-styled-dialogs
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
    
 1. Crouton  
-Context sensitive notifications for Android, like toast. include style like alert, comfirm, info  and click to dismiss, allow to set time of diaplay and customed view  
+Context sensitive notifications for Android, like toast. Include style like alert, confirm , info and click to dismiss, allow to set time of display and customed view.  
 Project Address: https://github.com/keyboardsurfer/Crouton  
 Demo Apk: http://play.google.com/store/apps/details?id=de.keyboardsurfer.app.demo.crouton  
    
@@ -736,7 +736,7 @@ Project Address: https://github.com/nhaarman/supertooltips
 Demo Apk: https://play.google.com/store/apps/details?id=com.haarman.supertooltips  
    
 1. Android ViewBadger  
-A simple way to "badge" any given Android view at runtime without having to cater for it in layout  
+A simple way to "badge" any given Android view at runtime without having to cater for it in layout.
 Project Address: https://github.com/jgilfelt/android-viewbadger  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/android-viewbadger.apk?raw=true  
 Renderings: https://github-camo.global.ssl.fastly.net/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67  
@@ -764,12 +764,12 @@ Project Address: https://code.google.com/p/color-picker-view/
 Renderings: ![Renderings](http://oi41.tinypic.com/33c6mm8.jpg)  
    
 1. HoloColorPicker  
-An Android Holo themed colorpicker  
+An Android Holo themed colorpicker.
 Project Address: https://github.com/LarsWerkman/HoloColorPicker  
 Demo Apk: https://docs.google.com/file/d/0BwclyDTlLrdXRzVnTGJvTlRfU2s/edit  
    
 1. AndroidWheel  
-Custom wheel widget for android  
+Custom wheel widget for android.  
 Project Address: https://github.com/sephiroth74/AndroidWheel  
 Renderings: ![Renderings](http://farm6.staticflickr.com/5532/11621528786_220c040ba5_o.jpg)  
    
@@ -779,26 +779,26 @@ Project Address: https://github.com/InQBarna/TableFixHeaders
 Demo Apk: http://bit.ly/13buAIq  
    
 1. UITableView  
-Library and example project on how to use the UITableView component  
+Library and example project on how to use the UITableView component.  
 Project Address: https://github.com/thiagolocatelli/android-uitableview  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/ui-tableview-demo.apk?raw=true  
    
 1. ATableView  
-Create iOS-like tables (UITableView) for Android, using UIKit object model  
+Create iOS-like tables (UITableView) for Android, using UIKit object model.  
 Project Address: https://github.com/dmacosta/ATableView  
 Demo Apk: https://play.google.com/store/apps/details?id=com.nakardo.atableview.demo  
    
 1. UndoBar  
-The UI component for Android advanced UI pattern undo-bar, used in Gmail app  
+The UI component for Android advanced UI pattern undo-bar, used in Gmail app.  
 Project Address: https://github.com/soarcn/UndoBar  
 Renderings: ![Renderings](https://github.com/soarcn/UndoBar/blob/master/art/redo.png?raw=true)  
    
 1. Inscription  
-Inscription is an open source library to display information about your Android app, like info of change or new feature  
+Inscription is an open source library used to display information about your Android app, like info of change or new feature.  
 Project Address: https://github.com/MartinvanZ/Inscription  
    
 1. ActivityTransition  
-An android project presenting some transitions you can use between activities, like fade, flip, fly into and so on  
+An android project presenting some transitions you can use between activities, like fade, flip, fly into and so on. 
 Project Address: https://github.com/ophilbert/ActivityTransition  
 Demo Apk： https://github.com/jfeinstein10/JazzyViewPager/blob/master/JazzyViewPager.apk?raw=true    
    
@@ -814,13 +814,13 @@ Project Address: https://github.com/nadavfima/GlowPadView
 Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
 1. android-lockpattern  
-Lockpattern activity for Android  
+Lockpattern activity for Android.  
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
   
 1. PatternLock  
-Yet another pattern lock library for Android  
+Yet another pattern lock library for Android.  
 Project Address：https://github.com/DreaminginCodeZH/PatternLock  
 Demo Apk：https://github.com/DreaminginCodeZH/PatternLock/raw/master/dist/sample.apk  
 Renderings：![Renderings](https://github.com/DreaminginCodeZH/PatternLock/raw/master/image/sample_small.png)  
@@ -838,7 +838,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=com.supertoastsdemo
 Renderings: ![SuperButtonToast](http://i1331.photobucket.com/albums/w597/JohnPersano/supertoasts_githubimage_zps8a5ceb7c.png)  
 
 1. GoogleDateTimePickers  
-New Google Date and time pickers  
+New Google Date and time pickers.
 Project Address: https://github.com/Mirkoddd/GoogleDateTimePickers  
 Document: https://play.google.com/store/apps/details?id=com.mirko.sample&hl=it  
    
@@ -858,34 +858,34 @@ Project Address: https://bitbucket.org/danielnadeau/holographlibrary/src
 Document: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home  
 
 1. ChromeView  
-Android WebView implementation that uses the latest Chromium code  
+Android WebView implementation that uses the latest Chromium code.  
 Project Address: https://github.com/pwnall/chromeview  
    
 1. Discrollview  
-DiscrollView support Item fading in or out, translate or scale  
+DiscrollView support Item fading in or out, translate or scale.  
 Project Address: https://github.com/flavienlaurent/discrollview   
 Demo Apk: https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
    
 1. Android Slider Preference Library  
-Android library that allows applications to add dialog-based slider widgets to their settings  
+Android library that allows applications to add dialog-based slider widgets to their settings.  
 Project Address: https://github.com/jayschwa/AndroidSliderPreference   
 
 1. ShowcaseView library  
-Highlight the best bits of your app to users quickly  
+Highlight the best bits of your app to users quickly. 
 Project Address: https://github.com/amlcurran/ShowcaseView   
 
 1. android-segmented-control  
-ios7 UISegmentedControl for android  
+ios7 UISegmentedControl for android. 
 Project Address: https://github.com/hoang8f/android-segmented-control   
 
 1. PullScrollView   
-Pull and background rebound effect  
+Pull and background rebound effect.  
 Project Address: https://github.com/MarkMjw/PullScrollView    
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. ArcLayout  
-A very simple arc layout library  
+A very simple arc layout library. 
 Project Address: https://github.com/ogaclejapan/ArcLayout  
 Demo Apk: https://play.google.com/store/apps/details?id=com.ogaclejapan.arclayout.demo  
 Renderings: ![Renderings](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
@@ -903,7 +903,7 @@ Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.yt
 Renderings: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
 
 1. TristateToggleButton
-Customizable tri-state toggle button (with three states, three state toggle) for Android
+Customizable tri-state toggle button (with three states, three state toggle) for Android.
 Project Address: https://github.com/BeppiMenozzi/TriStateToggleButton  
 
 1. Knob
