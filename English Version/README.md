@@ -109,7 +109,6 @@ Demo Apk: https://github.com/yydcdut/SlideAndDragListView/blob/master/apk/sdlv.a
 Similar App: Android 手机QQ 5.0  
 Renderings: ![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDragListView/master/gif/v1.1.gif)  
 
-   
 1. RecyclerViewSwipeDismiss
 lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`
 Project Address：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
