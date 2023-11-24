@@ -4,3 +4,4 @@ Je modifie encore
 je modifie sur git
 je fait une modification concernant l'exercice2
 j'utilise ce texte dans mon devoir
+je modifie étant dans la branche secondaire donc html-skeleton
