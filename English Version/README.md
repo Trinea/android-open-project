@@ -57,7 +57,8 @@ File,
 *Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
 
 ## 1. Personalized Views  
-Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
+Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。
+
 #### 1. ListView  
 1. android-pulltorefresh  
 Provide a reusable Pull to Refresh widget for Android, support ListView, ExpandableListView, GridView, WebView, ScrollView, HorizontalScrollView, ViewPager, support pulling Down from the top, and Pulling Up from the bottom and so on.  
@@ -209,6 +210,7 @@ Project Address: https://github.com/magiepooh/RecyclerItemDecoration
 Renderings: ![Renderings:](https://raw.githubusercontent.com/magiepooh/RecyclerItemDecoration/master/art/demo_vertical.gif) ![Renderings:](https://raw.githubusercontent.com/magiepooh/RecyclerItemDecoration/master/art/demo_horizontal.gif)
 
 #### 2. ActionBar  
+
 1. ActionBarSherlock  
 Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.   
 Project Address: https://github.com/JakeWharton/ActionBarSherlock  
@@ -246,6 +248,7 @@ Similar App: google music
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Menu   
+
 1. MenuDrawer   
 A slide-out menu implementation, which allows users to navigate between views in your app. Most commonly the menu is revealed by either dragging the edge of the screen, or clicking the 'up' button in the action bar. It support content below or up to menu when compare to SlidingMenu.  
 Project Address: https://github.com/SimonVT/android-menudrawer  
@@ -298,6 +301,7 @@ Renderings: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 4. ViewPager Gallery  
+
 1. Android-ViewPagerIndicator  
 Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.   
 Project Address: https://github.com/JakeWharton/Android-ViewPagerIndicator  
@@ -421,6 +425,7 @@ Project Address: [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
 Renderings: ![](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif)
 
 #### 5. GridView
+
 1. StaggeredGridView  
 A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. contains cache, extends from ViewGroup  
 Project Address: https://github.com/maurycyw/StaggeredGridView  
@@ -474,6 +479,7 @@ Renderings：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. ImageView  
+
 1. PhotoView  
 Implementation of ImageView for Android that supports zooming, by various touch gestures, like multi-touch and double-tap. Works perfectly when using used in a scrolling parent (such as ViewPager). Allows the application to be notified when the displayed Matrix has changed. Useful for when you need to update your UI based on the current zoom/scroll position.  
 Project Address: https://github.com/chrisbanes/PhotoView  
@@ -526,6 +532,7 @@ Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageVi
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. ProgressBar  
+
 1. SmoothProgressBar  
 A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar  
 Project Address: https://github.com/castorflex/SmoothProgressBar  
@@ -614,7 +621,8 @@ Project Address:https://github.com/nisrulz/stackedhorizontalprogressbar
 Renderings: </br>
 ![Sc1](https://github.com/nisrulz/stackedhorizontalprogressbar/blob/master/img/sc1.png) 
 
-#### 8. TextView  
+#### 8. TextView 
+
 include TextView and other views extend TextView, like EditText, Button, RadioButton and so on  
 
 1. android-flowtextview  
@@ -669,6 +677,7 @@ Renderings:
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 9. Others  
+
 1. youtube-play-icon   
 Material style morphing play-pause icon   
 Project Address: https://github.com/alxrm/youtube-play-icon   
@@ -923,7 +932,8 @@ Renderings:
 ![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
 
 
-## 2. Common Util Libs  
+## 2. Common Util Libs
+  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
 Speeds up Android development by dependency injection  
