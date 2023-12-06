@@ -1648,6 +1648,12 @@ Material Design 的播放/暂停图标动画，可作为 `Drawable`、`ImageView
 效果图:   
 ![Renderings](https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble/raw/master/preview/sample.gif)  
 
+1. ComposePreference  
+Jetpack Compose 的 preference 实现，易用且可扩展  
+項目地址: https://github.com/zhanghai/ComposePreference   
+效果图:   
+![Renderings](https://github.com/zhanghai/ComposePreference/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true)  
+
 ## 第二部分 工具库
 主要包括那些不错的开发库，包括依赖注入框架、图片缓存、网络请求、数据库 ORM 建模、Android 公共库、Android 高版本向低版本兼容、多媒体相关及其他。  
 
