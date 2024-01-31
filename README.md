@@ -2662,6 +2662,11 @@ APK 地址：https://github.com/socoolby/CoolClock/blob/master/CoolClock.apk
 效果图：  
 <img src="https://raw.githubusercontent.com/socoolby/CoolClock/master/CoolClock.png" width="768" height="382"/><img src="https://raw.githubusercontent.com/socoolby/CoolClock/master/demonstrate.gif" width="320" height="568"/>  
 
+1. Material Files  
+开源的 Material Design 文件管理器，继承 Cabinet 的设计，基于 Java NIO2 文件 API、Linux 系统调用和 LiveData 构建  
+项目地址：https://github.com/zhanghai/MaterialFiles/blob/master/README_zh-CN.md  
+效果图：![](https://github.com/zhanghai/MaterialFiles/raw/master/screenshots/main.png)  
+
 ## 第四部分 开发工具及测试工具
 主要介绍和 Android 开发工具和测试工具相关的开源项目。  
 
