@@ -668,6 +668,12 @@ Project Address: https://github.com/andyken/MoneyTextView
 Renderings:   
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
+1. CodeView  
+Android Library to make it easy to create CodeEditor or IDE that support any languages and themes  
+Project Address: https://github.com/AmrDeveloper/CodeView  
+Renderings:  
+![Renderings](https://raw.githubusercontent.com/AmrDeveloper/CodeView/master/screenshots/java_demo.gif)  
+
 #### 9. Others  
 1. youtube-play-icon   
 Material style morphing play-pause icon.   
