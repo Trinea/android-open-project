@@ -2,6 +2,8 @@ Android 开源项目分类汇总，最新最全版可见 [codekk.com](https://p.
 ====================
 Other: [English Version](https://github.com/Trinea/android-open-project/tree/master/English%20Version), [繁體版](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88), [Website Version](https://p.codekk.com/).    
 
+This is all in chinese i don't understand anything
+
 ### 一、codekk.com 
 <a href="https://codekk.com" target="_blank">codekk.com</a> 收集了数万开源项目。支持最新开源项目查看和自动推送、支持开源项目搜索，欢迎浏览 :)  
 
