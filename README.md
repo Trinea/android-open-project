@@ -5,7 +5,7 @@ Other: [English Version](https://github.com/Trinea/android-open-project/tree/mas
 ### 一、codekk.com 
 <a href="https://codekk.com" target="_blank">codekk.com</a> 收集了数万开源项目。支持最新开源项目查看和自动推送、支持开源项目搜索，欢迎浏览 :)  
 
-
+njebnfjerwnvgkwel;vgmwrklvm
 ### 二、开发助手 App
 开发助手是个强大的开发工具，由 Trinea 从 2017 年初正式对外发布。它能够用来反编译其他应用、查看其他应用布局和控件信息、屏幕取色(颜色取样器)、查看 Activity 历史记录、查看其他应用 Manifest、查看最近使用和最近安装的应用、提取任何应用 Apk 和 So 文件、查看最新开源项目、调试应用、查看手机软硬件信息等，更多功能持续添加中。  
   
