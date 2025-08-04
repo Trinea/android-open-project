@@ -882,6 +882,14 @@ Android加载动画库
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)  
 
+1. ProgressView  
+Android自定义进度加载view  
+项目地址：https://github.com/whatshappen/ProgressView  
+效果图：  
+![Renderings](https://github.com/whatshappen/ProgressView/blob/master/screen_shot/dialogStyle.gif)  
+![Renderings](https://github.com/whatshappen/ProgressView/blob/master/screen_shot/imageProgress.gif)  
+![Renderings](https://github.com/whatshappen/ProgressView/blob/master/screen_shot/linearProgress.gif)  
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
