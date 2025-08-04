@@ -112,6 +112,11 @@ Renderings: ![Renderings](https://raw.githubusercontent.com/yydcdut/SlideAndDrag
 1. RecyclerViewSwipeDismiss
 lightweight support-v7 RecyclerView Swipe to dismiss library，Just bind `onTouchListener`
 Project Address：https://github.com/CodeFalling/RecyclerViewSwipeDismiss
+Renderings: ![Renderings](https://raw.githubusercontent.com/Omega-R/OmegaRecyclerView/master/images/recycler_view.gif)
+
+1. OmegaRecyclerView
+Custom RecyclerView with additional functionality. Allow you add divider, itemSpace, emptyView, sticky header and some other features
+Project Address：https://github.com/Omega-R/OmegaRecyclerView
 Renderings: ![Renderings](http://i2.tietuku.com/a5a1a6fbd300397a.gif)
 
 1. Android-SwipeToDismiss
