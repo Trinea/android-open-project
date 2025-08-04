@@ -2572,6 +2572,13 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 项目地址：https://android.googlesource.com/  
 
 #### 二、项目
+1. Cipher  
+密码记忆助手  
+项目地址：https://github.com/voidful/Cipher  
+APK 地址：https://play.google.com/store/apps/details?id=lamen.cipher  
+效果图：![Start Page](https://lh3.googleusercontent.com/w34ywRoyWveZhpmjVqEPJDTGLPqTBXqqtUhjXd0tj-7LkCueN5AngknqmXcHU8jiCaop=w1914-h953-rw)
+
+
 1. ZXing  
 二维码扫描工具  
 项目地址：https://github.com/zxing/zxing 或 https://code.google.com/p/zxing/  
