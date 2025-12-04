@@ -942,9 +942,7 @@ Demo 地址：https://github.com/kpbird/chips-edittext-library/tree/master/Chips
 类似星球大战字幕效果的 TextView  
 项目地址：https://github.com/frakbot/CreditsRoll  
 
-1. android-process-buton  
-带加载或提交进度的 Button  
-项目地址：https://github.com/dmytrodanylyk/android-process-buton  
+
 
 1. FButton  
 扁平化的 Button  
