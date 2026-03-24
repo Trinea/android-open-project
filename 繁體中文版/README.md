@@ -1,6 +1,7 @@
 Android 開源項目分類匯總，最新最全版可見 [timeshining.com](https://p.timeshining.com/)
 ====================
-Other: [English Version](https://github.com/Trinea/android-open-project/tree/master/English%20Version), [繁體版](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88), [Website Version](https://p.timeshining.com/).    
+
+> Languages: 繁体中文 (current) · [简体中文](../README.zh.md) · [English](../README.md) · [Website Version](https://p.timeshining.com/)
 
 ### 一、timeshining.com 
 <a href="https://timeshining.com" target="_blank">timeshining.com</a> 收集了數萬開源項目。支持最新開源項目查看和自動推送、支持開源項目搜索，歡迎瀏覽 :)  
